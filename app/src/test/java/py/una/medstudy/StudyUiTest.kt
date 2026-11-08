@@ -17,18 +17,18 @@ class StudyUiTest {
     @Test fun navigationThemeAndReviewEntryPointsWork() {
         val model = ViewModelProvider(compose.activity)[StudyModel::class.java]
         compose.waitUntil(20000) { !model.loading && model.cards.value.size == 233 }
-        compose.onNodeWithContentDescription("Ajustes").performClick()
+        compose.onNodeWithText("Ajustes").performClick()
         compose.onNodeWithText("Colores · Verde bosque").performClick()
         compose.onNodeWithText("Azul océano").performClick()
         compose.onNodeWithText("Colores · Azul océano").assertIsDisplayed()
-        compose.onNodeWithContentDescription("Materias").performClick()
+        compose.onNodeWithText("Materias").performClick()
         compose.onNodeWithText("Buscar pregunta, respuesta o tema").performTextInput("pírrica")
         compose.onNodeWithText("1 tarjetas · 1 disponibles").assertExists()
         compose.onNodeWithText("Repasar selección").performClick()
         compose.onNodeWithText("Mostrar respuesta").performScrollTo().performClick()
         compose.onNodeWithText("Pírrica").assertExists()
         compose.onNodeWithText("El resultado nominal es favorable, pero las pérdidas lo vuelven poco provechoso.").assertExists()
-        compose.onNodeWithContentDescription("Progreso").performClick()
+        compose.onNodeWithText("Progreso").performClick()
         compose.onNodeWithText("Tu evolución").assertIsDisplayed()
     }
 }
