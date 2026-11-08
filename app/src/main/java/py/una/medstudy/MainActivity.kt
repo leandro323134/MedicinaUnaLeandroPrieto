@@ -9,6 +9,7 @@ import androidx.activity.compose.setContent
 import androidx.activity.compose.rememberLauncherForActivityResult
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.lazy.LazyListState
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.material.icons.Icons
@@ -117,6 +118,9 @@ fun StudyApp(model: StudyModel = viewModel()) {
     val export = rememberLauncherForActivityResult(ActivityResultContracts.CreateDocument("application/json")) { it?.let { model.export(context, it) } }
     val restore = rememberLauncherForActivityResult(ActivityResultContracts.OpenDocument()) { it?.let { model.restore(context, it) } }
 
+    val contentState = remember(tab, mode) { LazyListState() }
+    val keyboard = androidx.compose.ui.platform.LocalSoftwareKeyboardController.current
+    LaunchedEffect(tab) { keyboard?.hide() }
     val owner = LocalLifecycleOwner.current
     val isStudying = tab == StudyTab.Review && !model.loading &&
         (mode == "Guía" || (mode == "Tarjetas" && current != null) ||
@@ -165,6 +169,7 @@ fun StudyApp(model: StudyModel = viewModel()) {
             }
         ) { padding ->
             LazyColumn(
+                state = contentState,
                 modifier = Modifier.fillMaxSize().padding(padding),
                 contentPadding = PaddingValues(20.dp),
                 verticalArrangement = Arrangement.spacedBy(14.dp),
