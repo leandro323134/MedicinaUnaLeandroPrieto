@@ -1,15 +1,31 @@
-# Medicina UNA (versión inicial)
+# Medicina UNA
 
-Aplicación Android local en Kotlin, Jetpack Compose y Room. Importa paquetes JSON con `formatVersion: 1` y una lista `cards`. Cada tarjeta requiere un `id` estable, `question`, `answer`, `subject`, `unit` y `topic`; `source` y `page` son campos de referencia. La importación ignora IDs existentes y conserva su historial de repasos. Cambiar el texto de una tarjeta existente requiere una migración editorial futura.
+Aplicación Android en Kotlin, Jetpack Compose y Room, compatible con Android 8.0
+o posterior. Guarda el estudio localmente y funciona sin conexión.
 
-El paquete inicial de 27 tarjetas se carga al primer inicio. En `cards/` están los paquetes por materia, y en `app/src/main/assets/starter.json` su unión. Los paquetes se pueden importar nuevamente sin duplicar tarjetas. Room conserva tarjetas, estado FSRS y registro de cada repaso sin conexión.
+La versión 0.2.0 incorpora Inicio, Materias, Estudiar, Progreso y Ajustes;
+tarjetas con explicaciones y dificultad, repetición espaciada FSRS-5,
+simulacros cronometrados con corrección, estadísticas y temas de colores.
+Incluye 233 tarjetas (27 iniciales y 206 añadidas), 206 preguntas de opción
+múltiple y 7 configuraciones de simulacro. El material no representa todavía
+la extracción exhaustiva de todos los documentos del cursillo ni un examen oficial.
 
-La programación usa FSRS-5 con sus parámetros predeterminados y retención objetivo del 90 %. `Otra vez` repite en un minuto; la primera calificación `Difícil` repite en diez minutos. El estado posterior se calcula mediante estabilidad, dificultad y recuperabilidad.
+Se pueden importar paquetes JSON y exportar/restaurar el progreso desde Ajustes.
+Los identificadores estables de tarjetas permiten evitar duplicados. La migración
+de la base de datos de la versión 1 conserva tarjetas y registros anteriores,
+pero instalar una actualización también requiere una firma Android compatible.
 
-Para compilar: abrir el directorio en Android Studio con Android SDK 35 y Gradle 8.7, sincronizar y ejecutar `assembleDebug`. El APK se ubicará en `app/build/outputs/apk/debug/app-debug.apk`.
+El paquete único es `py.una.medstudy`, con nombre Medicina UNA. Se eliminó la
+variante `.estudio` que había generado una segunda aplicación por error.
+La clave de firma de la primera compilación no está disponible: consultar
+[PUBLICAR_APK.md](PUBLICAR_APK.md) antes de intentar reemplazar esa instalación.
 
-También se incluye `.github/workflows/android-apk.yml`. Al subir el contenido de esta carpeta a la raíz de un repositorio de GitHub y ejecutar «Compilar APK Android» en Actions, el APK aparecerá como artefacto `MedicinaUNA-debug-apk`. El proyecto todavía necesita una compilación real y la corrección de cualquier error que esa compilación detecte.
+Para compilar se usan JDK 17, Android SDK 35 y Gradle 8.7:
 
-Los paquetes de `cards/` son un primer conjunto verificado de las páginas indicadas. Falta extraer la totalidad de conocimientos de las unidades extensas de Química y los demás materiales antes de considerar completo el contenido académico.
+```bash
+gradle --no-daemon :app:testDebugUnitTest :app:assembleDebug
+```
 
-Para distribuir la app a otras personas: consulta `PUBLICAR_APK.md`. Se añadió el workflow de APK release firmado `android-release.yml`, con secretos de GitHub para no incluir claves privadas en el código.
+La firma se configura con `APP_DEBUG_KEYSTORE`. El workflow de GitHub verifica
+la huella de la clave y publica `MedicinaUNA-actualizacion.apk`. Las pruebas
+cubren migración, importación, repasos, simulacros, respaldo, rachas y navegación.

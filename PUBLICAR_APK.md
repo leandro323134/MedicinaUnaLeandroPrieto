@@ -1,64 +1,52 @@
-# Medicina UNA: cómo generar un APK para cualquier persona
+# Compilar y actualizar Medicina UNA
 
-La aplicación usa Kotlin / Android. Es compatible con **Android 8.0 o superior** (minSdk 26); **no se puede instalar en iPhone**. Los datos de progreso se guardan localmente en cada teléfono.
+El único identificador de la app es `py.una.medstudy`. El APK se llama
+`MedicinaUNA-actualizacion.apk` y se obtiene en el artefacto
+`MedicinaUNA-debug-apk` de Actions → Compilar APK Android. La compilación
+ejecuta las pruebas antes de preparar el APK.
 
-## Opción rápida: APK de prueba (sin configurar firmas)
+## Compatibilidad con instalaciones anteriores
 
-1. Descomprime el ZIP y sube **todo su contenido** (no una carpeta contenedora) a la raíz de un repositorio de GitHub.
-2. En el repositorio, abre **Actions > Compilar APK Android > Run workflow**.
-3. Descarga el artefacto `MedicinaUNA-debug-apk` y descomprímelo para obtener `app-debug.apk`.
-4. Puedes enviar ese APK a cualquier usuario de Android compatible. El usuario tendrá que aprobar la instalación desde esa fuente.
+Android exige el mismo identificador y la misma clave de firma para actualizar
+una instalación conservando sus datos. También se debe incrementar `versionCode`
+para cada nueva versión distribuida.
 
-**Importante:** esta opción es solo para pruebas. El APK de depuración no está recomendado para una distribución pública duradera: entre compilaciones la clave de firma puede cambiar, lo que impediría actualizar la aplicación sobre la versión anterior.
+El certificado de la primera versión tiene esta huella SHA-256:
+`e89c065d8bbb9167e1806e398b9927978a2deae89cdf00f2d5dee2c088310134`.
+Su clave privada no apareció en los artefactos ni en la configuración de caché
+de la compilación original. El certificado del APK no permite recuperar esa clave.
 
-## Opción recomendada: APK release firmado (para distribución pública)
+La versión 0.2.0 utiliza esta huella:
+`d6f4196df346ad76b899acf646eb6ec7c4f5deb842b8a17529575669b9a2d791`.
+Por esta diferencia, **no se puede instalar encima de la primera versión** salvo
+que se recupere la clave privada original y se firme una compilación con ella.
+Una reinstalación borra los datos locales: respaldarlos antes de desinstalar.
+La primera versión no incluye exportación de progreso; la versión 0.2.0 sí.
 
-Necesitas una **clave privada de firma (.jks)**. Se debe conservar siempre: sin ella no podrás actualizar la app instalada sin desinstalarla (lo que podría borrar el progreso local).
+La entrega anterior llamada Medicina UNA Estudio utilizaba por error
+`py.una.medstudy.estudio`. Ese paquete ya no se genera. Sus datos se pueden
+exportar desde Ajustes e importar en la app corregida antes de quitarla.
 
-### 1. Crear la clave en tu computadora (una sola vez)
+## Conservar la firma de 0.2.0
 
-Si tienes Java JDK instalado, en PowerShell o terminal ejecuta:
+El workflow recupera `.signing/debug.keystore` de la caché existente y comprueba
+su huella antes de compilar. **Una caché puede caducar y no sustituye un respaldo.**
+Si falta la clave, el workflow se detiene; nunca genera automáticamente otra.
 
-```bash
-keytool -genkeypair -v -keystore medicinauna-release.jks -alias medicinauna -keyalg RSA -keysize 3072 -validity 10000
-```
+Si se dispone del archivo original de esa clave, se puede guardar su contenido
+Base64 en el secreto privado de Actions `MEDICINA_SIGNING_KEYSTORE_BASE64` para
+restaurarla. No publicar la clave ni sus contraseñas en el repositorio, registros
+o artefactos. Crear una clave nueva no permite actualizar instalaciones anteriores.
 
-El programa te pedirá contraseña y datos para crear el certificado. Guarda la clave `.jks` y sus contraseñas en un lugar privado, con copia de seguridad. **Nunca subas el archivo .jks al repositorio.**
+Al compilar localmente, definir `APP_DEBUG_KEYSTORE` con la ruta de la misma clave.
+Un APK generado con otra clave local no es una actualización compatible.
 
-### 2. Añadir los secretos a GitHub
+## Comprobación antes de entregar
 
-En el repositorio, abre **Settings > Secrets and variables > Actions > New repository secret**.
+1. Ejecutar las pruebas y compilar el APK.
+2. Verificar paquete, versión y certificado del APK final.
+3. Confirmar compatibilidad con el certificado de la instalación a actualizar.
+4. Probar una actualización en un dispositivo cuando esté disponible.
 
-Crea estos cuatro secretos:
-
-- `ANDROID_KEYSTORE_BASE64`: contenido del archivo `.jks` codificado en Base64.
-- `ANDROID_KEYSTORE_PASSWORD`: contraseña del archivo `.jks`.
-- `ANDROID_KEY_ALIAS`: `medicinauna` (si utilizaste el alias indicado).
-- `ANDROID_KEY_PASSWORD`: contraseña de la clave/alias (puede ser igual a la del archivo).
-
-En **Windows PowerShell**, para copiar la clave en Base64 al portapapeles:
-
-```powershell
-[Convert]::ToBase64String([System.IO.File]::ReadAllBytes((Resolve-Path '.\medicinauna-release.jks'))) | Set-Clipboard
-```
-
-Pega el resultado como **valor del secreto** `ANDROID_KEYSTORE_BASE64`, no en un archivo del repositorio. No pegues esa cadena ni las contraseñas en chats ni en páginas públicas.
-
-### 3. Generar el APK
-
-En **Actions > Generar APK firmado para compartir > Run workflow**, ejecuta la compilación. Descarga el artefacto `MedicinaUNA-APK-para-compartir`; dentro encontrarás `app-release.apk` firmado. Puedes renombrarlo como `MedicinaUNA.apk` para distribuirlo.
-
-Si tienes Android Studio, también puedes usar **Build > Generate Signed Bundle / APK > APK**, generar o seleccionar la clave y compilar una versión *release* localmente.
-
-### 4. Compartirlo
-
-Sube el APK a un sitio de descarga, Google Drive, GitHub Releases o compártelo directamente. Quien lo reciba debe permitir la instalación desde la aplicación que utilizó para abrir el archivo (según su versión de Android). Avisa de que la aplicación no proviene de Play Store.
-
-### 5. Futuras actualizaciones
-
-- Mantén el `applicationId` `py.una.medstudy`.
-- Incrementa `versionCode` en `app/build.gradle.kts` (ej. 1 -> 2).
-- Conserva **exactamente la misma clave de firma** para todas las versiones.
-- Antes de distribuir masivamente, instala y prueba en teléfonos Android reales. **Este proyecto no ha sido compilado o probado todavía en esta entrega.**
-
-Si posteriormente quieres publicarla en Google Play, normalmente necesitarás crear un Android App Bundle (`.aab`) y cumplir sus requisitos de publicación.
+Esta entrega fue compilada y probada automáticamente; no se realizó una
+instalación sobre el teléfono del usuario.
