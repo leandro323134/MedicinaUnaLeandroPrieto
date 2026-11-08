@@ -8,6 +8,9 @@ android {
     }
     // La firma se toma de variables de entorno para no compartir la clave privada.
     signingConfigs {
+        getByName("debug") {
+            System.getenv("APP_DEBUG_KEYSTORE")?.let { storeFile = file(it) }
+        }
         create("releasePublica") {
             val ruta = System.getenv("APP_SIGNING_KEYSTORE")
             if (!ruta.isNullOrBlank()) {

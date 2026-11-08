@@ -9,7 +9,9 @@
       "unit": "Unidad 1: Materia y energía",
       "topic": "Conceptos básicos",
       "source": "Unidad 1 Materia y Energía.pdf",
-      "page": "2"
+      "page": "2",
+      "explanation": "La química relaciona la composición y estructura de las sustancias con sus propiedades y cambios.",
+      "difficulty": 1
     },
     {
       "id": "quí-0002",
@@ -19,7 +21,9 @@
       "unit": "Unidad 1: Materia y energía",
       "topic": "Conceptos básicos",
       "source": "Unidad 1 Materia y Energía.pdf",
-      "page": "2"
+      "page": "2",
+      "explanation": "La masa mide una propiedad de la materia y el volumen describe el espacio que ocupa una muestra.",
+      "difficulty": 1
     },
     {
       "id": "quí-0003",
@@ -29,7 +33,9 @@
       "unit": "Unidad 1: Materia y energía",
       "topic": "Conceptos básicos",
       "source": "Unidad 1 Materia y Energía.pdf",
-      "page": "2"
+      "page": "2",
+      "explanation": "La masa es una magnitud escalar y su unidad base en el Sistema Internacional es el kilogramo.",
+      "difficulty": 1
     },
     {
       "id": "quí-0004",
@@ -39,7 +45,9 @@
       "unit": "Unidad 1: Materia y energía",
       "topic": "Conservación de la materia",
       "source": "Unidad 1 Materia y Energía.pdf",
-      "page": "3"
+      "page": "3",
+      "explanation": "En una reacción química en un sistema cerrado se conservan los átomos y, en la aproximación habitual, la masa total.",
+      "difficulty": 1
     },
     {
       "id": "quí-0005",
@@ -49,7 +57,9 @@
       "unit": "Unidad 1: Materia y energía",
       "topic": "Conservación de la materia",
       "source": "Unidad 1 Materia y Energía.pdf",
-      "page": "3"
+      "page": "3",
+      "explanation": "A la izquierda hay dos átomos de magnesio y dos de oxígeno. A la derecha, dos unidades de MgO contienen esos mismos totales.",
+      "difficulty": 1
     },
     {
       "id": "quí-0006",
@@ -59,7 +69,9 @@
       "unit": "Unidad 2: Estructura atómica",
       "topic": "Leyes ponderales",
       "source": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
-      "page": "2"
+      "page": "2",
+      "explanation": "Para un compuesto puro de composición definida, la proporción en masa de sus elementos es característica.",
+      "difficulty": 1
     },
     {
       "id": "quí-0007",
@@ -69,7 +81,9 @@
       "unit": "Unidad 2: Estructura atómica",
       "topic": "Leyes ponderales",
       "source": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
-      "page": "2"
+      "page": "2",
+      "explanation": "Por ejemplo, CO y CO₂ contienen masas de oxígeno en relación 1 a 2 si se fija una misma masa de carbono.",
+      "difficulty": 1
     },
     {
       "id": "quí-0008",
@@ -79,7 +93,9 @@
       "unit": "Unidad 5: Reacciones",
       "topic": "Reacciones químicas",
       "source": "Unidad 5 Reacciones.pdf",
-      "page": "2"
+      "page": "2",
+      "explanation": "En una reacción se reorganizan átomos mediante la ruptura y formación de enlaces químicos.",
+      "difficulty": 1
     },
     {
       "id": "quí-0009",
@@ -89,7 +105,9 @@
       "unit": "Unidad 5: Reacciones",
       "topic": "Reacciones químicas",
       "source": "Unidad 5 Reacciones.pdf",
-      "page": "2"
+      "page": "2",
+      "explanation": "Los reactivos se escriben a la izquierda de la flecha y se transforman a medida que avanza la reacción.",
+      "difficulty": 1
     },
     {
       "id": "quí-0010",
@@ -99,7 +117,9 @@
       "unit": "Unidad 5: Reacciones",
       "topic": "Reacciones químicas",
       "source": "Unidad 5 Reacciones.pdf",
-      "page": "2"
+      "page": "2",
+      "explanation": "Los productos se escriben a la derecha de la flecha de la ecuación química.",
+      "difficulty": 1
     },
     {
       "id": "bio-0011",
@@ -109,7 +129,9 @@
       "unit": "Capítulo 1: Célula y biología molecular",
       "topic": "Teoría celular",
       "source": "CAPÍTULO 1.pdf",
-      "page": "3"
+      "page": "3",
+      "explanation": "Estos principios vinculan la organización de los seres vivos con la continuidad de las células a través de la división.",
+      "difficulty": 1
     },
     {
       "id": "bio-0012",
@@ -119,7 +141,9 @@
       "unit": "Capítulo 1: Célula y biología molecular",
       "topic": "Teoría celular",
       "source": "CAPÍTULO 1.pdf",
-      "page": "3"
+      "page": "3",
+      "explanation": "La afirmación resume la continuidad celular. Las nuevas células provienen de la división de células existentes.",
+      "difficulty": 1
     },
     {
       "id": "bio-0013",
@@ -129,7 +153,9 @@
       "unit": "Capítulo 1: Célula y biología molecular",
       "topic": "Funciones celulares",
       "source": "CAPÍTULO 1.pdf",
-      "page": "4"
+      "page": "4",
+      "explanation": "La apoptosis es un proceso regulado que participa tanto en el desarrollo normal como en la eliminación de células.",
+      "difficulty": 1
     },
     {
       "id": "bio-0014",
@@ -139,7 +165,9 @@
       "unit": "Capítulo 1: Célula y biología molecular",
       "topic": "Genética celular",
       "source": "CAPÍTULO 1.pdf",
-      "page": "5"
+      "page": "5",
+      "explanation": "Una mutación puede transmitirse a células descendientes. Su transmisión a descendientes del organismo depende de que afecte la línea germinal.",
+      "difficulty": 1
     },
     {
       "id": "bio-0015",
@@ -149,7 +177,9 @@
       "unit": "Capítulo 1: Célula y biología molecular",
       "topic": "División celular",
       "source": "CAPÍTULO 1.pdf",
-      "page": "6"
+      "page": "6",
+      "explanation": "La meiosis incluye dos divisiones tras una replicación del ADN. En la mitosis, la división nuclear conserva habitualmente la dotación cromosómica.",
+      "difficulty": 1
     },
     {
       "id": "bio-0016",
@@ -159,7 +189,9 @@
       "unit": "Capítulo 1: Célula y biología molecular",
       "topic": "Metabolismo",
       "source": "CAPÍTULO 1.pdf",
-      "page": "7"
+      "page": "7",
+      "explanation": "Las reacciones del metabolismo se organizan en rutas y están reguladas por las necesidades celulares.",
+      "difficulty": 1
     },
     {
       "id": "bio-0017",
@@ -169,7 +201,9 @@
       "unit": "Capítulo 1: Célula y biología molecular",
       "topic": "Metabolismo",
       "source": "CAPÍTULO 1.pdf",
-      "page": "7"
+      "page": "7",
+      "explanation": "Las rutas anabólicas suelen requerir energía. Las catabólicas pueden conservar parte de la energía liberada en ATP o transportadores reducidos.",
+      "difficulty": 1
     },
     {
       "id": "bio-0018",
@@ -179,7 +213,9 @@
       "unit": "Capítulo 3: Enzimas y metabolismo",
       "topic": "Enzimas",
       "source": "CAPÍTULO 3.pdf",
-      "page": "1"
+      "page": "1",
+      "explanation": "El catalizador facilita una ruta alternativa para alcanzar el estado de transición.",
+      "difficulty": 1
     },
     {
       "id": "bio-0019",
@@ -189,7 +225,9 @@
       "unit": "Capítulo 3: Enzimas y metabolismo",
       "topic": "Enzimas",
       "source": "CAPÍTULO 3.pdf",
-      "page": "1"
+      "page": "1",
+      "explanation": "Las enzimas aceleran tanto la reacción directa como la inversa. La constante de equilibrio depende de la termodinámica de la reacción.",
+      "difficulty": 1
     },
     {
       "id": "mat-0020",
@@ -199,7 +237,9 @@
       "unit": "Guía 1: Álgebra",
       "topic": "Expresiones algebraicas",
       "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
-      "page": "1"
+      "page": "1",
+      "explanation": "Las letras representan cantidades variables o desconocidas. Por ejemplo, 3x + 2 es una expresión algebraica.",
+      "difficulty": 1
     },
     {
       "id": "mat-0021",
@@ -209,7 +249,9 @@
       "unit": "Guía 1: Álgebra",
       "topic": "Expresiones algebraicas",
       "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
-      "page": "1"
+      "page": "1",
+      "explanation": "En el monomio 4x²y³, el grado absoluto es 2 + 3 = 5. El coeficiente no contribuye al grado.",
+      "difficulty": 1
     },
     {
       "id": "mat-0022",
@@ -219,7 +261,9 @@
       "unit": "Guía 1: Álgebra",
       "topic": "Expresiones algebraicas",
       "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
-      "page": "1"
+      "page": "1",
+      "explanation": "En 4x²y³, el grado relativo en x es 2 y en y es 3.",
+      "difficulty": 1
     },
     {
       "id": "mat-0023",
@@ -229,7 +273,9 @@
       "unit": "Guía 1: Álgebra",
       "topic": "Exponentes",
       "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
-      "page": "1"
+      "page": "1",
+      "explanation": "Por ejemplo, x² · x³ contiene cinco factores x, por lo que se escribe x⁵.",
+      "difficulty": 1
     },
     {
       "id": "len-0024",
@@ -239,7 +285,9 @@
       "unit": "Precisión semántica",
       "topic": "Vocabulario preciso",
       "source": "1000123493.jpg",
-      "page": "imagen 1"
+      "page": "imagen 1",
+      "explanation": "El sustantivo elegido debe nombrar el objeto o concepto específico que requiere la oración.",
+      "difficulty": 1
     },
     {
       "id": "len-0025",
@@ -249,7 +297,9 @@
       "unit": "Precisión semántica",
       "topic": "Verbos precisos",
       "source": "1000123494.jpg",
-      "page": "imagen 2"
+      "page": "imagen 2",
+      "explanation": "La elección depende de la acción concreta. Por ejemplo, hacer un informe puede precisarse como redactar un informe.",
+      "difficulty": 1
     },
     {
       "id": "len-0026",
@@ -259,7 +309,9 @@
       "unit": "Precisión semántica",
       "topic": "Verbos precisos",
       "source": "1000123494.jpg",
-      "page": "imagen 2"
+      "page": "imagen 2",
+      "explanation": "Las palabras pueden compartir parte de su significado sin admitir las mismas combinaciones ni el mismo registro.",
+      "difficulty": 1
     },
     {
       "id": "len-0027",
@@ -269,7 +321,9 @@
       "unit": "Precisión semántica",
       "topic": "Adjetivos",
       "source": "1000123495.jpg",
-      "page": "imagen 3"
+      "page": "imagen 3",
+      "explanation": "Solvente indica que una persona tiene capacidad para cumplir sus obligaciones económicas. En ese contexto se vincula con el pago de deudas.",
+      "difficulty": 1
     }
   ]
 }

@@ -128,6 +128,19 @@ class StudyRepositoryTest {
         assertTrue(exams.all { it.questions.isNotEmpty() })
     }
 
+    @Test fun largeImportKeepsIdsAndAvoidsDuplicates() = runBlocking {
+        val cards = org.json.JSONArray()
+        repeat(1200) { i ->
+            cards.put(org.json.JSONObject().put("id", "large-$i").put("question", "Pregunta $i")
+                .put("answer", "Respuesta $i").put("subject", "Materia")
+                .put("unit", "Unidad ${i / 100}").put("topic", "Tema ${i / 10}"))
+        }
+        val text = org.json.JSONObject().put("formatVersion", 1).put("cards", cards).toString()
+        assertEquals(1200, repository.importCards(text))
+        assertEquals(0, repository.importCards(text))
+        assertEquals(1200, repository.dao.allCards().size)
+    }
+
     @Test fun streakHandlesYesterdayAndMissingDays() {
         val today = LocalDate.of(2026, 11, 8)
         assertEquals(2, streak(setOf(today.minusDays(1), today.minusDays(2)), today))

@@ -9,6 +9,8 @@ on:
 jobs:
   apk:
     runs-on: ubuntu-latest
+    env:
+      APP_DEBUG_KEYSTORE: ${{ github.workspace }}/.signing/debug.keystore
     permissions:
       contents: read
     steps:
@@ -25,8 +27,14 @@ jobs:
           gradle-version: '8.7'
       - uses: actions/cache@v4
         with:
-          path: ~/.android/debug.keystore
+          path: .signing/debug.keystore
           key: medicina-debug-signing-v2
+      - name: Preparar firma de pruebas
+        run: |
+          mkdir -p .signing
+          if [ ! -f "$APP_DEBUG_KEYSTORE" ]; then
+            keytool -genkeypair -keystore "$APP_DEBUG_KEYSTORE" -storepass android -alias androiddebugkey -keypass android -keyalg RSA -keysize 2048 -validity 10000 -dname "CN=Android Debug,O=Android,C=US"
+          fi
       - name: Compilar y probar
         run: gradle --no-daemon :app:testDebugUnitTest :app:assembleDebug
       - name: Preparar ambas instalaciones
