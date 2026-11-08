@@ -100,7 +100,7 @@ class MainActivity:ComponentActivity(){override fun onCreate(savedInstanceState:
     val subset=cards.filter{(subject==null||it.subject==subject)&&(unit==null||it.unit==unit)&&(topic==null||it.topic==topic)}
     val now=System.currentTimeMillis();val due=subset.filter { (state[it.id]?.due ?: 0L)<=now }
     val current=due.firstOrNull()
-    MaterialTheme { Scaffold(topBar={TopAppBar(title={Text(if(reviewing) "Repaso" else topic?:unit?:subject?:"Medicina UNA")},navigationIcon={if(reviewing||subject!=null) TextButton(onClick={when {reviewing->{reviewing=false;revealed=false};topic!=null->topic=null;unit!=null->unit=null;else->subject=null}}){Text("Atrás")}}}){padding->
+    MaterialTheme { Scaffold(topBar={TopAppBar(title={Text(if(reviewing) "Repaso" else topic?:unit?:subject?:"Medicina UNA")},navigationIcon={if(reviewing||subject!=null) TextButton(onClick={when {reviewing->{reviewing=false;revealed=false};topic!=null->topic=null;unit!=null->unit=null;else->subject=null}}){Text("Atrás")}})}){padding->
         Column(Modifier.fillMaxSize().padding(padding).padding(16.dp),verticalArrangement=Arrangement.spacedBy(12.dp)) {
             if(model.notice.isNotEmpty()) Text(model.notice)
             if(reviewing){
