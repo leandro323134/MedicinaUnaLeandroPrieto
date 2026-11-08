@@ -1,0 +1,275 @@
+{
+  "formatVersion": 1,
+  "cards": [
+    {
+      "id": "quí-0001",
+      "question": "¿Qué estudia la química?",
+      "answer": "La composición de la materia y sus transformaciones.",
+      "subject": "Química",
+      "unit": "Unidad 1: Materia y energía",
+      "topic": "Conceptos básicos",
+      "source": "Unidad 1 Materia y Energía.pdf",
+      "page": "2"
+    },
+    {
+      "id": "quí-0002",
+      "question": "¿Qué es la materia?",
+      "answer": "Todo lo que tiene masa y ocupa un lugar en el espacio.",
+      "subject": "Química",
+      "unit": "Unidad 1: Materia y energía",
+      "topic": "Conceptos básicos",
+      "source": "Unidad 1 Materia y Energía.pdf",
+      "page": "2"
+    },
+    {
+      "id": "quí-0003",
+      "question": "¿Qué mide la masa de un cuerpo?",
+      "answer": "La cantidad de materia que tiene.",
+      "subject": "Química",
+      "unit": "Unidad 1: Materia y energía",
+      "topic": "Conceptos básicos",
+      "source": "Unidad 1 Materia y Energía.pdf",
+      "page": "2"
+    },
+    {
+      "id": "quí-0004",
+      "question": "¿Qué establece la ley de conservación de la materia?",
+      "answer": "La masa total de un sistema material permanece constante durante cambios físicos o químicos.",
+      "subject": "Química",
+      "unit": "Unidad 1: Materia y energía",
+      "topic": "Conservación de la materia",
+      "source": "Unidad 1 Materia y Energía.pdf",
+      "page": "3"
+    },
+    {
+      "id": "quí-0005",
+      "question": "En la ecuación 2 Mg + O₂ → 2 MgO, ¿por qué hay un 2 delante del Mg y del MgO?",
+      "answer": "Para conservar el mismo número de átomos de Mg y O a ambos lados de la ecuación.",
+      "subject": "Química",
+      "unit": "Unidad 1: Materia y energía",
+      "topic": "Conservación de la materia",
+      "source": "Unidad 1 Materia y Energía.pdf",
+      "page": "3"
+    },
+    {
+      "id": "quí-0006",
+      "question": "¿Qué establece la ley de las proporciones constantes?",
+      "answer": "Los elementos de un compuesto dado se combinan siempre en la misma proporción de masas.",
+      "subject": "Química",
+      "unit": "Unidad 2: Estructura atómica",
+      "topic": "Leyes ponderales",
+      "source": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
+      "page": "2"
+    },
+    {
+      "id": "quí-0007",
+      "question": "¿Qué establece la ley de las proporciones múltiples?",
+      "answer": "Si dos elementos forman más de un compuesto, al fijar la masa de uno, las masas del otro guardan relaciones de números enteros sencillos.",
+      "subject": "Química",
+      "unit": "Unidad 2: Estructura atómica",
+      "topic": "Leyes ponderales",
+      "source": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
+      "page": "2"
+    },
+    {
+      "id": "quí-0008",
+      "question": "¿Qué es una reacción química?",
+      "answer": "Un proceso en que uno o más reactivos se transforman en sustancias diferentes llamadas productos.",
+      "subject": "Química",
+      "unit": "Unidad 5: Reacciones",
+      "topic": "Reacciones químicas",
+      "source": "Unidad 5 Reacciones.pdf",
+      "page": "2"
+    },
+    {
+      "id": "quí-0009",
+      "question": "¿Cómo se llaman las sustancias presentes antes de una reacción?",
+      "answer": "Reactivos.",
+      "subject": "Química",
+      "unit": "Unidad 5: Reacciones",
+      "topic": "Reacciones químicas",
+      "source": "Unidad 5 Reacciones.pdf",
+      "page": "2"
+    },
+    {
+      "id": "quí-0010",
+      "question": "¿Cómo se llaman las sustancias que se forman en una reacción?",
+      "answer": "Productos.",
+      "subject": "Química",
+      "unit": "Unidad 5: Reacciones",
+      "topic": "Reacciones químicas",
+      "source": "Unidad 5 Reacciones.pdf",
+      "page": "2"
+    },
+    {
+      "id": "bio-0011",
+      "question": "¿Cuáles son los tres principios básicos de la teoría celular?",
+      "answer": "Todos los organismos están formados por células; la célula es la unidad estructural de la vida; toda célula procede de otra célula preexistente.",
+      "subject": "Biología",
+      "unit": "Capítulo 1: Célula y biología molecular",
+      "topic": "Teoría celular",
+      "source": "CAPÍTULO 1.pdf",
+      "page": "3"
+    },
+    {
+      "id": "bio-0012",
+      "question": "¿Quién estableció que toda célula procede de otra célula preexistente?",
+      "answer": "Rudolf Virchow.",
+      "subject": "Biología",
+      "unit": "Capítulo 1: Célula y biología molecular",
+      "topic": "Teoría celular",
+      "source": "CAPÍTULO 1.pdf",
+      "page": "3"
+    },
+    {
+      "id": "bio-0013",
+      "question": "¿Qué es la apoptosis?",
+      "answer": "La muerte celular programada, que elimina células innecesarias o dañadas.",
+      "subject": "Biología",
+      "unit": "Capítulo 1: Célula y biología molecular",
+      "topic": "Funciones celulares",
+      "source": "CAPÍTULO 1.pdf",
+      "page": "4"
+    },
+    {
+      "id": "bio-0014",
+      "question": "¿Qué es una mutación?",
+      "answer": "Un cambio permanente y heredable en la información genética.",
+      "subject": "Biología",
+      "unit": "Capítulo 1: Célula y biología molecular",
+      "topic": "Genética celular",
+      "source": "CAPÍTULO 1.pdf",
+      "page": "5"
+    },
+    {
+      "id": "bio-0015",
+      "question": "¿Cuántas células hijas produce generalmente la mitosis y cuántas la meiosis?",
+      "answer": "La mitosis produce dos y la meiosis cuatro.",
+      "subject": "Biología",
+      "unit": "Capítulo 1: Célula y biología molecular",
+      "topic": "División celular",
+      "source": "CAPÍTULO 1.pdf",
+      "page": "6"
+    },
+    {
+      "id": "bio-0016",
+      "question": "¿Qué es el metabolismo?",
+      "answer": "El conjunto de reacciones químicas que ocurren en una célula.",
+      "subject": "Biología",
+      "unit": "Capítulo 1: Célula y biología molecular",
+      "topic": "Metabolismo",
+      "source": "CAPÍTULO 1.pdf",
+      "page": "7"
+    },
+    {
+      "id": "bio-0017",
+      "question": "¿Qué diferencia hay entre anabolismo y catabolismo?",
+      "answer": "El anabolismo construye moléculas complejas; el catabolismo degrada moléculas y libera energía.",
+      "subject": "Biología",
+      "unit": "Capítulo 1: Célula y biología molecular",
+      "topic": "Metabolismo",
+      "source": "CAPÍTULO 1.pdf",
+      "page": "7"
+    },
+    {
+      "id": "bio-0018",
+      "question": "¿Qué hacen las enzimas con la energía de activación?",
+      "answer": "La disminuyen y así aceleran la reacción.",
+      "subject": "Biología",
+      "unit": "Capítulo 3: Enzimas y metabolismo",
+      "topic": "Enzimas",
+      "source": "CAPÍTULO 3.pdf",
+      "page": "1"
+    },
+    {
+      "id": "bio-0019",
+      "question": "¿Las enzimas cambian el equilibrio químico de una reacción?",
+      "answer": "No. Aceleran la reacción, pero no modifican su equilibrio químico.",
+      "subject": "Biología",
+      "unit": "Capítulo 3: Enzimas y metabolismo",
+      "topic": "Enzimas",
+      "source": "CAPÍTULO 3.pdf",
+      "page": "1"
+    },
+    {
+      "id": "mat-0020",
+      "question": "¿Qué es una expresión algebraica?",
+      "answer": "Una combinación de números y letras unidas por operaciones.",
+      "subject": "Matemática",
+      "unit": "Guía 1: Álgebra",
+      "topic": "Expresiones algebraicas",
+      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "page": "1"
+    },
+    {
+      "id": "mat-0021",
+      "question": "¿Qué es el grado absoluto de un término algebraico?",
+      "answer": "La suma de los exponentes de sus variables.",
+      "subject": "Matemática",
+      "unit": "Guía 1: Álgebra",
+      "topic": "Expresiones algebraicas",
+      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "page": "1"
+    },
+    {
+      "id": "mat-0022",
+      "question": "¿Qué es el grado relativo respecto de una variable?",
+      "answer": "El exponente de esa variable en el término.",
+      "subject": "Matemática",
+      "unit": "Guía 1: Álgebra",
+      "topic": "Expresiones algebraicas",
+      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "page": "1"
+    },
+    {
+      "id": "mat-0023",
+      "question": "¿Cómo se multiplican potencias de igual base?",
+      "answer": "Se conserva la base y se suman los exponentes: aⁿ·aᵐ = aⁿ⁺ᵐ.",
+      "subject": "Matemática",
+      "unit": "Guía 1: Álgebra",
+      "topic": "Exponentes",
+      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "page": "1"
+    },
+    {
+      "id": "len-0024",
+      "question": "¿Qué se busca al sustituir «cosa» por un sustantivo más preciso?",
+      "answer": "Nombrar exactamente la idea según el contexto y evitar un término demasiado general.",
+      "subject": "Lenguaje y Comunicación",
+      "unit": "Precisión semántica",
+      "topic": "Vocabulario preciso",
+      "source": "1000123493.jpg",
+      "page": "imagen 1"
+    },
+    {
+      "id": "len-0025",
+      "question": "¿Qué mejora una sustitución contextual de «hacer», «tener» o «haber»?",
+      "answer": "La precisión del significado del verbo en la oración.",
+      "subject": "Lenguaje y Comunicación",
+      "unit": "Precisión semántica",
+      "topic": "Verbos precisos",
+      "source": "1000123494.jpg",
+      "page": "imagen 2"
+    },
+    {
+      "id": "len-0026",
+      "question": "¿Por qué un sinónimo no sirve automáticamente en cualquier oración?",
+      "answer": "Porque debe conservar el significado y encajar en el contexto.",
+      "subject": "Lenguaje y Comunicación",
+      "unit": "Precisión semántica",
+      "topic": "Verbos precisos",
+      "source": "1000123494.jpg",
+      "page": "imagen 2"
+    },
+    {
+      "id": "len-0027",
+      "question": "¿Qué adjetivo describe a una persona que paga con prontitud lo que debe?",
+      "answer": "Solvente.",
+      "subject": "Lenguaje y Comunicación",
+      "unit": "Precisión semántica",
+      "topic": "Adjetivos",
+      "source": "1000123495.jpg",
+      "page": "imagen 3"
+    }
+  ]
+}

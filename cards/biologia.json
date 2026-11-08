@@ -1,0 +1,95 @@
+{
+  "formatVersion": 1,
+  "cards": [
+    {
+      "id": "bio-0011",
+      "question": "¿Cuáles son los tres principios básicos de la teoría celular?",
+      "answer": "Todos los organismos están formados por células; la célula es la unidad estructural de la vida; toda célula procede de otra célula preexistente.",
+      "subject": "Biología",
+      "unit": "Capítulo 1: Célula y biología molecular",
+      "topic": "Teoría celular",
+      "source": "CAPÍTULO 1.pdf",
+      "page": "3"
+    },
+    {
+      "id": "bio-0012",
+      "question": "¿Quién estableció que toda célula procede de otra célula preexistente?",
+      "answer": "Rudolf Virchow.",
+      "subject": "Biología",
+      "unit": "Capítulo 1: Célula y biología molecular",
+      "topic": "Teoría celular",
+      "source": "CAPÍTULO 1.pdf",
+      "page": "3"
+    },
+    {
+      "id": "bio-0013",
+      "question": "¿Qué es la apoptosis?",
+      "answer": "La muerte celular programada, que elimina células innecesarias o dañadas.",
+      "subject": "Biología",
+      "unit": "Capítulo 1: Célula y biología molecular",
+      "topic": "Funciones celulares",
+      "source": "CAPÍTULO 1.pdf",
+      "page": "4"
+    },
+    {
+      "id": "bio-0014",
+      "question": "¿Qué es una mutación?",
+      "answer": "Un cambio permanente y heredable en la información genética.",
+      "subject": "Biología",
+      "unit": "Capítulo 1: Célula y biología molecular",
+      "topic": "Genética celular",
+      "source": "CAPÍTULO 1.pdf",
+      "page": "5"
+    },
+    {
+      "id": "bio-0015",
+      "question": "¿Cuántas células hijas produce generalmente la mitosis y cuántas la meiosis?",
+      "answer": "La mitosis produce dos y la meiosis cuatro.",
+      "subject": "Biología",
+      "unit": "Capítulo 1: Célula y biología molecular",
+      "topic": "División celular",
+      "source": "CAPÍTULO 1.pdf",
+      "page": "6"
+    },
+    {
+      "id": "bio-0016",
+      "question": "¿Qué es el metabolismo?",
+      "answer": "El conjunto de reacciones químicas que ocurren en una célula.",
+      "subject": "Biología",
+      "unit": "Capítulo 1: Célula y biología molecular",
+      "topic": "Metabolismo",
+      "source": "CAPÍTULO 1.pdf",
+      "page": "7"
+    },
+    {
+      "id": "bio-0017",
+      "question": "¿Qué diferencia hay entre anabolismo y catabolismo?",
+      "answer": "El anabolismo construye moléculas complejas; el catabolismo degrada moléculas y libera energía.",
+      "subject": "Biología",
+      "unit": "Capítulo 1: Célula y biología molecular",
+      "topic": "Metabolismo",
+      "source": "CAPÍTULO 1.pdf",
+      "page": "7"
+    },
+    {
+      "id": "bio-0018",
+      "question": "¿Qué hacen las enzimas con la energía de activación?",
+      "answer": "La disminuyen y así aceleran la reacción.",
+      "subject": "Biología",
+      "unit": "Capítulo 3: Enzimas y metabolismo",
+      "topic": "Enzimas",
+      "source": "CAPÍTULO 3.pdf",
+      "page": "1"
+    },
+    {
+      "id": "bio-0019",
+      "question": "¿Las enzimas cambian el equilibrio químico de una reacción?",
+      "answer": "No. Aceleran la reacción, pero no modifican su equilibrio químico.",
+      "subject": "Biología",
+      "unit": "Capítulo 3: Enzimas y metabolismo",
+      "topic": "Enzimas",
+      "source": "CAPÍTULO 3.pdf",
+      "page": "1"
+    }
+  ]
+}

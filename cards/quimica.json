@@ -1,0 +1,105 @@
+{
+  "formatVersion": 1,
+  "cards": [
+    {
+      "id": "quí-0001",
+      "question": "¿Qué estudia la química?",
+      "answer": "La composición de la materia y sus transformaciones.",
+      "subject": "Química",
+      "unit": "Unidad 1: Materia y energía",
+      "topic": "Conceptos básicos",
+      "source": "Unidad 1 Materia y Energía.pdf",
+      "page": "2"
+    },
+    {
+      "id": "quí-0002",
+      "question": "¿Qué es la materia?",
+      "answer": "Todo lo que tiene masa y ocupa un lugar en el espacio.",
+      "subject": "Química",
+      "unit": "Unidad 1: Materia y energía",
+      "topic": "Conceptos básicos",
+      "source": "Unidad 1 Materia y Energía.pdf",
+      "page": "2"
+    },
+    {
+      "id": "quí-0003",
+      "question": "¿Qué mide la masa de un cuerpo?",
+      "answer": "La cantidad de materia que tiene.",
+      "subject": "Química",
+      "unit": "Unidad 1: Materia y energía",
+      "topic": "Conceptos básicos",
+      "source": "Unidad 1 Materia y Energía.pdf",
+      "page": "2"
+    },
+    {
+      "id": "quí-0004",
+      "question": "¿Qué establece la ley de conservación de la materia?",
+      "answer": "La masa total de un sistema material permanece constante durante cambios físicos o químicos.",
+      "subject": "Química",
+      "unit": "Unidad 1: Materia y energía",
+      "topic": "Conservación de la materia",
+      "source": "Unidad 1 Materia y Energía.pdf",
+      "page": "3"
+    },
+    {
+      "id": "quí-0005",
+      "question": "En la ecuación 2 Mg + O₂ → 2 MgO, ¿por qué hay un 2 delante del Mg y del MgO?",
+      "answer": "Para conservar el mismo número de átomos de Mg y O a ambos lados de la ecuación.",
+      "subject": "Química",
+      "unit": "Unidad 1: Materia y energía",
+      "topic": "Conservación de la materia",
+      "source": "Unidad 1 Materia y Energía.pdf",
+      "page": "3"
+    },
+    {
+      "id": "quí-0006",
+      "question": "¿Qué establece la ley de las proporciones constantes?",
+      "answer": "Los elementos de un compuesto dado se combinan siempre en la misma proporción de masas.",
+      "subject": "Química",
+      "unit": "Unidad 2: Estructura atómica",
+      "topic": "Leyes ponderales",
+      "source": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
+      "page": "2"
+    },
+    {
+      "id": "quí-0007",
+      "question": "¿Qué establece la ley de las proporciones múltiples?",
+      "answer": "Si dos elementos forman más de un compuesto, al fijar la masa de uno, las masas del otro guardan relaciones de números enteros sencillos.",
+      "subject": "Química",
+      "unit": "Unidad 2: Estructura atómica",
+      "topic": "Leyes ponderales",
+      "source": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
+      "page": "2"
+    },
+    {
+      "id": "quí-0008",
+      "question": "¿Qué es una reacción química?",
+      "answer": "Un proceso en que uno o más reactivos se transforman en sustancias diferentes llamadas productos.",
+      "subject": "Química",
+      "unit": "Unidad 5: Reacciones",
+      "topic": "Reacciones químicas",
+      "source": "Unidad 5 Reacciones.pdf",
+      "page": "2"
+    },
+    {
+      "id": "quí-0009",
+      "question": "¿Cómo se llaman las sustancias presentes antes de una reacción?",
+      "answer": "Reactivos.",
+      "subject": "Química",
+      "unit": "Unidad 5: Reacciones",
+      "topic": "Reacciones químicas",
+      "source": "Unidad 5 Reacciones.pdf",
+      "page": "2"
+    },
+    {
+      "id": "quí-0010",
+      "question": "¿Cómo se llaman las sustancias que se forman en una reacción?",
+      "answer": "Productos.",
+      "subject": "Química",
+      "unit": "Unidad 5: Reacciones",
+      "topic": "Reacciones químicas",
+      "source": "Unidad 5 Reacciones.pdf",
+      "page": "2"
+    }
+  ]
+}

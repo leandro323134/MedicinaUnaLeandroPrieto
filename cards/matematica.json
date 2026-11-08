@@ -1,0 +1,45 @@
+{
+  "formatVersion": 1,
+  "cards": [
+    {
+      "id": "mat-0020",
+      "question": "¿Qué es una expresión algebraica?",
+      "answer": "Una combinación de números y letras unidas por operaciones.",
+      "subject": "Matemática",
+      "unit": "Guía 1: Álgebra",
+      "topic": "Expresiones algebraicas",
+      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "page": "1"
+    },
+    {
+      "id": "mat-0021",
+      "question": "¿Qué es el grado absoluto de un término algebraico?",
+      "answer": "La suma de los exponentes de sus variables.",
+      "subject": "Matemática",
+      "unit": "Guía 1: Álgebra",
+      "topic": "Expresiones algebraicas",
+      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "page": "1"
+    },
+    {
+      "id": "mat-0022",
+      "question": "¿Qué es el grado relativo respecto de una variable?",
+      "answer": "El exponente de esa variable en el término.",
+      "subject": "Matemática",
+      "unit": "Guía 1: Álgebra",
+      "topic": "Expresiones algebraicas",
+      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "page": "1"
+    },
+    {
+      "id": "mat-0023",
+      "question": "¿Cómo se multiplican potencias de igual base?",
+      "answer": "Se conserva la base y se suman los exponentes: aⁿ·aᵐ = aⁿ⁺ᵐ.",
+      "subject": "Matemática",
+      "unit": "Guía 1: Álgebra",
+      "topic": "Exponentes",
+      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "page": "1"
+    }
+  ]
+}

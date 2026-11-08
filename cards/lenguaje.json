@@ -1,0 +1,45 @@
+{
+  "formatVersion": 1,
+  "cards": [
+    {
+      "id": "len-0024",
+      "question": "¿Qué se busca al sustituir «cosa» por un sustantivo más preciso?",
+      "answer": "Nombrar exactamente la idea según el contexto y evitar un término demasiado general.",
+      "subject": "Lenguaje y Comunicación",
+      "unit": "Precisión semántica",
+      "topic": "Vocabulario preciso",
+      "source": "1000123493.jpg",
+      "page": "imagen 1"
+    },
+    {
+      "id": "len-0025",
+      "question": "¿Qué mejora una sustitución contextual de «hacer», «tener» o «haber»?",
+      "answer": "La precisión del significado del verbo en la oración.",
+      "subject": "Lenguaje y Comunicación",
+      "unit": "Precisión semántica",
+      "topic": "Verbos precisos",
+      "source": "1000123494.jpg",
+      "page": "imagen 2"
+    },
+    {
+      "id": "len-0026",
+      "question": "¿Por qué un sinónimo no sirve automáticamente en cualquier oración?",
+      "answer": "Porque debe conservar el significado y encajar en el contexto.",
+      "subject": "Lenguaje y Comunicación",
+      "unit": "Precisión semántica",
+      "topic": "Verbos precisos",
+      "source": "1000123494.jpg",
+      "page": "imagen 2"
+    },
+    {
+      "id": "len-0027",
+      "question": "¿Qué adjetivo describe a una persona que paga con prontitud lo que debe?",
+      "answer": "Solvente.",
+      "subject": "Lenguaje y Comunicación",
+      "unit": "Precisión semántica",
+      "topic": "Adjetivos",
+      "source": "1000123495.jpg",
+      "page": "imagen 3"
+    }
+  ]
+}
