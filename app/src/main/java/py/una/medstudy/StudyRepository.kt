@@ -8,6 +8,16 @@ import java.util.UUID
 fun normalizedSubject(subject: String): String =
     if (subject == "Lenguaje y Comunicación") "Lenguaje" else subject
 
+fun normalizedUnit(unit: String): String = mapOf(
+    "Unidad 1: Materia y energía" to "Unidad 1 · Materia y energía",
+    "Unidad 2: Estructura atómica" to "Unidad 2 · Estructura atómica y tabla periódica",
+    "Unidad 5: Reacciones" to "Unidad 5 · Reacciones químicas",
+    "Capítulo 1: Célula y biología molecular" to "Capítulo 1 · Biología celular",
+    "Capítulo 3: Enzimas y metabolismo" to "Capítulo 3 · Enzimas y metabolismo",
+    "Guía 1: Álgebra" to "Álgebra 1",
+    "Precisión semántica" to "Precisión semántica y vocabulario",
+)[unit] ?: unit
+
 class StudyRepository(val db: StudyDatabase) {
     val dao = db.dao()
 
@@ -21,7 +31,7 @@ class StudyRepository(val db: StudyDatabase) {
             val o = array.getJSONObject(i)
             Card(
                 o.getString("id").trim(), o.getString("question").trim(), o.getString("answer").trim(),
-                normalizedSubject(o.getString("subject").trim()), o.getString("unit").trim(),
+                normalizedSubject(o.getString("subject").trim()), normalizedUnit(o.getString("unit").trim()),
                 o.getString("topic").trim(), o.optString("source"), o.optString("page"),
                 o.optString("explanation"), o.optInt("difficulty", 1),
             )

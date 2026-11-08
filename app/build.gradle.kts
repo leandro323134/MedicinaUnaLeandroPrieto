@@ -1,8 +1,11 @@
 plugins { id("com.android.application"); id("org.jetbrains.kotlin.android"); id("org.jetbrains.kotlin.kapt") }
+val parallelInstall = providers.gradleProperty("parallelInstall").orNull == "true"
 android {
     namespace = "py.una.medstudy"
     compileSdk = 35
-    defaultConfig { applicationId = "py.una.medstudy"; minSdk = 26; targetSdk = 35; versionCode = 2; versionName = "0.2.0" }
+    defaultConfig { applicationId = "py.una.medstudy"; minSdk = 26; targetSdk = 35; versionCode = 2; versionName = "0.2.0"
+        manifestPlaceholders["appLabel"] = if (parallelInstall) "Medicina UNA Estudio" else "Medicina UNA"
+    }
     // La firma se toma de variables de entorno para no compartir la clave privada.
     signingConfigs {
         create("releasePublica") {
@@ -16,6 +19,9 @@ android {
         }
     }
     buildTypes {
+        getByName("debug") {
+            if (parallelInstall) applicationIdSuffix = ".estudio"
+        }
         getByName("release") {
             isMinifyEnabled = false
             signingConfig = signingConfigs.getByName("releasePublica")
@@ -37,6 +43,8 @@ dependencies {
     testImplementation("junit:junit:4.13.2")
     testImplementation("org.robolectric:robolectric:4.14.1")
     testImplementation("androidx.test:core:1.6.1")
+    testImplementation("androidx.compose.ui:ui-test-junit4")
+    debugImplementation("androidx.compose.ui:ui-test-manifest")
     implementation("androidx.compose.ui:ui")
     implementation("androidx.compose.foundation:foundation")
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.7")
