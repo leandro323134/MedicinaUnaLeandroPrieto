@@ -1,10 +1,9 @@
 plugins { id("com.android.application"); id("org.jetbrains.kotlin.android"); id("org.jetbrains.kotlin.kapt") }
-val parallelInstall = providers.gradleProperty("parallelInstall").orNull == "true"
 android {
     namespace = "py.una.medstudy"
     compileSdk = 35
     defaultConfig { applicationId = "py.una.medstudy"; minSdk = 26; targetSdk = 35; versionCode = 2; versionName = "0.2.0"
-        manifestPlaceholders["appLabel"] = if (parallelInstall) "Medicina UNA Estudio" else "Medicina UNA"
+        manifestPlaceholders["appLabel"] = "Medicina UNA"
     }
     // La firma se toma de variables de entorno para no compartir la clave privada.
     signingConfigs {
@@ -22,9 +21,6 @@ android {
         }
     }
     buildTypes {
-        getByName("debug") {
-            if (parallelInstall) applicationIdSuffix = ".estudio"
-        }
         getByName("release") {
             isMinifyEnabled = false
             signingConfig = signingConfigs.getByName("releasePublica")
