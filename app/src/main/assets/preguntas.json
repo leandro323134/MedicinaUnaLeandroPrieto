@@ -1,0 +1,3919 @@
+{
+  "formatVersion": 1,
+  "questions": [
+    {
+      "id": "b1-quimica-unidad-1-materia-y-energia-sustancias-y-mezclas-001",
+      "subject": "Química",
+      "unit": "Unidad 1 · Materia y energía",
+      "topic": "Sustancias y mezclas",
+      "difficulty": 1,
+      "question": "¿Cómo se clasifica el aire limpio y seco?",
+      "answer": "Mezcla homogénea",
+      "explanation": "Sus gases están distribuidos uniformemente y la composición puede variar.",
+      "source": "Unidad 1 Materia y Energía.pdf",
+      "page": "",
+      "options": [
+        "Elemento",
+        "Mezcla heterogénea",
+        "Compuesto puro",
+        "Mezcla homogénea"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-quimica-unidad-1-materia-y-energia-cambios-de-estado-001",
+      "subject": "Química",
+      "unit": "Unidad 1 · Materia y energía",
+      "topic": "Cambios de estado",
+      "difficulty": 1,
+      "question": "¿Qué cambio ocurre cuando se derrite el hielo?",
+      "answer": "Cambio físico",
+      "explanation": "La identidad química H₂O se conserva aunque cambie el estado.",
+      "source": "Unidad 1 Materia y Energía.pdf",
+      "page": "",
+      "options": [
+        "Combustión",
+        "Cambio físico",
+        "Descomposición química",
+        "Neutralización"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-quimica-unidad-1-materia-y-energia-propiedades-001",
+      "subject": "Química",
+      "unit": "Unidad 1 · Materia y energía",
+      "topic": "Propiedades",
+      "difficulty": 1,
+      "question": "¿Cuál es una propiedad intensiva?",
+      "answer": "Densidad",
+      "explanation": "En un material homogéneo, duplicar la muestra duplica masa y volumen, pero mantiene su cociente.",
+      "source": "Unidad 1 Materia y Energía.pdf",
+      "page": "",
+      "options": [
+        "Volumen",
+        "Masa",
+        "Energía total",
+        "Densidad"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-quimica-unidad-1-materia-y-energia-separacion-001",
+      "subject": "Química",
+      "unit": "Unidad 1 · Materia y energía",
+      "topic": "Separación",
+      "difficulty": 2,
+      "question": "¿Qué método permite recuperar el agua de una disolución salina como líquido?",
+      "answer": "Destilación",
+      "explanation": "Se evapora el agua y luego se condensa su vapor. La sal queda en el recipiente.",
+      "source": "Unidad 1 Materia y Energía.pdf",
+      "page": "",
+      "options": [
+        "Filtración simple",
+        "Destilación",
+        "Decantación",
+        "Tamizado"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-quimica-unidad-2-estructura-atomica-y-tabla-periodica-nucleo-001",
+      "subject": "Química",
+      "unit": "Unidad 2 · Estructura atómica y tabla periódica",
+      "topic": "Núcleo",
+      "difficulty": 1,
+      "question": "¿Qué determina el número atómico Z?",
+      "answer": "El número de protones",
+      "explanation": "Los isótopos de un elemento tienen el mismo Z.",
+      "source": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
+      "page": "",
+      "options": [
+        "El número de protones",
+        "El número de neutrones",
+        "El número másico",
+        "La masa en gramos"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-quimica-unidad-2-estructura-atomica-y-tabla-periodica-isotopos-001",
+      "subject": "Química",
+      "unit": "Unidad 2 · Estructura atómica y tabla periódica",
+      "topic": "Isótopos",
+      "difficulty": 2,
+      "question": "¿Qué diferencia a dos isótopos del mismo elemento?",
+      "answer": "El número de neutrones",
+      "explanation": "Comparten el número de protones y difieren en el número másico.",
+      "source": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
+      "page": "",
+      "options": [
+        "El número de protones",
+        "El número de neutrones",
+        "El grupo de la tabla",
+        "El símbolo del elemento"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-quimica-unidad-2-estructura-atomica-y-tabla-periodica-iones-001",
+      "subject": "Química",
+      "unit": "Unidad 2 · Estructura atómica y tabla periódica",
+      "topic": "Iones",
+      "difficulty": 2,
+      "question": "¿Cuántos electrones tiene Cl⁻ si Z = 17?",
+      "answer": "18",
+      "explanation": "La carga −1 indica que el átomo neutro ganó un electrón.",
+      "source": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
+      "page": "",
+      "options": [
+        "17",
+        "35",
+        "18",
+        "16"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-quimica-unidad-2-estructura-atomica-y-tabla-periodica-configuracion-electronica-001",
+      "subject": "Química",
+      "unit": "Unidad 2 · Estructura atómica y tabla periódica",
+      "topic": "Configuración electrónica",
+      "difficulty": 2,
+      "question": "¿Cuántos electrones admite un subnivel p completo?",
+      "answer": "6",
+      "explanation": "Tiene tres orbitales, cada uno con capacidad para dos electrones.",
+      "source": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
+      "page": "",
+      "options": [
+        "10",
+        "3",
+        "6",
+        "2"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-quimica-unidad-2-estructura-atomica-y-tabla-periodica-tendencias-periodicas-001",
+      "subject": "Química",
+      "unit": "Unidad 2 · Estructura atómica y tabla periódica",
+      "topic": "Tendencias periódicas",
+      "difficulty": 2,
+      "question": "En general, ¿cómo cambia el radio atómico al bajar en un grupo?",
+      "answer": "Aumenta",
+      "explanation": "Se ocupan capas con números cuánticos principales mayores.",
+      "source": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
+      "page": "",
+      "options": [
+        "Permanece constante",
+        "Aumenta",
+        "Disminuye",
+        "Se vuelve cero"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-quimica-unidad-2-estructura-atomica-y-tabla-periodica-tendencias-periodicas-002",
+      "subject": "Química",
+      "unit": "Unidad 2 · Estructura atómica y tabla periódica",
+      "topic": "Tendencias periódicas",
+      "difficulty": 3,
+      "question": "Entre Na y Cl neutros, ¿cuál tiene en general mayor radio atómico?",
+      "answer": "Na",
+      "explanation": "En el mismo período aumenta la carga nuclear efectiva hacia la derecha y el radio tiende a disminuir.",
+      "source": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
+      "page": "",
+      "options": [
+        "Son iguales",
+        "Na",
+        "Solo se puede comparar si se conocen sus neutrones",
+        "Cl"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-quimica-unidad-3-nomenclatura-inorganica-oxidos-001",
+      "subject": "Química",
+      "unit": "Unidad 3 · Nomenclatura inorgánica",
+      "topic": "Óxidos",
+      "difficulty": 1,
+      "question": "¿Cuál es el nombre de Fe₂O₃ según Stock?",
+      "answer": "Óxido de hierro(III)",
+      "explanation": "Tres oxígenos aportan −6 en total, por lo que los dos hierros aportan +6.",
+      "source": "Unidad 3 nomenclatura Inorgánica.pdf",
+      "page": "",
+      "options": [
+        "Óxido de hierro(II)",
+        "Óxido de hierro(III)",
+        "Hidróxido de hierro(III)",
+        "Peróxido de hierro(III)"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-quimica-unidad-3-nomenclatura-inorganica-hidroxidos-001",
+      "subject": "Química",
+      "unit": "Unidad 3 · Nomenclatura inorgánica",
+      "topic": "Hidróxidos",
+      "difficulty": 2,
+      "question": "¿Qué fórmula corresponde al hidróxido de aluminio?",
+      "answer": "Al(OH)₃",
+      "explanation": "Cada OH⁻ neutraliza una unidad de la carga +3 del aluminio.",
+      "source": "Unidad 3 nomenclatura Inorgánica.pdf",
+      "page": "",
+      "options": [
+        "AlOH",
+        "Al(OH)₃",
+        "Al₂O₃",
+        "Al(OH)₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-quimica-unidad-3-nomenclatura-inorganica-oxoacidos-001",
+      "subject": "Química",
+      "unit": "Unidad 3 · Nomenclatura inorgánica",
+      "topic": "Oxoácidos",
+      "difficulty": 2,
+      "question": "¿Cuál es el número de oxidación del azufre en H₂SO₄?",
+      "answer": "+6",
+      "explanation": "La suma 2(+1) + x + 4(−2) es cero.",
+      "source": "Unidad 3 nomenclatura Inorgánica.pdf",
+      "page": "",
+      "options": [
+        "+2",
+        "+6",
+        "−2",
+        "+4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-quimica-unidad-3-nomenclatura-inorganica-sales-001",
+      "subject": "Química",
+      "unit": "Unidad 3 · Nomenclatura inorgánica",
+      "topic": "Sales",
+      "difficulty": 2,
+      "question": "¿Cuál es la fórmula del sulfato de calcio?",
+      "answer": "CaSO₄",
+      "explanation": "Ca²⁺ y SO₄²⁻ se combinan en relación 1 a 1.",
+      "source": "Unidad 3 nomenclatura Inorgánica.pdf",
+      "page": "",
+      "options": [
+        "Ca(SO₄)₂",
+        "Ca₂SO₄",
+        "CaSO₄",
+        "CaSO₃"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-quimica-unidad-4-enlace-quimico-lewis-001",
+      "subject": "Química",
+      "unit": "Unidad 4 · Enlace químico",
+      "topic": "Lewis",
+      "difficulty": 1,
+      "question": "¿Qué electrones representan los puntos en un símbolo de Lewis?",
+      "answer": "Los de valencia",
+      "explanation": "Son los electrones que intervienen en la formación de enlaces en este modelo.",
+      "source": "Unidad 4 Enlace químico.pdf",
+      "page": "",
+      "options": [
+        "Los de valencia",
+        "Solo los del núcleo",
+        "Todos los electrones",
+        "Solo los desapareados del átomo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-quimica-unidad-4-enlace-quimico-carga-formal-001",
+      "subject": "Química",
+      "unit": "Unidad 4 · Enlace químico",
+      "topic": "Carga formal",
+      "difficulty": 3,
+      "question": "¿Cuál es la carga formal de N en NH₄⁺ si forma cuatro enlaces simples y no tiene pares libres?",
+      "answer": "+1",
+      "explanation": "Se restan a sus cinco electrones de valencia los cuatro electrones que se le asignan por los enlaces.",
+      "source": "Unidad 4 Enlace químico.pdf",
+      "page": "",
+      "options": [
+        "+4",
+        "+1",
+        "−1",
+        "0"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-quimica-unidad-4-enlace-quimico-geometria-001",
+      "subject": "Química",
+      "unit": "Unidad 4 · Enlace químico",
+      "topic": "Geometría",
+      "difficulty": 2,
+      "question": "¿Cuál es la geometría molecular de CO₂?",
+      "answer": "Lineal",
+      "explanation": "El carbono tiene dos dominios enlazantes y ningún par libre. Cada enlace doble cuenta como un dominio.",
+      "source": "Unidad 4 Enlace químico.pdf",
+      "page": "",
+      "options": [
+        "Lineal",
+        "Angular",
+        "Trigonal plana",
+        "Tetraédrica"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-quimica-unidad-4-enlace-quimico-polaridad-001",
+      "subject": "Química",
+      "unit": "Unidad 4 · Enlace químico",
+      "topic": "Polaridad",
+      "difficulty": 2,
+      "question": "¿Por qué el CO₂ lineal carece de dipolo molecular permanente?",
+      "answer": "Sus dipolos de enlace se cancelan",
+      "explanation": "Los dos enlaces C=O son equivalentes y apuntan en sentidos opuestos.",
+      "source": "Unidad 4 Enlace químico.pdf",
+      "page": "",
+      "options": [
+        "Sus enlaces C=O son apolares",
+        "El carbono tiene un par libre",
+        "Sus dipolos de enlace se cancelan",
+        "Sus enlaces son iónicos"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-quimica-unidad-4-enlace-quimico-fuerzas-intermoleculares-001",
+      "subject": "Química",
+      "unit": "Unidad 4 · Enlace químico",
+      "topic": "Fuerzas intermoleculares",
+      "difficulty": 2,
+      "question": "¿Qué interacción explica el punto de ebullición relativamente alto del agua?",
+      "answer": "Puentes de hidrógeno",
+      "explanation": "El H enlazado a O interactúa con pares libres del O de otras moléculas.",
+      "source": "Unidad 4 Enlace químico.pdf",
+      "page": "",
+      "options": [
+        "Enlaces iónicos entre las moléculas",
+        "Enlaces metálicos",
+        "Fusión del núcleo",
+        "Puentes de hidrógeno"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-quimica-unidad-5-reacciones-quimicas-balanceo-001",
+      "subject": "Química",
+      "unit": "Unidad 5 · Reacciones químicas",
+      "topic": "Balanceo",
+      "difficulty": 1,
+      "question": "Al balancear una reacción, ¿qué números se pueden cambiar?",
+      "answer": "Los coeficientes delante de las fórmulas",
+      "explanation": "Cambiar un subíndice altera la identidad de la especie.",
+      "source": "Unidad 5 Reacciones.pdf",
+      "page": "",
+      "options": [
+        "La carga de un ion sin cambiar la reacción",
+        "Los coeficientes delante de las fórmulas",
+        "Los subíndices de los elementos",
+        "El número atómico"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-quimica-unidad-5-reacciones-quimicas-balanceo-002",
+      "subject": "Química",
+      "unit": "Unidad 5 · Reacciones químicas",
+      "topic": "Balanceo",
+      "difficulty": 2,
+      "question": "¿Qué coeficientes mínimos balancean Al + O₂ → Al₂O₃?",
+      "answer": "4, 3, 2",
+      "explanation": "Así hay cuatro Al y seis O a cada lado.",
+      "source": "Unidad 5 Reacciones.pdf",
+      "page": "",
+      "options": [
+        "4, 3, 2",
+        "2, 3, 1",
+        "4, 2, 3",
+        "1, 1, 1"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-quimica-unidad-5-reacciones-quimicas-redox-001",
+      "subject": "Química",
+      "unit": "Unidad 5 · Reacciones químicas",
+      "topic": "Redox",
+      "difficulty": 1,
+      "question": "¿Qué le ocurre a una especie que pierde electrones?",
+      "answer": "Se oxida",
+      "explanation": "La pérdida de electrones aumenta su número de oxidación.",
+      "source": "Unidad 5 Reacciones.pdf",
+      "page": "",
+      "options": [
+        "Siempre se neutraliza",
+        "Se oxida",
+        "Siempre precipita",
+        "Se reduce"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-quimica-unidad-5-reacciones-quimicas-precipitacion-001",
+      "subject": "Química",
+      "unit": "Unidad 5 · Reacciones químicas",
+      "topic": "Precipitación",
+      "difficulty": 2,
+      "question": "¿Qué sólido se forma al mezclar disoluciones de AgNO₃ y NaCl?",
+      "answer": "AgCl",
+      "explanation": "Ag⁺ y Cl⁻ forman cloruro de plata poco soluble.",
+      "source": "Unidad 5 Reacciones.pdf",
+      "page": "",
+      "options": [
+        "NaCl",
+        "AgCl",
+        "NaNO₃",
+        "AgNO₃"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-quimica-unidad-6-estados-de-agregacion-gases-ideales-001",
+      "subject": "Química",
+      "unit": "Unidad 6 · Estados de agregación",
+      "topic": "Gases ideales",
+      "difficulty": 2,
+      "question": "¿Qué pasa con la presión si se reduce a la mitad el volumen a temperatura y cantidad de gas constantes?",
+      "answer": "Se duplica",
+      "explanation": "La ley de Boyle establece que PV es constante en esas condiciones.",
+      "source": "Unidad 6  Estado de Agregación.pdf",
+      "page": "",
+      "options": [
+        "Se duplica",
+        "Permanece igual",
+        "Se reduce a la mitad",
+        "Se cuadruplica"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-quimica-unidad-6-estados-de-agregacion-temperatura-001",
+      "subject": "Química",
+      "unit": "Unidad 6 · Estados de agregación",
+      "topic": "Temperatura",
+      "difficulty": 1,
+      "question": "¿Qué escala requiere PV = nRT?",
+      "answer": "Kelvin",
+      "explanation": "La ecuación usa temperatura absoluta.",
+      "source": "Unidad 6  Estado de Agregación.pdf",
+      "page": "",
+      "options": [
+        "Kelvin",
+        "Celsius",
+        "Fahrenheit",
+        "Cualquier escala sin conversión"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-quimica-unidad-6-estados-de-agregacion-cambios-de-estado-001",
+      "subject": "Química",
+      "unit": "Unidad 6 · Estados de agregación",
+      "topic": "Cambios de estado",
+      "difficulty": 2,
+      "question": "¿Cuándo hierve un líquido?",
+      "answer": "Cuando su presión de vapor iguala la presión externa",
+      "explanation": "En ese punto pueden formarse burbujas de vapor dentro del líquido.",
+      "source": "Unidad 6  Estado de Agregación.pdf",
+      "page": "",
+      "options": [
+        "Cuando la presión de vapor se anula",
+        "Solo cuando pierde toda su energía cinética",
+        "Cuando alcanza siempre 100 °C",
+        "Cuando su presión de vapor iguala la presión externa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-quimica-unidad-6-estados-de-agregacion-solidos-001",
+      "subject": "Química",
+      "unit": "Unidad 6 · Estados de agregación",
+      "topic": "Sólidos",
+      "difficulty": 2,
+      "question": "¿Qué distingue a un sólido cristalino de uno amorfo?",
+      "answer": "El orden estructural de largo alcance",
+      "explanation": "La estructura cristalina presenta un patrón regular repetido.",
+      "source": "Unidad 6  Estado de Agregación.pdf",
+      "page": "",
+      "options": [
+        "La presencia obligatoria de enlaces metálicos",
+        "Un volumen que depende por completo del recipiente",
+        "El orden estructural de largo alcance",
+        "La ausencia de fuerzas entre partículas"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-quimica-unidad-7-soluciones-concentracion-001",
+      "subject": "Química",
+      "unit": "Unidad 7 · Soluciones",
+      "topic": "Concentración",
+      "difficulty": 1,
+      "question": "¿Cómo se define la molaridad?",
+      "answer": "Moles de soluto por litro de solución",
+      "explanation": "El volumen se refiere a la mezcla final.",
+      "source": "Unidad 7 Soluciones.pdf",
+      "page": "",
+      "options": [
+        "Moles de soluto por litro de solución",
+        "Gramos de solvente por litro",
+        "Moles de solvente por litro",
+        "Moles de soluto por kg de solvente"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-quimica-unidad-7-soluciones-concentracion-002",
+      "subject": "Química",
+      "unit": "Unidad 7 · Soluciones",
+      "topic": "Concentración",
+      "difficulty": 2,
+      "question": "¿Qué magnitud usa la molalidad en su denominador?",
+      "answer": "Masa del solvente en kilogramos",
+      "explanation": "Se divide la cantidad de soluto en moles por la masa del solvente.",
+      "source": "Unidad 7 Soluciones.pdf",
+      "page": "",
+      "options": [
+        "Masa del solvente en kilogramos",
+        "Volumen del solvente en mililitros",
+        "Masa del soluto en gramos",
+        "Volumen de la solución en litros"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-quimica-unidad-7-soluciones-dilucion-001",
+      "subject": "Química",
+      "unit": "Unidad 7 · Soluciones",
+      "topic": "Dilución",
+      "difficulty": 2,
+      "question": "Al diluir una alícuota con agua, ¿qué magnitud se conserva?",
+      "answer": "Moles de soluto de la alícuota",
+      "explanation": "Al agregar solvente sin perder ni transformar soluto aumenta el volumen y baja la concentración.",
+      "source": "Unidad 7 Soluciones.pdf",
+      "page": "",
+      "options": [
+        "Volumen",
+        "Molaridad",
+        "Fracción molar del soluto",
+        "Moles de soluto de la alícuota"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-quimica-unidad-7-soluciones-coligativas-001",
+      "subject": "Química",
+      "unit": "Unidad 7 · Soluciones",
+      "topic": "Coligativas",
+      "difficulty": 3,
+      "question": "Para disoluciones diluidas del mismo soluto no volátil, ¿qué pasa con el punto de congelación al aumentar la molalidad?",
+      "answer": "Disminuye",
+      "explanation": "El descenso crioscópico crece con la concentración de partículas disueltas.",
+      "source": "Unidad 7 Soluciones.pdf",
+      "page": "",
+      "options": [
+        "Iguala al punto de ebullición",
+        "Permanece igual",
+        "Disminuye",
+        "Aumenta"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-quimica-unidad-8-acidos-y-bases-brnsted-lowry-001",
+      "subject": "Química",
+      "unit": "Unidad 8 · Ácidos y bases",
+      "topic": "Brønsted-Lowry",
+      "difficulty": 1,
+      "question": "¿Qué hace una base de Brønsted–Lowry?",
+      "answer": "Acepta un protón",
+      "explanation": "Al aceptar H⁺ forma su ácido conjugado.",
+      "source": "Unidad 8 Ácido - Base.pdf",
+      "page": "",
+      "options": [
+        "Siempre libera H₂",
+        "Acepta exclusivamente electrones",
+        "Acepta un protón",
+        "Dona un protón"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-quimica-unidad-8-acidos-y-bases-pares-conjugados-001",
+      "subject": "Química",
+      "unit": "Unidad 8 · Ácidos y bases",
+      "topic": "Pares conjugados",
+      "difficulty": 2,
+      "question": "¿Cuál es la base conjugada de H₂CO₃?",
+      "answer": "HCO₃⁻",
+      "explanation": "El ácido pierde un solo protón en este paso.",
+      "source": "Unidad 8 Ácido - Base.pdf",
+      "page": "",
+      "options": [
+        "CO₃²⁻",
+        "H₃CO₃⁺",
+        "HCO₃⁻",
+        "OH⁻"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-quimica-unidad-8-acidos-y-bases-fuerza-y-concentracion-001",
+      "subject": "Química",
+      "unit": "Unidad 8 · Ácidos y bases",
+      "topic": "Fuerza y concentración",
+      "difficulty": 2,
+      "question": "¿Qué significa que un ácido sea débil en agua?",
+      "answer": "Que se ioniza parcialmente",
+      "explanation": "La fuerza describe el grado de ionización, mientras que la concentración indica cuánto soluto hay.",
+      "source": "Unidad 8 Ácido - Base.pdf",
+      "page": "",
+      "options": [
+        "Que se ioniza parcialmente",
+        "Que siempre está muy diluido",
+        "Que no tiene hidrógeno",
+        "Que nunca reacciona con bases"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-quimica-unidad-8-acidos-y-bases-ph-001",
+      "subject": "Química",
+      "unit": "Unidad 8 · Ácidos y bases",
+      "topic": "pH",
+      "difficulty": 2,
+      "question": "A 25 °C, ¿qué pOH corresponde a pH 9?",
+      "answer": "5",
+      "explanation": "En agua a 25 °C, pH + pOH = 14.",
+      "source": "Unidad 8 Ácido - Base.pdf",
+      "page": "",
+      "options": [
+        "5",
+        "9",
+        "23",
+        "7"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-quimica-unidad-9-estequiometria-mol-001",
+      "subject": "Química",
+      "unit": "Unidad 9 · Estequiometría",
+      "topic": "Mol",
+      "difficulty": 1,
+      "question": "¿Cuántas partículas hay aproximadamente en un mol?",
+      "answer": "6,022 × 10²³",
+      "explanation": "La constante de Avogadro relaciona cantidad de sustancia y número de entidades.",
+      "source": "Unidad 9 Estequiometría.pdf",
+      "page": "",
+      "options": [
+        "1,66 × 10⁻²⁴",
+        "6,022 × 10⁻²³",
+        "22,4",
+        "6,022 × 10²³"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-quimica-unidad-9-estequiometria-limitante-001",
+      "subject": "Química",
+      "unit": "Unidad 9 · Estequiometría",
+      "topic": "Limitante",
+      "difficulty": 2,
+      "question": "Para 2 H₂ + O₂ → 2 H₂O, ¿qué reactivo limita con 3 mol de H₂ y 2 mol de O₂?",
+      "answer": "H₂",
+      "explanation": "Los 2 mol de O₂ requerirían 4 mol de H₂.",
+      "source": "Unidad 9 Estequiometría.pdf",
+      "page": "",
+      "options": [
+        "H₂O",
+        "H₂",
+        "Ninguno, están en proporción exacta",
+        "O₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-quimica-unidad-9-estequiometria-rendimiento-001",
+      "subject": "Química",
+      "unit": "Unidad 9 · Estequiometría",
+      "topic": "Rendimiento",
+      "difficulty": 2,
+      "question": "Si el rendimiento teórico es 20 g y se obtienen 15 g, ¿cuál es el rendimiento porcentual?",
+      "answer": "75 %",
+      "explanation": "Se calcula 15/20 × 100.",
+      "source": "Unidad 9 Estequiometría.pdf",
+      "page": "",
+      "options": [
+        "75 %",
+        "25 %",
+        "35 %",
+        "133 %"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-quimica-unidad-9-estequiometria-formula-empirica-001",
+      "subject": "Química",
+      "unit": "Unidad 9 · Estequiometría",
+      "topic": "Fórmula empírica",
+      "difficulty": 2,
+      "question": "¿Cuál es la fórmula empírica de C₆H₁₂O₆?",
+      "answer": "CH₂O",
+      "explanation": "Al dividir los subíndices entre 6 se obtiene la relación entera mínima.",
+      "source": "Unidad 9 Estequiometría.pdf",
+      "page": "",
+      "options": [
+        "C₂H₄O₂",
+        "C₆H₁₂O₆",
+        "CH₂O",
+        "CHO"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-quimica-unidad-10-cinetica-quimica-ley-de-velocidad-001",
+      "subject": "Química",
+      "unit": "Unidad 10 · Cinética química",
+      "topic": "Ley de velocidad",
+      "difficulty": 3,
+      "question": "Si v = k[A]²[B], ¿qué pasa con v al duplicar [A] y mantener [B] fija?",
+      "answer": "Se cuadruplica",
+      "explanation": "El factor de cambio es 2² para el reactivo A.",
+      "source": "Unidad 10 - Cinetica Química.pdf",
+      "page": "",
+      "options": [
+        "Se duplica",
+        "Se multiplica por ocho",
+        "No cambia",
+        "Se cuadruplica"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-quimica-unidad-10-cinetica-quimica-temperatura-001",
+      "subject": "Química",
+      "unit": "Unidad 10 · Cinética química",
+      "topic": "Temperatura",
+      "difficulty": 2,
+      "question": "¿Por qué suele aumentar la velocidad de reacción al subir la temperatura?",
+      "answer": "Aumenta la fracción de colisiones que supera la barrera energética",
+      "explanation": "Una proporción mayor de moléculas posee energía suficiente para reaccionar.",
+      "source": "Unidad 10 - Cinetica Química.pdf",
+      "page": "",
+      "options": [
+        "El equilibrio se alcanza instantáneamente",
+        "La energía de activación sube siempre",
+        "La concentración necesariamente se duplica",
+        "Aumenta la fracción de colisiones que supera la barrera energética"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-quimica-unidad-10-cinetica-quimica-catalisis-001",
+      "subject": "Química",
+      "unit": "Unidad 10 · Cinética química",
+      "topic": "Catálisis",
+      "difficulty": 2,
+      "question": "¿Cómo acelera una reacción un catalizador?",
+      "answer": "Proporciona una ruta de menor energía de activación",
+      "explanation": "La ruta alternativa favorece alcanzar el estado de transición.",
+      "source": "Unidad 10 - Cinetica Química.pdf",
+      "page": "",
+      "options": [
+        "Desplaza por sí mismo el equilibrio hacia los productos",
+        "Aumenta ΔG de la reacción",
+        "Proporciona una ruta de menor energía de activación",
+        "Se consume de forma neta"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-quimica-unidad-10-cinetica-quimica-orden-001",
+      "subject": "Química",
+      "unit": "Unidad 10 · Cinética química",
+      "topic": "Orden",
+      "difficulty": 2,
+      "question": "¿Cuál es el orden total de v = k[A]²[B]⁰?",
+      "answer": "2",
+      "explanation": "Se suman los exponentes de concentración: 2 + 0.",
+      "source": "Unidad 10 - Cinetica Química.pdf",
+      "page": "",
+      "options": [
+        "2",
+        "3",
+        "1",
+        "0"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-quimica-unidad-11-equilibrio-quimico-equilibrio-dinamico-001",
+      "subject": "Química",
+      "unit": "Unidad 11 · Equilibrio químico",
+      "topic": "Equilibrio dinámico",
+      "difficulty": 1,
+      "question": "¿Qué se iguala en un equilibrio químico dinámico?",
+      "answer": "La velocidad directa y la inversa",
+      "explanation": "Los cambios opuestos se compensan y las concentraciones se mantienen constantes.",
+      "source": "Unidad 11 - Equilibrio Químico.pdf",
+      "page": "",
+      "options": [
+        "La velocidad directa y la inversa",
+        "Las energías de activación",
+        "Todas las masas molares",
+        "Las concentraciones de todos los reactivos y productos"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-quimica-unidad-11-equilibrio-quimico-cociente-de-reaccion-001",
+      "subject": "Química",
+      "unit": "Unidad 11 · Equilibrio químico",
+      "topic": "Cociente de reacción",
+      "difficulty": 2,
+      "question": "Si Q < K, ¿hacia qué lado evoluciona el sistema a temperatura constante?",
+      "answer": "Hacia los productos",
+      "explanation": "La reacción neta aumenta Q hasta alcanzar K.",
+      "source": "Unidad 11 - Equilibrio Químico.pdf",
+      "page": "",
+      "options": [
+        "Depende solo del catalizador",
+        "Hacia los productos",
+        "Hacia los reactivos",
+        "No hay evolución neta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-quimica-unidad-11-equilibrio-quimico-equilibrio-heterogeneo-001",
+      "subject": "Química",
+      "unit": "Unidad 11 · Equilibrio químico",
+      "topic": "Equilibrio heterogéneo",
+      "difficulty": 2,
+      "question": "¿Cómo aparecen los sólidos puros en la expresión de K?",
+      "answer": "Su actividad vale uno",
+      "explanation": "Por eso el término asociado al sólido puro no se escribe de forma explícita.",
+      "source": "Unidad 11 - Equilibrio Químico.pdf",
+      "page": "",
+      "options": [
+        "Su actividad vale uno",
+        "Como su masa en gramos",
+        "Con exponente cero para cualquier especie",
+        "Como su concentración molar variable"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-quimica-unidad-11-equilibrio-quimico-le-chatelier-001",
+      "subject": "Química",
+      "unit": "Unidad 11 · Equilibrio químico",
+      "topic": "Le Châtelier",
+      "difficulty": 3,
+      "question": "Para N₂(g) + 3 H₂(g) ⇌ 2 NH₃(g), ¿qué favorece una compresión a temperatura constante?",
+      "answer": "Formar NH₃",
+      "explanation": "El lado de productos tiene dos moles gaseosos por avance, frente a cuatro en reactivos.",
+      "source": "Unidad 11 - Equilibrio Químico.pdf",
+      "page": "",
+      "options": [
+        "Descomponer todo el NH₃",
+        "Formar N₂ y H₂",
+        "Formar NH₃",
+        "Aumentar K"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-quimica-unidad-12-termodinamica-sistema-y-entorno-001",
+      "subject": "Química",
+      "unit": "Unidad 12 · Termodinámica",
+      "topic": "Sistema y entorno",
+      "difficulty": 1,
+      "question": "¿Qué intercambia con el entorno un sistema cerrado?",
+      "answer": "Energía, pero no materia",
+      "explanation": "Puede intercambiar calor o trabajo sin que cruce materia por la frontera.",
+      "source": "Unidad 12 Termodinámica.pdf",
+      "page": "",
+      "options": [
+        "Energía, pero no materia",
+        "Ni materia ni energía",
+        "Solo materia",
+        "Materia y energía necesariamente"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-quimica-unidad-12-termodinamica-entalpia-001",
+      "subject": "Química",
+      "unit": "Unidad 12 · Termodinámica",
+      "topic": "Entalpía",
+      "difficulty": 1,
+      "question": "¿Qué signo tiene ΔH en una reacción exotérmica?",
+      "answer": "Negativo",
+      "explanation": "El sistema libera calor a presión constante.",
+      "source": "Unidad 12 Termodinámica.pdf",
+      "page": "",
+      "options": [
+        "Negativo",
+        "Depende de la masa molar solamente",
+        "Positivo",
+        "Cero siempre"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-quimica-unidad-12-termodinamica-ley-de-hess-001",
+      "subject": "Química",
+      "unit": "Unidad 12 · Termodinámica",
+      "topic": "Ley de Hess",
+      "difficulty": 2,
+      "question": "¿Qué le ocurre a ΔH si se invierte una ecuación termoquímica?",
+      "answer": "Cambia de signo",
+      "explanation": "Se intercambian estados inicial y final.",
+      "source": "Unidad 12 Termodinámica.pdf",
+      "page": "",
+      "options": [
+        "Se duplica",
+        "Permanece igual",
+        "Se divide por la temperatura",
+        "Cambia de signo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-quimica-unidad-12-termodinamica-gibbs-001",
+      "subject": "Química",
+      "unit": "Unidad 12 · Termodinámica",
+      "topic": "Gibbs",
+      "difficulty": 3,
+      "question": "Si ΔH < 0 y ΔS > 0, ¿qué signo tiene ΔG para T > 0 con esos valores?",
+      "answer": "Negativo",
+      "explanation": "En ΔG = ΔH − TΔS ambos términos contribuyen negativamente.",
+      "source": "Unidad 12 Termodinámica.pdf",
+      "page": "",
+      "options": [
+        "Cero",
+        "Cambia necesariamente de signo",
+        "Positivo",
+        "Negativo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-estructura-001",
+      "subject": "Química",
+      "unit": "Unidad 13 · Química orgánica",
+      "topic": "Estructura",
+      "difficulty": 1,
+      "question": "¿Qué hibridación tiene cada carbono del eteno?",
+      "answer": "sp²",
+      "explanation": "Cada carbono forma tres enlaces sigma y conserva un orbital p para el enlace pi.",
+      "source": "Anot Unidad 13  - Generalidades_261102_190051.pdf",
+      "page": "",
+      "options": [
+        "sp²",
+        "sp",
+        "dsp²",
+        "sp³"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-isomeria-001",
+      "subject": "Química",
+      "unit": "Unidad 13 · Química orgánica",
+      "topic": "Isomería",
+      "difficulty": 2,
+      "question": "¿Qué diferencia a dos isómeros constitucionales?",
+      "answer": "La conectividad de los átomos",
+      "explanation": "Comparten fórmula molecular, pero sus átomos se enlazan de forma distinta.",
+      "source": "Repaso_Interactivo_Isomeria_CACPI_EZ_Actualizado.pdf",
+      "page": "",
+      "options": [
+        "La conectividad de los átomos",
+        "La fórmula molecular",
+        "El número total de electrones obligatoriamente",
+        "Solo la orientación espacial con conectividad idéntica"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-isomeria-geometrica-001",
+      "subject": "Química",
+      "unit": "Unidad 13 · Química orgánica",
+      "topic": "Isomería geométrica",
+      "difficulty": 3,
+      "question": "¿Por qué el propeno no tiene isomería E/Z en su doble enlace?",
+      "answer": "Uno de los carbonos del doble enlace tiene dos H",
+      "explanation": "Para E/Z cada carbono del doble enlace debe tener dos sustituyentes diferentes.",
+      "source": "Repaso_Interactivo_Isomeria_CACPI_EZ_Actualizado.pdf",
+      "page": "",
+      "options": [
+        "Solo los alquinos tienen E/Z",
+        "Tiene menos de cuatro enlaces sigma",
+        "Uno de los carbonos del doble enlace tiene dos H",
+        "Los dobles enlaces siempre giran libremente"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-funciones-001",
+      "subject": "Química",
+      "unit": "Unidad 13 · Química orgánica",
+      "topic": "Funciones",
+      "difficulty": 1,
+      "question": "¿Qué grupo distingue un aldehído?",
+      "answer": "Un carbonilo unido a al menos un H",
+      "explanation": "En R–CHO, el H está enlazado al carbono carbonílico.",
+      "source": "Anot Unidad 13  - Generalidades_261102_190051.pdf",
+      "page": "",
+      "options": [
+        "Un OH unido a carbono saturado",
+        "Un carbonilo unido a al menos un H",
+        "Un grupo –COO– entre cadenas",
+        "Un carbonilo unido a dos carbonos"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-reacciones-001",
+      "subject": "Química",
+      "unit": "Unidad 13 · Química orgánica",
+      "topic": "Reacciones",
+      "difficulty": 2,
+      "question": "¿Qué producto da la hidrogenación completa del eteno?",
+      "answer": "Etano",
+      "explanation": "Se agrega H₂ a través del doble enlace.",
+      "source": "Unidad 13  - Estructura del carbono - Parte IV y p_261102_164146 (2).pdf",
+      "page": "",
+      "options": [
+        "Etino",
+        "Ácido etanoico",
+        "Etano",
+        "Etanol"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-reacciones-002",
+      "subject": "Química",
+      "unit": "Unidad 13 · Química orgánica",
+      "topic": "Reacciones",
+      "difficulty": 2,
+      "question": "¿Qué tipo de reacción es la conversión de etanol en eteno por pérdida de agua?",
+      "answer": "Eliminación",
+      "explanation": "La deshidratación quita H y OH de carbonos adyacentes y forma un doble enlace.",
+      "source": "Unidad 13  - Estructura del carbono - Parte IV y p_261102_164146 (2).pdf",
+      "page": "",
+      "options": [
+        "Hidrogenación",
+        "Eliminación",
+        "Adición",
+        "Sustitución"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-reacciones-003",
+      "subject": "Química",
+      "unit": "Unidad 13 · Química orgánica",
+      "topic": "Reacciones",
+      "difficulty": 2,
+      "question": "¿Qué producto orgánico resulta de oxidar propan-2-ol a su carbonilo?",
+      "answer": "Propanona",
+      "explanation": "Un alcohol secundario se oxida a cetona.",
+      "source": "Unidad 13  - Estructura del carbono - Parte IV y p_261102_164146 (2).pdf",
+      "page": "",
+      "options": [
+        "Propanona",
+        "Propanal",
+        "Propan-1-ol",
+        "Propano"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-reacciones-004",
+      "subject": "Química",
+      "unit": "Unidad 13 · Química orgánica",
+      "topic": "Reacciones",
+      "difficulty": 3,
+      "question": "¿Qué grupo se forma al esterificar ácido etanoico con etanol?",
+      "answer": "Éster",
+      "explanation": "Se forma etanoato de etilo y se libera agua.",
+      "source": "Unidad 13  - Estructura del carbono - Parte IV y p_261102_164146 (2).pdf",
+      "page": "",
+      "options": [
+        "Amida",
+        "Éter simétrico como único producto",
+        "Cetona",
+        "Éster"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-reacciones-005",
+      "subject": "Química",
+      "unit": "Unidad 13 · Química orgánica",
+      "topic": "Reacciones",
+      "difficulty": 3,
+      "question": "¿Cuál es el producto mayoritario de agregar HBr al propeno en condiciones iónicas sin peróxidos?",
+      "answer": "2-bromopropano",
+      "explanation": "La orientación de Markovnikov conduce al carbocatión secundario y luego a la captura por Br⁻.",
+      "source": "Unidad 13  - Estructura del carbono - Parte IV y p_261102_164146 (2).pdf",
+      "page": "",
+      "options": [
+        "Propan-2-ol",
+        "1-bromopropano",
+        "1,2-dibromopropano",
+        "2-bromopropano"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-estereoquimica-001",
+      "subject": "Química",
+      "unit": "Unidad 13 · Química orgánica",
+      "topic": "Estereoquímica",
+      "difficulty": 3,
+      "question": "¿Cómo se relacionan dos enantiómeros?",
+      "answer": "Son imágenes especulares no superponibles",
+      "explanation": "Conservan la conectividad pero difieren en su disposición tridimensional.",
+      "source": "Repaso_Interactivo_Isomeria_CACPI_EZ_Actualizado.pdf",
+      "page": "",
+      "options": [
+        "Son isótopos del mismo elemento",
+        "Son siempre conformaciones idénticas",
+        "Son imágenes especulares no superponibles",
+        "Tienen distinta fórmula molecular"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-intermediarios-001",
+      "subject": "Química",
+      "unit": "Unidad 13 · Química orgánica",
+      "topic": "Intermediarios",
+      "difficulty": 2,
+      "question": "¿Cómo se reconoce un carbocatión?",
+      "answer": "Tiene un carbono con carga positiva",
+      "explanation": "El carbono catiónico típico tiene tres enlaces y un orbital vacío.",
+      "source": "Generalidades de reacciones organicas CACPI 2025.pdf",
+      "page": "",
+      "options": [
+        "Tiene siempre dos radicales libres",
+        "Tiene un carbono con carga positiva",
+        "Tiene un carbono con carga negativa",
+        "Es cualquier compuesto con enlace C=O"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-intermediarios-002",
+      "subject": "Química",
+      "unit": "Unidad 13 · Química orgánica",
+      "topic": "Intermediarios",
+      "difficulty": 2,
+      "question": "¿Qué caracteriza a un radical orgánico?",
+      "answer": "Tiene al menos un electrón desapareado",
+      "explanation": "Puede originarse cuando una ruptura homolítica reparte los electrones del enlace.",
+      "source": "Generalidades de reacciones organicas CACPI 2025.pdf",
+      "page": "",
+      "options": [
+        "Carece de electrones de valencia",
+        "Siempre es un anión",
+        "Tiene siempre carga −1",
+        "Tiene al menos un electrón desapareado"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-mecanismos-001",
+      "subject": "Química",
+      "unit": "Unidad 13 · Química orgánica",
+      "topic": "Mecanismos",
+      "difficulty": 3,
+      "question": "¿Qué ocurre con el par enlazante al romper un enlace por heterólisis?",
+      "answer": "Los dos electrones van al mismo átomo",
+      "explanation": "La distribución desigual puede generar un catión y un anión a partir de una molécula neutra.",
+      "source": "Generalidades de reacciones organicas CACPI 2025.pdf",
+      "page": "",
+      "options": [
+        "Los dos electrones desaparecen",
+        "Los dos electrones van al mismo átomo",
+        "Los dos átomos se convierten necesariamente en radicales",
+        "Cada átomo recibe uno"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-nucleofilos-001",
+      "subject": "Química",
+      "unit": "Unidad 13 · Química orgánica",
+      "topic": "Nucleófilos",
+      "difficulty": 2,
+      "question": "¿Qué aporta un nucleófilo al formar un enlace con un electrófilo?",
+      "answer": "Un par electrónico",
+      "explanation": "El nucleófilo es donador de un par electrónico en el proceso.",
+      "source": "Generalidades de reacciones organicas CACPI 2025.pdf",
+      "page": "",
+      "options": [
+        "Un orbital vacío como única contribución",
+        "Un par electrónico",
+        "Un neutrón",
+        "Un protón siempre"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-isomeria-002",
+      "subject": "Química",
+      "unit": "Unidad 13 · Química orgánica",
+      "topic": "Isomería",
+      "difficulty": 2,
+      "question": "¿Qué tipo de isomería presentan butano y 2-metilpropano?",
+      "answer": "De cadena",
+      "explanation": "Ambos tienen fórmula C₄H₁₀, con esqueletos carbonados distintos.",
+      "source": "Repaso_Interactivo_Isomeria_CACPI_EZ_Actualizado.pdf",
+      "page": "",
+      "options": [
+        "De cadena",
+        "Óptica",
+        "Geométrica E/Z",
+        "De posición"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-isomeria-003",
+      "subject": "Química",
+      "unit": "Unidad 13 · Química orgánica",
+      "topic": "Isomería",
+      "difficulty": 2,
+      "question": "¿Qué tipo de isomería presentan etanol y dimetil éter?",
+      "answer": "De función",
+      "explanation": "Ambos tienen fórmula C₂H₆O, con grupos alcohol y éter respectivamente.",
+      "source": "Repaso_Interactivo_Isomeria_CACPI_EZ_Actualizado.pdf",
+      "page": "",
+      "options": [
+        "De cadena",
+        "De posición",
+        "De función",
+        "Geométrica"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-isomeria-004",
+      "subject": "Química",
+      "unit": "Unidad 13 · Química orgánica",
+      "topic": "Isomería",
+      "difficulty": 2,
+      "question": "¿Qué tipo de isomería presentan propan-1-ol y propan-2-ol?",
+      "answer": "De posición",
+      "explanation": "El esqueleto y el grupo funcional se mantienen, pero cambia la posición del OH.",
+      "source": "Repaso_Interactivo_Isomeria_CACPI_EZ_Actualizado.pdf",
+      "page": "",
+      "options": [
+        "De cadena",
+        "De función",
+        "De posición",
+        "Óptica"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-estructuras-001",
+      "subject": "Química",
+      "unit": "Unidad 13 · Química orgánica",
+      "topic": "Estructuras",
+      "difficulty": 2,
+      "question": "¿Cómo se llama C₆H₅–NH₂?",
+      "answer": "Anilina",
+      "explanation": "Es un anillo bencénico unido directamente a un grupo amino.",
+      "source": "Estructuras OBLIGADAS A MANEJAR para Ingreso MED UNA .pdf",
+      "page": "",
+      "options": [
+        "Benzamida",
+        "Fenol",
+        "Anilina",
+        "Tolueno"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-estructuras-002",
+      "subject": "Química",
+      "unit": "Unidad 13 · Química orgánica",
+      "topic": "Estructuras",
+      "difficulty": 2,
+      "question": "¿Qué estructura condensada corresponde al alcohol bencílico?",
+      "answer": "C₆H₅–CH₂OH",
+      "explanation": "El OH está unido al carbono saturado de la cadena lateral.",
+      "source": "Repaso_activo_Unidad_13_Quimica_Organica_con_pie 2.pdf",
+      "page": "",
+      "options": [
+        "C₆H₅–CHO",
+        "C₆H₅–OH",
+        "C₆H₅–COOH",
+        "C₆H₅–CH₂OH"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-estructuras-003",
+      "subject": "Química",
+      "unit": "Unidad 13 · Química orgánica",
+      "topic": "Estructuras",
+      "difficulty": 2,
+      "question": "¿Qué estructura condensada corresponde al benzaldehído?",
+      "answer": "C₆H₅–CHO",
+      "explanation": "El anillo está unido al carbono del aldehído.",
+      "source": "Repaso_activo_Unidad_13_Quimica_Organica_con_pie 2.pdf",
+      "page": "",
+      "options": [
+        "C₆H₅–CH₂OH",
+        "C₆H₅–OH",
+        "C₆H₅–COOH",
+        "C₆H₅–CHO"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-estructuras-004",
+      "subject": "Química",
+      "unit": "Unidad 13 · Química orgánica",
+      "topic": "Estructuras",
+      "difficulty": 2,
+      "question": "¿Qué estructura condensada corresponde al estireno?",
+      "answer": "C₆H₅–CH=CH₂",
+      "explanation": "Contiene un grupo vinilo unido al anillo aromático.",
+      "source": "Repaso_activo_Unidad_13_Quimica_Organica_con_pie 2.pdf",
+      "page": "",
+      "options": [
+        "C₆H₅–NH₂",
+        "C₆H₅–CH₂CH₃",
+        "C₆H₅–CH=CH₂",
+        "C₆H₅–CH₂OH"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-biologia-capitulo-1-biologia-celular-teoria-celular-001",
+      "subject": "Biología",
+      "unit": "Capítulo 1 · Biología celular",
+      "topic": "Teoría celular",
+      "difficulty": 1,
+      "question": "¿De dónde procede una célula nueva según la teoría celular?",
+      "answer": "De una célula preexistente",
+      "explanation": "La continuidad celular se mantiene mediante división.",
+      "source": "CAPÍTULO 1.pdf",
+      "page": "",
+      "options": [
+        "De una proteína aislada",
+        "De un virus que se divide",
+        "De materia inerte en condiciones ordinarias",
+        "De una célula preexistente"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-biologia-capitulo-1-biologia-celular-historia-001",
+      "subject": "Biología",
+      "unit": "Capítulo 1 · Biología celular",
+      "topic": "Historia",
+      "difficulty": 1,
+      "question": "¿Quién describió las cavidades del corcho y las llamó células en 1665?",
+      "answer": "Robert Hooke",
+      "explanation": "Las cavidades visibles correspondían a compartimentos delimitados por paredes celulares.",
+      "source": "CAPÍTULO 1.pdf",
+      "page": "",
+      "options": [
+        "Virchow",
+        "Robert Hooke",
+        "Schleiden",
+        "Schwann"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-biologia-capitulo-1-biologia-celular-historia-002",
+      "subject": "Biología",
+      "unit": "Capítulo 1 · Biología celular",
+      "topic": "Historia",
+      "difficulty": 2,
+      "question": "¿Quién observó microorganismos vivos mediante lentes simples?",
+      "answer": "Antonie van Leeuwenhoek",
+      "explanation": "Sus observaciones incluyeron organismos unicelulares microscópicos.",
+      "source": "CAPÍTULO 1.pdf",
+      "page": "",
+      "options": [
+        "Rudolf Virchow",
+        "Robert Hooke al cortar corcho",
+        "Antonie van Leeuwenhoek",
+        "Theodor Schwann"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-biologia-capitulo-1-biologia-celular-organizacion-celular-001",
+      "subject": "Biología",
+      "unit": "Capítulo 1 · Biología celular",
+      "topic": "Organización celular",
+      "difficulty": 1,
+      "question": "¿Qué característica distingue a las células eucariotas de las procariotas?",
+      "answer": "Núcleo delimitado por membrana",
+      "explanation": "En las procariotas el ADN se localiza principalmente en el nucleoide.",
+      "source": "CAPÍTULO 1.pdf",
+      "page": "",
+      "options": [
+        "ADN como material genético",
+        "Ribosomas",
+        "Núcleo delimitado por membrana",
+        "Membrana plasmática"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-biologia-capitulo-1-biologia-celular-dominios-001",
+      "subject": "Biología",
+      "unit": "Capítulo 1 · Biología celular",
+      "topic": "Dominios",
+      "difficulty": 2,
+      "question": "¿Qué dos dominios reúnen a los organismos procariotas?",
+      "answer": "Bacteria y Archaea",
+      "explanation": "Ambos incluyen organismos cuyas células carecen de núcleo membranoso.",
+      "source": "CAPÍTULO 1.pdf",
+      "page": "",
+      "options": [
+        "Bacteria y Eukarya",
+        "Animalia y Plantae",
+        "Bacteria y Archaea",
+        "Archaea y Eukarya"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-biologia-capitulo-1-biologia-celular-diversidad-001",
+      "subject": "Biología",
+      "unit": "Capítulo 1 · Biología celular",
+      "topic": "Diversidad",
+      "difficulty": 2,
+      "question": "¿Qué analiza la metagenómica microbiana?",
+      "answer": "El material genético de una comunidad",
+      "explanation": "Permite estudiar microorganismos de una muestra incluso si muchos no se cultivan en laboratorio.",
+      "source": "CAPÍTULO 1.pdf",
+      "page": "",
+      "options": [
+        "Solo proteínas humanas",
+        "El material genético de una comunidad",
+        "Únicamente virus aislados",
+        "Solo un cultivo puro identificado"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-biologia-capitulo-1-biologia-celular-modelos-001",
+      "subject": "Biología",
+      "unit": "Capítulo 1 · Biología celular",
+      "topic": "Modelos",
+      "difficulty": 1,
+      "question": "¿Qué organismo modelo es una levadura?",
+      "answer": "Saccharomyces cerevisiae",
+      "explanation": "Es un hongo eucariota unicelular ampliamente usado en investigación.",
+      "source": "CAPÍTULO 1.pdf",
+      "page": "",
+      "options": [
+        "Caenorhabditis elegans",
+        "Saccharomyces cerevisiae",
+        "Drosophila melanogaster",
+        "Escherichia coli"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-biologia-capitulo-1-biologia-celular-tamano-001",
+      "subject": "Biología",
+      "unit": "Capítulo 1 · Biología celular",
+      "topic": "Tamaño",
+      "difficulty": 3,
+      "question": "Si una célula esférica duplica su radio, ¿qué ocurre con su relación superficie/volumen?",
+      "answer": "Se reduce a la mitad",
+      "explanation": "La superficie crece con r² y el volumen con r³, por lo que su cociente es proporcional a 1/r.",
+      "source": "CAPÍTULO 1.pdf",
+      "page": "",
+      "options": [
+        "Permanece igual",
+        "Se duplica",
+        "Se cuadruplica",
+        "Se reduce a la mitad"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-biologia-capitulo-1-biologia-celular-virus-001",
+      "subject": "Biología",
+      "unit": "Capítulo 1 · Biología celular",
+      "topic": "Virus",
+      "difficulty": 1,
+      "question": "¿Cómo se denomina la cubierta proteica que rodea el genoma viral?",
+      "answer": "Cápside",
+      "explanation": "Es una estructura de proteínas. Algunos virus tienen además una envoltura lipídica.",
+      "source": "CAPÍTULO 1.pdf",
+      "page": "",
+      "options": [
+        "Pared celular",
+        "Nucleoide",
+        "Ribosoma",
+        "Cápside"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-biologia-capitulo-1-biologia-celular-virus-002",
+      "subject": "Biología",
+      "unit": "Capítulo 1 · Biología celular",
+      "topic": "Virus",
+      "difficulty": 2,
+      "question": "¿Qué influye en que un virus pueda entrar a un tipo particular de célula?",
+      "answer": "La presencia de receptores compatibles",
+      "explanation": "La unión entre componentes virales y receptores celulares ayuda a determinar el tropismo.",
+      "source": "CAPÍTULO 1.pdf",
+      "page": "",
+      "options": [
+        "Solo el tamaño de la cápside",
+        "El color de la célula",
+        "La presencia de receptores compatibles",
+        "La presencia obligatoria de pared de celulosa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-biologia-capitulo-1-biologia-celular-viroides-001",
+      "subject": "Biología",
+      "unit": "Capítulo 1 · Biología celular",
+      "topic": "Viroides",
+      "difficulty": 2,
+      "question": "¿Qué caracteriza a un viroide?",
+      "answer": "ARN pequeño sin cápside que puede infectar plantas",
+      "explanation": "A diferencia de un virión, el viroide no está encerrado en una cubierta proteica propia.",
+      "source": "CAPÍTULO 1.pdf",
+      "page": "",
+      "options": [
+        "ADN rodeado de cápside",
+        "Una proteína infecciosa sin ácido nucleico",
+        "ARN pequeño sin cápside que puede infectar plantas",
+        "Una bacteria sin pared"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-biologia-capitulo-1-biologia-celular-priones-001",
+      "subject": "Biología",
+      "unit": "Capítulo 1 · Biología celular",
+      "topic": "Priones",
+      "difficulty": 2,
+      "question": "¿Qué es un prion?",
+      "answer": "Una proteína infecciosa capaz de inducir un plegamiento anómalo",
+      "explanation": "La propagación se basa en cambios conformacionales de proteínas del huésped.",
+      "source": "CAPÍTULO 1.pdf",
+      "page": "",
+      "options": [
+        "Un virus de ADN",
+        "Una proteína infecciosa capaz de inducir un plegamiento anómalo",
+        "Un ARN vegetal circular",
+        "Una bacteria intracelular"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-catalisis-001",
+      "subject": "Biología",
+      "unit": "Capítulo 3 · Enzimas y metabolismo",
+      "topic": "Catálisis",
+      "difficulty": 1,
+      "question": "¿Qué reduce una enzima para acelerar una reacción?",
+      "answer": "Energía de activación",
+      "explanation": "Facilita una ruta hacia el estado de transición sin modificar la diferencia de energía libre entre reactivos y productos.",
+      "source": "CAPÍTULO 3.pdf",
+      "page": "",
+      "options": [
+        "Energía de activación",
+        "ΔG de la reacción",
+        "Temperatura de equilibrio",
+        "Energía libre de los productos exclusivamente"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-sitio-activo-001",
+      "subject": "Biología",
+      "unit": "Capítulo 3 · Enzimas y metabolismo",
+      "topic": "Sitio activo",
+      "difficulty": 2,
+      "question": "¿Qué propone el modelo de ajuste inducido?",
+      "answer": "La unión del sustrato provoca un cambio conformacional",
+      "explanation": "El sitio activo y el sustrato se ajustan durante la interacción.",
+      "source": "CAPÍTULO 3.pdf",
+      "page": "",
+      "options": [
+        "La enzima es totalmente rígida",
+        "La enzima se consume al unirse",
+        "La unión del sustrato provoca un cambio conformacional",
+        "El sustrato se une solo a un receptor nuclear"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-mecanismos-001",
+      "subject": "Biología",
+      "unit": "Capítulo 3 · Enzimas y metabolismo",
+      "topic": "Mecanismos",
+      "difficulty": 2,
+      "question": "¿Cómo ayuda la catálisis por proximidad y orientación?",
+      "answer": "Acerca y alinea a los reactivos",
+      "explanation": "Aumenta la probabilidad de encuentros con la geometría adecuada.",
+      "source": "CAPÍTULO 3.pdf",
+      "page": "",
+      "options": [
+        "Elimina todo contacto entre reactivos",
+        "Separa permanentemente a los reactivos",
+        "Acerca y alinea a los reactivos",
+        "Eleva la energía de activación"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-cofactores-001",
+      "subject": "Biología",
+      "unit": "Capítulo 3 · Enzimas y metabolismo",
+      "topic": "Cofactores",
+      "difficulty": 2,
+      "question": "¿Qué nombre recibe la enzima completa con su cofactor requerido?",
+      "answer": "Holoenzima",
+      "explanation": "La apoenzima es la porción proteica que necesita asociarse con el cofactor.",
+      "source": "CAPÍTULO 3.pdf",
+      "page": "",
+      "options": [
+        "Holoenzima",
+        "Apoenzima",
+        "Ribozima",
+        "Sustrato"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-cinetica-001",
+      "subject": "Biología",
+      "unit": "Capítulo 3 · Enzimas y metabolismo",
+      "topic": "Cinética",
+      "difficulty": 2,
+      "question": "En el modelo de Michaelis–Menten, ¿cuál es la velocidad cuando [S] = Km?",
+      "answer": "La mitad de Vmax",
+      "explanation": "Al sustituir [S] = Km, el denominador es 2Km.",
+      "source": "CAPÍTULO 3.pdf",
+      "page": "",
+      "options": [
+        "La mitad de Vmax",
+        "Cero",
+        "Dos veces Vmax",
+        "Vmax"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-inhibicion-001",
+      "subject": "Biología",
+      "unit": "Capítulo 3 · Enzimas y metabolismo",
+      "topic": "Inhibición",
+      "difficulty": 3,
+      "question": "¿Qué cambia en la inhibición competitiva reversible ideal?",
+      "answer": "Aumenta el Km aparente y Vmax se mantiene",
+      "explanation": "Una concentración suficientemente alta de sustrato puede superar la competencia por el sitio activo.",
+      "source": "CAPÍTULO 3.pdf",
+      "page": "",
+      "options": [
+        "Aumenta el Km aparente y Vmax se mantiene",
+        "Aumentan ambos",
+        "Disminuye Vmax y Km se mantiene",
+        "Disminuyen ambos"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-inhibicion-002",
+      "subject": "Biología",
+      "unit": "Capítulo 3 · Enzimas y metabolismo",
+      "topic": "Inhibición",
+      "difficulty": 3,
+      "question": "¿Qué efecto tiene un inhibidor no competitivo puro sobre Vmax?",
+      "answer": "La disminuye",
+      "explanation": "El exceso de sustrato no recupera la capacidad catalítica perdida. En el caso puro, Km se mantiene.",
+      "source": "CAPÍTULO 3.pdf",
+      "page": "",
+      "options": [
+        "La duplica",
+        "La aumenta",
+        "La disminuye",
+        "La deja igual"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-metabolismo-001",
+      "subject": "Biología",
+      "unit": "Capítulo 3 · Enzimas y metabolismo",
+      "topic": "Metabolismo",
+      "difficulty": 1,
+      "question": "¿Cómo se llama el conjunto de rutas de degradación de moléculas?",
+      "answer": "Catabolismo",
+      "explanation": "Estas rutas descomponen moléculas y pueden conservar energía en ATP o transportadores reducidos.",
+      "source": "CAPÍTULO 3.pdf",
+      "page": "",
+      "options": [
+        "Difusión",
+        "Catabolismo",
+        "Anabolismo",
+        "Replicación"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-redox-001",
+      "subject": "Biología",
+      "unit": "Capítulo 3 · Enzimas y metabolismo",
+      "topic": "Redox",
+      "difficulty": 2,
+      "question": "¿Qué le ocurre al NAD⁺ al convertirse en NADH?",
+      "answer": "Se reduce",
+      "explanation": "La forma NADH recibe electrones mediante la incorporación de un hidruro.",
+      "source": "CAPÍTULO 3.pdf",
+      "page": "",
+      "options": [
+        "Se fosforila",
+        "Se desnaturaliza",
+        "Se reduce",
+        "Se oxida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-atp-001",
+      "subject": "Biología",
+      "unit": "Capítulo 3 · Enzimas y metabolismo",
+      "topic": "ATP",
+      "difficulty": 2,
+      "question": "¿Cómo puede una reacción desfavorable avanzar al acoplarse a la hidrólisis de ATP?",
+      "answer": "El ΔG total de los procesos acoplados puede ser negativo",
+      "explanation": "La hidrólisis aporta un cambio de energía libre que compensa el del proceso desfavorable.",
+      "source": "CAPÍTULO 3.pdf",
+      "page": "",
+      "options": [
+        "El ATP se convierte directamente en ADN",
+        "El ATP elimina el equilibrio",
+        "El ΔG total de los procesos acoplados puede ser negativo",
+        "La hidrólisis vuelve positivo el ΔG total"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-glucolisis-001",
+      "subject": "Biología",
+      "unit": "Capítulo 3 · Enzimas y metabolismo",
+      "topic": "Glucólisis",
+      "difficulty": 2,
+      "question": "¿Cuántos ATP netos produce la glucólisis por cada glucosa?",
+      "answer": "2 ATP",
+      "explanation": "Se generan cuatro ATP en la fase de obtención y se gastan dos en la fase inicial.",
+      "source": "CAPÍTULO 3.pdf",
+      "page": "",
+      "options": [
+        "4 ATP",
+        "0 ATP",
+        "2 ATP",
+        "36 ATP"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-regulacion-001",
+      "subject": "Biología",
+      "unit": "Capítulo 3 · Enzimas y metabolismo",
+      "topic": "Regulación",
+      "difficulty": 3,
+      "question": "¿Qué ocurre en la inhibición por retroalimentación?",
+      "answer": "Un producto final reduce la actividad de una enzima de una etapa previa",
+      "explanation": "Esto limita el gasto de recursos cuando se acumula el producto.",
+      "source": "CAPÍTULO 3.pdf",
+      "page": "",
+      "options": [
+        "El sustrato final duplica todos los catalizadores",
+        "Un producto final siempre activa la primera enzima",
+        "Un producto final reduce la actividad de una enzima de una etapa previa",
+        "La vía se independiza de sus productos"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-matematica-algebra-1-exponentes-001",
+      "subject": "Matemática",
+      "unit": "Álgebra 1",
+      "topic": "Exponentes",
+      "difficulty": 1,
+      "question": "¿Cómo se simplifica x³ · x⁴?",
+      "answer": "x⁷",
+      "explanation": "Al multiplicar potencias de igual base se suman los exponentes.",
+      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "page": "1–3",
+      "options": [
+        "2x⁷",
+        "x¹²",
+        "x",
+        "x⁷"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-matematica-algebra-1-exponentes-002",
+      "subject": "Matemática",
+      "unit": "Álgebra 1",
+      "topic": "Exponentes",
+      "difficulty": 2,
+      "question": "Para a ≠ 0, ¿cuánto vale a⁻³?",
+      "answer": "1/a³",
+      "explanation": "El exponente negativo indica el recíproco de la potencia positiva.",
+      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "page": "1–3",
+      "options": [
+        "a³",
+        "1/a³",
+        "−a³",
+        "−1/a³"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-matematica-algebra-1-exponentes-003",
+      "subject": "Matemática",
+      "unit": "Álgebra 1",
+      "topic": "Exponentes",
+      "difficulty": 2,
+      "question": "¿Cuál es la expansión de (2x³)²?",
+      "answer": "4x⁶",
+      "explanation": "Se eleva al cuadrado el coeficiente y se multiplican los exponentes de x.",
+      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "page": "1–3",
+      "options": [
+        "4x⁵",
+        "2x⁶",
+        "2x⁹",
+        "4x⁶"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-matematica-algebra-1-grado-001",
+      "subject": "Matemática",
+      "unit": "Álgebra 1",
+      "topic": "Grado",
+      "difficulty": 2,
+      "question": "¿Cuál es el grado total del monomio 7x²y³?",
+      "answer": "5",
+      "explanation": "Se suman los exponentes de las variables. El coeficiente no se cuenta.",
+      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "page": "1–3",
+      "options": [
+        "5",
+        "7",
+        "3",
+        "2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-matematica-algebra-1-grado-002",
+      "subject": "Matemática",
+      "unit": "Álgebra 1",
+      "topic": "Grado",
+      "difficulty": 2,
+      "question": "¿Cuál es el grado respecto de x del polinomio x²y⁵ + x⁴y?",
+      "answer": "4",
+      "explanation": "El mayor exponente de x en sus términos es 4.",
+      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "page": "1–3",
+      "options": [
+        "5",
+        "7",
+        "2",
+        "4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-matematica-algebra-1-suma-y-resta-001",
+      "subject": "Matemática",
+      "unit": "Álgebra 1",
+      "topic": "Suma y resta",
+      "difficulty": 1,
+      "question": "¿Cuál es el resultado de 8x² − 3x²?",
+      "answer": "5x²",
+      "explanation": "Se restan los coeficientes de términos con la misma parte literal.",
+      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "page": "1–3",
+      "options": [
+        "5x²",
+        "5x",
+        "11x²",
+        "5x⁴"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-matematica-algebra-1-multiplicacion-001",
+      "subject": "Matemática",
+      "unit": "Álgebra 1",
+      "topic": "Multiplicación",
+      "difficulty": 2,
+      "question": "¿Cómo se desarrolla 3x(x − 4)?",
+      "answer": "3x² − 12x",
+      "explanation": "El factor 3x multiplica ambos términos del paréntesis.",
+      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "page": "1–3",
+      "options": [
+        "3x² − 12x",
+        "3x − 12x",
+        "3x² + 12x",
+        "3x² − 4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-matematica-algebra-1-division-001",
+      "subject": "Matemática",
+      "unit": "Álgebra 1",
+      "topic": "División",
+      "difficulty": 3,
+      "question": "¿Cuál es el cociente de (x² − 5x + 6) ÷ (x − 2), con x ≠ 2?",
+      "answer": "x − 3",
+      "explanation": "El producto (x − 2)(x − 3) recupera el numerador.",
+      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "page": "1–3",
+      "options": [
+        "x − 2",
+        "x + 3",
+        "x − 3",
+        "x + 2"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-magnitudes-001",
+      "subject": "Física",
+      "unit": "Magnitudes, unidades y vectores",
+      "topic": "Magnitudes",
+      "difficulty": 1,
+      "question": "¿Cuál de estas magnitudes es escalar?",
+      "answer": "Masa",
+      "explanation": "La masa tiene valor y unidad, sin dirección ni sentido.",
+      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "page": "",
+      "options": [
+        "Fuerza",
+        "Desplazamiento",
+        "Velocidad",
+        "Masa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-sistema-internacional-001",
+      "subject": "Física",
+      "unit": "Magnitudes, unidades y vectores",
+      "topic": "Sistema Internacional",
+      "difficulty": 1,
+      "question": "¿Cuál es la unidad base del SI de la intensidad luminosa?",
+      "answer": "Candela (cd)",
+      "explanation": "La candela mide intensidad luminosa. La dirección en que se mide no convierte esa intensidad en un vector.",
+      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "page": "",
+      "options": [
+        "Candela (cd)",
+        "Amperio (A)",
+        "Lux (lx)",
+        "Lumen (lm)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-unidades-derivadas-001",
+      "subject": "Física",
+      "unit": "Magnitudes, unidades y vectores",
+      "topic": "Unidades derivadas",
+      "difficulty": 2,
+      "question": "¿A qué unidades base equivale un newton?",
+      "answer": "kg·m·s⁻²",
+      "explanation": "La segunda ley de Newton expresa fuerza como masa por aceleración.",
+      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "page": "",
+      "options": [
+        "kg·m²·s⁻³",
+        "kg·m·s⁻²",
+        "kg·m·s⁻¹",
+        "kg·m²·s⁻²"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-unidades-derivadas-002",
+      "subject": "Física",
+      "unit": "Magnitudes, unidades y vectores",
+      "topic": "Unidades derivadas",
+      "difficulty": 2,
+      "question": "¿A qué unidades base equivale un watt?",
+      "answer": "kg·m²·s⁻³",
+      "explanation": "Un watt es un joule por segundo. Un joule es un newton multiplicado por un metro, N·m.",
+      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "page": "",
+      "options": [
+        "kg·m²·s⁻²",
+        "kg·m·s⁻²",
+        "kg·m²·s⁻³",
+        "kg·m·s⁻¹"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-masa-y-peso-001",
+      "subject": "Física",
+      "unit": "Magnitudes, unidades y vectores",
+      "topic": "Masa y peso",
+      "difficulty": 2,
+      "question": "¿Qué cambia al trasladar un objeto de la Tierra a la Luna?",
+      "answer": "Cambia su peso y conserva su masa",
+      "explanation": "El peso depende de la aceleración gravitatoria local.",
+      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "page": "",
+      "options": [
+        "Cambia solo su masa",
+        "Cambian ambos en la misma proporción",
+        "Cambia su peso y conserva su masa",
+        "No cambia ninguno"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-prefijos-001",
+      "subject": "Física",
+      "unit": "Magnitudes, unidades y vectores",
+      "topic": "Prefijos",
+      "difficulty": 1,
+      "question": "¿Qué factor representa el prefijo micro (μ)?",
+      "answer": "10⁻⁶",
+      "explanation": "El prefijo indica una millonésima de la unidad.",
+      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "page": "",
+      "options": [
+        "10⁻⁶",
+        "10⁶",
+        "10⁻³",
+        "10⁻⁹"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-vectores-001",
+      "subject": "Física",
+      "unit": "Magnitudes, unidades y vectores",
+      "topic": "Vectores",
+      "difficulty": 1,
+      "question": "¿Qué cambia entre un vector no nulo y su opuesto?",
+      "answer": "El sentido",
+      "explanation": "Conservan el módulo y la dirección de su recta, pero apuntan en sentidos contrarios.",
+      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "page": "",
+      "options": [
+        "El módulo",
+        "La unidad",
+        "El módulo y la dirección de su recta",
+        "El sentido"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-suma-grafica-001",
+      "subject": "Física",
+      "unit": "Magnitudes, unidades y vectores",
+      "topic": "Suma gráfica",
+      "difficulty": 2,
+      "question": "En el método del polígono, ¿cómo se traza la resultante?",
+      "answer": "Del origen del primero a la punta del último",
+      "explanation": "Se colocan los vectores punta con origen, conservando su módulo, dirección y sentido.",
+      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "page": "",
+      "options": [
+        "De la punta del primero al origen del último",
+        "Uniendo los orígenes de todos los vectores",
+        "Del origen del primero a la punta del último",
+        "Desde el último origen hacia el primero"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-resta-grafica-001",
+      "subject": "Física",
+      "unit": "Magnitudes, unidades y vectores",
+      "topic": "Resta gráfica",
+      "difficulty": 2,
+      "question": "Con A y B aplicados en un origen común, ¿hacia dónde apunta A − B?",
+      "answer": "Desde la punta de B hasta la punta de A",
+      "explanation": "Al sumar ese desplazamiento a B se llega al extremo de A.",
+      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "page": "",
+      "options": [
+        "Del origen a la punta de A siempre",
+        "Del origen a la punta de B",
+        "Desde la punta de B hasta la punta de A",
+        "Desde la punta de A hasta la punta de B"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-ley-del-coseno-001",
+      "subject": "Física",
+      "unit": "Magnitudes, unidades y vectores",
+      "topic": "Ley del coseno",
+      "difficulty": 3,
+      "question": "Si el ángulo entre A y B es obtuso, ¿qué módulo es mayor: el de A + B o el de A − B?",
+      "answer": "El de A − B",
+      "explanation": "El coseno es negativo. En el cuadrado del módulo de la diferencia aparece −2AB cos θ, que es positivo.",
+      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "page": "",
+      "options": [
+        "Son iguales para todo ángulo",
+        "Solo se sabe si A = B",
+        "El de A + B",
+        "El de A − B"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-componentes-001",
+      "subject": "Física",
+      "unit": "Magnitudes, unidades y vectores",
+      "topic": "Componentes",
+      "difficulty": 2,
+      "question": "¿En qué cuadrante está un vector con Rx < 0 y Ry > 0?",
+      "answer": "Segundo",
+      "explanation": "Su componente horizontal apunta a la izquierda y la vertical hacia arriba.",
+      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "page": "",
+      "options": [
+        "Primero",
+        "Tercero",
+        "Cuarto",
+        "Segundo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-componentes-002",
+      "subject": "Física",
+      "unit": "Magnitudes, unidades y vectores",
+      "topic": "Componentes",
+      "difficulty": 3,
+      "question": "Si Rx = −2,17 y Ry = 5,83, ¿qué ángulo aproximado forma la resultante desde +x en sentido antihorario?",
+      "answer": "110°",
+      "explanation": "El ángulo de referencia es aproximadamente 70°. En el segundo cuadrante corresponde a 180° − 70°.",
+      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "page": "",
+      "options": [
+        "110°",
+        "20°",
+        "250°",
+        "70°"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-palabras-baul-001",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Palabras baúl",
+      "difficulty": 1,
+      "question": "¿Qué problema causa abusar de palabras como «cosa» o «hacer»?",
+      "answer": "Se pierde precisión sobre lo que se quiere comunicar",
+      "explanation": "Una palabra general puede ocultar la acción o el objeto exacto.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "1–7",
+      "options": [
+        "Todas las oraciones cambian al tiempo pasado",
+        "Todas las oraciones pasan a ser agramaticales",
+        "Se pierde precisión sobre lo que se quiere comunicar",
+        "Las palabras adquieren siempre un sentido técnico"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-adjetivos-001",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Adjetivos",
+      "difficulty": 2,
+      "question": "¿Qué adjetivo describe una victoria cuyo costo supera su beneficio?",
+      "answer": "Pírrica",
+      "explanation": "El resultado nominal es favorable, pero las pérdidas lo vuelven poco provechoso.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "3–4, 7",
+      "options": [
+        "Pírrica",
+        "Expeditiva",
+        "Inocua",
+        "Facultativa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-adjetivos-002",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Adjetivos",
+      "difficulty": 2,
+      "question": "¿Qué adjetivo describe una afirmación breve y concisa?",
+      "answer": "Sucinta",
+      "explanation": "Expresa lo esencial con pocas palabras.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "3–4, 7",
+      "options": [
+        "Procelosa",
+        "Displicente",
+        "Nauseabunda",
+        "Sucinta"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-adjetivos-003",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Adjetivos",
+      "difficulty": 2,
+      "question": "¿Qué adjetivo describe a alguien que parece estar en todas partes?",
+      "answer": "Ubicuo",
+      "explanation": "El término se usa en sentido literal o figurado para una presencia extendida.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "3–4, 7",
+      "options": [
+        "Ubicuo",
+        "Agreste",
+        "Facultativo",
+        "Flemático"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-adjetivos-004",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Adjetivos",
+      "difficulty": 2,
+      "question": "¿Qué adjetivo corresponde a una persona con aptitudes en muchas áreas?",
+      "answer": "Polifacética",
+      "explanation": "El término alude a múltiples facetas o capacidades.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "3–4, 7",
+      "options": [
+        "Parsimoniosa",
+        "Sardónica",
+        "Polifacética",
+        "Negligente"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-adjetivos-005",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Adjetivos",
+      "difficulty": 2,
+      "question": "¿Cómo se califica una expresión burlona y mordaz?",
+      "answer": "Sardónica",
+      "explanation": "Describe una burla incisiva o desdeñosa.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "3–4, 7",
+      "options": [
+        "Ilesa",
+        "Sardónica",
+        "Comedida",
+        "Solvente"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-adjetivos-006",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Adjetivos",
+      "difficulty": 2,
+      "question": "¿Qué significa «inocuo» aplicado a un procedimiento?",
+      "answer": "Que no causa daño",
+      "explanation": "El término describe la ausencia de efecto perjudicial.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "3–4, 7",
+      "options": [
+        "Que se ejecuta rápidamente",
+        "Que se realiza con desgano",
+        "Que resulta ofensivo",
+        "Que no causa daño"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-001",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Verbos precisos",
+      "difficulty": 1,
+      "question": "¿Qué verbo precisa mejor «hacer una estatua de mármol»?",
+      "answer": "Esculpir",
+      "explanation": "Esculpir expresa la acción artística de labrar o modelar una figura.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "1–7",
+      "options": [
+        "Redactar",
+        "Estampar",
+        "Recitar",
+        "Esculpir"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-002",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Verbos precisos",
+      "difficulty": 1,
+      "question": "¿Qué verbo precisa mejor «decir un secreto» cuando se da a conocer?",
+      "answer": "Revelar",
+      "explanation": "Revelar implica descubrir o comunicar algo que estaba oculto.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "1–7",
+      "options": [
+        "Recitar",
+        "Revelar",
+        "Citar",
+        "Aducir"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-003",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Verbos precisos",
+      "difficulty": 2,
+      "question": "¿Qué verbo precisa «dar razones para justificar una decisión»?",
+      "answer": "Aducir",
+      "explanation": "Aducir significa presentar razones o pruebas en apoyo de algo.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "1–7",
+      "options": [
+        "Sembrar",
+        "Enmarcar",
+        "Otorgar",
+        "Aducir"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-004",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Verbos precisos",
+      "difficulty": 1,
+      "question": "¿Qué verbo precisa «tener un puesto» cuando significa ejercerlo?",
+      "answer": "Desempeñar",
+      "explanation": "El verbo nombra el ejercicio de una función o cargo.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "1–7",
+      "options": [
+        "Proferir",
+        "Abarcar",
+        "Sufrir",
+        "Desempeñar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-005",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Verbos precisos",
+      "difficulty": 2,
+      "question": "¿Cómo se puede precisar «hubo una batalla en ese lugar»?",
+      "answer": "Allí se libró una batalla",
+      "explanation": "Librar una batalla nombra de manera directa el hecho bélico.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "1–7",
+      "options": [
+        "Allí se redactó una batalla",
+        "Allí se profesó una batalla",
+        "Allí se libró una batalla",
+        "Allí se estampó una batalla"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-006",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Verbos precisos",
+      "difficulty": 1,
+      "question": "¿Qué verbo precisa «echar un discurso» en una ceremonia?",
+      "answer": "Pronunciar",
+      "explanation": "Pronunciar un discurso es exponerlo oralmente ante otras personas.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "1–7",
+      "options": [
+        "Derramar",
+        "Pronunciar",
+        "Estampar",
+        "Medir"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-007",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Verbos precisos",
+      "difficulty": 2,
+      "question": "¿Cuál es la sustitución más precisa para «poner la firma en el documento»?",
+      "answer": "Estampar la firma",
+      "explanation": "La locución expresa dejar la firma escrita sobre el documento.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "1–7",
+      "options": [
+        "Estampar la firma",
+        "Proferir la firma",
+        "Aducir la firma",
+        "Sembrar la firma"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-adjetivos-007",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Adjetivos",
+      "difficulty": 2,
+      "question": "¿Qué adjetivo indica que una persona salió sin lesiones de un accidente?",
+      "answer": "Ilesa",
+      "explanation": "Ilesa indica que salió sin daño físico.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "3–4, 7",
+      "options": [
+        "Indolente",
+        "Inerme",
+        "Incauta",
+        "Ilesa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-adjetivos-008",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Adjetivos",
+      "difficulty": 2,
+      "question": "¿Qué adjetivo caracteriza a quien se dedica habitualmente a algo y difícilmente abandona el hábito?",
+      "answer": "Empedernido",
+      "explanation": "Puede aplicarse, por ejemplo, a un fumador persistente.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "3–4, 7",
+      "options": [
+        "Sucinto",
+        "Agreste",
+        "Airoso",
+        "Empedernido"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-adjetivos-009",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Adjetivos",
+      "difficulty": 3,
+      "question": "¿Qué adjetivo describe un mar agitado y tempestuoso?",
+      "answer": "Proceloso",
+      "explanation": "El término se aplica a condiciones tormentosas o peligrosas.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "3–4, 7",
+      "options": [
+        "Sucinto",
+        "Proceloso",
+        "Inocuo",
+        "Flemático"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-adjetivos-010",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Adjetivos",
+      "difficulty": 2,
+      "question": "¿Qué adjetivo describe a quien suele favorecer el bienestar ajeno con acciones altruistas?",
+      "answer": "Filantrópico",
+      "explanation": "El término se asocia con la ayuda desinteresada a otras personas.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "3–4, 7",
+      "options": [
+        "Quimérico",
+        "Flemático",
+        "Filantrópico",
+        "Displicente"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-adjetivos-011",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Adjetivos",
+      "difficulty": 2,
+      "question": "¿Qué adjetivo indica que alguien muestra desgano o desdén en su trato?",
+      "answer": "Displicente",
+      "explanation": "La displicencia puede manifestarse en una actitud desdeñosa o poco interesada.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "3–4, 7",
+      "options": [
+        "Solvente",
+        "Airoso",
+        "Displicente",
+        "Comedido"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-adjetivos-012",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Adjetivos",
+      "difficulty": 2,
+      "question": "¿Qué adjetivo describe un proyecto ilusorio y sin fundamento real?",
+      "answer": "Quimérico",
+      "explanation": "El término alude a algo imaginario o irrealizable.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "3–4, 7",
+      "options": [
+        "Inocuo",
+        "Quimérico",
+        "Ubicuo",
+        "Expeditivo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-adjetivos-013",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Adjetivos",
+      "difficulty": 2,
+      "question": "¿Qué adjetivo designa a quien mantiene un ánimo imperturbable y pausado?",
+      "answer": "Flemático",
+      "explanation": "Alude a una persona tranquila y poco dada a reaccionar con agitación.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "3–4, 7",
+      "options": [
+        "Flemático",
+        "Compulsivo",
+        "Displicente",
+        "Sardónico"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-adjetivos-014",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Adjetivos",
+      "difficulty": 2,
+      "question": "¿Qué adjetivo califica a alguien moderado y prudente en su forma de actuar?",
+      "answer": "Comedido",
+      "explanation": "El comedimiento se manifiesta en la moderación del comportamiento.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "3–4, 7",
+      "options": [
+        "Desmadejado",
+        "Despótico",
+        "Empedernido",
+        "Comedido"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-008",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Verbos precisos",
+      "difficulty": 2,
+      "question": "Completa con el verbo más preciso: «El taller ___ repuestos para bicicletas».",
+      "answer": "Fabrica",
+      "explanation": "Fabricar expresa que el taller produce los repuestos.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "1–7",
+      "options": [
+        "Vierte",
+        "Profesa",
+        "Recita",
+        "Fabrica"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-009",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Verbos precisos",
+      "difficulty": 2,
+      "question": "¿Qué verbo precisa «hacer un informe sobre los resultados»?",
+      "answer": "Redactar",
+      "explanation": "Redactar indica la composición del texto de un informe.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "1–7",
+      "options": [
+        "Proferir",
+        "Fundir",
+        "Redactar",
+        "Recorrer"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-010",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Verbos precisos",
+      "difficulty": 2,
+      "question": "¿Qué verbo precisa «hacer a pie el tramo final»?",
+      "answer": "Recorrer",
+      "explanation": "Recorrer indica desplazarse por una distancia o trayecto.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "1–7",
+      "options": [
+        "Desempeñar",
+        "Enmarcar",
+        "Recorrer",
+        "Elaborar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-011",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Verbos precisos",
+      "difficulty": 2,
+      "question": "¿Qué verbo precisa «poner normas para el uso del laboratorio»?",
+      "answer": "Establecer",
+      "explanation": "Establecer normas significa fijarlas para que rijan una actividad.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "1–7",
+      "options": [
+        "Establecer",
+        "Abarcar",
+        "Recitar",
+        "Derramar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-012",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Verbos precisos",
+      "difficulty": 2,
+      "question": "¿Qué verbo precisa «echar al entrenador de su puesto»?",
+      "answer": "Destituir",
+      "explanation": "Destituir significa separar a una persona del cargo que ejercía.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "1–7",
+      "options": [
+        "Instalar",
+        "Revelar",
+        "Proferir",
+        "Destituir"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-013",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Verbos precisos",
+      "difficulty": 2,
+      "question": "Completa con el verbo más preciso: «En el campanario ___ las campanas durante la ceremonia».",
+      "answer": "Repicaron",
+      "explanation": "Repicar nombra el sonido repetido de las campanas.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "1–7",
+      "options": [
+        "Comparecieron",
+        "Brotaron",
+        "Se deslizaron",
+        "Repicaron"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-014",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Verbos precisos",
+      "difficulty": 2,
+      "question": "¿Qué verbo precisa «ver las cuentas para comprobar que están bien»?",
+      "answer": "Revisar",
+      "explanation": "Revisar expresa la comprobación deliberada de los datos.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "1–7",
+      "options": [
+        "Contemplar",
+        "Revisar",
+        "Atisbar",
+        "Divisar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-015",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Verbos precisos",
+      "difficulty": 2,
+      "question": "¿Qué verbo precisa «echar agua de una jarra a un vaso»?",
+      "answer": "Verter",
+      "explanation": "Verter expresa el traslado de un líquido al inclinar su recipiente.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "1–7",
+      "options": [
+        "Proferir",
+        "Destituir",
+        "Aducir",
+        "Verter"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-016",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Verbos precisos",
+      "difficulty": 2,
+      "question": "¿Qué verbo precisa «tener bronquitis» en una descripción del estado de salud?",
+      "answer": "Padecer",
+      "explanation": "Padecer se usa para indicar que se sufre una enfermedad.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "1–7",
+      "options": [
+        "Padecer",
+        "Abarcar",
+        "Desempeñar",
+        "Estampar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-017",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Verbos precisos",
+      "difficulty": 2,
+      "question": "¿Qué verbo precisa «tener muy buena salud» usando una locución con la preposición de?",
+      "answer": "Gozar de muy buena salud",
+      "explanation": "Gozar de expresa el disfrute o la posesión favorable de una condición.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "1–7",
+      "options": [
+        "Padecer de muy buena salud",
+        "Proferir de muy buena salud",
+        "Aducir de muy buena salud",
+        "Gozar de muy buena salud"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-018",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Verbos precisos",
+      "difficulty": 3,
+      "question": "¿Qué verbo precisa «poner un argumento» en el sentido de utilizarlo en un debate?",
+      "answer": "Esgrimir",
+      "explanation": "En sentido figurado, esgrimir es emplear una razón como recurso en una discusión.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "1–7",
+      "options": [
+        "Esgrimir",
+        "Estampar",
+        "Montar",
+        "Tender"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-019",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Verbos precisos",
+      "difficulty": 2,
+      "question": "Completa con la opción más precisa: «Durante la audiencia, ___ tres testigos».",
+      "answer": "Comparecieron",
+      "explanation": "Comparecer es presentarse ante una autoridad o instancia formal.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "1–7",
+      "options": [
+        "Ondeaban",
+        "Brotaron",
+        "Comparecieron",
+        "Descollaron"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-palabras-baul-002",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Palabras baúl",
+      "difficulty": 2,
+      "question": "¿Qué sustantivo precisa «una cosa para medir la temperatura»?",
+      "answer": "Termómetro",
+      "explanation": "Nombra el instrumento por su función específica.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "1–7",
+      "options": [
+        "Barómetro",
+        "Cronómetro",
+        "Termómetro",
+        "Manómetro"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-palabras-baul-003",
+      "subject": "Lenguaje",
+      "unit": "Precisión semántica y vocabulario",
+      "topic": "Palabras baúl",
+      "difficulty": 2,
+      "question": "¿Qué sustantivo precisa «la cosa que impide el paso» cuando se trata de un objeto que bloquea el camino?",
+      "answer": "Obstáculo",
+      "explanation": "Obstáculo designa algo que dificulta o impide el paso.",
+      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "page": "1–7",
+      "options": [
+        "Obstáculo",
+        "Adorno",
+        "Utensilio",
+        "Indicio"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-quimica-unidad-1-materia-y-energia-densidad-001",
+      "subject": "Química",
+      "unit": "Unidad 1 · Materia y energía",
+      "topic": "Densidad",
+      "difficulty": 2,
+      "question": "Una muestra tiene 48 g y ocupa 12 cm³. ¿Cuál es su densidad?",
+      "answer": "4 g/cm³",
+      "explanation": "Se divide la masa por el volumen: 48/12 = 4.",
+      "source": "Unidad 1 Materia y Energía.pdf",
+      "page": "",
+      "options": [
+        "12 g/cm³",
+        "48 g/cm³",
+        "576 g/cm³",
+        "4 g/cm³"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-quimica-unidad-1-materia-y-energia-densidad-002",
+      "subject": "Química",
+      "unit": "Unidad 1 · Materia y energía",
+      "topic": "Densidad",
+      "difficulty": 2,
+      "question": "Una muestra tiene 35 g y ocupa 7 cm³. ¿Cuál es su densidad?",
+      "answer": "5 g/cm³",
+      "explanation": "Se divide la masa por el volumen: 35/7 = 5.",
+      "source": "Unidad 1 Materia y Energía.pdf",
+      "page": "",
+      "options": [
+        "7 g/cm³",
+        "245 g/cm³",
+        "35 g/cm³",
+        "5 g/cm³"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-quimica-unidad-1-materia-y-energia-densidad-003",
+      "subject": "Química",
+      "unit": "Unidad 1 · Materia y energía",
+      "topic": "Densidad",
+      "difficulty": 2,
+      "question": "Una muestra tiene 72 g y ocupa 9 cm³. ¿Cuál es su densidad?",
+      "answer": "8 g/cm³",
+      "explanation": "Se divide la masa por el volumen: 72/9 = 8.",
+      "source": "Unidad 1 Materia y Energía.pdf",
+      "page": "",
+      "options": [
+        "648 g/cm³",
+        "9 g/cm³",
+        "8 g/cm³",
+        "72 g/cm³"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-quimica-unidad-2-estructura-atomica-y-tabla-periodica-nucleo-002",
+      "subject": "Química",
+      "unit": "Unidad 2 · Estructura atómica y tabla periódica",
+      "topic": "Núcleo",
+      "difficulty": 2,
+      "question": "Un átomo de Na tiene Z = 11 y A = 23. ¿Cuántos neutrones posee?",
+      "answer": "12",
+      "explanation": "N = A − Z = 23 − 11.",
+      "source": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
+      "page": "",
+      "options": [
+        "11",
+        "12",
+        "34",
+        "23"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-quimica-unidad-2-estructura-atomica-y-tabla-periodica-nucleo-003",
+      "subject": "Química",
+      "unit": "Unidad 2 · Estructura atómica y tabla periódica",
+      "topic": "Núcleo",
+      "difficulty": 2,
+      "question": "Un átomo de Mg tiene Z = 12 y A = 25. ¿Cuántos neutrones posee?",
+      "answer": "13",
+      "explanation": "N = A − Z = 25 − 12.",
+      "source": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
+      "page": "",
+      "options": [
+        "13",
+        "12",
+        "25",
+        "37"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-quimica-unidad-2-estructura-atomica-y-tabla-periodica-nucleo-004",
+      "subject": "Química",
+      "unit": "Unidad 2 · Estructura atómica y tabla periódica",
+      "topic": "Núcleo",
+      "difficulty": 2,
+      "question": "Un átomo de Cl tiene Z = 17 y A = 37. ¿Cuántos neutrones posee?",
+      "answer": "20",
+      "explanation": "N = A − Z = 37 − 17.",
+      "source": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
+      "page": "",
+      "options": [
+        "54",
+        "20",
+        "17",
+        "37"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-quimica-unidad-2-estructura-atomica-y-tabla-periodica-nucleo-005",
+      "subject": "Química",
+      "unit": "Unidad 2 · Estructura atómica y tabla periódica",
+      "topic": "Núcleo",
+      "difficulty": 2,
+      "question": "Un átomo de C tiene Z = 6 y A = 14. ¿Cuántos neutrones posee?",
+      "answer": "8",
+      "explanation": "N = A − Z = 14 − 6.",
+      "source": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
+      "page": "",
+      "options": [
+        "20",
+        "8",
+        "6",
+        "14"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-quimica-unidad-6-estados-de-agregacion-gases-ideales-002",
+      "subject": "Química",
+      "unit": "Unidad 6 · Estados de agregación",
+      "topic": "Gases ideales",
+      "difficulty": 2,
+      "question": "Un gas pasa de 8 L a 2 L a temperatura constante. Parte de 3 atm. ¿Presión final?",
+      "answer": "12 atm",
+      "explanation": "Por Boyle, P₂ = P₁V₁/V₂ = 3 × 8/2.",
+      "source": "Unidad 6  Estado de Agregación.pdf",
+      "page": "",
+      "options": [
+        "3 atm",
+        "24 atm",
+        "13 atm",
+        "12 atm"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-quimica-unidad-6-estados-de-agregacion-gases-ideales-003",
+      "subject": "Química",
+      "unit": "Unidad 6 · Estados de agregación",
+      "topic": "Gases ideales",
+      "difficulty": 2,
+      "question": "Un gas pasa de 6 L a 2 L a temperatura constante. Parte de 5 atm. ¿Presión final?",
+      "answer": "15 atm",
+      "explanation": "Por Boyle, P₂ = P₁V₁/V₂ = 5 × 6/2.",
+      "source": "Unidad 6  Estado de Agregación.pdf",
+      "page": "",
+      "options": [
+        "5 atm",
+        "15 atm",
+        "30 atm",
+        "16 atm"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-quimica-unidad-6-estados-de-agregacion-gases-ideales-004",
+      "subject": "Química",
+      "unit": "Unidad 6 · Estados de agregación",
+      "topic": "Gases ideales",
+      "difficulty": 2,
+      "question": "Un gas pasa de 12 L a 6 L a temperatura constante. Parte de 4 atm. ¿Presión final?",
+      "answer": "8 atm",
+      "explanation": "Por Boyle, P₂ = P₁V₁/V₂ = 4 × 12/6.",
+      "source": "Unidad 6  Estado de Agregación.pdf",
+      "page": "",
+      "options": [
+        "9 atm",
+        "48 atm",
+        "8 atm",
+        "4 atm"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-quimica-unidad-7-soluciones-dilucion-002",
+      "subject": "Química",
+      "unit": "Unidad 7 · Soluciones",
+      "topic": "Dilución",
+      "difficulty": 2,
+      "question": "Se diluyen 25 mL de una solución 8 mol/L hasta 100 mL. ¿Molaridad final?",
+      "answer": "2 mol/L",
+      "explanation": "M₂ = M₁V₁/V₂ = 8 × 25/100.",
+      "source": "Unidad 7 Soluciones.pdf",
+      "page": "",
+      "options": [
+        "8 mol/L",
+        "32 mol/L",
+        "3 mol/L",
+        "2 mol/L"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-quimica-unidad-7-soluciones-dilucion-003",
+      "subject": "Química",
+      "unit": "Unidad 7 · Soluciones",
+      "topic": "Dilución",
+      "difficulty": 2,
+      "question": "Se diluyen 30 mL de una solución 10 mol/L hasta 150 mL. ¿Molaridad final?",
+      "answer": "2 mol/L",
+      "explanation": "M₂ = M₁V₁/V₂ = 10 × 30/150.",
+      "source": "Unidad 7 Soluciones.pdf",
+      "page": "",
+      "options": [
+        "10 mol/L",
+        "2 mol/L",
+        "3 mol/L",
+        "50 mol/L"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-quimica-unidad-7-soluciones-dilucion-004",
+      "subject": "Química",
+      "unit": "Unidad 7 · Soluciones",
+      "topic": "Dilución",
+      "difficulty": 2,
+      "question": "Se diluyen 40 mL de una solución 12 mol/L hasta 160 mL. ¿Molaridad final?",
+      "answer": "3 mol/L",
+      "explanation": "M₂ = M₁V₁/V₂ = 12 × 40/160.",
+      "source": "Unidad 7 Soluciones.pdf",
+      "page": "",
+      "options": [
+        "3 mol/L",
+        "48 mol/L",
+        "4 mol/L",
+        "12 mol/L"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-quimica-unidad-7-soluciones-dilucion-005",
+      "subject": "Química",
+      "unit": "Unidad 7 · Soluciones",
+      "topic": "Dilución",
+      "difficulty": 2,
+      "question": "Se diluyen 75 mL de una solución 8 mol/L hasta 150 mL. ¿Molaridad final?",
+      "answer": "4 mol/L",
+      "explanation": "M₂ = M₁V₁/V₂ = 8 × 75/150.",
+      "source": "Unidad 7 Soluciones.pdf",
+      "page": "",
+      "options": [
+        "5 mol/L",
+        "4 mol/L",
+        "8 mol/L",
+        "16 mol/L"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-quimica-unidad-8-acidos-y-bases-ph-002",
+      "subject": "Química",
+      "unit": "Unidad 8 · Ácidos y bases",
+      "topic": "pH",
+      "difficulty": 2,
+      "question": "¿Cuál es el pH si [H₃O⁺] = 10⁻² mol/L y se aproxima actividad por concentración?",
+      "answer": "2",
+      "explanation": "pH = −log₁₀[H₃O⁺] = −(−2).",
+      "source": "Unidad 8 Ácido - Base.pdf",
+      "page": "",
+      "options": [
+        "2",
+        "-2",
+        "12",
+        "3"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-quimica-unidad-8-acidos-y-bases-ph-003",
+      "subject": "Química",
+      "unit": "Unidad 8 · Ácidos y bases",
+      "topic": "pH",
+      "difficulty": 2,
+      "question": "¿Cuál es el pH si [H₃O⁺] = 10⁻³ mol/L y se aproxima actividad por concentración?",
+      "answer": "3",
+      "explanation": "pH = −log₁₀[H₃O⁺] = −(−3).",
+      "source": "Unidad 8 Ácido - Base.pdf",
+      "page": "",
+      "options": [
+        "4",
+        "3",
+        "11",
+        "-3"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-quimica-unidad-8-acidos-y-bases-ph-004",
+      "subject": "Química",
+      "unit": "Unidad 8 · Ácidos y bases",
+      "topic": "pH",
+      "difficulty": 2,
+      "question": "¿Cuál es el pH si [H₃O⁺] = 10⁻⁴ mol/L y se aproxima actividad por concentración?",
+      "answer": "4",
+      "explanation": "pH = −log₁₀[H₃O⁺] = −(−4).",
+      "source": "Unidad 8 Ácido - Base.pdf",
+      "page": "",
+      "options": [
+        "4",
+        "10",
+        "-4",
+        "5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-quimica-unidad-8-acidos-y-bases-ph-005",
+      "subject": "Química",
+      "unit": "Unidad 8 · Ácidos y bases",
+      "topic": "pH",
+      "difficulty": 2,
+      "question": "¿Cuál es el pH si [H₃O⁺] = 10⁻⁵ mol/L y se aproxima actividad por concentración?",
+      "answer": "5",
+      "explanation": "pH = −log₁₀[H₃O⁺] = −(−5).",
+      "source": "Unidad 8 Ácido - Base.pdf",
+      "page": "",
+      "options": [
+        "-5",
+        "9",
+        "5",
+        "6"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-quimica-unidad-8-acidos-y-bases-ph-006",
+      "subject": "Química",
+      "unit": "Unidad 8 · Ácidos y bases",
+      "topic": "pH",
+      "difficulty": 2,
+      "question": "¿Cuál es el pH si [H₃O⁺] = 10⁻⁶ mol/L y se aproxima actividad por concentración?",
+      "answer": "6",
+      "explanation": "pH = −log₁₀[H₃O⁺] = −(−6).",
+      "source": "Unidad 8 Ácido - Base.pdf",
+      "page": "",
+      "options": [
+        "8",
+        "7",
+        "6",
+        "-6"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-quimica-unidad-9-estequiometria-masa-molar-001",
+      "subject": "Química",
+      "unit": "Unidad 9 · Estequiometría",
+      "topic": "Masa molar",
+      "difficulty": 2,
+      "question": "¿Qué masa tienen 2 mol de agua (H₂O) si M = 18 g/mol?",
+      "answer": "36 g",
+      "explanation": "m = nM = 2 × 18.",
+      "source": "Unidad 9 Estequiometría.pdf",
+      "page": "",
+      "options": [
+        "36 g",
+        "18 g",
+        "54 g",
+        "9 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-quimica-unidad-9-estequiometria-masa-molar-002",
+      "subject": "Química",
+      "unit": "Unidad 9 · Estequiometría",
+      "topic": "Masa molar",
+      "difficulty": 2,
+      "question": "¿Qué masa tienen 3 mol de agua (H₂O) si M = 18 g/mol?",
+      "answer": "54 g",
+      "explanation": "m = nM = 3 × 18.",
+      "source": "Unidad 9 Estequiometría.pdf",
+      "page": "",
+      "options": [
+        "72 g",
+        "54 g",
+        "6 g",
+        "18 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-quimica-unidad-9-estequiometria-masa-molar-003",
+      "subject": "Química",
+      "unit": "Unidad 9 · Estequiometría",
+      "topic": "Masa molar",
+      "difficulty": 2,
+      "question": "¿Qué masa tienen 2 mol de dióxido de carbono (CO₂) si M = 44 g/mol?",
+      "answer": "88 g",
+      "explanation": "m = nM = 2 × 44.",
+      "source": "Unidad 9 Estequiometría.pdf",
+      "page": "",
+      "options": [
+        "44 g",
+        "22 g",
+        "88 g",
+        "132 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-quimica-unidad-9-estequiometria-masa-molar-004",
+      "subject": "Química",
+      "unit": "Unidad 9 · Estequiometría",
+      "topic": "Masa molar",
+      "difficulty": 2,
+      "question": "¿Qué masa tienen 3 mol de dióxido de carbono (CO₂) si M = 44 g/mol?",
+      "answer": "132 g",
+      "explanation": "m = nM = 3 × 44.",
+      "source": "Unidad 9 Estequiometría.pdf",
+      "page": "",
+      "options": [
+        "132 g",
+        "14.6667 g",
+        "176 g",
+        "44 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-quimica-unidad-9-estequiometria-masa-molar-005",
+      "subject": "Química",
+      "unit": "Unidad 9 · Estequiometría",
+      "topic": "Masa molar",
+      "difficulty": 2,
+      "question": "¿Qué masa tienen 2 mol de cloruro de sodio (NaCl) si M = 58.5 g/mol?",
+      "answer": "117 g",
+      "explanation": "m = nM = 2 × 58.5.",
+      "source": "Unidad 9 Estequiometría.pdf",
+      "page": "",
+      "options": [
+        "117 g",
+        "29.25 g",
+        "175.5 g",
+        "58.5 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-quimica-unidad-9-estequiometria-masa-molar-006",
+      "subject": "Química",
+      "unit": "Unidad 9 · Estequiometría",
+      "topic": "Masa molar",
+      "difficulty": 2,
+      "question": "¿Qué masa tienen 3 mol de cloruro de sodio (NaCl) si M = 58.5 g/mol?",
+      "answer": "175.5 g",
+      "explanation": "m = nM = 3 × 58.5.",
+      "source": "Unidad 9 Estequiometría.pdf",
+      "page": "",
+      "options": [
+        "234 g",
+        "19.5 g",
+        "58.5 g",
+        "175.5 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-quimica-unidad-10-cinetica-quimica-ley-de-velocidad-002",
+      "subject": "Química",
+      "unit": "Unidad 10 · Cinética química",
+      "topic": "Ley de velocidad",
+      "difficulty": 3,
+      "question": "Para v = k[A]^1, ¿por cuánto se multiplica v si [A] se multiplica por 3?",
+      "answer": "3",
+      "explanation": "El factor se eleva al orden: 3^1 = 3.",
+      "source": "Unidad 10 - Cinetica Química.pdf",
+      "page": "",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "1"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-quimica-unidad-10-cinetica-quimica-ley-de-velocidad-003",
+      "subject": "Química",
+      "unit": "Unidad 10 · Cinética química",
+      "topic": "Ley de velocidad",
+      "difficulty": 3,
+      "question": "Para v = k[A]^2, ¿por cuánto se multiplica v si [A] se multiplica por 2?",
+      "answer": "4",
+      "explanation": "El factor se eleva al orden: 2^2 = 4.",
+      "source": "Unidad 10 - Cinetica Química.pdf",
+      "page": "",
+      "options": [
+        "1",
+        "6",
+        "5",
+        "4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-quimica-unidad-10-cinetica-quimica-ley-de-velocidad-004",
+      "subject": "Química",
+      "unit": "Unidad 10 · Cinética química",
+      "topic": "Ley de velocidad",
+      "difficulty": 3,
+      "question": "Para v = k[A]^2, ¿por cuánto se multiplica v si [A] se multiplica por 3?",
+      "answer": "9",
+      "explanation": "El factor se eleva al orden: 3^2 = 9.",
+      "source": "Unidad 10 - Cinetica Química.pdf",
+      "page": "",
+      "options": [
+        "1",
+        "12",
+        "9",
+        "10"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-quimica-unidad-10-cinetica-quimica-ley-de-velocidad-005",
+      "subject": "Química",
+      "unit": "Unidad 10 · Cinética química",
+      "topic": "Ley de velocidad",
+      "difficulty": 3,
+      "question": "Para v = k[A]^3, ¿por cuánto se multiplica v si [A] se multiplica por 2?",
+      "answer": "8",
+      "explanation": "El factor se eleva al orden: 2^3 = 8.",
+      "source": "Unidad 10 - Cinetica Química.pdf",
+      "page": "",
+      "options": [
+        "9",
+        "10",
+        "1",
+        "8"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-componentes-003",
+      "subject": "Física",
+      "unit": "Magnitudes, unidades y vectores",
+      "topic": "Componentes",
+      "difficulty": 2,
+      "question": "¿Cuál es el módulo de un vector de componentes (3, −4) m?",
+      "answer": "5 m",
+      "explanation": "Se calcula √(3² + (-4)²). El signo afecta el sentido, pero los cuadrados son positivos.",
+      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "page": "",
+      "options": [
+        "7 m",
+        "5 m",
+        "25 m",
+        "1 m"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-componentes-004",
+      "subject": "Física",
+      "unit": "Magnitudes, unidades y vectores",
+      "topic": "Componentes",
+      "difficulty": 2,
+      "question": "¿Cuál es el módulo de un vector de componentes (5, −12) m?",
+      "answer": "13 m",
+      "explanation": "Se calcula √(5² + (-12)²). El signo afecta el sentido, pero los cuadrados son positivos.",
+      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "page": "",
+      "options": [
+        "7 m",
+        "13 m",
+        "17 m",
+        "169 m"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-componentes-005",
+      "subject": "Física",
+      "unit": "Magnitudes, unidades y vectores",
+      "topic": "Componentes",
+      "difficulty": 2,
+      "question": "¿Cuál es el módulo de un vector de componentes (8, −15) m?",
+      "answer": "17 m",
+      "explanation": "Se calcula √(8² + (-15)²). El signo afecta el sentido, pero los cuadrados son positivos.",
+      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "page": "",
+      "options": [
+        "23 m",
+        "17 m",
+        "7 m",
+        "289 m"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-componentes-006",
+      "subject": "Física",
+      "unit": "Magnitudes, unidades y vectores",
+      "topic": "Componentes",
+      "difficulty": 2,
+      "question": "¿Cuál es el módulo de un vector de componentes (7, −24) m?",
+      "answer": "25 m",
+      "explanation": "Se calcula √(7² + (-24)²). El signo afecta el sentido, pero los cuadrados son positivos.",
+      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "page": "",
+      "options": [
+        "17 m",
+        "625 m",
+        "31 m",
+        "25 m"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-conversion-001",
+      "subject": "Física",
+      "unit": "Magnitudes, unidades y vectores",
+      "topic": "Conversión",
+      "difficulty": 2,
+      "question": "Convierte 18 km/h a m/s.",
+      "answer": "5 m/s",
+      "explanation": "Se multiplica por 1000/3600: 18 ÷ 3,6 = 5.",
+      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "page": "",
+      "options": [
+        "5 m/s",
+        "50 m/s",
+        "18 m/s",
+        "12 m/s"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-conversion-002",
+      "subject": "Física",
+      "unit": "Magnitudes, unidades y vectores",
+      "topic": "Conversión",
+      "difficulty": 2,
+      "question": "Convierte 36 km/h a m/s.",
+      "answer": "10 m/s",
+      "explanation": "Se multiplica por 1000/3600: 36 ÷ 3,6 = 10.",
+      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "page": "",
+      "options": [
+        "36 m/s",
+        "17 m/s",
+        "10 m/s",
+        "100 m/s"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-conversion-003",
+      "subject": "Física",
+      "unit": "Magnitudes, unidades y vectores",
+      "topic": "Conversión",
+      "difficulty": 2,
+      "question": "Convierte 54 km/h a m/s.",
+      "answer": "15 m/s",
+      "explanation": "Se multiplica por 1000/3600: 54 ÷ 3,6 = 15.",
+      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "page": "",
+      "options": [
+        "150 m/s",
+        "22 m/s",
+        "54 m/s",
+        "15 m/s"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-conversion-004",
+      "subject": "Física",
+      "unit": "Magnitudes, unidades y vectores",
+      "topic": "Conversión",
+      "difficulty": 2,
+      "question": "Convierte 72 km/h a m/s.",
+      "answer": "20 m/s",
+      "explanation": "Se multiplica por 1000/3600: 72 ÷ 3,6 = 20.",
+      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "page": "",
+      "options": [
+        "200 m/s",
+        "27 m/s",
+        "20 m/s",
+        "72 m/s"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-conversion-005",
+      "subject": "Física",
+      "unit": "Magnitudes, unidades y vectores",
+      "topic": "Conversión",
+      "difficulty": 2,
+      "question": "Convierte 90 km/h a m/s.",
+      "answer": "25 m/s",
+      "explanation": "Se multiplica por 1000/3600: 90 ÷ 3,6 = 25.",
+      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "page": "",
+      "options": [
+        "250 m/s",
+        "32 m/s",
+        "25 m/s",
+        "90 m/s"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-conversion-006",
+      "subject": "Física",
+      "unit": "Magnitudes, unidades y vectores",
+      "topic": "Conversión",
+      "difficulty": 2,
+      "question": "Convierte 108 km/h a m/s.",
+      "answer": "30 m/s",
+      "explanation": "Se multiplica por 1000/3600: 108 ÷ 3,6 = 30.",
+      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "page": "",
+      "options": [
+        "300 m/s",
+        "108 m/s",
+        "37 m/s",
+        "30 m/s"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-conversion-007",
+      "subject": "Física",
+      "unit": "Magnitudes, unidades y vectores",
+      "topic": "Conversión",
+      "difficulty": 2,
+      "question": "Convierte 126 km/h a m/s.",
+      "answer": "35 m/s",
+      "explanation": "Se multiplica por 1000/3600: 126 ÷ 3,6 = 35.",
+      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "page": "",
+      "options": [
+        "35 m/s",
+        "126 m/s",
+        "42 m/s",
+        "350 m/s"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-matematica-algebra-1-exponentes-004",
+      "subject": "Matemática",
+      "unit": "Álgebra 1",
+      "topic": "Exponentes",
+      "difficulty": 2,
+      "question": "Para x ≠ 0, ¿qué resulta de x^5 ÷ x^2?",
+      "answer": "x^3",
+      "explanation": "Se restan los exponentes: 5 − 2 = 3.",
+      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "page": "",
+      "options": [
+        "x^3",
+        "x^10",
+        "x^-3",
+        "x^7"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-matematica-algebra-1-exponentes-005",
+      "subject": "Matemática",
+      "unit": "Álgebra 1",
+      "topic": "Exponentes",
+      "difficulty": 2,
+      "question": "Para x ≠ 0, ¿qué resulta de x^6 ÷ x^4?",
+      "answer": "x^2",
+      "explanation": "Se restan los exponentes: 6 − 4 = 2.",
+      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "page": "",
+      "options": [
+        "x^10",
+        "x^2",
+        "x^-2",
+        "x^24"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-matematica-algebra-1-exponentes-006",
+      "subject": "Matemática",
+      "unit": "Álgebra 1",
+      "topic": "Exponentes",
+      "difficulty": 2,
+      "question": "Para x ≠ 0, ¿qué resulta de x^8 ÷ x^3?",
+      "answer": "x^5",
+      "explanation": "Se restan los exponentes: 8 − 3 = 5.",
+      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "page": "",
+      "options": [
+        "x^11",
+        "x^5",
+        "x^24",
+        "x^-5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-matematica-algebra-1-exponentes-007",
+      "subject": "Matemática",
+      "unit": "Álgebra 1",
+      "topic": "Exponentes",
+      "difficulty": 2,
+      "question": "Para x ≠ 0, ¿qué resulta de x^7 ÷ x^6?",
+      "answer": "x^1",
+      "explanation": "Se restan los exponentes: 7 − 6 = 1.",
+      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "page": "",
+      "options": [
+        "x^42",
+        "x^1",
+        "x^-1",
+        "x^13"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-matematica-algebra-1-exponentes-008",
+      "subject": "Matemática",
+      "unit": "Álgebra 1",
+      "topic": "Exponentes",
+      "difficulty": 2,
+      "question": "Para x ≠ 0, ¿qué resulta de x^9 ÷ x^2?",
+      "answer": "x^7",
+      "explanation": "Se restan los exponentes: 9 − 2 = 7.",
+      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "page": "",
+      "options": [
+        "x^11",
+        "x^7",
+        "x^-7",
+        "x^18"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-matematica-algebra-1-multiplicacion-002",
+      "subject": "Matemática",
+      "unit": "Álgebra 1",
+      "topic": "Multiplicación",
+      "difficulty": 2,
+      "question": "¿Cómo se desarrolla 2x(x + 7)?",
+      "answer": "2x² + 14x",
+      "explanation": "Se distribuye 2x a x y a 7.",
+      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "page": "",
+      "options": [
+        "2x² + 7x",
+        "2x² + 14",
+        "14x² + 2x",
+        "2x² + 14x"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "b1-matematica-algebra-1-multiplicacion-003",
+      "subject": "Matemática",
+      "unit": "Álgebra 1",
+      "topic": "Multiplicación",
+      "difficulty": 2,
+      "question": "¿Cómo se desarrolla 3x(x + 4)?",
+      "answer": "3x² + 12x",
+      "explanation": "Se distribuye 3x a x y a 4.",
+      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "page": "",
+      "options": [
+        "3x² + 4x",
+        "12x² + 3x",
+        "3x² + 12x",
+        "3x² + 12"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "b1-matematica-algebra-1-multiplicacion-004",
+      "subject": "Matemática",
+      "unit": "Álgebra 1",
+      "topic": "Multiplicación",
+      "difficulty": 2,
+      "question": "¿Cómo se desarrolla 5x(x + 6)?",
+      "answer": "5x² + 30x",
+      "explanation": "Se distribuye 5x a x y a 6.",
+      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "page": "",
+      "options": [
+        "5x² + 30x",
+        "5x² + 30",
+        "5x² + 6x",
+        "30x² + 5x"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-matematica-algebra-1-multiplicacion-005",
+      "subject": "Matemática",
+      "unit": "Álgebra 1",
+      "topic": "Multiplicación",
+      "difficulty": 2,
+      "question": "¿Cómo se desarrolla 7x(x + 8)?",
+      "answer": "7x² + 56x",
+      "explanation": "Se distribuye 7x a x y a 8.",
+      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "page": "",
+      "options": [
+        "56x² + 7x",
+        "7x² + 56x",
+        "7x² + 8x",
+        "7x² + 56"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-matematica-algebra-1-multiplicacion-006",
+      "subject": "Matemática",
+      "unit": "Álgebra 1",
+      "topic": "Multiplicación",
+      "difficulty": 2,
+      "question": "¿Cómo se desarrolla 4x(x + 9)?",
+      "answer": "4x² + 36x",
+      "explanation": "Se distribuye 4x a x y a 9.",
+      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "page": "",
+      "options": [
+        "4x² + 36x",
+        "4x² + 36",
+        "4x² + 9x",
+        "36x² + 4x"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-cinetica-002",
+      "subject": "Biología",
+      "unit": "Capítulo 3 · Enzimas y metabolismo",
+      "topic": "Cinética",
+      "difficulty": 2,
+      "question": "Para una enzima de Vmax = 10 μmol/min, ¿cuál es v inicial cuando [S] = Km?",
+      "answer": "5 μmol/min",
+      "explanation": "En Michaelis–Menten, si [S] = Km, v es Vmax/2.",
+      "source": "CAPÍTULO 3.pdf",
+      "page": "",
+      "options": [
+        "5 μmol/min",
+        "20 μmol/min",
+        "10 μmol/min",
+        "0 μmol/min"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-cinetica-003",
+      "subject": "Biología",
+      "unit": "Capítulo 3 · Enzimas y metabolismo",
+      "topic": "Cinética",
+      "difficulty": 2,
+      "question": "Para una enzima de Vmax = 16 μmol/min, ¿cuál es v inicial cuando [S] = Km?",
+      "answer": "8 μmol/min",
+      "explanation": "En Michaelis–Menten, si [S] = Km, v es Vmax/2.",
+      "source": "CAPÍTULO 3.pdf",
+      "page": "",
+      "options": [
+        "32 μmol/min",
+        "8 μmol/min",
+        "16 μmol/min",
+        "0 μmol/min"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-cinetica-004",
+      "subject": "Biología",
+      "unit": "Capítulo 3 · Enzimas y metabolismo",
+      "topic": "Cinética",
+      "difficulty": 2,
+      "question": "Para una enzima de Vmax = 24 μmol/min, ¿cuál es v inicial cuando [S] = Km?",
+      "answer": "12 μmol/min",
+      "explanation": "En Michaelis–Menten, si [S] = Km, v es Vmax/2.",
+      "source": "CAPÍTULO 3.pdf",
+      "page": "",
+      "options": [
+        "12 μmol/min",
+        "24 μmol/min",
+        "48 μmol/min",
+        "0 μmol/min"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-cinetica-005",
+      "subject": "Biología",
+      "unit": "Capítulo 3 · Enzimas y metabolismo",
+      "topic": "Cinética",
+      "difficulty": 2,
+      "question": "Para una enzima de Vmax = 30 μmol/min, ¿cuál es v inicial cuando [S] = Km?",
+      "answer": "15 μmol/min",
+      "explanation": "En Michaelis–Menten, si [S] = Km, v es Vmax/2.",
+      "source": "CAPÍTULO 3.pdf",
+      "page": "",
+      "options": [
+        "60 μmol/min",
+        "30 μmol/min",
+        "0 μmol/min",
+        "15 μmol/min"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

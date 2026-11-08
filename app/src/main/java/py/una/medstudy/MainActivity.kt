@@ -12,6 +12,7 @@ import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
+import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
@@ -77,7 +78,15 @@ class StudyModel(app:android.app.Application):AndroidViewModel(app){
     val cards=dao.cards().stateIn(viewModelScope,SharingStarted.WhileSubscribed(5000),emptyList())
     val progress=dao.progress().stateIn(viewModelScope,SharingStarted.WhileSubscribed(5000),emptyList())
     var notice by mutableStateOf(""); private set
-    init { viewModelScope.launch { runCatching { app.assets.open("starter.json").bufferedReader().use { importJson(it.readText()) } }.onFailure { notice="No se pudo cargar el paquete inicial: ${it.message}" } } }
+    init {
+        viewModelScope.launch {
+            runCatching {
+                for (name in listOf("starter.json", "tarjetas.json")) {
+                    app.assets.open(name).bufferedReader().use { importJson(it.readText()) }
+                }
+            }.onFailure { notice = "No se pudo cargar el banco de estudio: ${it.message}" }
+        }
+    }
     private suspend fun importJson(text:String):Int {
         val root=JSONObject(text); require(root.optInt("formatVersion")==1){"Formato no compatible"}
         val array=root.getJSONArray("cards"); require(array.length()<=50000){"Paquete demasiado grande"}
@@ -90,33 +99,197 @@ class StudyModel(app:android.app.Application):AndroidViewModel(app){
     fun rate(card:Card,g:Int){ viewModelScope.launch { val now=System.currentTimeMillis();val p=Fsrs.next(dao.getProgress(card.id)?.copy(cardId=card.id) ?: Progress(card.id),g,now);dao.save(p);dao.log(ReviewLog(cardId=card.id,ratedAt=now,rating=g,stability=p.stability,difficulty=p.difficulty,due=p.due)) } }
 }
 class MainActivity:ComponentActivity(){override fun onCreate(savedInstanceState:Bundle?){super.onCreate(savedInstanceState);setContent { StudyApp() }}}
+private enum class StudyTab(val label: String, val icon: String) {
+    Home("Inicio", "⌂"), Subjects("Materias", "▤"), Review("Estudiar", "▣"),
+    Stats("Estadísticas", "▥"), Settings("Ajustes", "⚙");
+}
+
 @OptIn(ExperimentalMaterial3Api::class)
-@Composable fun StudyApp(model:StudyModel=viewModel()){
-    val context=androidx.compose.ui.platform.LocalContext.current
-    val cards by model.cards.collectAsState(); val states by model.progress.collectAsState()
-    val state=remember(states){states.associateBy{it.cardId}}
-    var subject by remember { mutableStateOf<String?>(null) }; var unit by remember { mutableStateOf<String?>(null) }; var topic by remember { mutableStateOf<String?>(null) }; var reviewing by remember { mutableStateOf(false) };var revealed by remember { mutableStateOf(false) }
-    val launcher=rememberLauncherForActivityResult(ActivityResultContracts.OpenDocument()){it?.let { uri->model.importUri(context,uri) }}
-    val subset=cards.filter{(subject==null||it.subject==subject)&&(unit==null||it.unit==unit)&&(topic==null||it.topic==topic)}
-    val now=System.currentTimeMillis();val due=subset.filter { (state[it.id]?.due ?: 0L)<=now }
-    val current=due.firstOrNull()
-    MaterialTheme { Scaffold(topBar={TopAppBar(title={Text(if(reviewing) "Repaso" else topic?:unit?:subject?:"Medicina UNA")},navigationIcon={if(reviewing||subject!=null) TextButton(onClick={when {reviewing->{reviewing=false;revealed=false};topic!=null->topic=null;unit!=null->unit=null;else->subject=null}}){Text("Atrás")}})}){padding->
-        Column(Modifier.fillMaxSize().padding(padding).padding(16.dp),verticalArrangement=Arrangement.spacedBy(12.dp)) {
-            if(model.notice.isNotEmpty()) Text(model.notice)
-            if(reviewing){
-                if(current==null) Text("No hay tarjetas pendientes en esta selección.")
-                else {Text("${current.subject} · ${current.unit} · ${current.topic}",style=MaterialTheme.typography.labelLarge);Text(current.question,style=MaterialTheme.typography.headlineSmall);if(revealed){HorizontalDivider();Text(current.answer,style=MaterialTheme.typography.bodyLarge);Text("Fuente: ${current.source}${if(current.page.isNotBlank()) ", pág. ${current.page}" else ""}",style=MaterialTheme.typography.bodySmall)
-                    listOf("Otra vez","Difícil","Bien","Fácil").forEachIndexed { i,label->Button(onClick={model.rate(current,i+1);revealed=false},modifier=Modifier.fillMaxWidth()){Text(label)} }
-                }else Button(onClick={revealed=true}){Text("Mostrar respuesta")}}
-            }else if(subject==null){
-                Text("${due.size} tarjetas pendientes de ${cards.size}",style=MaterialTheme.typography.titleMedium)
-                Button(onClick={reviewing=true},enabled=due.isNotEmpty()){Text("Repasar ahora")}
-                OutlinedButton(onClick={launcher.launch(arrayOf("application/json","text/plain","*/*"))}){Text("Importar tarjetas JSON")}
-                Text("Materias",style=MaterialTheme.typography.titleLarge)
-                LazyColumn { items(cards.map{it.subject}.distinct()){ s-> val count=cards.count{it.subject==s};TextButton(onClick={subject=s}){Text("$s · $count tarjetas")} } }
-            }else if(unit==null){Text("Unidades",style=MaterialTheme.typography.titleLarge);Button(onClick={reviewing=true},enabled=due.isNotEmpty()){Text("Repasar $subject (${due.size})")}; LazyColumn{items(subset.map{it.unit}.distinct()){u->TextButton(onClick={unit=u}){Text("$u · ${subset.count{it.unit==u}}")}}}}
-            else if(topic==null){Text("Temas",style=MaterialTheme.typography.titleLarge);Button(onClick={reviewing=true},enabled=due.isNotEmpty()){Text("Repasar unidad (${due.size})")};LazyColumn{items(subset.map{it.topic}.distinct()){t->TextButton(onClick={topic=t}){Text("$t · ${subset.count{it.topic==t}}")}}}}
-            else { Text("${subset.size} tarjetas · ${due.size} pendientes");Button(onClick={reviewing=true},enabled=due.isNotEmpty()){Text("Repasar tema")};LazyColumn{items(subset){c->Text("• ${c.question}",modifier=Modifier.padding(vertical=8.dp))}} }
+@Composable
+fun StudyApp(model: StudyModel = viewModel()) {
+    val context = androidx.compose.ui.platform.LocalContext.current
+    val preferences = remember(context) { context.getSharedPreferences("appearance", Context.MODE_PRIVATE) }
+    var palette by remember {
+        mutableStateOf(StudyPalette.entries.firstOrNull { it.name == preferences.getString("palette", null) } ?: StudyPalette.Forest)
+    }
+    var appearance by remember {
+        mutableStateOf(StudyAppearance.entries.firstOrNull { it.name == preferences.getString("mode", null) } ?: StudyAppearance.System)
+    }
+    val exams = remember(context) { runCatching { loadExams(context) }.getOrDefault(emptyList()) }
+    var showExams by rememberSaveable { mutableStateOf(false) }
+    var tab by rememberSaveable { mutableStateOf(StudyTab.Home) }
+    var subject by rememberSaveable { mutableStateOf<String?>(null) }
+    var unit by rememberSaveable { mutableStateOf<String?>(null) }
+    var topic by rememberSaveable { mutableStateOf<String?>(null) }
+    var revealedId by rememberSaveable { mutableStateOf<String?>(null) }
+    val cards by model.cards.collectAsState()
+    val states by model.progress.collectAsState()
+    val state = remember(states) { states.associateBy { it.cardId } }
+    val subset = remember(cards, subject, unit, topic) {
+        cards.filter { (subject == null || it.subject == subject) &&
+            (unit == null || it.unit == unit) && (topic == null || it.topic == topic) }
+    }
+    var now by remember { mutableLongStateOf(System.currentTimeMillis()) }
+    LaunchedEffect(Unit) {
+        while (true) {
+            now = System.currentTimeMillis()
+            kotlinx.coroutines.delay(1000)
         }
-    } }
+    }
+    val due = remember(subset, state, now) {
+        subset.filter { (state[it.id]?.due ?: 0L) <= now }
+            .sortedBy { state[it.id]?.due ?: Long.MAX_VALUE }
+    }
+    val current = due.firstOrNull()
+    val launcher = rememberLauncherForActivityResult(ActivityResultContracts.OpenDocument()) {
+        if (it != null) model.importUri(context, it)
+    }
+
+    StudyTheme(palette, appearance) {
+        Scaffold(
+            topBar = {
+                TopAppBar(
+                    title = { Text(if (tab == StudyTab.Home) "Medicina UNA" else tab.label) },
+                    navigationIcon = {
+                        if (tab == StudyTab.Subjects && subject != null) {
+                            TextButton(onClick = {
+                                when {
+                                    topic != null -> topic = null
+                                    unit != null -> unit = null
+                                    else -> subject = null
+                                }
+                            }) { Text("Atrás") }
+                        }
+                    }
+                )
+            },
+            bottomBar = {
+                NavigationBar {
+                    StudyTab.entries.forEach { destination ->
+                        NavigationBarItem(
+                            selected = destination == tab,
+                            onClick = { if (!showExams || destination == StudyTab.Review) tab = destination },
+                            enabled = !showExams || destination == StudyTab.Review,
+                            icon = { Text(destination.icon) },
+                            label = { Text(destination.label, maxLines = 1) },
+                            alwaysShowLabel = false,
+                        )
+                    }
+                }
+            }
+        ) { padding ->
+            LazyColumn(
+                modifier = Modifier.fillMaxSize().padding(padding),
+                contentPadding = PaddingValues(20.dp),
+                verticalArrangement = Arrangement.spacedBy(12.dp),
+            ) {
+                when (tab) {
+                    StudyTab.Home -> item {
+                        val totalDue = cards.count { (state[it.id]?.due ?: 0L) <= now }
+                        Card(colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.primaryContainer)) {
+                            Column(Modifier.fillMaxWidth().padding(20.dp), verticalArrangement = Arrangement.spacedBy(12.dp)) {
+                                Text("Tu repaso de hoy", style = MaterialTheme.typography.headlineSmall)
+                                Text("$totalDue pendientes · ${cards.size} tarjetas en el banco")
+                                Button(onClick = {
+                                    subject = null
+                                    unit = null
+                                    topic = null
+                                    tab = StudyTab.Review
+                                }, enabled = totalDue > 0) { Text("Repasar ahora") }
+                            }
+                        }
+                    }
+                    StudyTab.Subjects -> {
+                        val groups = when {
+                            subject == null -> subset.groupingBy { it.subject }.eachCount()
+                            unit == null -> subset.groupingBy { it.unit }.eachCount()
+                            topic == null -> subset.groupingBy { it.topic }.eachCount()
+                            else -> emptyMap()
+                        }
+                        item {
+                            Text(topic ?: unit ?: subject ?: "Elige una materia", style = MaterialTheme.typography.headlineSmall)
+                            if (subject != null) {
+                                Text("${subset.size} tarjetas · ${due.size} pendientes")
+                                Button(onClick = { tab = StudyTab.Review }, enabled = due.isNotEmpty()) {
+                                    Text("Repasar esta selección")
+                                }
+                            }
+                        }
+                        items(groups.entries.toList(), key = { it.key }) { (name, count) ->
+                            OutlinedButton(
+                                modifier = Modifier.fillMaxWidth(),
+                                onClick = {
+                                    when {
+                                        subject == null -> subject = name
+                                        unit == null -> unit = name
+                                        else -> topic = name
+                                    }
+                                }
+                            ) { Text("$name · $count") }
+                        }
+                        if (topic != null) items(subset, key = { it.id }) { Text(it.question) }
+                    }
+                    StudyTab.Review -> if (showExams) {
+                        item { ExamScreen(exams, onBack = { showExams = false }) }
+                    } else item {
+                        Column(verticalArrangement = Arrangement.spacedBy(12.dp)) {
+                            if (exams.isNotEmpty()) OutlinedButton(onClick = { showExams = true }) {
+                                Text("Simulacros")
+                            }
+                            Text(topic ?: unit ?: subject ?: "Todas las materias")
+                            if (subject != null) TextButton(onClick = {
+                                subject = null
+                                unit = null
+                                topic = null
+                            }) { Text("Repasar todas") }
+                            if (current == null) {
+                                Text("No hay tarjetas pendientes en esta selección.")
+                            } else {
+                                Text("${current.subject} · ${current.topic}", style = MaterialTheme.typography.labelLarge)
+                                Text(current.question, style = MaterialTheme.typography.headlineSmall)
+                                if (revealedId == current.id) {
+                                    HorizontalDivider()
+                                    Text(current.answer, style = MaterialTheme.typography.bodyLarge)
+                                    Text("Fuente: ${current.source} ${current.page}", style = MaterialTheme.typography.bodySmall)
+                                    listOf("Otra vez", "Difícil", "Bien", "Fácil").forEachIndexed { index, label ->
+                                        Button(onClick = {
+                                            revealedId = null
+                                            model.rate(current, index + 1)
+                                        }, modifier = Modifier.fillMaxWidth()) { Text(label) }
+                                    }
+                                } else Button(onClick = { revealedId = current.id }) { Text("Mostrar respuesta") }
+                            }
+                        }
+                    }
+                    StudyTab.Stats -> item {
+                        Text("Tu progreso", style = MaterialTheme.typography.headlineSmall)
+                        Text("${states.count { it.reviews > 0 }} tarjetas repasadas")
+                        Text("${states.sumOf { it.reviews }} repasos registrados")
+                    }
+                    StudyTab.Settings -> {
+                        item { Text("Colores", style = MaterialTheme.typography.headlineSmall) }
+                        items(StudyPalette.entries) { option ->
+                            FilterChip(selected = palette == option, onClick = {
+                                palette = option
+                                preferences.edit().putString("palette", option.name).apply()
+                            }, label = { Text(option.label) })
+                        }
+                        item { Text("Apariencia", style = MaterialTheme.typography.titleLarge) }
+                        items(StudyAppearance.entries) { option ->
+                            FilterChip(selected = appearance == option, onClick = {
+                                appearance = option
+                                preferences.edit().putString("mode", option.name).apply()
+                            }, label = { Text(option.label) })
+                        }
+                        item {
+                            OutlinedButton(onClick = { launcher.launch(arrayOf("application/json", "text/plain", "*/*")) }) {
+                                Text("Importar tarjetas JSON")
+                            }
+                            if (model.notice.isNotBlank()) Text(model.notice)
+                        }
+                    }
+                }
+            }
+        }
+    }
 }
