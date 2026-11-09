@@ -4,20 +4,39 @@
 
 Se cotejaron las páginas 5 a 13 de la Resolución CD 0914-00-2026. El [mapa de cobertura](cobertura_programa_2027.json) enlaza **287 apartados finales** de las 17 unidades con sus páginas e IDs. El conteo reemplaza el inventario anterior de 279 referencias detectadas por OCR. Los apartados 10.6.6 (gráficos de cinética), 10.8.1 (temperatura y rapidez) y 11.6.2 (pH y pOH) se añadieron como referencias independientes con tarjetas propias.
 
-| Unidades | Añadidas |
-|---|---:|
-| 1–5 · Materia, átomos, nomenclatura, enlaces y reacciones | 21 |
-| 6–9 · Estados, disoluciones, ácido-base y estequiometría | 23 |
-| 10–12 · Cinética, equilibrio, termodinámica y electroquímica | 18 |
-| 13–16 · Química orgánica | 41 |
-| 17 · Biomoléculas | 10 |
-| **Total** | **113** |
+| Unidad | Apartados | Nuevas | Total del programa |
+|---|---:|---:|---:|
+| 1. Materia y energía | 9 | 4 | 16 |
+| 2. Estructura atómica y clasificación de los elementos | 12 | 4 | 36 |
+| 3. Notación y nomenclatura inorgánica | 5 | 4 | 20 |
+| 4. Enlaces e interacciones intermoleculares | 13 | 6 | 21 |
+| 5. Reacciones inorgánicas | 10 | 3 | 13 |
+| 6. Estados de agregación | 19 | 6 | 26 |
+| 7. Disoluciones | 10 | 7 | 20 |
+| 8. Funciones de la química inorgánica | 15 | 7 | 24 |
+| 9. Estequiometría | 7 | 3 | 11 |
+| 10. Cinética química | 18 | 6 | 23 |
+| 11. Equilibrio químico | 12 | 4 | 15 |
+| 12. Termodinámica y electroquímica | 24 | 8 | 32 |
+| 13. Compuestos y reacciones orgánicas | 31 | 10 | 43 |
+| 14. Hidrocarburos y heterociclos | 21 | 10 | 33 |
+| 15. Funciones orgánicas con enlaces simples | 19 | 8 | 30 |
+| 16. Funciones orgánicas con enlaces múltiples | 41 | 13 | 56 |
+| 17. Biomoléculas | 21 | 10 | 32 |
+| **Total** | **287** | **113** | **451** |
 
 El banco del programa contiene 451 tarjetas de Química. La app suma **1285 tarjetas** entre los tres bancos, con los campos y los IDs de las 1172 previas intactos. Los ejercicios nuevos incluyen balance redox, concentración, tampones, equilibrio, energía libre, Nernst, R/S en Fischer, mecanismos orgánicos, carbohidratos y lípidos. Las tarjetas registran la fuente con su capítulo o sección, principalmente OpenStax, IUPAC y Essentials of Glycobiology.
 
 El cotejo confirma la presencia de tarjetas para los apartados finales del programa. Los enunciados amplios pueden requerir más práctica o una comprobación individual de cada ejemplo heredado. Siguen pendientes la revisión visual de Física y Matemática y la prueba en teléfono físico.
 
 Archivos modificados: `app/src/main/assets/programa_2027.json`, `cobertura_programa_2027.json`, `COBERTURA_2027.md`, `README.md`, `app/build.gradle.kts` y `app/src/test/java/py/una/medstudy/StudyRepositoryTest.kt`.
+
+### Verificación de la versión 0.3.3
+
+- Se validaron los 1285 IDs, el contenido de las 1172 tarjetas anteriores y los enlaces a tarjetas de los 287 apartados de Química.
+- Se recalcularon 30 resultados numéricos de las tarjetas nuevas y se verificó la conservación de átomos y carga en el ejercicio redox de permanganato y sulfito.
+- La [compilación en GitHub Actions](https://github.com/leandro323134/MedicinaUnaLeandroPrieto/actions/runs/42561123600) terminó con 9 pruebas aprobadas, 0 fallos y 0 omitidas.
+- Los tres bancos del APK coinciden byte por byte con los del repositorio. Se verificó el identificador `py.una.medstudy`, la versión 0.3.3, el código 6 y la misma huella de certificado que en 0.3.2. La instalación en un teléfono físico sigue pendiente.
 
 ## Revisión de Lenguaje y Comunicación en la versión 0.3.2
 
