@@ -32,4 +32,15 @@ class StudyUiTest {
         compose.onNodeWithText("Progreso").performClick()
         compose.onNodeWithText("Tu evolución").assertIsDisplayed()
     }
+
+    @Test fun homeOpensErrorPracticeAndExposesEditableGoal() {
+        val model = ViewModelProvider(compose.activity)[StudyModel::class.java]
+        compose.waitUntil(20000) { !model.loading && model.bank.isNotEmpty() }
+        compose.onNode(hasScrollToIndexAction()).performScrollToNode(hasText("Ajustar meta diaria", substring = true))
+        compose.onNodeWithText("Ajustar meta diaria", substring = true).assertExists()
+        compose.onNode(hasScrollToIndexAction()).performScrollToNode(hasText("Repasar errores"))
+        compose.onNodeWithText("Repasar errores").performClick()
+        compose.onNodeWithText("Repaso de errores").assertExists()
+        compose.onNodeWithText("Todavía no hay errores para esta selección.").assertExists()
+    }
 }

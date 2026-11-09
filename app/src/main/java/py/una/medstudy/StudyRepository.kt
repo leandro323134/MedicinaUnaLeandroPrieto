@@ -65,8 +65,12 @@ class StudyRepository(val db: StudyDatabase) {
         }
 
     suspend fun startExam(exam: PracticeExam, now: Long): String = db.withTransaction {
+        require(exam.questions.isNotEmpty() && exam.minutes in 1..480)
         val active = dao.allExams().firstOrNull { it.finishedAt == 0L }
-        if (active != null) return@withTransaction active.id
+        if (active != null) {
+            if (now < active.deadline) return@withTransaction active.id
+            dao.saveExam(active.copy(finishedAt = active.deadline))
+        }
         val id = UUID.randomUUID().toString()
         dao.saveExam(ExamRun(id, exam.title, now, now + exam.minutes * 60000L,
             questionsJson = questionsJson(exam.questions),
@@ -101,6 +105,17 @@ class StudyRepository(val db: StudyDatabase) {
         }
     }
 
+    suspend fun expireExams(now: Long) = db.withTransaction {
+        dao.allExams().filter { it.finishedAt == 0L && it.deadline <= now }.forEach {
+            dao.saveExam(it.copy(finishedAt = it.deadline))
+        }
+    }
+
+    suspend fun reviewError(sessionId: String, question: ExamQuestion, option: Int, now: Long): Boolean {
+        require(sessionId.isNotBlank() && question.id.isNotBlank() && option in question.options.indices)
+        return dao.addErrorReview(ErrorReview(sessionId, question.id, now, option == question.correct)) != -1L
+    }
+
     suspend fun exportBackup(): String = db.withTransaction {
         val gson = com.google.gson.Gson()
         JSONObject().put("backupVersion", 1)
@@ -108,7 +123,8 @@ class StudyRepository(val db: StudyDatabase) {
             .put("progress", JSONArray(gson.toJson(dao.allProgress())))
             .put("logs", JSONArray(gson.toJson(dao.allLogs())))
             .put("times", JSONArray(gson.toJson(dao.allTimes())))
-            .put("exams", JSONArray(gson.toJson(dao.allExams()))).toString()
+            .put("exams", JSONArray(gson.toJson(dao.allExams())))
+            .put("errorReviews", JSONArray(gson.toJson(dao.allErrorReviews()))).toString()
     }
 
     suspend fun restoreBackup(text: String) {
@@ -120,6 +136,10 @@ class StudyRepository(val db: StudyDatabase) {
         val logs = gson.fromJson(root.getJSONArray("logs").toString(), Array<ReviewLog>::class.java).toList()
         val times = gson.fromJson(root.getJSONArray("times").toString(), Array<StudyTime>::class.java).toList()
         val exams = gson.fromJson(root.getJSONArray("exams").toString(), Array<ExamRun>::class.java).toList()
+        val reviews = root.optJSONArray("errorReviews")?.let {
+            gson.fromJson(it.toString(), Array<ErrorReview>::class.java).toList()
+        }.orEmpty()
+        require(reviews.all { it.sessionId.isNotBlank() && it.questionId.isNotBlank() && it.at >= 0 })
         require(cards.size <= 50000 && cards.map { it.id }.toSet().size == cards.size)
         require(cards.all { it.id.isNotBlank() && it.question.isNotBlank() && it.answer.isNotBlank() &&
             it.subject.isNotBlank() && it.unit.isNotBlank() && it.topic.isNotBlank() && it.contentDifficulty in 1..3 })
@@ -146,6 +166,7 @@ class StudyRepository(val db: StudyDatabase) {
             val known = dao.allLogs().map { Triple(it.cardId, it.ratedAt, it.rating) }.toMutableSet()
             for (log in logs) if (known.add(Triple(log.cardId, log.ratedAt, log.rating))) dao.log(log.copy(id = 0))
             times.forEach { dao.addTime(it) }
+            reviews.forEach { dao.addErrorReview(it) }
             var activeExists = dao.allExams().any { it.finishedAt == 0L }
             for (run in exams) {
                 if (dao.exam(run.id) == null) {

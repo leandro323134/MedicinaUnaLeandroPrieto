@@ -76,7 +76,14 @@ fun StudyApp(model: StudyModel = viewModel()) {
     var query by rememberSaveable { mutableStateOf("") }
     var difficulty by rememberSaveable { mutableStateOf("Todos") }
     var mode by rememberSaveable { mutableStateOf("Tarjetas") }
+    var errorRun by rememberSaveable { mutableStateOf<String?>(null) }
+    var errorSubject by rememberSaveable { mutableStateOf<String?>(null) }
+    var errorTopic by rememberSaveable { mutableStateOf<String?>(null) }
     var selectedExam by rememberSaveable { mutableStateOf<String?>(null) }
+    fun openErrors(runId: String? = null, subjectFilter: String? = null, topicFilter: String? = null) {
+        errorRun = runId; errorSubject = subjectFilter; errorTopic = topicFilter
+        selectedExam = null; mode = "Errores"; tab = StudyTab.Review
+    }
     var selectedCard by rememberSaveable { mutableStateOf<String?>(null) }
     var revealedId by rememberSaveable { mutableStateOf<String?>(null) }
     var previewId by rememberSaveable { mutableStateOf<String?>(null) }
@@ -87,10 +94,23 @@ fun StudyApp(model: StudyModel = viewModel()) {
     val logs by model.logs.collectAsState()
     val times by model.times.collectAsState()
     val runs by model.runs.collectAsState()
+    val topicResults by model.resultsByTopic.collectAsState()
     var now by remember { mutableLongStateOf(System.currentTimeMillis()) }
     LaunchedEffect(Unit) { while (true) { now = System.currentTimeMillis(); delay(1000) } }
     val states = remember(progress) { progress.associateBy { it.cardId } }
     val today = localDate(now)
+    val tomorrow = today.plusDays(1).atStartOfDay(java.time.ZoneId.systemDefault()).toInstant().toEpochMilli()
+    val scheduledToday = remember(progress, tomorrow, now) {
+        progress.count { it.reviews > 0 && it.due in (now + 1) until tomorrow }
+    }
+    val expired = runs.firstOrNull { it.finishedAt == 0L && it.deadline <= now }
+    LaunchedEffect(expired?.id, model.busy) {
+        if (expired != null && !model.busy) model.expireExams(now)
+    }
+    val focus = remember(topicResults) {
+        topicResults.filter { it.pending > 0 }.sortedWith(compareByDescending<TopicResult> { it.pending }
+            .thenBy { if (it.examAnswers == 0) 1.0 else it.examCorrect.toDouble() / it.examAnswers }).take(3)
+    }
     val reviewedToday = logs.filter { localDate(it.ratedAt) == today }
     val firstReviews = remember(logs) { logs.groupBy { it.cardId }.mapValues { (_, v) -> v.minOf { it.ratedAt } } }
     val newToday = firstReviews.count { localDate(it.value) == today }
@@ -123,7 +143,7 @@ fun StudyApp(model: StudyModel = viewModel()) {
     LaunchedEffect(tab) { keyboard?.hide() }
     val owner = LocalLifecycleOwner.current
     val isStudying = tab == StudyTab.Review && !model.loading &&
-        (mode == "Guía" || (mode == "Tarjetas" && current != null) ||
+        (mode == "Guía" || mode == "Errores" || (mode == "Tarjetas" && current != null) ||
         (mode == "Simulacros" && runs.any { it.id == selectedExam && it.finishedAt == 0L }))
     LaunchedEffect(isStudying, owner) {
         if (isStudying) owner.lifecycle.repeatOnLifecycle(Lifecycle.State.RESUMED) {
@@ -183,7 +203,8 @@ fun StudyApp(model: StudyModel = viewModel()) {
                                 Column(Modifier.fillMaxWidth().padding(20.dp), verticalArrangement = Arrangement.spacedBy(12.dp)) {
                                     Text("Tu sesión de hoy", style = MaterialTheme.typography.headlineMedium)
                                     Text("${cards.count { (states[it.id]?.due ?: 0L) <= now && (states[it.id]?.reviews ?: 0) > 0 }} repasos pendientes")
-                                    Text("${(newLimit - newToday).coerceAtLeast(0)} tarjetas nuevas disponibles hoy")
+                                    Text("$scheduledToday repasos programados para más tarde hoy")
+                                    Text("${minOf((newLimit - newToday).coerceAtLeast(0), cards.count { (states[it.id]?.reviews ?: 0) == 0 })} tarjetas nuevas disponibles hoy")
                                     Button(onClick = {
                                         subject = "Todas"; unit = "Todas"; topic = "Todos"; query = ""; difficulty = "Todos"
                                         mode = "Tarjetas"; tab = StudyTab.Review
@@ -193,7 +214,21 @@ fun StudyApp(model: StudyModel = viewModel()) {
                         }
                         item {
                             Metric("Meta de hoy", "${reviewedToday.size} / $dailyGoal repasos")
+                            Text(if (reviewedToday.size >= dailyGoal) "Meta cumplida" else "Te faltan ${dailyGoal - reviewedToday.size} repasos de tarjetas.")
+                            Stepper("Ajustar meta diaria", dailyGoal, 5, 200, 5) {
+                                dailyGoal = it; prefs.edit().putInt("dailyGoal", it).apply()
+                            }
                             LinearProgressIndicator(progress = (reviewedToday.size.toFloat() / dailyGoal).coerceAtMost(1f), modifier = Modifier.fillMaxWidth())
+                        }
+                        item {
+                            Text("Temas para reforzar", style = MaterialTheme.typography.titleLarge)
+                            if (focus.isEmpty()) Text("Acá aparecerán los temas con errores de tus simulacros.")
+                            focus.forEach {
+                                TextButton(onClick = { openErrors(subjectFilter = it.subject, topicFilter = it.topic) }) {
+                                    Text("${it.subject} · ${it.topic} · ${it.pending} por repasar")
+                                }
+                            }
+                            OutlinedButton(onClick = { openErrors() }) { Text("Repasar errores") }
                         }
                         item { Metric("Racha", "${streak((logs.map { localDate(it.ratedAt) } + runs.filter { it.finishedAt > 0 }.map { localDate(it.finishedAt) }).toSet(), today)} días") }
                         item { Metric("Tu banco", "${cards.size} tarjetas") }
@@ -228,9 +263,14 @@ fun StudyApp(model: StudyModel = viewModel()) {
                         }
                     }
                     StudyTab.Review -> {
-                        item { ChoiceMenu("Modo", listOf("Tarjetas", "Simulacros", "Guía"), mode) { mode = it } }
+                        item { ChoiceMenu("Modo", listOf("Tarjetas", "Simulacros", "Errores", "Guía"), mode) {
+                            if (it == "Errores") openErrors() else mode = it
+                        } }
                         when (mode) {
-                            "Simulacros" -> item { ExamScreen(model, selectedExam, { selectedExam = it }, now) }
+                            "Simulacros" -> item { ExamScreen(model, selectedExam, { selectedExam = it }, now) { openErrors(it) } }
+                            "Errores" -> item {
+                                ErrorReviewScreen(model, errorRun, errorSubject, errorTopic)
+                            }
                             "Guía" -> {
                                 items(model.guide.split("\n").filter { it.isNotBlank() }) { line ->
                                     when {
@@ -286,7 +326,7 @@ fun StudyApp(model: StudyModel = viewModel()) {
                             }
                         }
                     }
-                    StudyTab.Stats -> item { StatisticsScreen(cards, progress, logs, times, runs, now) {
+                    StudyTab.Stats -> item { StatisticsScreen(cards, progress, logs, times, runs, topicResults, now) {
                         selectedExam = it; mode = "Simulacros"; tab = StudyTab.Review
                     } }
                     StudyTab.Settings -> {

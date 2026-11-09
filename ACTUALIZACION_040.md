@@ -1,0 +1,29 @@
+# Medicina UNA 0.4.0
+
+## Simulacros y seguimiento
+
+La práctica personalizada alterna materias y luego temas disponibles dentro de cada materia, sin repetir enunciados o IDs. Si se agota una materia, se completa con las demás hasta el máximo disponible. En prácticas de una sola materia se alternan sus temas. Las siete configuraciones anteriores permanecen accesibles como prácticas fijas. Se revisó la [página de admisión 2027](https://med.una.py/admision-medicina/). El reglamento que enlaza (Resolución 979) no se pudo consultar. La aplicación presenta sus cantidades y tiempos como práctica, no como el formato oficial de 2027.
+
+Al entregar se muestran el puntaje, el desglose por materia y la revisión de errores y blancos. El intento guarda las respuestas, la posición y la fecha límite en Room. Salir no cambia el vencimiento. Los errores se pueden repasar desde el resultado, Inicio o Estudiar, con filtros por materia y tema. Un acierto deja la pregunta en práctica y dos aciertos consecutivos en sesiones distintas la marcan dominada. Un fallo reinicia la cuenta. Se conserva el resultado original. Los intentos antiguos se vinculan por enunciado, materia y respuesta correcta cuando hay una coincidencia única. Si no la hay, se muestran como «Sin tema identificado».
+
+Inicio muestra repasos disponibles, programados para más tarde, meta editable y temas con errores. Progreso distingue las respuestas de simulacro y de repaso por tema, señala las muestras de menos de cinco respuestas y mantiene los blancos como posibles errores de práctica sin contarlos como respuestas contestadas en el porcentaje por tema.
+
+## Contenido y fuentes
+
+| Materia | Tarjetas inspeccionadas estructuralmente | Tarjetas corregidas | Preguntas previas inspeccionadas estructuralmente | Preguntas previas corregidas | Preguntas nuevas | Banco final |
+|---|---:|---:|---:|---:|---:|---:|
+| Biología | 250 | 0 | 28 | 0 | 13 | 41 |
+| Física | 208 | 0 | 23 | 0 | 11 | 34 |
+| Lenguaje | 221 | 0 | 36 | 0 | 11 | 47 |
+| Matemática | 208 | 0 | 18 | 0 | 10 | 28 |
+| Química | 562 | 0 | 101 | 0 | 10 | 111 |
+| Total | 1449 | 0 | 206 | 0 | 55 | 261 |
+
+La inspección estructural comprobó campos y presencia de referencias. Las 55 preguntas nuevas tienen enunciados y distractores propios, una clave, explicación y una referencia web académica asociada. Se priorizaron temas con poca o ninguna práctica previa. La cobertura del temario consta por separado en [COBERTURA_2027.md](COBERTURA_2027.md). Queda pendiente cotejar uno por uno con su fuente los 1449 contenidos de tarjetas y las 206 preguntas previas. De las tarjetas anteriores, 1216 enlazan una referencia web y 233 remiten a apuntes o PDFs. Las 206 preguntas previas remiten a apuntes o PDFs.
+
+## Cómo comprobar en un Redmi 13C
+
+1. En la versión instalada, exportá una copia desde Ajustes y comprobá que podés localizar el JSON. Anotá un dato del historial o contestá una pregunta en un intento nuevo y salí sin entregarlo.
+2. Descargá el artefacto `MedicinaUNA-debug-apk` de la compilación, descomprimilo y abrí `MedicinaUNA-actualizacion.apk`. Si Android ofrece actualizar, aceptá. Si la firma no coincide, conservá la instalación y la copia y anotá el mensaje.
+3. Comprobá la tarjeta o historial previo y volvé al intento. Deben conservarse respuestas, posición y vencimiento. Entregá el simulacro y probá el repaso de un error.
+4. Para una instalación limpia, usá otro dispositivo o un perfil independiente para que la instalación con progreso siga disponible.

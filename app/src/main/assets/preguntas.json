@@ -3914,6 +3914,1051 @@
         "15 μmol/min"
       ],
       "correctIndex": 3
+    },
+    {
+      "id": "sim2027-b04-002",
+      "subject": "Biología",
+      "unit": "Unidad 4 · Técnicas de biología molecular y celular",
+      "topic": "Fluorescencia",
+      "difficulty": 2,
+      "question": "En una muestra gruesa marcada con fluoróforos, ¿qué propiedad de la microscopía confocal permite reconstruir distintas profundidades?",
+      "answer": "Rechaza señal fuera de foco y obtiene secciones ópticas",
+      "explanation": "La apertura confocal reduce la señal de planos fuera de foco. Al adquirir imágenes a distintas profundidades se obtienen secciones ópticas.",
+      "source": "Alberts et al., Molecular Biology of the Cell, Visualizing Cells · https://www.ncbi.nlm.nih.gov/books/NBK21048/",
+      "page": "Programa 2027 p. 14 · B04.22",
+      "options": [
+        "Separa células por velocidad de sedimentación",
+        "Convierte toda la luz en electrones",
+        "Aumenta el tamaño físico de los fluoróforos",
+        "Rechaza señal fuera de foco y obtiene secciones ópticas"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "sim2027-b04-003",
+      "subject": "Biología",
+      "unit": "Unidad 4 · Técnicas de biología molecular y celular",
+      "topic": "Fluorescencia",
+      "difficulty": 2,
+      "question": "Tras fotoblanquear una región de membrana, la fluorescencia vuelve parcialmente. ¿Qué indica la recuperación?",
+      "answer": "Que moléculas fluorescentes no blanqueadas se movieron hacia la región",
+      "explanation": "FRAP mide la recuperación por intercambio o difusión de moléculas no blanqueadas. Una recuperación parcial puede indicar una fracción inmóvil.",
+      "source": "Alberts et al., Molecular Biology of the Cell, Membrane Proteins · https://www.ncbi.nlm.nih.gov/books/NBK26878/",
+      "page": "Programa 2027 p. 14 · B04.23",
+      "options": [
+        "Que la región se separó de la bicapa",
+        "Que todas las proteínas quedaron inmóviles",
+        "Que el fotoblanqueo aumentó la concentración de lípidos",
+        "Que moléculas fluorescentes no blanqueadas se movieron hacia la región"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "sim2027-b05-001",
+      "subject": "Biología",
+      "unit": "Unidad 5 · Membrana plasmática",
+      "topic": "Proteínas integrales",
+      "difficulty": 2,
+      "question": "Para purificar una proteína transmembrana en un medio acuoso, ¿qué aporta un detergente adecuado?",
+      "answer": "Protege las regiones hidrófobas expuestas al retirar la bicapa",
+      "explanation": "Los detergentes anfipáticos se asocian a las zonas hidrófobas de la proteína y permiten que permanezca dispersa en agua.",
+      "source": "Alberts et al., Molecular Biology of the Cell, Membrane Proteins · https://www.ncbi.nlm.nih.gov/books/NBK26878/",
+      "page": "Programa 2027 p. 14 · B05.11",
+      "options": [
+        "Convierte los segmentos hidrófobos en ADN",
+        "Protege las regiones hidrófobas expuestas al retirar la bicapa",
+        "Sustituye todas las regiones de la proteína por fosfolípidos",
+        "Hace que desaparezcan las interacciones con el agua"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "sim2027-b06-002",
+      "subject": "Biología",
+      "unit": "Unidad 6 · Mitocondrias y respiración aeróbica",
+      "topic": "ATP sintasa",
+      "difficulty": 2,
+      "question": "Si se bloquea el paso de protones por F₀, ¿qué etapa de la síntesis mitocondrial de ATP se afecta directamente?",
+      "answer": "El giro que acopla el gradiente de protones a F₁",
+      "explanation": "El flujo de protones por F₀ impulsa el giro del rotor. Ese giro se transmite a F₁ y favorece los cambios de conformación para sintetizar ATP.",
+      "source": "Alberts et al., Molecular Biology of the Cell, The Mitochondrion · https://www.ncbi.nlm.nih.gov/books/NBK26894/",
+      "page": "Programa 2027 p. 14 · B06.9",
+      "options": [
+        "La replicación del ADN nuclear",
+        "La unión de oxígeno al complejo IV por la misma proteína",
+        "El giro que acopla el gradiente de protones a F₁",
+        "La hidrólisis de proteínas en lisosomas"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "sim2027-b07-002",
+      "subject": "Biología",
+      "unit": "Unidad 7 · Citoesqueleto y motilidad",
+      "topic": "Proteínas de unión a actina",
+      "difficulty": 2,
+      "question": "¿Qué estructura se ve afectada de forma directa si se inhibe Arp2/3 en un borde celular que está avanzando?",
+      "answer": "La red ramificada de actina",
+      "explanation": "Arp2/3 nuclea ramas de actina. La red de filamentos que genera contribuye a empujar la membrana en el borde celular.",
+      "source": "Alberts et al., Molecular Biology of the Cell, How Cells Regulate Their Cytoskeletal Filaments · https://www.ncbi.nlm.nih.gov/books/NBK26809/",
+      "page": "Programa 2027 p. 14 · B07.10",
+      "options": [
+        "La red ramificada de actina",
+        "Las láminas de la membrana mitocondrial interna",
+        "Las uniones de ADN con histonas",
+        "Los poros de la envoltura nuclear"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "sim2027-b08-002",
+      "subject": "Biología",
+      "unit": "Unidad 8 · Interacciones celulares y con el entorno",
+      "topic": "Anclaje celular",
+      "difficulty": 2,
+      "question": "¿Qué unión conecta filamentos intermedios con la matriz extracelular?",
+      "answer": "Hemidesmosoma",
+      "explanation": "Los hemidesmosomas unen la red de filamentos intermedios a la matriz por integrinas. Las adhesiones focales se vinculan con actina.",
+      "source": "Alberts et al., Molecular Biology of the Cell, Cell Junctions, Cell Adhesion, and the Extracellular Matrix · https://www.ncbi.nlm.nih.gov/books/NBK21054/",
+      "page": "Programa 2027 p. 14 · B08.8",
+      "options": [
+        "Unión estrecha",
+        "Adhesión focal",
+        "Unión comunicante",
+        "Hemidesmosoma"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "sim2027-b09-002",
+      "subject": "Biología",
+      "unit": "Unidad 9 · Endomembranas y tráfico",
+      "topic": "Lisosomas",
+      "difficulty": 2,
+      "question": "Una hidrolasa lisosomal se sintetiza bien, pero no recibe manosa-6-fosfato. ¿Qué paso falla de manera más directa?",
+      "answer": "Su reconocimiento por el receptor que la clasifica en el Golgi",
+      "explanation": "La manosa-6-fosfato sirve de señal de clasificación para muchas hidrolasas lisosomales. El receptor del Golgi reconoce esa marca.",
+      "source": "Alberts et al., Molecular Biology of the Cell, Transport from the Trans Golgi Network to Lysosomes · https://www.ncbi.nlm.nih.gov/books/NBK26844/",
+      "page": "Programa 2027 p. 14–15 · B09.13",
+      "options": [
+        "La formación inicial de la membrana plasmática",
+        "La traducción de su ARNm en todos los ribosomas",
+        "Su reconocimiento por el receptor que la clasifica en el Golgi",
+        "La condensación de los cromosomas"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "sim2027-b10-001",
+      "subject": "Biología",
+      "unit": "Unidad 10 · Gen y genoma",
+      "topic": "Duplicación del genoma",
+      "difficulty": 2,
+      "question": "¿Qué efecto tiene sobre la estabilidad del genoma un defecto que aumenta los errores de copia del ADN sin repararlos?",
+      "answer": "Aumenta la probabilidad de transmitir cambios de secuencia a las células hijas",
+      "explanation": "Si no se corrigen, algunos errores de copia quedan fijados como mutaciones que pueden transmitirse en divisiones posteriores.",
+      "source": "Alberts et al., Molecular Biology of the Cell, DNA Replication, Repair, and Recombination · https://www.ncbi.nlm.nih.gov/books/NBK21064/",
+      "page": "Programa 2027 p. 15 · B10.7",
+      "options": [
+        "Asegura que todos los cambios sean beneficiosos",
+        "Aumenta la probabilidad de transmitir cambios de secuencia a las células hijas",
+        "Convierte la duplicación semiconservativa en transcripción",
+        "Impide que se herede cualquier molécula de ADN"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "sim2027-b11-001",
+      "subject": "Biología",
+      "unit": "Unidad 11 · Del ADN al ARN y la proteína",
+      "topic": "Transcripción comparada",
+      "difficulty": 2,
+      "question": "En una célula eucariota, ¿qué enzima transcribe normalmente el gen nuclear de una proteína citosólica?",
+      "answer": "ARN polimerasa II",
+      "explanation": "La ARN polimerasa II produce los precursores de la mayoría de los ARNm nucleares. La polimerasa I transcribe la mayor parte del ARNr.",
+      "source": "Alberts et al., Molecular Biology of the Cell, From DNA to RNA · https://www.ncbi.nlm.nih.gov/books/NBK26887/",
+      "page": "Programa 2027 p. 15 · B11.11",
+      "options": [
+        "ARN polimerasa II",
+        "Aminoacil-ARNt sintetasa",
+        "ARN polimerasa I",
+        "ADN polimerasa α"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "sim2027-b12-006",
+      "subject": "Biología",
+      "unit": "Unidad 12 · Control de la expresión genética",
+      "topic": "Control del procesamiento",
+      "difficulty": 2,
+      "question": "Un gen se transcribe a la misma velocidad, pero cambia la proporción de dos variantes de ARNm. ¿Qué regulación explica ese resultado directamente?",
+      "answer": "Empalme alternativo",
+      "explanation": "El empalme alternativo combina regiones del precursor de manera diferente, produciendo variantes de ARNm del mismo gen.",
+      "source": "OpenStax Biology 2e §16.5 · https://openstax.org/books/biology-2e/pages/16-5-eukaryotic-post-transcriptional-gene-regulation",
+      "page": "Programa 2027 p. 15 · B12.16",
+      "options": [
+        "Traducción por ribosomas mitocondriales",
+        "Replicación semiconservativa",
+        "Empalme alternativo",
+        "Segregación de cromosomas homólogos"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "sim2027-b13-001",
+      "subject": "Biología",
+      "unit": "Unidad 13 · Replicación y reparación de ADN",
+      "topic": "ADN polimerasas",
+      "difficulty": 2,
+      "question": "¿Qué extremo debe ofrecer un cebador para que lo extienda una ADN polimerasa replicativa?",
+      "answer": "Un extremo 3′-OH libre",
+      "explanation": "La polimerasa incorpora nucleótidos al 3′-OH del cebador. Por eso la nueva hebra se sintetiza en sentido 5′→3′.",
+      "source": "Alberts et al., Molecular Biology of the Cell, DNA Replication, Repair, and Recombination · https://www.ncbi.nlm.nih.gov/books/NBK21064/",
+      "page": "Programa 2027 p. 15 · B13.10",
+      "options": [
+        "Un extremo 3′ sin grupo hidroxilo",
+        "Un extremo 3′-OH libre",
+        "Un extremo 5′ sin fosfato",
+        "Dos extremos unidos por un enlace peptídico"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "sim2027-b14-004",
+      "subject": "Biología",
+      "unit": "Unidad 14 · División celular",
+      "topic": "Etapas de la meiosis",
+      "difficulty": 2,
+      "question": "¿Qué se separa en anafase I de meiosis, en condiciones normales?",
+      "answer": "Los cromosomas homólogos",
+      "explanation": "En meiosis I se separan los homólogos y las cromátidas hermanas permanecen juntas. Se separan durante meiosis II.",
+      "source": "OpenStax Biology 2e §11.1 · https://openstax.org/books/biology-2e/pages/11-1-the-process-of-meiosis",
+      "page": "Programa 2027 p. 15 · B14.10",
+      "options": [
+        "Los cromosomas homólogos",
+        "Los nucleótidos del ADN",
+        "Las cromátidas hermanas de cada cromosoma",
+        "Los centrómeros de todos los cromosomas"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "sim2027-b15-001",
+      "subject": "Biología",
+      "unit": "Unidad 15 · Señalización y transducción",
+      "topic": "Señalización vegetal",
+      "difficulty": 2,
+      "question": "En un fruto climatérico, ¿qué cambio suele favorecer la señalización por etileno?",
+      "answer": "La maduración",
+      "explanation": "El etileno es una señal vegetal que activa procesos de maduración, con cambios en la textura, color o composición.",
+      "source": "OpenStax Biology 2e §30.6 · https://openstax.org/books/biology-2e/pages/30-6-plant-sensory-systems-and-responses",
+      "page": "Programa 2027 p. 16 · B15.15",
+      "options": [
+        "La duplicación de todos los cromosomas",
+        "La desaparición de la membrana nuclear en todas las células",
+        "La interrupción permanente de la expresión génica",
+        "La maduración"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "sim2027-l01-004",
+      "subject": "Lenguaje",
+      "unit": "Unidad 1 · Lingüística de la comunicación",
+      "topic": "Condiciones de los actos de habla",
+      "difficulty": 2,
+      "question": "Una alumna sin autorización dice «Declaro iniciada la sesión». ¿Qué requisito falla para que su declaración tenga efecto institucional?",
+      "answer": "La autoridad de la hablante",
+      "explanation": "Para que un acto institucional produzca el efecto buscado, la persona debe tener la función o autoridad exigida por la situación.",
+      "source": "Instituto Cervantes, Carabela 56, condiciones de los actos de habla · https://cvc.cervantes.es/ensenanza/biblioteca_ele/carabela/pdf/56/56_215.pdf",
+      "page": "Programa 2027 p. 2 · I.6",
+      "options": [
+        "La autoridad de la hablante",
+        "La presencia de una metáfora",
+        "La existencia de un canal acústico",
+        "El uso de una oración interrogativa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "sim2027-l02-004",
+      "subject": "Lenguaje",
+      "unit": "Unidad 2 · Semántica",
+      "topic": "Ambigüedad léxica",
+      "difficulty": 2,
+      "question": "En «El gato levantó el auto», ¿qué permite interpretar «gato» como herramienta y no como animal?",
+      "answer": "El cotexto «levantó el auto»",
+      "explanation": "El significado se desambigua gracias a las palabras que rodean a «gato». Levantar un auto favorece la interpretación de herramienta.",
+      "source": "RAE/ASALE, DLE, gato, acepción de máquina para levantar pesos · https://dle.rae.es/gato",
+      "page": "Programa 2027 p. 2 · II.3.6",
+      "options": [
+        "La tilde en la palabra «gato»",
+        "La ausencia de sujeto en la oración",
+        "La forma plural del sustantivo",
+        "El cotexto «levantó el auto»"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "sim2027-l03-002",
+      "subject": "Lenguaje",
+      "unit": "Unidad 3 · Comprensión lectora",
+      "topic": "Textos instrumentales",
+      "difficulty": 2,
+      "question": "¿Qué tipo de texto es una ficha con campos «Nombre», «Curso» y «Firma» que debe entregarse para inscribirse?",
+      "answer": "Un texto instrumental",
+      "explanation": "La ficha organiza la información necesaria para realizar un trámite. Sus rótulos indican qué datos se completan.",
+      "source": "Instituto Cervantes, Diccionario de términos clave de ELE, Tipología textual · https://cvc.cervantes.es/ensenanza/biblioteca_Ele/diccio_ele/diccionario/tipologia.htm",
+      "page": "Programa 2027 p. 2 · III.2",
+      "options": [
+        "Un texto argumentativo",
+        "Un texto instrumental",
+        "Un texto narrativo",
+        "Un texto poético"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "sim2027-l03-005",
+      "subject": "Lenguaje",
+      "unit": "Unidad 3 · Comprensión lectora",
+      "topic": "Marcadores discursivos",
+      "difficulty": 2,
+      "question": "¿Qué función cumple «es decir» en «Es un plazo improrrogable, es decir, no se puede extender»?",
+      "answer": "Reformula la idea anterior",
+      "explanation": "El marcador introduce una expresión equivalente que aclara el significado de «improrrogable».",
+      "source": "Instituto Cervantes, Diccionario de términos clave de ELE, Marcadores del discurso · https://cvc.cervantes.es/ensenanza/biblioteca_ele/diccio_ele/diccionario/marcadoresdiscurso.htm",
+      "page": "Programa 2027 p. 3 · III.3.1",
+      "options": [
+        "Opone dos afirmaciones",
+        "Reformula la idea anterior",
+        "Indica el orden temporal de los hechos",
+        "Introduce una causa nueva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "sim2027-l04-002",
+      "subject": "Lenguaje",
+      "unit": "Unidad 4 · Ortografía",
+      "topic": "Diptongo e hiato",
+      "difficulty": 2,
+      "question": "¿Cuál palabra lleva tilde para marcar un hiato con vocal cerrada tónica?",
+      "answer": "País",
+      "explanation": "En país, la í tónica forma una sílaba separada de la a. Las otras tildes se explican por las reglas generales.",
+      "source": "RAE/ASALE, Diccionario panhispánico de dudas, tilde · https://www.rae.es/dpd/tilde",
+      "page": "Programa 2027 p. 3 · IV.2",
+      "options": [
+        "Fácil",
+        "Canción",
+        "Árbol",
+        "País"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "sim2027-l04-003",
+      "subject": "Lenguaje",
+      "unit": "Unidad 4 · Ortografía",
+      "topic": "Aun y aún",
+      "difficulty": 2,
+      "question": "¿En cuál oración corresponde escribir «aún» con tilde?",
+      "answer": "Aún no llegaron todos los resultados.",
+      "explanation": "En la primera oración equivale a «todavía». En los otros casos, aun tiene valor inclusivo o concesivo.",
+      "source": "RAE/ASALE, Diccionario panhispánico de dudas, tilde · https://www.rae.es/dpd/tilde",
+      "page": "Programa 2027 p. 3 · IV.2",
+      "options": [
+        "Aun con lluvia, iremos al ensayo.",
+        "Ni aun con ayuda lo consiguió.",
+        "Aun los más rápidos tuvieron dudas.",
+        "Aún no llegaron todos los resultados."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "sim2027-l04-014",
+      "subject": "Lenguaje",
+      "unit": "Unidad 4 · Ortografía",
+      "topic": "Punto y coma",
+      "difficulty": 2,
+      "question": "¿Qué signo conviene usar entre miembros de una enumeración que ya contienen comas internas?",
+      "answer": "Punto y coma",
+      "explanation": "El punto y coma separa cada elemento completo y evita confundir las comas internas con los límites de la lista.",
+      "source": "RAE, Apéndice de ortografía del Diccionario del estudiante · https://www.rae.es/diccionario-estudiante/docs/ortografia.pdf",
+      "page": "Programa 2027 p. 3 · IV.4",
+      "options": [
+        "Comillas",
+        "Raya de diálogo",
+        "Punto y coma",
+        "Guion"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "sim2027-l04-020",
+      "subject": "Lenguaje",
+      "unit": "Unidad 4 · Ortografía",
+      "topic": "Símbolos",
+      "difficulty": 2,
+      "question": "¿Cuál es la escritura correcta de la unidad en «La distancia fue de cinco kilómetros», si se usa el símbolo?",
+      "answer": "5 km",
+      "explanation": "El símbolo km va en minúscula, no se pluraliza y se separa del número por un espacio.",
+      "source": "RAE/ASALE, Diccionario panhispánico de dudas, símbolo · https://www.rae.es/dpd/s%C3%ADmbolo",
+      "page": "Programa 2027 p. 3 · IV.5",
+      "options": [
+        "5 kms",
+        "5 km",
+        "5km",
+        "5 Km"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "sim2027-l05-001",
+      "subject": "Lenguaje",
+      "unit": "Unidad 5 · Morfosintaxis",
+      "topic": "Género y número",
+      "difficulty": 2,
+      "question": "¿Cuál es la concordancia correcta en singular?",
+      "answer": "El agua fría",
+      "explanation": "Agua es un sustantivo femenino con a tónica inicial. En este contexto lleva el artículo el, pero el adjetivo mantiene el femenino.",
+      "source": "RAE/ASALE, Diccionario panhispánico de dudas, agua · https://www.rae.es/dpd/agua",
+      "page": "Programa 2027 p. 3 · V.1.1",
+      "options": [
+        "La agua frío",
+        "La agua fría",
+        "El agua frío",
+        "El agua fría"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "sim2027-l05-022",
+      "subject": "Lenguaje",
+      "unit": "Unidad 5 · Morfosintaxis",
+      "topic": "Pronombres de complemento indirecto",
+      "difficulty": 2,
+      "question": "En «Entregué los apuntes a María», ¿qué forma reemplaza simultáneamente a «los apuntes» y «a María»?",
+      "answer": "Se los entregué.",
+      "explanation": "El directo «los apuntes» pasa a los. El pronombre le del indirecto se transforma en se delante de los.",
+      "source": "RAE/ASALE, Glosario de términos gramaticales, tablas · https://www.rae.es/gtg/docs/GTG_tablas_web.pdf",
+      "page": "Programa 2027 p. 4 · V.9.6.2",
+      "options": [
+        "Se los entregué.",
+        "Se les entregué.",
+        "Los le entregué.",
+        "Le los entregué."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "sim2027-l05-027",
+      "subject": "Lenguaje",
+      "unit": "Unidad 5 · Morfosintaxis",
+      "topic": "Impersonal y pasiva refleja",
+      "difficulty": 3,
+      "question": "¿Cuál es una pasiva refleja con concordancia entre el verbo y el sujeto paciente?",
+      "answer": "Se imprimieron los informes.",
+      "explanation": "En «Se imprimieron los informes», el sujeto paciente los informes concuerda en plural con imprimieron. Las otras oraciones son impersonales o recíprocas.",
+      "source": "RAE/ASALE, Diccionario panhispánico de dudas, se · https://www.rae.es/dpd/se",
+      "page": "Programa 2027 p. 4 · V.9.9.5",
+      "options": [
+        "Se entrevistó a los candidatos.",
+        "Se vive bien aquí.",
+        "Los colegas se saludaron.",
+        "Se imprimieron los informes."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "sim2027-f02-003",
+      "subject": "Física",
+      "unit": "Unidad 2 · Cinemática",
+      "topic": "Encuentro en MRU",
+      "difficulty": 2,
+      "question": "Dos caminantes se acercan desde puntos separados por 84 m. Sus velocidades son 3 m/s y 4 m/s. ¿Cuándo se encuentran?",
+      "answer": "12 s",
+      "explanation": "La distancia se reduce a 3 + 4 = 7 m/s. El tiempo es 84 m ÷ 7 m/s = 12 s.",
+      "source": "OpenStax, College Physics 2e, 2.5 Motion Equations for Constant Acceleration in One Dimension · https://openstax.org/books/college-physics-2e/pages/2-5-motion-equations-for-constant-acceleration-in-one-dimension",
+      "page": "Programa 2027 p. 16 · 2.3",
+      "options": [
+        "84 s",
+        "21 s",
+        "28 s",
+        "12 s"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "sim2027-f02-005",
+      "subject": "Física",
+      "unit": "Unidad 2 · Cinemática",
+      "topic": "Caída libre",
+      "difficulty": 2,
+      "question": "Se deja caer un objeto desde 80 m, sin aire y con g = 10 m/s². ¿Cuánto tarda en tocar el suelo?",
+      "answer": "4 s",
+      "explanation": "La caída desde el reposo cumple h = gt²/2. Entonces t = √(2 × 80/10) s = 4 s.",
+      "source": "OpenStax, College Physics 2e, 2.7 Falling Objects · https://openstax.org/books/college-physics-2e/pages/2-7-falling-objects",
+      "page": "Programa 2027 p. 16 · 2.5",
+      "options": [
+        "4 s",
+        "8 s",
+        "2 s",
+        "16 s"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "sim2027-f02-008",
+      "subject": "Física",
+      "unit": "Unidad 2 · Cinemática",
+      "topic": "Lanzamiento horizontal",
+      "difficulty": 3,
+      "question": "Se lanza horizontalmente una pelota desde 5 m con rapidez de 6 m/s. Usá g = 10 m/s² y despreciá el aire. ¿A qué distancia horizontal cae?",
+      "answer": "6 m",
+      "explanation": "La caída vertical tarda √(2 × 5/10) = 1 s. En ese tiempo la pelota recorre horizontalmente 6 m/s × 1 s = 6 m.",
+      "source": "OpenStax, College Physics 2e, 3.4 Projectile Motion · https://openstax.org/books/college-physics-2e/pages/3-4-projectile-motion",
+      "page": "Programa 2027 p. 16 · 2.8",
+      "options": [
+        "6 m",
+        "12 m",
+        "3 m",
+        "5 m"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "sim2027-f03-006",
+      "subject": "Física",
+      "unit": "Unidad 3 · Dinámica",
+      "topic": "Teorema de las fuerzas vivas",
+      "difficulty": 3,
+      "question": "Un bloque de 4 kg pasa de 2 m/s a 6 m/s. ¿Cuál fue el trabajo neto sobre él?",
+      "answer": "64 J",
+      "explanation": "W neto = ΔK = ½(4 kg)(6² − 2²) m²/s² = 64 J.",
+      "source": "OpenStax, College Physics 2e, 7.2 Kinetic Energy and the Work-Energy Theorem · https://openstax.org/books/college-physics-2e/pages/7-2-kinetic-energy-and-the-work-energy-theorem",
+      "page": "Programa 2027 p. 16 · 3.6",
+      "options": [
+        "64 J",
+        "72 J",
+        "128 J",
+        "32 J"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "sim2027-f04-003",
+      "subject": "Física",
+      "unit": "Unidad 4 · Hidrostática",
+      "topic": "Presión absoluta y manométrica",
+      "difficulty": 2,
+      "question": "¿Cuál es la presión manométrica a 2 m de profundidad en agua de densidad 1000 kg/m³, con g = 10 m/s²?",
+      "answer": "20 kPa",
+      "explanation": "La presión manométrica es ρgh = 1000 × 10 × 2 = 20.000 Pa. Dividí por 1000 para expresarla en kPa.",
+      "source": "OpenStax, College Physics 2e, 11.4 Variation of Pressure with Depth in a Fluid · https://openstax.org/books/college-physics-2e/pages/11-4-variation-of-pressure-with-depth-in-a-fluid",
+      "page": "Programa 2027 p. 16 · 4.3",
+      "options": [
+        "20 kPa",
+        "200 kPa",
+        "120 kPa",
+        "2 kPa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "sim2027-f05-002",
+      "subject": "Física",
+      "unit": "Unidad 5 · Hidrodinámica",
+      "topic": "Caudal volumétrico",
+      "difficulty": 2,
+      "question": "Una tubería de 3 cm² conduce agua a 2 m/s. ¿Cuál es el caudal?",
+      "answer": "0,60 L/s",
+      "explanation": "A = 3 × 10⁻⁴ m². Q = Av = 6 × 10⁻⁴ m³/s. Como 1 m³ = 1000 L, Q = 0,60 L/s.",
+      "source": "OpenStax, College Physics 2e, 12.1 Flow Rate and Its Relation to Velocity · https://openstax.org/books/college-physics-2e/pages/12-1-flow-rate-and-its-relation-to-velocity",
+      "page": "Programa 2027 p. 17 · 5.2",
+      "options": [
+        "60 L/s",
+        "0,60 L/s",
+        "0,06 L/s",
+        "6,0 L/s"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "sim2027-f06-005",
+      "subject": "Física",
+      "unit": "Unidad 6 · Termometría y dilatación térmica",
+      "topic": "Contracción lineal",
+      "difficulty": 2,
+      "question": "Una varilla de 2 m se calienta 30 K. Si α = 15 × 10⁻⁶ K⁻¹, ¿cuánto aumenta su longitud?",
+      "answer": "0,90 mm",
+      "explanation": "ΔL = αL₀ΔT = 15 × 10⁻⁶ × 2 × 30 m = 0,00090 m = 0,90 mm.",
+      "source": "OpenStax, College Physics 2e, 13.2 Thermal Expansion of Solids and Liquids · https://openstax.org/books/college-physics-2e/pages/13-2-thermal-expansion-of-solids-and-liquids",
+      "page": "Programa 2027 p. 17 · 6.5",
+      "options": [
+        "0,90 mm",
+        "9,0 mm",
+        "0,45 mm",
+        "90 mm"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "sim2027-f07-003",
+      "subject": "Física",
+      "unit": "Unidad 7 · Calorimetría",
+      "topic": "Capacidad térmica",
+      "difficulty": 2,
+      "question": "¿Qué capacidad térmica tienen 250 g de un material con calor específico de 0,40 J/(g·K)?",
+      "answer": "100 J/K",
+      "explanation": "C = mc = 250 g × 0,40 J/(g·K) = 100 J/K.",
+      "source": "OpenStax, College Physics 2e, 14.2 Temperature Change and Heat Capacity · https://openstax.org/books/college-physics-2e/pages/14-2-temperature-change-and-heat-capacity",
+      "page": "Programa 2027 p. 17 · 7.3",
+      "options": [
+        "0,0016 J/K",
+        "250 J/K",
+        "100 J/K",
+        "625 J/K"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "sim2027-f08-002",
+      "subject": "Física",
+      "unit": "Unidad 8 · Mecánica ondulatoria",
+      "topic": "Período, frecuencia y longitud",
+      "difficulty": 2,
+      "question": "Una onda tiene frecuencia 25 Hz y longitud de onda 0,80 m. ¿Con qué rapidez se propaga?",
+      "answer": "20 m/s",
+      "explanation": "v = fλ = 25 s⁻¹ × 0,80 m = 20 m/s.",
+      "source": "OpenStax, College Physics 2e, 16.9 Waves · https://openstax.org/books/college-physics-2e/pages/16-9-waves",
+      "page": "Programa 2027 p. 17 · 8.2",
+      "options": [
+        "25,8 m/s",
+        "0,032 m/s",
+        "20 m/s",
+        "31,25 m/s"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "sim2027-f09-005",
+      "subject": "Física",
+      "unit": "Unidad 9 · Óptica",
+      "topic": "Imagen virtual en lente convergente",
+      "difficulty": 3,
+      "question": "Un objeto está a 8 cm de una lente convergente de distancia focal 12 cm. ¿Qué distancia de imagen da la convención de lente delgada?",
+      "answer": "−24 cm",
+      "explanation": "1/dᵢ = 1/12 − 1/8 = −1/24 cm⁻¹. dᵢ es negativa porque la imagen virtual queda del lado del objeto.",
+      "source": "OpenStax, College Physics 2e, 25.6 Image Formation by Lenses · https://openstax.org/books/college-physics-2e/pages/25-6-image-formation-by-lenses",
+      "page": "Programa 2027 p. 17 · 9.5",
+      "options": [
+        "−24 cm",
+        "+4 cm",
+        "+24 cm",
+        "−4 cm"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "sim2027-f10-012",
+      "subject": "Física",
+      "unit": "Unidad 10 · Electricidad",
+      "topic": "Circuito mixto",
+      "difficulty": 3,
+      "question": "Dos resistencias de 4 Ω y 12 Ω están en paralelo y se conectan a 9 V. ¿Cuál es la corriente total?",
+      "answer": "3 A",
+      "explanation": "1/Rₑ = 1/4 + 1/12 = 1/3 Ω⁻¹. Por tanto Rₑ = 3 Ω y la corriente total es 9 V/3 Ω = 3 A.",
+      "source": "OpenStax, College Physics 2e, 21.1 Resistors in Series and Parallel · https://openstax.org/books/college-physics-2e/pages/21-1-resistors-in-series-and-parallel",
+      "page": "Programa 2027 p. 17 · 10.10",
+      "options": [
+        "3 A",
+        "0,56 A",
+        "2,25 A",
+        "0,75 A"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "sim2027-m01-006",
+      "subject": "Matemática",
+      "unit": "Unidad 1 · Lógica proposicional",
+      "topic": "Negación de un cuantificador",
+      "difficulty": 2,
+      "question": "¿Cuál es la negación lógica de «Todos los enteros son positivos»?",
+      "answer": "Existe al menos un entero que no es positivo.",
+      "explanation": "Al negar una afirmación universal se afirma que hay por lo menos un caso en que la propiedad no se cumple. No positivo incluye cero y negativos.",
+      "source": "OpenStax, 2.1 Statements and Quantifiers - Contemporary Mathematics · https://openstax.org/books/contemporary-mathematics/pages/2-1-statements-and-quantifiers",
+      "page": "Programa 2027 p. 18 · 1.6",
+      "options": [
+        "Todos los enteros son negativos.",
+        "Existe al menos un entero que no es positivo.",
+        "No existe ningún entero positivo.",
+        "Existe al menos un entero positivo."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "sim2027-m02-007",
+      "subject": "Matemática",
+      "unit": "Unidad 2 · Aritmética y proporcionalidad",
+      "topic": "Porcentaje inverso",
+      "difficulty": 2,
+      "question": "Después de un descuento del 20 %, una mochila cuesta G. 144.000. ¿Cuánto costaba antes?",
+      "answer": "G. 180.000",
+      "explanation": "Si P es el precio inicial, 0,80P = 144.000. Entonces P = 144.000/0,80 = 180.000 guaraníes.",
+      "source": "OpenStax, 6.2 Solve General Applications of Percent - Prealgebra 2e · https://openstax.org/books/prealgebra-2e/pages/6-2-solve-general-applications-of-percent",
+      "page": "Programa 2027 p. 18 · 2.6",
+      "options": [
+        "G. 180.000",
+        "G. 172.800",
+        "G. 164.000",
+        "G. 115.200"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "sim2027-m03-005",
+      "subject": "Matemática",
+      "unit": "Unidad 3 · Sistema métrico decimal",
+      "topic": "Capacidad de un recipiente",
+      "difficulty": 3,
+      "question": "Un tanque rectangular mide 60 cm × 50 cm × 20 cm. ¿Cuántos litros caben si se llena hasta la mitad?",
+      "answer": "30 L",
+      "explanation": "El volumen total es 60.000 cm³ = 60 L. La mitad corresponde a 30 L.",
+      "source": "OpenStax, 7.5 Systems of Measurement - Prealgebra 2e · https://openstax.org/books/prealgebra-2e/pages/7-5-systems-of-measurement",
+      "page": "Programa 2027 p. 18 · 3.5",
+      "options": [
+        "300 L",
+        "30 L",
+        "60 L",
+        "3 L"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "sim2027-m04-004",
+      "subject": "Matemática",
+      "unit": "Unidad 4 · Expresiones algebraicas",
+      "topic": "Multiplicación y potenciación",
+      "difficulty": 2,
+      "question": "¿Cuál es el desarrollo de (2x − 5)²?",
+      "answer": "4x² − 20x + 25",
+      "explanation": "Al multiplicar dos binomios iguales, los dos términos cruzados son −10x cada uno. El último término es (−5)² = 25.",
+      "source": "OpenStax, 1.4 Polynomials - Algebra and Trigonometry 2e · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-4-polynomials",
+      "page": "Programa 2027 p. 18 · 4.3",
+      "options": [
+        "4x² + 25",
+        "4x² − 20x + 25",
+        "4x² − 10x + 25",
+        "4x² − 20x − 25"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "sim2027-m05-007",
+      "subject": "Matemática",
+      "unit": "Unidad 5 · Factorización y fracciones algebraicas",
+      "topic": "Trinomio con coeficiente principal distinto de uno",
+      "difficulty": 3,
+      "question": "¿Cuál es una factorización de 6x² − x − 2?",
+      "answer": "(3x − 2)(2x + 1)",
+      "explanation": "Al multiplicar (3x − 2)(2x + 1), el término lineal es 3x − 4x = −x y el término independiente es −2.",
+      "source": "OpenStax, 1.5 Factoring Polynomials - Algebra and Trigonometry 2e · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-5-factoring-polynomials",
+      "page": "Programa 2027 p. 19 · 5.1.7",
+      "options": [
+        "(6x + 1)(x − 2)",
+        "(3x − 2)(2x + 1)",
+        "(3x − 1)(2x + 2)",
+        "(3x + 2)(2x − 1)"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "sim2027-m06-002",
+      "subject": "Matemática",
+      "unit": "Unidad 6 · Ecuaciones lineales y con radicales",
+      "topic": "Sistema de dos incógnitas",
+      "difficulty": 2,
+      "question": "¿Cuál es la solución de 2x + y = 11 y x − y = 1?",
+      "answer": "(4, 3)",
+      "explanation": "Sumá ambas ecuaciones: 3x = 12, luego x = 4. Al sustituir en x − y = 1 se obtiene y = 3.",
+      "source": "OpenStax, 11.1 Systems of Linear Equations: Two Variables - Algebra and Trigonometry 2e · https://openstax.org/books/algebra-and-trigonometry-2e/pages/11-1-systems-of-linear-equations-two-variables",
+      "page": "Programa 2027 p. 19 · 6.2",
+      "options": [
+        "(3, 4)",
+        "(1, 5)",
+        "(4, 3)",
+        "(5, 1)"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "sim2027-m07-003",
+      "subject": "Matemática",
+      "unit": "Unidad 7 · Ecuaciones y sistemas cuadráticos",
+      "topic": "Ecuación radical y raíces extrañas",
+      "difficulty": 3,
+      "question": "¿Qué solución real tiene √(3x + 4) = x?",
+      "answer": "x = 4",
+      "explanation": "Al cuadrar se obtiene x² − 3x − 4 = 0, con candidatas 4 y −1. El radical no es negativo, así que solo x = 4 verifica la ecuación original.",
+      "source": "OpenStax, 2.6 Other Types of Equations - Algebra and Trigonometry 2e · https://openstax.org/books/algebra-and-trigonometry-2e/pages/2-6-other-types-of-equations",
+      "page": "Programa 2027 p. 19 · 7.3",
+      "options": [
+        "x = 4",
+        "x = −1",
+        "x = −1 y x = 4",
+        "No tiene solución"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "sim2027-m08-004",
+      "subject": "Matemática",
+      "unit": "Unidad 8 · Logaritmos y ecuaciones exponenciales",
+      "topic": "Ecuación logarítmica y dominio",
+      "difficulty": 3,
+      "question": "¿Cuál es la solución de log₂(x) + log₂(x − 2) = 3?",
+      "answer": "x = 4",
+      "explanation": "El dominio exige x > 2. Al sumar logaritmos, x(x − 2) = 8, con candidatas 4 y −2. Solo 4 pertenece al dominio.",
+      "source": "OpenStax, 6.6 Exponential and Logarithmic Equations - Algebra and Trigonometry 2e · https://openstax.org/books/algebra-and-trigonometry-2e/pages/6-6-exponential-and-logarithmic-equations",
+      "page": "Programa 2027 p. 19 · 8.3",
+      "options": [
+        "x = 4",
+        "x = 4 y x = −2",
+        "x = 8",
+        "x = −2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "sim2027-m09-003",
+      "subject": "Matemática",
+      "unit": "Unidad 9 · Trigonometría",
+      "topic": "Identidades fundamentales",
+      "difficulty": 3,
+      "question": "Si cos θ = −5/13 y θ está en el segundo cuadrante, ¿cuánto vale sen θ?",
+      "answer": "12/13",
+      "explanation": "sen²θ = 1 − 25/169 = 144/169. En el segundo cuadrante el seno es positivo, por lo que vale 12/13.",
+      "source": "OpenStax, Found no tool response. This likely means the arguments you provided were not valid. · https://openstax.org/books/algebra-and-trigonometry-2e/pages/9-1-verifying-trigonometric-identities-and-using-trigonometric-identities-to-simplify-trigonometric-expressions",
+      "page": "Programa 2027 p. 19 · 9.3",
+      "options": [
+        "12/13",
+        "−5/13",
+        "5/13",
+        "−12/13"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "sim2027-m10-008",
+      "subject": "Matemática",
+      "unit": "Unidad 10 · Estadística, combinatoria y probabilidad",
+      "topic": "Probabilidad condicional sin reposición",
+      "difficulty": 3,
+      "question": "Hay 5 fichas verdes y 3 rojas. Si se retira una verde y no se devuelve, ¿qué probabilidad hay de extraer luego una roja?",
+      "answer": "3/7",
+      "explanation": "Tras retirar una verde quedan siete fichas. Las tres rojas siguen en la bolsa, por lo que la probabilidad es 3/7.",
+      "source": "OpenStax, 3.2 Independent and Mutually Exclusive Events - Introductory Statistics 2e · https://openstax.org/books/introductory-statistics-2e/pages/3-2-independent-and-mutually-exclusive-events",
+      "page": "Programa 2027 p. 19 · 10.8",
+      "options": [
+        "3/7",
+        "3/8",
+        "5/8",
+        "4/7"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "sim2027-q12-002",
+      "subject": "Química",
+      "unit": "Unidad 12 · Termodinámica y electroquímica",
+      "topic": "Primera ley",
+      "difficulty": 2,
+      "question": "Un sistema recibe 120 J como calor y realiza 45 J de trabajo sobre el exterior. ¿Cuál es ΔU usando la convención química?",
+      "answer": "+75 J",
+      "explanation": "En ΔU = q + w, el calor recibido es +120 J y el trabajo que hace el sistema corresponde a w = −45 J. La suma es +75 J.",
+      "source": "OpenStax, Chemistry 2e, cap. 5 · https://openstax.org/books/chemistry-2e/pages/5-introduction",
+      "page": "Programa 2027 p. 9 · 12.2",
+      "options": [
+        "+165 J",
+        "−165 J",
+        "+75 J",
+        "−75 J"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "sim2027-q12-008",
+      "subject": "Química",
+      "unit": "Unidad 12 · Termodinámica y electroquímica",
+      "topic": "Ecuación de Nernst",
+      "difficulty": 3,
+      "question": "A 25 °C una celda tiene E° = 0,80 V, n = 2 y Q = 100. ¿Cuál es E, redondeado a dos decimales?",
+      "answer": "0,74 V",
+      "explanation": "E = E° − (0,05916 V/n)log₁₀Q = 0,80 − (0,05916/2)×2 V = 0,74084 V.",
+      "source": "OpenStax, Chemistry 2e, cap. 17 · https://openstax.org/books/chemistry-2e/pages/17-introduction",
+      "page": "Programa 2027 p. 9 · 12.10.5",
+      "options": [
+        "0,68 V",
+        "0,86 V",
+        "0,80 V",
+        "0,74 V"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "sim2027-q13-004",
+      "subject": "Química",
+      "unit": "Unidad 13 · Compuestos y reacciones orgánicas",
+      "topic": "Prioridad CIP y E/Z",
+      "difficulty": 3,
+      "question": "Un extremo de un C=C tiene Br y H, y el otro CH₃ y H. Si Br y CH₃ quedan en lados opuestos, ¿cuál es el descriptor?",
+      "answer": "E",
+      "explanation": "Los grupos prioritarios por número atómico son Br y CH₃ en sus respectivos carbonos. Al estar en lados opuestos el descriptor es E.",
+      "source": "McMurry, Organic Chemistry, OpenStax, cap. 7 · https://openstax.org/books/organic-chemistry/pages/7-why-this-chapter",
+      "page": "Programa 2027 p. 10 · 13.6.2.1.2",
+      "options": [
+        "Z",
+        "R",
+        "E",
+        "S"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "sim2027-q14-007",
+      "subject": "Química",
+      "unit": "Unidad 14 · Hidrocarburos y heterociclos",
+      "topic": "Diels–Alder",
+      "difficulty": 3,
+      "question": "¿Qué tamaño tiene el anillo que se forma en una reacción de Diels–Alder típica entre un dieno conjugado y un alqueno?",
+      "answer": "Seis átomos",
+      "explanation": "Los cuatro átomos del sistema conjugado del dieno y los dos del alqueno forman un nuevo ciclo de seis miembros.",
+      "source": "McMurry, Organic Chemistry, OpenStax, cap. 14 · https://openstax.org/books/organic-chemistry/pages/14-why-this-chapter",
+      "page": "Programa 2027 p. 10 · 14.2.4.3",
+      "options": [
+        "Cuatro átomos",
+        "Cinco átomos",
+        "Seis átomos",
+        "Ocho átomos"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "sim2027-q14-009",
+      "subject": "Química",
+      "unit": "Unidad 14 · Hidrocarburos y heterociclos",
+      "topic": "Estereoquímica de SN2",
+      "difficulty": 3,
+      "question": "¿Qué cambio estereoquímico se espera en el carbono atacado en una sustitución SN2 ideal?",
+      "answer": "Inversión de la geometría",
+      "explanation": "El nucleófilo entra por el lado contrario al grupo saliente. La inversión geométrica no garantiza por sí sola cambiar la etiqueta R/S, porque pueden variar las prioridades.",
+      "source": "McMurry, Organic Chemistry, OpenStax, cap. 11 · https://openstax.org/books/organic-chemistry/pages/11-why-this-chapter",
+      "page": "Programa 2027 p. 10 · 14.4.3",
+      "options": [
+        "Racemización por carbocatión plano",
+        "Pérdida de los otros tres sustituyentes",
+        "Retención obligatoria de la geometría",
+        "Inversión de la geometría"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "sim2027-q15-004",
+      "subject": "Química",
+      "unit": "Unidad 15 · Funciones orgánicas con enlaces simples",
+      "topic": "Obtención de epóxidos",
+      "difficulty": 2,
+      "question": "¿Qué producto característico resulta al tratar ciclohexeno con un perácido como mCPBA?",
+      "answer": "Un epóxido",
+      "explanation": "El perácido transfiere un oxígeno a los dos carbonos del doble enlace. El oxígeno forma con ellos un anillo de tres miembros.",
+      "source": "McMurry, Organic Chemistry, OpenStax, cap. 18 · https://openstax.org/books/organic-chemistry/pages/18-why-this-chapter",
+      "page": "Programa 2027 p. 11 · 15.3.4",
+      "options": [
+        "Un epóxido",
+        "Un aldehído por ruptura de la cadena",
+        "Un alquino por eliminación",
+        "Un alcohol por sustitución"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "sim2027-q16-001",
+      "subject": "Química",
+      "unit": "Unidad 16 · Funciones orgánicas con enlaces múltiples",
+      "topic": "Nombres de carbonilos",
+      "difficulty": 2,
+      "question": "¿Cómo se nombra CH₃CH₂CHO según su grupo funcional?",
+      "answer": "Propanal",
+      "explanation": "El grupo –CHO es aldehído y su carbono cuenta en la cadena principal. Tres carbonos y terminación -al dan propanal.",
+      "source": "McMurry, Organic Chemistry, OpenStax, cap. 19 · https://openstax.org/books/organic-chemistry/pages/19-why-this-chapter",
+      "page": "Programa 2027 p. 11 · 16.1.2",
+      "options": [
+        "Propanona",
+        "Propan-1-ol",
+        "Propanal",
+        "Ácido propanoico"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "sim2027-q16-010",
+      "subject": "Química",
+      "unit": "Unidad 16 · Funciones orgánicas con enlaces múltiples",
+      "topic": "Formación de lactonas",
+      "difficulty": 2,
+      "question": "¿Qué tipo de producto se forma cuando el OH y el COOH del ácido 4-hidroxibutanoico se esterifican entre sí?",
+      "answer": "Una lactona",
+      "explanation": "Una esterificación intramolecular da un éster cíclico llamado lactona. La cadena de cuatro carbonos y el oxígeno cierran un anillo de cinco miembros.",
+      "source": "McMurry, Organic Chemistry, OpenStax, cap. 21 · https://openstax.org/books/organic-chemistry/pages/21-why-this-chapter",
+      "page": "Programa 2027 p. 12 · 16.3.1.5",
+      "options": [
+        "Un hemiacetal",
+        "Una lactona",
+        "Una lactama",
+        "Un anhídrido mixto"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "sim2027-q17-006",
+      "subject": "Química",
+      "unit": "Unidad 17 · Biomoléculas",
+      "topic": "Enlace glicosídico",
+      "difficulty": 2,
+      "question": "¿Por qué la maltosa puede actuar como azúcar reductor?",
+      "answer": "Conserva un carbono anomérico libre",
+      "explanation": "En maltosa, una glucosa aporta su carbono anomérico al enlace α(1→4), pero la otra lo conserva libre. Puede abrir su anillo y generar una forma reductora.",
+      "source": "McMurry, Organic Chemistry, OpenStax, cap. 25 · https://openstax.org/books/organic-chemistry/pages/25-why-this-chapter",
+      "page": "Programa 2027 p. 12 · 17.2.3",
+      "options": [
+        "Conserva un carbono anomérico libre",
+        "No contiene grupos hidroxilo",
+        "No contiene enlaces glucosídicos",
+        "Tiene los dos carbonos anoméricos bloqueados"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "sim2027-q17-009",
+      "subject": "Química",
+      "unit": "Unidad 17 · Biomoléculas",
+      "topic": "Glicerofosfolípidos",
+      "difficulty": 2,
+      "question": "¿Qué rasgo distingue una fosfatidilcolina típica de un triacilglicerol?",
+      "answer": "Una cabeza polar con fosfato unido a colina",
+      "explanation": "La fosfatidilcolina suele tener dos cadenas acilo y una cabeza de fosfocolina. La cabeza polar y las colas hidrófobas explican su carácter anfipático.",
+      "source": "McMurry, Organic Chemistry, OpenStax, cap. 27 · https://openstax.org/books/organic-chemistry/pages/27-why-this-chapter",
+      "page": "Programa 2027 p. 13 · 17.3.4.1",
+      "options": [
+        "Dos unidades de glucosa unidas por un enlace α(1→4)",
+        "Una cadena principal de aminoácidos",
+        "Una cabeza polar con fosfato unido a colina",
+        "Tres cadenas acilo esterificadas al glicerol"
+      ],
+      "correctIndex": 2
     }
   ]
 }

@@ -2,7 +2,8 @@ package py.una.medstudy
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.*
-import androidx.compose.runtime.Composable
+import androidx.compose.runtime.*
+import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import java.time.*
@@ -26,9 +27,10 @@ fun percent(correct: Int, total: Int): String = if (total == 0) "—" else "${co
 
 @Composable
 fun StatisticsScreen(cards: List<Card>, progress: List<Progress>, logs: List<ReviewLog>,
-                     times: List<StudyTime>, runs: List<ExamRun>, now: Long, openExam: (String) -> Unit) {
+                     times: List<StudyTime>, runs: List<ExamRun>, topics: List<TopicResult>, now: Long, openExam: (String) -> Unit) {
     val finished = runs.filter { it.finishedAt > 0 }
     val scores = finished.map { it.score() }
+    var selectedSubject by rememberSaveable { mutableStateOf<String?>(null) }
     val today = localDate(now)
     val activeDays = (logs.map { localDate(it.ratedAt) } + finished.map { localDate(it.finishedAt) }).toSet()
     Column(verticalArrangement = Arrangement.spacedBy(14.dp)) {
@@ -61,6 +63,23 @@ fun StatisticsScreen(cards: List<Card>, progress: List<Progress>, logs: List<Rev
             Metric(subject, percent(results.count { it.second }, results.size))
         }
         if (finished.isEmpty()) Text("Tus primeros resultados aparecerán al terminar un simulacro.")
+        Text("Rendimiento por tema", style = MaterialTheme.typography.titleLarge)
+        Text("Los aciertos por tema se calculan sobre respuestas contestadas. Las preguntas en blanco pueden quedar pendientes de repaso.")
+        val subjects = topics.map { it.subject }.distinct()
+        if (subjects.isEmpty()) {
+            Text("Todavía no hay intentos finalizados.")
+        } else {
+            val subject = selectedSubject?.takeIf { it in subjects } ?: subjects.first()
+            ChoiceMenu("Materia", subjects, subject) { selectedSubject = it }
+            topics.filter { it.subject == subject }.forEach {
+                Text(it.topic, style = MaterialTheme.typography.titleMedium)
+                Text("Simulacros · ${it.examAnswers} respuestas · ${percent(it.examCorrect, it.examAnswers)} de aciertos")
+                Text("Repaso · ${it.reviewAnswers} respuestas · ${percent(it.reviewCorrect, it.reviewAnswers)} de aciertos")
+                Text("${it.pending} errores por repasar")
+                if (it.examAnswers < 5) Text("Pocos datos de simulacro para evaluar este tema.", style = MaterialTheme.typography.bodySmall)
+                HorizontalDivider()
+            }
+        }
         Text("Historial de simulacros", style = MaterialTheme.typography.titleLarge)
         finished.take(30).forEach { run ->
             val score = run.score()

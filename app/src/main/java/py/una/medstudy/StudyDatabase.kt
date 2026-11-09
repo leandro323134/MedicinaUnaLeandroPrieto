@@ -43,6 +43,9 @@ data class ExamRun(
     val finishedAt: Long = 0L, val position: Int = 0, val questionsJson: String, val answersJson: String,
 )
 
+@Entity(tableName = "error_reviews", primaryKeys = ["sessionId", "questionId"])
+data class ErrorReview(val sessionId: String, val questionId: String, val at: Long, val correct: Boolean)
+
 @Dao
 interface CardsDao {
     @Query("SELECT * FROM cards ORDER BY subject,unit,topic,id") fun cards(): Flow<List<Card>>
@@ -55,6 +58,9 @@ interface CardsDao {
     @Query("SELECT * FROM study_time") suspend fun allTimes(): List<StudyTime>
     @Query("SELECT * FROM exam_runs ORDER BY startedAt DESC") fun exams(): Flow<List<ExamRun>>
     @Query("SELECT * FROM exam_runs ORDER BY startedAt DESC") suspend fun allExams(): List<ExamRun>
+    @Query("SELECT * FROM error_reviews ORDER BY at") fun errorReviews(): Flow<List<ErrorReview>>
+    @Query("SELECT * FROM error_reviews ORDER BY at") suspend fun allErrorReviews(): List<ErrorReview>
+    @Insert(onConflict = OnConflictStrategy.IGNORE) suspend fun addErrorReview(review: ErrorReview): Long
     @Query("SELECT * FROM exam_runs WHERE id=:id") suspend fun exam(id: String): ExamRun?
     @Query("SELECT * FROM progress WHERE cardId=:id") suspend fun getProgress(id: String): Progress?
     @Insert(onConflict = OnConflictStrategy.IGNORE) suspend fun add(cards: List<Card>): List<Long>
@@ -66,8 +72,8 @@ interface CardsDao {
 }
 
 @Database(
-    entities = [Card::class, Progress::class, ReviewLog::class, StudyTime::class, ExamRun::class],
-    version = 2, exportSchema = false,
+    entities = [Card::class, Progress::class, ReviewLog::class, StudyTime::class, ExamRun::class, ErrorReview::class],
+    version = 3, exportSchema = false,
 )
 abstract class StudyDatabase : RoomDatabase() {
     abstract fun dao(): CardsDao
@@ -81,8 +87,14 @@ abstract class StudyDatabase : RoomDatabase() {
                 db.execSQL("CREATE TABLE IF NOT EXISTS exam_runs (id TEXT NOT NULL PRIMARY KEY, title TEXT NOT NULL, startedAt INTEGER NOT NULL, deadline INTEGER NOT NULL, finishedAt INTEGER NOT NULL, position INTEGER NOT NULL, questionsJson TEXT NOT NULL, answersJson TEXT NOT NULL)")
             }
         }
+        val MIGRATION_2_3 = object : Migration(2, 3) {
+            override fun migrate(db: SupportSQLiteDatabase) {
+                db.execSQL("CREATE TABLE IF NOT EXISTS error_reviews (sessionId TEXT NOT NULL, questionId TEXT NOT NULL, at INTEGER NOT NULL, correct INTEGER NOT NULL, PRIMARY KEY(sessionId, questionId))")
+            }
+        }
+
         fun open(context: Context, name: String = "study.db"): StudyDatabase =
             Room.databaseBuilder(context, StudyDatabase::class.java, name)
-                .addMigrations(MIGRATION_1_2).build()
+                .addMigrations(MIGRATION_1_2, MIGRATION_2_3).build()
     }
 }

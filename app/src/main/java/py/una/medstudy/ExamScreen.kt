@@ -14,6 +14,7 @@ import java.util.Locale
 data class ExamQuestion(
     val subject: String, val text: String, val options: List<String>,
     val correct: Int, val explanation: String, val source: String = "",
+    val id: String = "", val topic: String = "",
 )
 data class PracticeExam(val id: String, val title: String, val minutes: Int, val questions: List<ExamQuestion>)
 
@@ -25,7 +26,7 @@ fun parseQuestions(text: String): List<ExamQuestion> {
         val question = ExamQuestion(
             normalizedSubject(entry.getString("subject")), entry.getString("question"),
             List(options.length()) { options.getString(it) }, entry.getInt("correctIndex"),
-            entry.getString("explanation"), entry.optString("source"),
+            entry.getString("explanation"), entry.optString("source"), entry.optString("id"), entry.optString("topic"),
         )
         require(question.text.isNotBlank() && question.options.size in 2..6 &&
             question.options.distinct().size == question.options.size &&
@@ -35,7 +36,7 @@ fun parseQuestions(text: String): List<ExamQuestion> {
 }
 fun questionsJson(questions: List<ExamQuestion>): String = JSONArray(questions.map {
     JSONObject().put("subject", it.subject).put("question", it.text).put("options", JSONArray(it.options))
-        .put("correctIndex", it.correct).put("explanation", it.explanation).put("source", it.source)
+        .put("id", it.id).put("topic", it.topic).put("correctIndex", it.correct).put("explanation", it.explanation).put("source", it.source)
 }).toString()
 
 fun parseAnswers(text: String): List<Int> {
@@ -48,11 +49,14 @@ fun ExamRun.score(): Pair<Int, Int> {
     return questions.indices.count { answers[it] == questions[it].correct } to questions.size
 }
 
-fun loadExams(context: Context): List<PracticeExam> {
+fun loadQuestionBank(context: Context): List<ExamQuestion> =
+    context.assets.open("preguntas.json").bufferedReader().use {
+        parseQuestions(JSONObject(it.readText()).getJSONArray("questions").toString())
+    }
+
+fun loadExams(context: Context, bank: List<ExamQuestion> = loadQuestionBank(context)): List<PracticeExam> {
     fun read(name: String) = context.assets.open(name).bufferedReader().use { JSONObject(it.readText()) }
-    val bank = read("preguntas.json").getJSONArray("questions")
-    val parsed = parseQuestions(bank.toString())
-    val questions = (0 until bank.length()).associate { bank.getJSONObject(it).getString("id") to parsed[it] }
+    val questions = bank.associateBy { it.id }
     val exams = read("simulacros.json").getJSONArray("exams")
     return List(exams.length()) { index ->
         val entry = exams.getJSONObject(index)
@@ -63,49 +67,39 @@ fun loadExams(context: Context): List<PracticeExam> {
 }
 
 @Composable
-fun ExamScreen(model: StudyModel, selectedId: String?, select: (String?) -> Unit, now: Long) {
+fun ExamScreen(model: StudyModel, selectedId: String?, select: (String?) -> Unit, now: Long, openErrors: (String) -> Unit) {
     val runs by model.runs.collectAsState()
     val run = runs.firstOrNull { it.id == selectedId }
     var confirm by rememberSaveable { mutableStateOf(false) }
     var questionCount by rememberSaveable { mutableIntStateOf(20) }
     var minutes by rememberSaveable { mutableIntStateOf(30) }
     var subject by rememberSaveable { mutableStateOf("Todas") }
-    val bank = remember(model.exams) { model.exams.flatMap { it.questions }.distinctBy { it.text } }
-    // Use the complete multiple-choice bank for custom practice, including imported future packs.
-    val context = androidx.compose.ui.platform.LocalContext.current
-    val completeBank = remember(model.exams) {
-        runCatching {
-            context.assets.open("preguntas.json").bufferedReader().use {
-                parseQuestions(JSONObject(it.readText()).getJSONArray("questions").toString())
-            }
-        }.getOrDefault(bank)
-    }
-    LaunchedEffect(run?.id, run?.finishedAt, now, model.busy) {
-        if (run != null && run.finishedAt == 0L && now >= run.deadline && !model.busy) model.finish(run.id)
-    }
+    val completeBank = model.bank
+    val active = runs.firstOrNull { it.finishedAt == 0L && it.deadline > now }
+    val available = remember(completeBank, subject) { questionPool(completeBank, subject.takeUnless { it == "Todas" }).size }
     Column(verticalArrangement = Arrangement.spacedBy(12.dp)) {
         if (run == null) {
             Text("Simulacros", style = MaterialTheme.typography.headlineMedium)
             Text("Practica con tiempo y revisa la explicación de cada respuesta al terminar.")
-            runs.firstOrNull { it.finishedAt == 0L }?.let {
+            active?.let {
                 Button(onClick = { select(it.id) }) { Text("Continuar ${it.title}") }
             }
             model.exams.forEach { exam ->
                 OutlinedButton(onClick = { model.start(exam) { select(it) } },
-                    enabled = !model.busy, modifier = Modifier.fillMaxWidth()) {
+                    enabled = !model.busy && active == null, modifier = Modifier.fillMaxWidth()) {
                     Text("${exam.title} · ${exam.questions.size} preguntas · ${exam.minutes} min")
                 }
             }
             HorizontalDivider()
             Text("Crear una práctica", style = MaterialTheme.typography.titleLarge)
             ChoiceMenu("Materia", listOf("Todas") + completeBank.map { it.subject }.distinct(), subject) { subject = it }
-            Stepper("Preguntas", questionCount, 5, 50, 5) { questionCount = it }
+            Stepper("Preguntas", questionCount, 5, 120, 5) { questionCount = it }
             Stepper("Minutos", minutes, 5, 120, 5) { minutes = it }
             Button(onClick = {
-                val pool = completeBank.filter { subject == "Todas" || it.subject == subject }
-                model.start(PracticeExam("custom", "Práctica · $subject", minutes, pool.shuffled().take(questionCount))) { select(it) }
-            }, enabled = !model.busy && completeBank.isNotEmpty()) { Text("Comenzar práctica") }
-            Text("Se usan hasta $questionCount preguntas disponibles. El tiempo sigue corriendo si sales de la app.",
+                val selection = selectQuestions(completeBank, subject.takeUnless { it == "Todas" }, questionCount)
+                model.start(PracticeExam("custom", "Práctica · $subject", minutes, selection)) { select(it) }
+            }, enabled = !model.busy && active == null && available > 0) { Text("Comenzar práctica") }
+            Text("${minOf(questionCount, available)} preguntas disponibles para este intento. En general se alternan las materias y se reparten los temas disponibles. El tiempo sigue corriendo al salir.",
                 style = MaterialTheme.typography.bodySmall)
             if (runs.any { it.finishedAt > 0 }) Text("Resultados anteriores", style = MaterialTheme.typography.titleLarge)
             runs.filter { it.finishedAt > 0 }.take(20).forEach { previous ->
@@ -126,7 +120,12 @@ fun ExamScreen(model: StudyModel, selectedId: String?, select: (String?) -> Unit
                     val score = indexes.count { answers[it] == questions[it].correct }
                     Text("$name · $score/${indexes.size} · ${score * 100 / indexes.size} %")
                 }
+                if (correct < questions.size) {
+                    Button(onClick = { openErrors(run.id) }) { Text("Repasar errores") }
+                    Text("Respuestas incorrectas o en blanco", style = MaterialTheme.typography.titleLarge)
+                } else Text("Todas las respuestas fueron correctas.")
                 questions.forEachIndexed { index, question ->
+                    if (answers[index] == question.correct) return@forEachIndexed
                     HorizontalDivider()
                     Text("${index + 1}. ${question.text}", style = MaterialTheme.typography.titleMedium)
                     Text("Tu respuesta · ${question.options.getOrNull(answers[index]) ?: "Sin responder"}")

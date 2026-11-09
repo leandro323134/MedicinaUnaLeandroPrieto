@@ -19,6 +19,15 @@ class StudyModel(app: Application) : AndroidViewModel(app) {
     val logs = dao.logs().stateIn(viewModelScope, SharingStarted.Eagerly, emptyList())
     val times = dao.times().stateIn(viewModelScope, SharingStarted.Eagerly, emptyList())
     val runs = dao.exams().stateIn(viewModelScope, SharingStarted.Eagerly, emptyList())
+    val errorReviews = dao.errorReviews().stateIn(viewModelScope, SharingStarted.Eagerly, emptyList())
+    private val bankState = MutableStateFlow<List<ExamQuestion>>(emptyList())
+    val bank: List<ExamQuestion> get() = bankState.value
+    val outcomes = combine(runs, bankState, ::examOutcomes)
+        .flowOn(Dispatchers.Default).stateIn(viewModelScope, SharingStarted.Eagerly, emptyList())
+    val errors = combine(outcomes, errorReviews, ::errorItems)
+        .flowOn(Dispatchers.Default).stateIn(viewModelScope, SharingStarted.Eagerly, emptyList())
+    val resultsByTopic = combine(outcomes, errorReviews, errors, ::topicResults)
+        .flowOn(Dispatchers.Default).stateIn(viewModelScope, SharingStarted.Eagerly, emptyList())
     var exams by mutableStateOf<List<PracticeExam>>(emptyList()); private set
     var guide by mutableStateOf(""); private set
     var notice by mutableStateOf(""); private set
@@ -34,11 +43,14 @@ class StudyModel(app: Application) : AndroidViewModel(app) {
                             repository.importCards(it.readText(), updateBundledContent = true)
                         }
                     }
-                    val loadedExams = loadExams(app)
+                    val bank = loadQuestionBank(app)
+                    val loadedExams = loadExams(app, bank)
+                    repository.expireExams(System.currentTimeMillis())
                     val loadedGuide = app.assets.open("guia.md").bufferedReader().use { it.readText() }
-                    loadedExams to loadedGuide
+                    Triple(loadedExams, loadedGuide, bank)
                 }
-            }.onSuccess { (loadedExams, loadedGuide) ->
+            }.onSuccess { (loadedExams, loadedGuide, bank) ->
+                bankState.value = bank
                 exams = loadedExams
                 guide = loadedGuide
             }.onFailure { notice = "No se pudo cargar el contenido. ${it.message}" }
@@ -103,6 +115,12 @@ class StudyModel(app: Application) : AndroidViewModel(app) {
     }
     fun move(id: String, index: Int) = operation { repository.position(id, index) }
     fun finish(id: String) = operation { repository.finish(id, System.currentTimeMillis()) }
+    fun expireExams(now: Long) = operation { repository.expireExams(now) }
+
+    fun practiceError(sessionId: String, question: ExamQuestion, option: Int) = operation {
+        repository.reviewError(sessionId, question, option, System.currentTimeMillis())
+    }
+
     fun recordTime(at: Long, millis: Long) {
         if (millis <= 0) return
         viewModelScope.launch {

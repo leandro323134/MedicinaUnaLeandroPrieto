@@ -181,6 +181,98 @@ class StudyRepositoryTest {
         assertEquals(1200, repository.dao.allCards().size)
     }
 
+    @Test fun balancedSelectionAvoidsDuplicatesAndFillsFromAvailableQuestions() {
+        val bank = loadQuestionBank(context)
+        assertEquals(261, bank.size)
+        assertEquals(bank.size, bank.map { it.id }.toSet().size)
+        val selection = selectQuestions(bank + bank.take(8), null, 25, kotlin.random.Random(1))
+        assertEquals(25, selection.size)
+        assertEquals(setOf(5), selection.groupingBy { it.subject }.eachCount().values.toSet())
+        assertEquals(25, selection.map { it.id }.distinct().size)
+        val math = selectQuestions(bank, "Matemática", 120, kotlin.random.Random(2))
+        assertEquals(28, math.size)
+        assertTrue(math.all { it.subject == "Matemática" })
+        assertEquals(bank.size, selectQuestions(bank, null, 500).size)
+    }
+
+    @Test fun errorPracticeRequiresSeparateAttemptsAndDoesNotChangeExam() = runBlocking {
+        val q = ExamQuestion("Química", "Pregunta", listOf("A", "B"), 1, "Porque B", id = "q", topic = "Tema")
+        val exam = PracticeExam("one", "Práctica", 1, listOf(q))
+        val id = repository.startExam(exam, 1000)
+        repository.answer(id, 0, 0, 2000)
+        repository.finish(id, 3000)
+        val original = daoRun(id)
+        suspend fun streak() = errorItems(examOutcomes(repository.dao.allExams(), listOf(q)),
+            repository.dao.allErrorReviews()).single().consecutive
+        assertEquals(0, streak())
+        assertTrue(repository.reviewError("s1", q, 1, 4000))
+        assertFalse(repository.reviewError("s1", q, 1, 4001))
+        assertEquals(1, streak())
+        assertTrue(repository.reviewError("s2", q, 0, 5000))
+        assertEquals(0, streak())
+        repository.reviewError("s3", q, 1, 6000)
+        repository.reviewError("s4", q, 1, 7000)
+        assertEquals(2, streak())
+        assertEquals(original, daoRun(id))
+        val data = repository.exportBackup()
+        repository.restoreBackup(data)
+        assertEquals(4, repository.dao.allErrorReviews().size)
+        val stats = topicResults(examOutcomes(repository.dao.allExams(), listOf(q)),
+            repository.dao.allErrorReviews(), errorItems(examOutcomes(listOf(original), listOf(q)),
+                repository.dao.allErrorReviews())).single()
+        assertEquals(TopicResult("Química", "Tema", 1, 0, 4, 3, 0), stats)
+        val retry = repository.startExam(exam, 8000)
+        repository.finish(retry, 9000)
+        assertEquals(0, streak())
+    }
+
+    private suspend fun daoRun(id: String) = checkNotNull(repository.dao.exam(id))
+
+    @Test fun legacyHistoryMatchesOnlyWhenTheCorrectAnswerAgrees() {
+        val old = ExamQuestion("Lenguaje y Comunicación", "Pregunta", listOf("A", "B"), 0, "Explicación")
+        val run = ExamRun("old", "Anterior", 1, 100, 2, questionsJson = questionsJson(listOf(old)), answersJson = "[-1]")
+        val bank = listOf(old.copy(subject = "Lenguaje", id = "current", topic = "Texto"))
+        val match = examOutcomes(listOf(run), bank).single()
+        assertEquals("current", match.question.id)
+        assertEquals("Texto", match.question.topic)
+        val conflict = examOutcomes(listOf(run), bank.map { it.copy(correct = 1) }).single()
+        assertTrue(conflict.question.id.startsWith("legacy-"))
+        assertEquals("Sin tema identificado", conflict.question.topic)
+        assertEquals(0, topicResults(listOf(match), emptyList(), errorItems(listOf(match), emptyList())).single().examAnswers)
+    }
+
+    @Test fun migrationFromVersionTwoPreservesSavedExamAndProgress() = runBlocking {
+        val name = "migration-v2.db"
+        context.deleteDatabase(name)
+        val first = StudyDatabase.open(context, name)
+        val previous = StudyRepository(first)
+        previous.dao.add(listOf(card))
+        previous.rate(card.id, 3, 0, 1000)
+        previous.dao.addTime(StudyTime("previous", 1000, 5000))
+        val q = ExamQuestion("Química", "Pregunta", listOf("A", "B"), 1, "Explicación")
+        val id = previous.startExam(PracticeExam("previous", "Anterior", 1, listOf(q)), 2000)
+        previous.answer(id, 0, 1, 3000)
+        val expected = previous.dao.exam(id)
+        first.close()
+        // Recreate the exact old table set while keeping the saved data.
+        SQLiteDatabase.openDatabase(context.getDatabasePath(name).path, null, SQLiteDatabase.OPEN_READWRITE).use {
+            it.execSQL("DROP TABLE error_reviews")
+            it.version = 2
+        }
+        val migrated = StudyDatabase.open(context, name)
+        try {
+            assertEquals(expected, migrated.dao().exam(id))
+            assertEquals(1, migrated.dao().allLogs().size)
+            assertEquals(1, migrated.dao().getProgress(card.id)?.reviews)
+            assertEquals(5000L, migrated.dao().allTimes().single().millis)
+            assertTrue(migrated.dao().allErrorReviews().isEmpty())
+            val repo = StudyRepository(migrated)
+            repo.expireExams(100000)
+            assertEquals(expected!!.deadline, migrated.dao().exam(id)!!.finishedAt)
+            assertEquals(listOf(1), parseAnswers(migrated.dao().exam(id)!!.answersJson))
+        } finally { migrated.close(); context.deleteDatabase(name) }
+    }
+
     @Test fun streakHandlesYesterdayAndMissingDays() {
         val today = LocalDate.of(2026, 11, 8)
         assertEquals(2, streak(setOf(today.minusDays(1), today.minusDays(2)), today))
