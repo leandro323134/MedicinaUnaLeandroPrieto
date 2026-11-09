@@ -24,6 +24,12 @@ El cotejo verifica que los apartados están representados. Queda el cotejo visua
 
 Archivos modificados: `app/src/main/assets/programa_2027.json`, `cobertura_programa_2027.json`, `COBERTURA_2027.md`, `README.md`, `app/build.gradle.kts` y `app/src/test/java/py/una/medstudy/StudyRepositoryTest.kt`.
 
+### Verificación de la versión 0.3.4
+
+- Se validaron los 1364 IDs, el contenido de las 1285 tarjetas anteriores y los enlaces a tarjetas de los 66 apartados de Física. Se comprobaron 71 resultados numéricos.
+- La [compilación en GitHub Actions](https://github.com/leandro323134/MedicinaUnaLeandroPrieto/actions/runs/42562240057) terminó con 9 pruebas aprobadas, 0 fallos y 0 omitidas.
+- Los tres bancos del APK coinciden byte por byte con los del repositorio. Se verificó el identificador `py.una.medstudy`, la versión 0.3.4, el código 7 y la misma huella de certificado que en 0.3.3. La instalación en un teléfono físico sigue pendiente.
+
 ## Revisión de Química en la versión 0.3.3
 
 Se cotejaron las páginas 5 a 13 de la Resolución CD 0914-00-2026. El [mapa de cobertura](cobertura_programa_2027.json) enlaza **287 apartados finales** de las 17 unidades con sus páginas e IDs. El conteo reemplaza el inventario anterior de 279 referencias detectadas por OCR. Los apartados 10.6.6 (gráficos de cinética), 10.8.1 (temperatura y rapidez) y 11.6.2 (pH y pOH) se añadieron como referencias independientes con tarjetas propias.
