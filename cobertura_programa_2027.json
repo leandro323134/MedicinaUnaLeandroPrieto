@@ -1,7 +1,7 @@
 {
   "programa": "FCM UNA 2027, Resolución CD 0914",
   "sha256_pdf": "2bb40c32aa7f3bc3c0d5c82378257d3e65bd6665b1b8077e6454a441ec8110bc",
-  "nota": "Las referencias registran correspondencias con tarjetas. En Biología, conceptos_cotejados separa 119 grupos de contenido del PDF. El enlace acredita que se identificó material relacionado y no certifica profundidad académica ni verificación de cada fuente previa. En Lenguaje se cotejaron visualmente los 80 apartados finales, con páginas e IDs en conceptos_cotejados. En Química se cotejaron las páginas 5 a 13 y se registraron 287 apartados finales con páginas e IDs.",
+  "nota": "Las referencias registran correspondencias con tarjetas. En Biología, conceptos_cotejados separa 119 grupos de contenido del PDF. El enlace acredita que se identificó material relacionado y no certifica profundidad académica ni verificación de cada fuente previa. En Lenguaje se cotejaron visualmente los 80 apartados finales, con páginas e IDs en conceptos_cotejados. En Química se cotejaron las páginas 5 a 13 y se registraron 287 apartados finales con páginas e IDs. En Física se cotejaron las páginas 16 y 17 y se registraron 66 apartados con sus tarjetas.",
   "areas": {
     "Lenguaje y Comunicación": {
       "paginas": [
@@ -6062,25 +6062,29 @@
         {
           "id": "F01",
           "titulo": "Magnitudes",
-          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 17,
+          "estado": "apartados cotejados visualmente y vinculados a tarjetas",
+          "tarjetas_nuevas": 23,
           "referencias": {
             "1.1": [
               "programa27-fis-magnitudes-001",
               "programa27-fis-magnitudes-002",
               "programa27-fis-magnitudes-003",
               "programa27-fis-magnitudes-004",
-              "programa27-fis-magnitudes-005"
+              "programa27-fis-magnitudes-005",
+              "programa27-fisica-auditoria-f01-001",
+              "programa27-fisica-auditoria-f01-002"
             ],
             "1.2": [
               "programa27-fis-magnitudes-006",
-              "programa27-fis-magnitudes-007"
+              "programa27-fis-magnitudes-007",
+              "programa27-fisica-auditoria-f01-003"
             ],
             "1.3": [
               "programa27-fis-magnitudes-008",
               "programa27-fis-magnitudes-009",
               "programa27-fis-magnitudes-010",
-              "programa27-fis-magnitudes-011"
+              "programa27-fis-magnitudes-011",
+              "programa27-fisica-auditoria-f01-004"
             ],
             "1.4": [
               "programa27-fis-magnitudes-012",
@@ -6088,294 +6092,1036 @@
               "programa27-fis-magnitudes-014",
               "programa27-fis-magnitudes-015",
               "programa27-fis-magnitudes-016",
-              "programa27-fis-magnitudes-017"
+              "programa27-fis-magnitudes-017",
+              "programa27-fisica-auditoria-f01-005",
+              "programa27-fisica-auditoria-f01-006"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "referencia": "1.1",
+              "concepto": "Magnitudes y sistemas de unidades",
+              "pagina_pdf": 16,
+              "tarjetas": [
+                "programa27-fis-magnitudes-001",
+                "programa27-fis-magnitudes-002",
+                "programa27-fis-magnitudes-003",
+                "programa27-fis-magnitudes-004",
+                "programa27-fis-magnitudes-005",
+                "programa27-fisica-auditoria-f01-001",
+                "programa27-fisica-auditoria-f01-002"
+              ]
+            },
+            {
+              "referencia": "1.2",
+              "concepto": "Escalares y vectores",
+              "pagina_pdf": 16,
+              "tarjetas": [
+                "programa27-fis-magnitudes-006",
+                "programa27-fis-magnitudes-007",
+                "programa27-fisica-auditoria-f01-003"
+              ]
+            },
+            {
+              "referencia": "1.3",
+              "concepto": "Descomposición vectorial",
+              "pagina_pdf": 16,
+              "tarjetas": [
+                "programa27-fis-magnitudes-008",
+                "programa27-fis-magnitudes-009",
+                "programa27-fis-magnitudes-010",
+                "programa27-fis-magnitudes-011",
+                "programa27-fisica-auditoria-f01-004"
+              ]
+            },
+            {
+              "referencia": "1.4",
+              "concepto": "Suma y resta vectorial",
+              "pagina_pdf": 16,
+              "tarjetas": [
+                "programa27-fis-magnitudes-012",
+                "programa27-fis-magnitudes-013",
+                "programa27-fis-magnitudes-014",
+                "programa27-fis-magnitudes-015",
+                "programa27-fis-magnitudes-016",
+                "programa27-fis-magnitudes-017",
+                "programa27-fisica-auditoria-f01-005",
+                "programa27-fisica-auditoria-f01-006"
+              ]
+            }
+          ]
         },
         {
           "id": "F02",
           "titulo": "Cinemática",
-          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 15,
+          "estado": "apartados cotejados visualmente y vinculados a tarjetas",
+          "tarjetas_nuevas": 23,
           "referencias": {
             "2.1": [
-              "programa27-f02-001"
+              "programa27-f02-001",
+              "programa27-fisica-auditoria-f02-001"
             ],
             "2.2": [
               "programa27-f02-002",
-              "programa27-f02-003"
+              "programa27-f02-003",
+              "programa27-fisica-auditoria-f02-002"
             ],
             "2.3": [
-              "programa27-f02-004"
+              "programa27-f02-004",
+              "programa27-fisica-auditoria-f02-003"
             ],
             "2.4": [
               "programa27-f02-005",
               "programa27-f02-006",
-              "programa27-f02-007"
+              "programa27-f02-007",
+              "programa27-fisica-auditoria-f02-004"
             ],
             "2.5": [
               "programa27-f02-008",
-              "programa27-f02-009"
+              "programa27-f02-009",
+              "programa27-fisica-auditoria-f02-005"
             ],
             "2.6": [
               "programa27-f02-010",
-              "programa27-f02-011"
+              "programa27-f02-011",
+              "programa27-fisica-auditoria-f02-006"
             ],
             "2.7": [
               "programa27-f02-012",
-              "programa27-f02-013"
+              "programa27-f02-013",
+              "programa27-fisica-auditoria-f02-007"
             ],
             "2.8": [
               "programa27-f02-014",
-              "programa27-f02-015"
+              "programa27-f02-015",
+              "programa27-fisica-auditoria-f02-008"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "referencia": "2.1",
+              "concepto": "Reposo y movimiento relativo",
+              "pagina_pdf": 16,
+              "tarjetas": [
+                "programa27-f02-001",
+                "programa27-fisica-auditoria-f02-001"
+              ]
+            },
+            {
+              "referencia": "2.2",
+              "concepto": "Velocidad y aceleración",
+              "pagina_pdf": 16,
+              "tarjetas": [
+                "programa27-f02-002",
+                "programa27-f02-003",
+                "programa27-fisica-auditoria-f02-002"
+              ]
+            },
+            {
+              "referencia": "2.3",
+              "concepto": "Movimiento uniforme",
+              "pagina_pdf": 16,
+              "tarjetas": [
+                "programa27-f02-004",
+                "programa27-fisica-auditoria-f02-003"
+              ]
+            },
+            {
+              "referencia": "2.4",
+              "concepto": "Movimiento uniformemente variado",
+              "pagina_pdf": 16,
+              "tarjetas": [
+                "programa27-f02-005",
+                "programa27-f02-006",
+                "programa27-f02-007",
+                "programa27-fisica-auditoria-f02-004"
+              ]
+            },
+            {
+              "referencia": "2.5",
+              "concepto": "Movimiento vertical",
+              "pagina_pdf": 16,
+              "tarjetas": [
+                "programa27-f02-008",
+                "programa27-f02-009",
+                "programa27-fisica-auditoria-f02-005"
+              ]
+            },
+            {
+              "referencia": "2.6",
+              "concepto": "Movimiento angular",
+              "pagina_pdf": 16,
+              "tarjetas": [
+                "programa27-f02-010",
+                "programa27-f02-011",
+                "programa27-fisica-auditoria-f02-006"
+              ]
+            },
+            {
+              "referencia": "2.7",
+              "concepto": "Movimiento circular uniforme",
+              "pagina_pdf": 16,
+              "tarjetas": [
+                "programa27-f02-012",
+                "programa27-f02-013",
+                "programa27-fisica-auditoria-f02-007"
+              ]
+            },
+            {
+              "referencia": "2.8",
+              "concepto": "Movimiento parabólico",
+              "pagina_pdf": 16,
+              "tarjetas": [
+                "programa27-f02-014",
+                "programa27-f02-015",
+                "programa27-fisica-auditoria-f02-008"
+              ]
+            }
+          ]
         },
         {
           "id": "F03",
           "titulo": "Dinámica",
-          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 13,
+          "estado": "apartados cotejados visualmente y vinculados a tarjetas",
+          "tarjetas_nuevas": 23,
           "referencias": {
             "3.1": [
-              "programa27-f03-001"
+              "programa27-f03-001",
+              "programa27-fisica-auditoria-f03-001"
             ],
             "3.2": [
               "programa27-f03-002",
               "programa27-f03-003",
-              "programa27-f03-004"
+              "programa27-f03-004",
+              "programa27-fisica-auditoria-f03-002",
+              "programa27-fisica-auditoria-f03-010"
             ],
             "3.3": [
               "programa27-f03-005",
-              "programa27-f03-006"
+              "programa27-f03-006",
+              "programa27-fisica-auditoria-f03-003"
             ],
             "3.4": [
               "programa27-f03-007",
-              "programa27-f03-008"
+              "programa27-f03-008",
+              "programa27-fisica-auditoria-f03-004"
             ],
             "3.5": [
-              "programa27-f03-009"
+              "programa27-f03-009",
+              "programa27-fisica-auditoria-f03-005"
             ],
             "3.6": [
-              "programa27-f03-010"
+              "programa27-f03-010",
+              "programa27-fisica-auditoria-f03-006"
             ],
             "3.7": [
-              "programa27-f03-011"
+              "programa27-f03-011",
+              "programa27-fisica-auditoria-f03-007"
             ],
             "3.8": [
-              "programa27-f03-012"
+              "programa27-f03-012",
+              "programa27-fisica-auditoria-f03-008"
             ],
             "3.9": [
-              "programa27-f03-013"
+              "programa27-f03-013",
+              "programa27-fisica-auditoria-f03-009"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "referencia": "3.1",
+              "concepto": "Fuerzas",
+              "pagina_pdf": 16,
+              "tarjetas": [
+                "programa27-f03-001",
+                "programa27-fisica-auditoria-f03-001"
+              ]
+            },
+            {
+              "referencia": "3.2",
+              "concepto": "Leyes de Newton",
+              "pagina_pdf": 16,
+              "tarjetas": [
+                "programa27-f03-002",
+                "programa27-f03-003",
+                "programa27-f03-004",
+                "programa27-fisica-auditoria-f03-002",
+                "programa27-fisica-auditoria-f03-010"
+              ]
+            },
+            {
+              "referencia": "3.3",
+              "concepto": "Rozamiento",
+              "pagina_pdf": 16,
+              "tarjetas": [
+                "programa27-f03-005",
+                "programa27-f03-006",
+                "programa27-fisica-auditoria-f03-003"
+              ]
+            },
+            {
+              "referencia": "3.4",
+              "concepto": "Trabajo y energía",
+              "pagina_pdf": 16,
+              "tarjetas": [
+                "programa27-f03-007",
+                "programa27-f03-008",
+                "programa27-fisica-auditoria-f03-004"
+              ]
+            },
+            {
+              "referencia": "3.5",
+              "concepto": "Conservación de energía",
+              "pagina_pdf": 16,
+              "tarjetas": [
+                "programa27-f03-009",
+                "programa27-fisica-auditoria-f03-005"
+              ]
+            },
+            {
+              "referencia": "3.6",
+              "concepto": "Teorema trabajo-energía",
+              "pagina_pdf": 16,
+              "tarjetas": [
+                "programa27-f03-010",
+                "programa27-fisica-auditoria-f03-006"
+              ]
+            },
+            {
+              "referencia": "3.7",
+              "concepto": "Sistemas conservativos y disipativos",
+              "pagina_pdf": 16,
+              "tarjetas": [
+                "programa27-f03-011",
+                "programa27-fisica-auditoria-f03-007"
+              ]
+            },
+            {
+              "referencia": "3.8",
+              "concepto": "Potencia",
+              "pagina_pdf": 16,
+              "tarjetas": [
+                "programa27-f03-012",
+                "programa27-fisica-auditoria-f03-008"
+              ]
+            },
+            {
+              "referencia": "3.9",
+              "concepto": "Rendimiento",
+              "pagina_pdf": 16,
+              "tarjetas": [
+                "programa27-f03-013",
+                "programa27-fisica-auditoria-f03-009"
+              ]
+            }
+          ]
         },
         {
           "id": "F04",
           "titulo": "Hidrostática",
-          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 7,
+          "estado": "apartados cotejados visualmente y vinculados a tarjetas",
+          "tarjetas_nuevas": 12,
           "referencias": {
             "4.1": [
-              "programa27-f04-001"
+              "programa27-f04-001",
+              "programa27-fisica-auditoria-f04-001"
             ],
             "4.2": [
-              "programa27-f04-002"
+              "programa27-f04-002",
+              "programa27-fisica-auditoria-f04-002"
             ],
             "4.3": [
               "programa27-f04-003",
-              "programa27-f04-004"
+              "programa27-f04-004",
+              "programa27-fisica-auditoria-f04-003"
             ],
             "4.4": [
-              "programa27-f04-005"
+              "programa27-f04-005",
+              "programa27-fisica-auditoria-f04-004"
             ],
             "4.5": [
               "programa27-f04-006",
-              "programa27-f04-007"
+              "programa27-f04-007",
+              "programa27-fisica-auditoria-f04-005"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "referencia": "4.1",
+              "concepto": "Fluido ideal y reposo",
+              "pagina_pdf": 16,
+              "tarjetas": [
+                "programa27-f04-001",
+                "programa27-fisica-auditoria-f04-001"
+              ]
+            },
+            {
+              "referencia": "4.2",
+              "concepto": "Presión y densidad",
+              "pagina_pdf": 16,
+              "tarjetas": [
+                "programa27-f04-002",
+                "programa27-fisica-auditoria-f04-002"
+              ]
+            },
+            {
+              "referencia": "4.3",
+              "concepto": "Teorema de la hidrostática",
+              "pagina_pdf": 16,
+              "tarjetas": [
+                "programa27-f04-003",
+                "programa27-f04-004",
+                "programa27-fisica-auditoria-f04-003"
+              ]
+            },
+            {
+              "referencia": "4.4",
+              "concepto": "Principio de Pascal",
+              "pagina_pdf": 16,
+              "tarjetas": [
+                "programa27-f04-005",
+                "programa27-fisica-auditoria-f04-004"
+              ]
+            },
+            {
+              "referencia": "4.5",
+              "concepto": "Principio de Arquímedes",
+              "pagina_pdf": 16,
+              "tarjetas": [
+                "programa27-f04-006",
+                "programa27-f04-007",
+                "programa27-fisica-auditoria-f04-005"
+              ]
+            }
+          ]
         },
         {
           "id": "F05",
           "titulo": "Hidrodinámica",
-          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 5,
+          "estado": "apartados cotejados visualmente y vinculados a tarjetas",
+          "tarjetas_nuevas": 10,
           "referencias": {
             "5.1": [
-              "programa27-f05-001"
+              "programa27-f05-001",
+              "programa27-fisica-auditoria-f05-001"
             ],
             "5.2": [
-              "programa27-f05-002"
+              "programa27-f05-002",
+              "programa27-fisica-auditoria-f05-002"
             ],
             "5.3": [
               "programa27-f05-003",
-              "programa27-f05-004"
+              "programa27-f05-004",
+              "programa27-fisica-auditoria-f05-003",
+              "programa27-fisica-auditoria-f05-005"
             ],
             "5.4": [
-              "programa27-f05-005"
+              "programa27-f05-005",
+              "programa27-fisica-auditoria-f05-004"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "referencia": "5.1",
+              "concepto": "Ecuación de continuidad",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f05-001",
+                "programa27-fisica-auditoria-f05-001"
+              ]
+            },
+            {
+              "referencia": "5.2",
+              "concepto": "Caudal",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f05-002",
+                "programa27-fisica-auditoria-f05-002"
+              ]
+            },
+            {
+              "referencia": "5.3",
+              "concepto": "Principio de Bernoulli",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f05-003",
+                "programa27-f05-004",
+                "programa27-fisica-auditoria-f05-003",
+                "programa27-fisica-auditoria-f05-005"
+              ]
+            },
+            {
+              "referencia": "5.4",
+              "concepto": "Teorema de Torricelli",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f05-005",
+                "programa27-fisica-auditoria-f05-004"
+              ]
+            }
+          ]
         },
         {
           "id": "F06",
           "titulo": "Termometría y dilatación térmica",
-          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 9,
+          "estado": "apartados cotejados visualmente y vinculados a tarjetas",
+          "tarjetas_nuevas": 17,
           "referencias": {
             "6.1": [
-              "programa27-f06-001"
+              "programa27-f06-001",
+              "programa27-fisica-auditoria-f06-001"
             ],
             "6.2": [
-              "programa27-f06-002"
+              "programa27-f06-002",
+              "programa27-fisica-auditoria-f06-002"
             ],
             "6.3": [
-              "programa27-f06-003"
+              "programa27-f06-003",
+              "programa27-fisica-auditoria-f06-003"
             ],
             "6.4": [
               "programa27-f06-004",
-              "programa27-f06-005"
+              "programa27-f06-005",
+              "programa27-fisica-auditoria-f06-004"
             ],
             "6.5": [
-              "programa27-f06-006"
+              "programa27-f06-006",
+              "programa27-fisica-auditoria-f06-005"
             ],
             "6.6": [
-              "programa27-f06-007"
+              "programa27-f06-007",
+              "programa27-fisica-auditoria-f06-006"
             ],
             "6.7": [
-              "programa27-f06-008"
+              "programa27-f06-008",
+              "programa27-fisica-auditoria-f06-007"
             ],
             "6.8": [
-              "programa27-f06-009"
+              "programa27-f06-009",
+              "programa27-fisica-auditoria-f06-008"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "referencia": "6.1",
+              "concepto": "Temperatura",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f06-001",
+                "programa27-fisica-auditoria-f06-001"
+              ]
+            },
+            {
+              "referencia": "6.2",
+              "concepto": "Escalas termométricas",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f06-002",
+                "programa27-fisica-auditoria-f06-002"
+              ]
+            },
+            {
+              "referencia": "6.3",
+              "concepto": "Termómetros y tipos",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f06-003",
+                "programa27-fisica-auditoria-f06-003"
+              ]
+            },
+            {
+              "referencia": "6.4",
+              "concepto": "Conversión entre escalas",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f06-004",
+                "programa27-f06-005",
+                "programa27-fisica-auditoria-f06-004"
+              ]
+            },
+            {
+              "referencia": "6.5",
+              "concepto": "Dilatación lineal",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f06-006",
+                "programa27-fisica-auditoria-f06-005"
+              ]
+            },
+            {
+              "referencia": "6.6",
+              "concepto": "Dilatación superficial",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f06-007",
+                "programa27-fisica-auditoria-f06-006"
+              ]
+            },
+            {
+              "referencia": "6.7",
+              "concepto": "Dilatación cúbica",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f06-008",
+                "programa27-fisica-auditoria-f06-007"
+              ]
+            },
+            {
+              "referencia": "6.8",
+              "concepto": "Expansión térmica",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f06-009",
+                "programa27-fisica-auditoria-f06-008"
+              ]
+            }
+          ]
         },
         {
           "id": "F07",
           "titulo": "Calorimetría",
-          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 6,
+          "estado": "apartados cotejados visualmente y vinculados a tarjetas",
+          "tarjetas_nuevas": 11,
           "referencias": {
             "7.1": [
-              "programa27-f07-001"
+              "programa27-f07-001",
+              "programa27-fisica-auditoria-f07-001"
             ],
             "7.2": [
-              "programa27-f07-002"
+              "programa27-f07-002",
+              "programa27-fisica-auditoria-f07-002"
             ],
             "7.3": [
-              "programa27-f07-003"
+              "programa27-f07-003",
+              "programa27-fisica-auditoria-f07-003"
             ],
             "7.4": [
               "programa27-f07-004",
               "programa27-f07-005",
-              "programa27-f07-006"
+              "programa27-f07-006",
+              "programa27-fisica-auditoria-f07-004",
+              "programa27-fisica-auditoria-f07-005"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "referencia": "7.1",
+              "concepto": "Calor",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f07-001",
+                "programa27-fisica-auditoria-f07-001"
+              ]
+            },
+            {
+              "referencia": "7.2",
+              "concepto": "Caloría y equivalente mecánico del calor",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f07-002",
+                "programa27-fisica-auditoria-f07-002"
+              ]
+            },
+            {
+              "referencia": "7.3",
+              "concepto": "Calor específico y capacidad térmica",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f07-003",
+                "programa27-fisica-auditoria-f07-003"
+              ]
+            },
+            {
+              "referencia": "7.4",
+              "concepto": "Ecuación de calorimetría",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f07-004",
+                "programa27-f07-005",
+                "programa27-f07-006",
+                "programa27-fisica-auditoria-f07-004",
+                "programa27-fisica-auditoria-f07-005"
+              ]
+            }
+          ]
         },
         {
           "id": "F08",
           "titulo": "Mecánica ondulatoria",
-          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 9,
+          "estado": "apartados cotejados visualmente y vinculados a tarjetas",
+          "tarjetas_nuevas": 17,
           "referencias": {
             "8.1": [
-              "programa27-f08-001"
+              "programa27-f08-001",
+              "programa27-fisica-auditoria-f08-001"
             ],
             "8.2": [
-              "programa27-f08-002"
+              "programa27-f08-002",
+              "programa27-fisica-auditoria-f08-002"
             ],
             "8.3": [
-              "programa27-f08-003"
+              "programa27-f08-003",
+              "programa27-fisica-auditoria-f08-003"
             ],
             "8.4": [
-              "programa27-f08-004"
+              "programa27-f08-004",
+              "programa27-fisica-auditoria-f08-004"
             ],
             "8.5": [
               "programa27-f08-005",
-              "programa27-f08-006"
+              "programa27-f08-006",
+              "programa27-fisica-auditoria-f08-005"
             ],
             "8.6": [
               "programa27-f08-007",
-              "programa27-f08-008"
+              "programa27-f08-008",
+              "programa27-fisica-auditoria-f08-006",
+              "programa27-fisica-auditoria-f08-007"
             ],
             "8.7": [
-              "programa27-f08-009"
+              "programa27-f08-009",
+              "programa27-fisica-auditoria-f08-008"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "referencia": "8.1",
+              "concepto": "Tipos de ondas y propagación",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f08-001",
+                "programa27-fisica-auditoria-f08-001"
+              ]
+            },
+            {
+              "referencia": "8.2",
+              "concepto": "Longitud de onda, frecuencia y período",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f08-002",
+                "programa27-fisica-auditoria-f08-002"
+              ]
+            },
+            {
+              "referencia": "8.3",
+              "concepto": "Producción y transmisión del sonido",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f08-003",
+                "programa27-fisica-auditoria-f08-003"
+              ]
+            },
+            {
+              "referencia": "8.4",
+              "concepto": "Altura, intensidad y timbre",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f08-004",
+                "programa27-fisica-auditoria-f08-004"
+              ]
+            },
+            {
+              "referencia": "8.5",
+              "concepto": "Decibel y audición",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f08-005",
+                "programa27-f08-006",
+                "programa27-fisica-auditoria-f08-005"
+              ]
+            },
+            {
+              "referencia": "8.6",
+              "concepto": "Fenómenos sonoros y resonancia",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f08-007",
+                "programa27-f08-008",
+                "programa27-fisica-auditoria-f08-006",
+                "programa27-fisica-auditoria-f08-007"
+              ]
+            },
+            {
+              "referencia": "8.7",
+              "concepto": "Efecto Doppler",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f08-009",
+                "programa27-fisica-auditoria-f08-008"
+              ]
+            }
+          ]
         },
         {
           "id": "F09",
           "titulo": "Óptica",
-          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 10,
+          "estado": "apartados cotejados visualmente y vinculados a tarjetas",
+          "tarjetas_nuevas": 19,
           "referencias": {
             "9.1": [
-              "programa27-f09-001"
+              "programa27-f09-001",
+              "programa27-fisica-auditoria-f09-001",
+              "programa27-fisica-auditoria-f09-008"
             ],
             "9.2": [
               "programa27-f09-002",
               "programa27-f09-003",
-              "programa27-f09-004"
+              "programa27-f09-004",
+              "programa27-fisica-auditoria-f09-002"
             ],
             "9.3": [
-              "programa27-f09-005"
+              "programa27-f09-005",
+              "programa27-fisica-auditoria-f09-003"
             ],
             "9.4": [
-              "programa27-f09-006"
+              "programa27-f09-006",
+              "programa27-fisica-auditoria-f09-004"
             ],
             "9.5": [
               "programa27-f09-007",
-              "programa27-f09-008"
+              "programa27-f09-008",
+              "programa27-fisica-auditoria-f09-005",
+              "programa27-fisica-auditoria-f09-009"
             ],
             "9.6": [
               "programa27-f09-009",
-              "programa27-f09-010"
+              "programa27-f09-010",
+              "programa27-fisica-auditoria-f09-006",
+              "programa27-fisica-auditoria-f09-007"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "referencia": "9.1",
+              "concepto": "Naturaleza de la luz",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f09-001",
+                "programa27-fisica-auditoria-f09-001",
+                "programa27-fisica-auditoria-f09-008"
+              ]
+            },
+            {
+              "referencia": "9.2",
+              "concepto": "Reflexión y espejos",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f09-002",
+                "programa27-f09-003",
+                "programa27-f09-004",
+                "programa27-fisica-auditoria-f09-002"
+              ]
+            },
+            {
+              "referencia": "9.3",
+              "concepto": "Refracción y ley de Snell",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f09-005",
+                "programa27-fisica-auditoria-f09-003"
+              ]
+            },
+            {
+              "referencia": "9.4",
+              "concepto": "Ángulo límite",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f09-006",
+                "programa27-fisica-auditoria-f09-004"
+              ]
+            },
+            {
+              "referencia": "9.5",
+              "concepto": "Lentes delgadas e imágenes",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f09-007",
+                "programa27-f09-008",
+                "programa27-fisica-auditoria-f09-005",
+                "programa27-fisica-auditoria-f09-009"
+              ]
+            },
+            {
+              "referencia": "9.6",
+              "concepto": "Lupa y microscopio compuesto",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f09-009",
+                "programa27-f09-010",
+                "programa27-fisica-auditoria-f09-006",
+                "programa27-fisica-auditoria-f09-007"
+              ]
+            }
+          ]
         },
         {
           "id": "F10",
           "titulo": "Electricidad",
-          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 15,
+          "estado": "apartados cotejados visualmente y vinculados a tarjetas",
+          "tarjetas_nuevas": 30,
           "referencias": {
             "10.1": [
-              "programa27-f10-001"
+              "programa27-f10-001",
+              "programa27-fisica-auditoria-f10-001"
             ],
             "10.2": [
-              "programa27-f10-002"
+              "programa27-f10-002",
+              "programa27-fisica-auditoria-f10-002"
             ],
             "10.3": [
               "programa27-f10-003",
-              "programa27-f10-004"
+              "programa27-f10-004",
+              "programa27-fisica-auditoria-f10-003",
+              "programa27-fisica-auditoria-f10-004"
             ],
             "10.4": [
-              "programa27-f10-005"
+              "programa27-f10-005",
+              "programa27-fisica-auditoria-f10-005"
             ],
             "10.5": [
-              "programa27-f10-006"
+              "programa27-f10-006",
+              "programa27-fisica-auditoria-f10-006"
             ],
             "10.6": [
               "programa27-f10-007",
-              "programa27-f10-008"
+              "programa27-f10-008",
+              "programa27-fisica-auditoria-f10-007"
             ],
             "10.7": [
-              "programa27-f10-009"
+              "programa27-f10-009",
+              "programa27-fisica-auditoria-f10-008"
             ],
             "10.8": [
               "programa27-f10-010",
-              "programa27-f10-011"
+              "programa27-f10-011",
+              "programa27-fisica-auditoria-f10-009",
+              "programa27-fisica-auditoria-f10-015"
             ],
             "10.9": [
-              "programa27-f10-012"
+              "programa27-f10-012",
+              "programa27-fisica-auditoria-f10-010"
             ],
             "10.10": [
               "programa27-f10-013",
-              "programa27-f10-014"
+              "programa27-f10-014",
+              "programa27-fisica-auditoria-f10-011",
+              "programa27-fisica-auditoria-f10-012"
             ],
             "10.11": [
-              "programa27-f10-015"
+              "programa27-f10-015",
+              "programa27-fisica-auditoria-f10-013",
+              "programa27-fisica-auditoria-f10-014"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "referencia": "10.1",
+              "concepto": "Carga eléctrica",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f10-001",
+                "programa27-fisica-auditoria-f10-001"
+              ]
+            },
+            {
+              "referencia": "10.2",
+              "concepto": "Fuerza eléctrica y ley de Coulomb",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f10-002",
+                "programa27-fisica-auditoria-f10-002"
+              ]
+            },
+            {
+              "referencia": "10.3",
+              "concepto": "Campo eléctrico y ley de Gauss",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f10-003",
+                "programa27-f10-004",
+                "programa27-fisica-auditoria-f10-003",
+                "programa27-fisica-auditoria-f10-004"
+              ]
+            },
+            {
+              "referencia": "10.4",
+              "concepto": "Potencial y diferencia de potencial",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f10-005",
+                "programa27-fisica-auditoria-f10-005"
+              ]
+            },
+            {
+              "referencia": "10.5",
+              "concepto": "Trabajo y energía potencial eléctrica",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f10-006",
+                "programa27-fisica-auditoria-f10-006"
+              ]
+            },
+            {
+              "referencia": "10.6",
+              "concepto": "Corriente, tipos e intensidad",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f10-007",
+                "programa27-f10-008",
+                "programa27-fisica-auditoria-f10-007"
+              ]
+            },
+            {
+              "referencia": "10.7",
+              "concepto": "Conductores y aisladores",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f10-009",
+                "programa27-fisica-auditoria-f10-008"
+              ]
+            },
+            {
+              "referencia": "10.8",
+              "concepto": "Resistencia, conductividad y ley de Ohm",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f10-010",
+                "programa27-f10-011",
+                "programa27-fisica-auditoria-f10-009",
+                "programa27-fisica-auditoria-f10-015"
+              ]
+            },
+            {
+              "referencia": "10.9",
+              "concepto": "Potencia eléctrica",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f10-012",
+                "programa27-fisica-auditoria-f10-010"
+              ]
+            },
+            {
+              "referencia": "10.10",
+              "concepto": "Fuerza electromotriz y circuitos simples",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f10-013",
+                "programa27-f10-014",
+                "programa27-fisica-auditoria-f10-011",
+                "programa27-fisica-auditoria-f10-012"
+              ]
+            },
+            {
+              "referencia": "10.11",
+              "concepto": "Galvanómetros, amperímetros y voltímetros",
+              "pagina_pdf": 17,
+              "tarjetas": [
+                "programa27-f10-015",
+                "programa27-fisica-auditoria-f10-013",
+                "programa27-fisica-auditoria-f10-014"
+              ]
+            }
+          ]
         }
       ]
     },

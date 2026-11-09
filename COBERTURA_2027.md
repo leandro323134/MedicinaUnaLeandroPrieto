@@ -1,5 +1,29 @@
 # Medicina UNA 2027 · Cobertura del banco
 
+## Revisión de Física en la versión 0.3.4
+
+Se cotejaron visualmente las páginas 16 y 17 de la Resolución CD 0914-00-2026. Las 10 unidades tienen **66 apartados numerados**, frente a los 57 detectados en el recuento histórico del OCR. Las 106 tarjetas previas ya representaban los 66 apartados. Se incorporó al menos una tarjeta de aplicación o contraste por apartado, y el [mapa de cobertura](cobertura_programa_2027.json) registra el tema, la página y los IDs.
+
+| Unidad | Apartados | Añadidas | Total del programa |
+|---|---:|---:|---:|
+| 1. Magnitudes | 4 | 6 | 23 |
+| 2. Cinemática | 8 | 8 | 23 |
+| 3. Dinámica | 9 | 10 | 23 |
+| 4. Hidrostática | 5 | 5 | 12 |
+| 5. Hidrodinámica | 4 | 5 | 10 |
+| 6. Termometría y dilatación térmica | 8 | 8 | 17 |
+| 7. Calorimetría | 4 | 5 | 11 |
+| 8. Mecánica ondulatoria | 7 | 8 | 17 |
+| 9. Óptica | 6 | 9 | 19 |
+| 10. Electricidad | 11 | 15 | 30 |
+| **Total** | **66** | **79** | **185** |
+
+La app contiene **1364 tarjetas**, de las cuales 1131 pertenecen al banco del programa. Las 1285 anteriores conservan sus campos e IDs. Los nuevos ejercicios incluyen conversión de unidades, movimiento relativo, balance de energía, continuidad y Bernoulli, calorimetría, Doppler, formación de imágenes, ley de Gauss y circuitos con instrumentos de medida. Cada tarjeta nueva indica una sección de OpenStax o la referencia del Sistema Internacional del BIPM.
+
+El cotejo verifica que los apartados están representados. Queda el cotejo visual de Matemática, la comprobación individual de las fuentes heredadas y la prueba de instalación en un teléfono físico.
+
+Archivos modificados: `app/src/main/assets/programa_2027.json`, `cobertura_programa_2027.json`, `COBERTURA_2027.md`, `README.md`, `app/build.gradle.kts` y `app/src/test/java/py/una/medstudy/StudyRepositoryTest.kt`.
+
 ## Revisión de Química en la versión 0.3.3
 
 Se cotejaron las páginas 5 a 13 de la Resolución CD 0914-00-2026. El [mapa de cobertura](cobertura_programa_2027.json) enlaza **287 apartados finales** de las 17 unidades con sus páginas e IDs. El conteo reemplaza el inventario anterior de 279 referencias detectadas por OCR. Los apartados 10.6.6 (gráficos de cinética), 10.8.1 (temperatura y rapidez) y 11.6.2 (pH y pOH) se añadieron como referencias independientes con tarjetas propias.
