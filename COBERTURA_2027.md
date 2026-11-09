@@ -2,7 +2,7 @@
 
 ## Revisión de la versión 0.3.1
 
-Se cotejaron visualmente las páginas 13 a 16 de la resolución, que contienen las 15 unidades de Biología. Se compararon sus enunciados con las preguntas existentes y se añadieron tarjetas para conceptos ausentes o poco desarrollados. Se revisaron también los huecos de Lenguaje y Química que identificaba la versión previa. Esta revisión no certifica todavía la suficiencia de todas las explicaciones ni la cobertura de todas las subdivisiones del programa.
+Se cotejaron visualmente las páginas 13 a 16 de la resolución, que contienen las 15 unidades de Biología. Se compararon sus enunciados con las preguntas existentes y se añadieron tarjetas para conceptos ausentes o poco desarrollados. El mapa registra 119 grupos de conceptos de Biología y enlaza cada grupo a sus tarjetas concretas. Se revisaron también los huecos de Lenguaje y Química que identificaba la versión previa. Esta revisión no certifica todavía la suficiencia de todas las explicaciones ni la cobertura de todas las subdivisiones del programa.
 
 | Materia | Incorporaciones en 0.3.1 | Tarjetas del banco 2027 acumuladas |
 |---|---:|---:|
@@ -22,6 +22,12 @@ Con las 233 tarjetas que preceden al banco 2027, la app contiene **1089 tarjetas
 Las tarjetas nuevas citan secciones del Manual de la Nueva gramática y el DLE de RAE/ASALE, IUPAC, Royal Society of Chemistry, OpenStax y Molecular Biology of the Cell. Se encontraron pasajes académicos para los conceptos añadidos. Parte de la consulta de Alberts se hizo mediante extractos indexados, ya que algunas páginas directas devolvieron una comprobación de navegador. Queda por verificar la bibliografía previa tarjeta por tarjeta y auditar visualmente las demás materias de punta a punta.
 
 Archivos de esta revisión: banco `app/src/main/assets/programa_2027.json`, `cobertura_programa_2027.json`, `COBERTURA_2027.md`, `README.md`, `app/build.gradle.kts` y `app/src/test/java/py/una/medstudy/StudyRepositoryTest.kt`.
+
+### Verificación de la versión 0.3.1
+
+- Se comprobaron 1089 IDs distintos y 57 unidades. Se verificó que las 1034 tarjetas anteriores conservan sus campos y que las referencias del mapa apuntan a IDs válidos. Los 119 grupos de Biología tienen al menos una tarjeta vinculada.
+- Se recalcularon los dos volúmenes molares y la velocidad enzimática del refuerzo, y se comprobaron las cargas de las fórmulas de sulfato de aluminio e hidrogenosulfato de calcio.
+- El [registro de compilación y pruebas](https://github.com/leandro323134/MedicinaUnaLeandroPrieto/actions/runs/42555685887) corresponde al commit de la versión 0.3.1. No se ha hecho una prueba de instalación en teléfono físico.
 
 ## Punto de partida y pruebas de la versión 0.3.0
 

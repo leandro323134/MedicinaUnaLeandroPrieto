@@ -1,7 +1,7 @@
 {
   "programa": "FCM UNA 2027, Resolución CD 0914",
   "sha256_pdf": "2bb40c32aa7f3bc3c0d5c82378257d3e65bd6665b1b8077e6454a441ec8110bc",
-  "nota": "El recuento prueba presencia de tarjetas por unidad, no la suficiencia de cada subtema. Las claves B son internas porque Biología enumera contenidos en párrafos.",
+  "nota": "Las referencias registran correspondencias con tarjetas. En Biología, conceptos_cotejados separa 119 grupos de contenido del PDF. El enlace acredita que se identificó material relacionado y no certifica profundidad académica ni verificación de cada fuente previa.",
   "areas": {
     "Lenguaje y Comunicación": {
       "paginas": [
@@ -1434,7 +1434,60 @@
             "B01.5": [
               "programa27-refuerzo-b01-001"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "concepto": "Descubrimiento de las células",
+              "tarjetas": [
+                "programa27-b01-001"
+              ]
+            },
+            {
+              "concepto": "Propiedades celulares básicas y teoría celular",
+              "tarjetas": [
+                "programa27-biologia-celula-lote02-001",
+                "programa27-biologia-celula-lote02-002",
+                "programa27-biologia-celula-lote02-007"
+              ]
+            },
+            {
+              "concepto": "Diferencias entre procariotas y eucariotas",
+              "tarjetas": [
+                "programa27-biologia-celula-lote02-002",
+                "programa27-biologia-celula-lote02-003",
+                "programa27-biologia-celula-lote02-005"
+              ]
+            },
+            {
+              "concepto": "Tipos de procariotas",
+              "tarjetas": [
+                "programa27-biologia-celula-lote02-004"
+              ]
+            },
+            {
+              "concepto": "Tipos de eucariotas y rasgos comparativos",
+              "tarjetas": [
+                "programa27-refuerzo-b01-001",
+                "programa27-biologia-celula-lote02-015",
+                "programa27-biologia-celula-lote02-017",
+                "programa27-biologia-celula-lote02-018"
+              ]
+            },
+            {
+              "concepto": "Tamaños celulares y de sus componentes",
+              "tarjetas": [
+                "programa27-b01-002",
+                "programa27-biologia-celula-lote02-008"
+              ]
+            },
+            {
+              "concepto": "Virus y viroides",
+              "tarjetas": [
+                "programa27-b01-003",
+                "programa27-b01-004"
+              ]
+            }
+          ]
         },
         {
           "id": "B02",
@@ -1472,7 +1525,65 @@
             "B02.10": [
               "programa27-refuerzo-b02-001"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "concepto": "Naturaleza de las biomoléculas",
+              "tarjetas": [
+                "programa27-b02-001"
+              ]
+            },
+            {
+              "concepto": "Carbohidratos",
+              "tarjetas": [
+                "programa27-b02-002"
+              ]
+            },
+            {
+              "concepto": "Lípidos",
+              "tarjetas": [
+                "programa27-b02-003"
+              ]
+            },
+            {
+              "concepto": "Aminoácidos",
+              "tarjetas": [
+                "programa27-b02-004"
+              ]
+            },
+            {
+              "concepto": "Estructura primaria y secundaria",
+              "tarjetas": [
+                "programa27-b02-005",
+                "programa27-b02-006"
+              ]
+            },
+            {
+              "concepto": "Estructura terciaria y cuaternaria",
+              "tarjetas": [
+                "programa27-b02-005",
+                "programa27-refuerzo-b02-001"
+              ]
+            },
+            {
+              "concepto": "Plegamiento proteico",
+              "tarjetas": [
+                "programa27-b02-007"
+              ]
+            },
+            {
+              "concepto": "Adaptación y evolución proteica",
+              "tarjetas": [
+                "programa27-b02-008"
+              ]
+            },
+            {
+              "concepto": "Ácidos nucleicos",
+              "tarjetas": [
+                "programa27-b02-009"
+              ]
+            }
+          ]
         },
         {
           "id": "B03",
@@ -1516,7 +1627,52 @@
             "B03.5": [
               "programa27-refuerzo-b03-002"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "concepto": "Enzimas como catalizadores",
+              "tarjetas": [
+                "programa27-bio-enzimas-004",
+                "programa27-bio-enzimas-005",
+                "programa27-bio-enzimas-006"
+              ]
+            },
+            {
+              "concepto": "Mecanismos de catálisis",
+              "tarjetas": [
+                "programa27-refuerzo-b03-001",
+                "programa27-bio-enzimas-008",
+                "programa27-bio-enzimas-009",
+                "programa27-bio-enzimas-011"
+              ]
+            },
+            {
+              "concepto": "Cinética enzimática",
+              "tarjetas": [
+                "programa27-b03-001",
+                "programa27-b03-002",
+                "programa27-refuerzo-b03-002",
+                "programa27-bio-enzimas-015",
+                "programa27-bio-enzimas-016"
+              ]
+            },
+            {
+              "concepto": "Metabolismo y acoplamiento energético",
+              "tarjetas": [
+                "programa27-b03-003",
+                "programa27-bio-enzimas-002",
+                "programa27-bio-enzimas-003",
+                "programa27-bio-enzimas-020"
+              ]
+            },
+            {
+              "concepto": "Regulación metabólica",
+              "tarjetas": [
+                "programa27-bio-enzimas-017",
+                "programa27-bio-enzimas-018"
+              ]
+            }
+          ]
         },
         {
           "id": "B04",
@@ -1593,7 +1749,130 @@
             "B04.23": [
               "programa27-refuerzo-b04-003"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "concepto": "Microscopio óptico, campo brillante y contraste de fases",
+              "tarjetas": [
+                "programa27-b04-001",
+                "programa27-biologia-celula-lote02-021"
+              ]
+            },
+            {
+              "concepto": "Fluorescencia y técnicas relacionadas",
+              "tarjetas": [
+                "programa27-b04-002",
+                "programa27-refuerzo-b04-002",
+                "programa27-refuerzo-b04-003"
+              ]
+            },
+            {
+              "concepto": "Transmisión y barrido electrónicos",
+              "tarjetas": [
+                "programa27-b04-003",
+                "programa27-biologia-celula-lote02-022"
+              ]
+            },
+            {
+              "concepto": "Preparación para microscopía electrónica",
+              "tarjetas": [
+                "programa27-refuerzo-b04-001"
+              ]
+            },
+            {
+              "concepto": "Microscopía de fuerza atómica",
+              "tarjetas": [
+                "programa27-b04-004"
+              ]
+            },
+            {
+              "concepto": "Radioisótopos",
+              "tarjetas": [
+                "programa27-b04-005"
+              ]
+            },
+            {
+              "concepto": "Cultivo celular",
+              "tarjetas": [
+                "programa27-b04-006"
+              ]
+            },
+            {
+              "concepto": "Centrifugación diferencial",
+              "tarjetas": [
+                "programa27-b04-007"
+              ]
+            },
+            {
+              "concepto": "Purificación por cromatografía en columna",
+              "tarjetas": [
+                "programa27-b04-008"
+              ]
+            },
+            {
+              "concepto": "Interacciones de proteínas",
+              "tarjetas": [
+                "programa27-b04-009"
+              ]
+            },
+            {
+              "concepto": "Electroforesis de proteínas",
+              "tarjetas": [
+                "programa27-b04-010"
+              ]
+            },
+            {
+              "concepto": "Espectrofotometría",
+              "tarjetas": [
+                "programa27-b04-011"
+              ]
+            },
+            {
+              "concepto": "Espectrometría de masas",
+              "tarjetas": [
+                "programa27-b04-012"
+              ]
+            },
+            {
+              "concepto": "Estructura de proteínas y complejos",
+              "tarjetas": [
+                "programa27-b04-013"
+              ]
+            },
+            {
+              "concepto": "Fraccionamiento e hibridación de ácidos nucleicos",
+              "tarjetas": [
+                "programa27-b04-014",
+                "programa27-b04-015"
+              ]
+            },
+            {
+              "concepto": "Síntesis química y ADN recombinante",
+              "tarjetas": [
+                "programa27-b04-016"
+              ]
+            },
+            {
+              "concepto": "PCR y secuenciación",
+              "tarjetas": [
+                "programa27-b04-017",
+                "programa27-b04-018"
+              ]
+            },
+            {
+              "concepto": "Bibliotecas de ADN",
+              "tarjetas": [
+                "programa27-b04-019"
+              ]
+            },
+            {
+              "concepto": "Uso de anticuerpos",
+              "tarjetas": [
+                "programa27-b04-009",
+                "programa27-b04-020"
+              ]
+            }
+          ]
         },
         {
           "id": "B05",
@@ -1637,7 +1916,62 @@
             "B05.12": [
               "programa27-refuerzo-b05-002"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "concepto": "Introducción, composición lipídica y naturaleza dinámica",
+              "tarjetas": [
+                "programa27-b05-001",
+                "programa27-b05-004",
+                "programa27-refuerzo-b04-003"
+              ]
+            },
+            {
+              "concepto": "Carbohidratos de membrana",
+              "tarjetas": [
+                "programa27-b05-002"
+              ]
+            },
+            {
+              "concepto": "Proteínas integrales y su estudio",
+              "tarjetas": [
+                "programa27-b05-003",
+                "programa27-refuerzo-b05-001"
+              ]
+            },
+            {
+              "concepto": "Membrana del eritrocito",
+              "tarjetas": [
+                "programa27-b05-005"
+              ]
+            },
+            {
+              "concepto": "Difusión a través de la bicapa",
+              "tarjetas": [
+                "programa27-b05-006"
+              ]
+            },
+            {
+              "concepto": "Difusión de iones y difusión facilitada",
+              "tarjetas": [
+                "programa27-b05-007"
+              ]
+            },
+            {
+              "concepto": "Transporte activo",
+              "tarjetas": [
+                "programa27-b05-008",
+                "programa27-b05-009"
+              ]
+            },
+            {
+              "concepto": "Potencial de reposo y potencial de acción",
+              "tarjetas": [
+                "programa27-b05-010",
+                "programa27-refuerzo-b05-002"
+              ]
+            }
+          ]
         },
         {
           "id": "B06",
@@ -1675,7 +2009,45 @@
             "B06.10": [
               "programa27-refuerzo-b06-003"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "concepto": "Estructura y metabolismo mitocondrial",
+              "tarjetas": [
+                "programa27-b06-001",
+                "programa27-refuerzo-b06-001"
+              ]
+            },
+            {
+              "concepto": "Complejos de transporte electrónico",
+              "tarjetas": [
+                "programa27-b06-002",
+                "programa27-b06-003"
+              ]
+            },
+            {
+              "concepto": "Fosforilación oxidativa y fuerza protón motriz",
+              "tarjetas": [
+                "programa27-b06-003",
+                "programa27-b06-004",
+                "programa27-b06-005",
+                "programa27-b06-006"
+              ]
+            },
+            {
+              "concepto": "Estructura y mecanismo de la ATP sintasa",
+              "tarjetas": [
+                "programa27-refuerzo-b06-002",
+                "programa27-refuerzo-b06-003"
+              ]
+            },
+            {
+              "concepto": "Peroxisoma",
+              "tarjetas": [
+                "programa27-b06-007"
+              ]
+            }
+          ]
         },
         {
           "id": "B07",
@@ -1716,7 +2088,61 @@
             "B07.11": [
               "programa27-refuerzo-b07-003"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "concepto": "Filamentos y funciones del citoesqueleto",
+              "tarjetas": [
+                "programa27-b07-001"
+              ]
+            },
+            {
+              "concepto": "Estructura y dinámica de microtúbulos",
+              "tarjetas": [
+                "programa27-b07-002",
+                "programa27-refuerzo-b07-001"
+              ]
+            },
+            {
+              "concepto": "Centros organizadores",
+              "tarjetas": [
+                "programa27-b07-003"
+              ]
+            },
+            {
+              "concepto": "Cinesinas y dineínas",
+              "tarjetas": [
+                "programa27-b07-004"
+              ]
+            },
+            {
+              "concepto": "Cilios y flagelos",
+              "tarjetas": [
+                "programa27-b07-005"
+              ]
+            },
+            {
+              "concepto": "Filamentos intermedios",
+              "tarjetas": [
+                "programa27-b07-006"
+              ]
+            },
+            {
+              "concepto": "Actina, miosina y contracción muscular",
+              "tarjetas": [
+                "programa27-b07-007",
+                "programa27-b07-008"
+              ]
+            },
+            {
+              "concepto": "Proteínas de unión a la actina y motilidad",
+              "tarjetas": [
+                "programa27-b07-008",
+                "programa27-refuerzo-b07-002",
+                "programa27-refuerzo-b07-003"
+              ]
+            }
+          ]
         },
         {
           "id": "B08",
@@ -1748,7 +2174,47 @@
             "B08.8": [
               "programa27-refuerzo-b08-002"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "concepto": "Matriz extracelular, composición y remodelación",
+              "tarjetas": [
+                "programa27-b08-001",
+                "programa27-refuerzo-b08-001"
+              ]
+            },
+            {
+              "concepto": "Integrinas y anclaje al sustrato",
+              "tarjetas": [
+                "programa27-b08-002",
+                "programa27-refuerzo-b08-002"
+              ]
+            },
+            {
+              "concepto": "Adhesión celular en inflamación y metástasis",
+              "tarjetas": [
+                "programa27-b08-003"
+              ]
+            },
+            {
+              "concepto": "Uniones adherentes y desmosomas",
+              "tarjetas": [
+                "programa27-b08-004"
+              ]
+            },
+            {
+              "concepto": "Uniones estrechas",
+              "tarjetas": [
+                "programa27-b08-005"
+              ]
+            },
+            {
+              "concepto": "Uniones gap y plasmodesmos",
+              "tarjetas": [
+                "programa27-b08-006"
+              ]
+            }
+          ]
         },
         {
           "id": "B09",
@@ -1798,7 +2264,79 @@
             "B09.14": [
               "programa27-refuerzo-b09-003"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "concepto": "Sistema de endomembranas y métodos para estudiarlo",
+              "tarjetas": [
+                "programa27-refuerzo-b09-001",
+                "programa27-biologia-celula-lote02-011",
+                "programa27-biologia-celula-lote02-012"
+              ]
+            },
+            {
+              "concepto": "Retículo rugoso y síntesis de membranas",
+              "tarjetas": [
+                "programa27-b09-001",
+                "programa27-b09-002"
+              ]
+            },
+            {
+              "concepto": "Glucosilación y control de plegamiento",
+              "tarjetas": [
+                "programa27-b09-003",
+                "programa27-b09-004"
+              ]
+            },
+            {
+              "concepto": "Transporte del retículo al Golgi y tipos de vesículas",
+              "tarjetas": [
+                "programa27-b09-005",
+                "programa27-b09-007"
+              ]
+            },
+            {
+              "concepto": "Golgi y clasificación en la red trans-Golgi",
+              "tarjetas": [
+                "programa27-b09-006",
+                "programa27-refuerzo-b09-002",
+                "programa27-biologia-celula-lote02-012"
+              ]
+            },
+            {
+              "concepto": "Destino y fusión de vesículas",
+              "tarjetas": [
+                "programa27-b09-007"
+              ]
+            },
+            {
+              "concepto": "Exocitosis",
+              "tarjetas": [
+                "programa27-b09-008"
+              ]
+            },
+            {
+              "concepto": "Lisosomas y endocitosis",
+              "tarjetas": [
+                "programa27-b09-009",
+                "programa27-refuerzo-b09-002",
+                "programa27-refuerzo-b09-003",
+                "programa27-biologia-celula-lote02-013"
+              ]
+            },
+            {
+              "concepto": "Fagocitosis",
+              "tarjetas": [
+                "programa27-b09-010"
+              ]
+            },
+            {
+              "concepto": "Importación postraduccional",
+              "tarjetas": [
+                "programa27-b09-011"
+              ]
+            }
+          ]
         },
         {
           "id": "B10",
@@ -1827,7 +2365,41 @@
             "B10.7": [
               "programa27-refuerzo-b10-001"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "concepto": "Gen como unidad de herencia y cromosomas",
+              "tarjetas": [
+                "programa27-b10-001",
+                "programa27-b10-002"
+              ]
+            },
+            {
+              "concepto": "Estructura y superenrollamiento del ADN",
+              "tarjetas": [
+                "programa27-b10-003",
+                "programa27-b10-004"
+              ]
+            },
+            {
+              "concepto": "Complejidad del genoma",
+              "tarjetas": [
+                "programa27-b10-005"
+              ]
+            },
+            {
+              "concepto": "Duplicación del ADN y estabilidad del genoma",
+              "tarjetas": [
+                "programa27-refuerzo-b10-001"
+              ]
+            },
+            {
+              "concepto": "Elementos móviles y duplicaciones génicas",
+              "tarjetas": [
+                "programa27-b10-006"
+              ]
+            }
+          ]
         },
         {
           "id": "B11",
@@ -1871,7 +2443,66 @@
             "B11.12": [
               "programa27-refuerzo-b11-002"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "concepto": "Genes, ARN, proteínas y ARN polimerasas",
+              "tarjetas": [
+                "programa27-b11-001",
+                "programa27-b11-006",
+                "programa27-b11-008",
+                "programa27-refuerzo-b11-001"
+              ]
+            },
+            {
+              "concepto": "Transcripción en procariotas y eucariotas",
+              "tarjetas": [
+                "programa27-b11-002",
+                "programa27-refuerzo-b11-001"
+              ]
+            },
+            {
+              "concepto": "Síntesis y procesamiento de ARNr y ARNt",
+              "tarjetas": [
+                "programa27-b11-005"
+              ]
+            },
+            {
+              "concepto": "Síntesis, estructura y procesamiento del ARNm",
+              "tarjetas": [
+                "programa27-b11-003",
+                "programa27-refuerzo-b11-001"
+              ]
+            },
+            {
+              "concepto": "Genes divididos y consecuencias evolutivas del empalme",
+              "tarjetas": [
+                "programa27-b11-004",
+                "programa27-refuerzo-b11-002"
+              ]
+            },
+            {
+              "concepto": "Código, codones y ARNt",
+              "tarjetas": [
+                "programa27-b11-006",
+                "programa27-b11-007",
+                "programa27-b11-008"
+              ]
+            },
+            {
+              "concepto": "Inicio, elongación y terminación de traducción",
+              "tarjetas": [
+                "programa27-b11-008"
+              ]
+            },
+            {
+              "concepto": "Vigilancia del ARNm y polirribosomas",
+              "tarjetas": [
+                "programa27-b11-009",
+                "programa27-b11-010"
+              ]
+            }
+          ]
         },
         {
           "id": "B12",
@@ -1927,7 +2558,77 @@
             "B12.16": [
               "programa27-refuerzo-b12-006"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "concepto": "Envoltura y organización nuclear",
+              "tarjetas": [
+                "programa27-b12-001",
+                "programa27-refuerzo-b12-002"
+              ]
+            },
+            {
+              "concepto": "Empaquetado y heterocromatina",
+              "tarjetas": [
+                "programa27-b12-002",
+                "programa27-refuerzo-b12-001"
+              ]
+            },
+            {
+              "concepto": "Cromosoma mitótico",
+              "tarjetas": [
+                "programa27-refuerzo-b12-003"
+              ]
+            },
+            {
+              "concepto": "Alteraciones cromosómicas y trastornos",
+              "tarjetas": [
+                "programa27-b12-003",
+                "programa27-refuerzo-b12-004"
+              ]
+            },
+            {
+              "concepto": "Epigenética",
+              "tarjetas": [
+                "programa27-b12-004",
+                "programa27-refuerzo-b12-001"
+              ]
+            },
+            {
+              "concepto": "Factores de transcripción, sitios reguladores y coactivadores",
+              "tarjetas": [
+                "programa27-b12-005",
+                "programa27-b12-006",
+                "programa27-refuerzo-b12-005"
+              ]
+            },
+            {
+              "concepto": "Receptor de glucocorticoides",
+              "tarjetas": [
+                "programa27-b12-007"
+              ]
+            },
+            {
+              "concepto": "Polimerasas pausadas y represión",
+              "tarjetas": [
+                "programa27-b12-008",
+                "programa27-refuerzo-b12-005"
+              ]
+            },
+            {
+              "concepto": "Procesamiento del ARN, traducción y microARN",
+              "tarjetas": [
+                "programa27-b12-009",
+                "programa27-refuerzo-b12-006"
+              ]
+            },
+            {
+              "concepto": "Control postraduccional y estabilidad proteica",
+              "tarjetas": [
+                "programa27-b12-010"
+              ]
+            }
+          ]
         },
         {
           "id": "B13",
@@ -1968,7 +2669,47 @@
             "B13.11": [
               "programa27-refuerzo-b13-002"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "concepto": "Replicación y maquinaria de la horquilla",
+              "tarjetas": [
+                "programa27-b13-001",
+                "programa27-b13-002",
+                "programa27-b13-003",
+                "programa27-refuerzo-b13-001"
+              ]
+            },
+            {
+              "concepto": "Replicación eucariota y cromatina",
+              "tarjetas": [
+                "programa27-b13-004",
+                "programa27-b13-005",
+                "programa27-b13-006"
+              ]
+            },
+            {
+              "concepto": "ADN polimerasas y corrección de pruebas",
+              "tarjetas": [
+                "programa27-b13-007",
+                "programa27-refuerzo-b13-001"
+              ]
+            },
+            {
+              "concepto": "Reparación del ADN",
+              "tarjetas": [
+                "programa27-b13-007",
+                "programa27-b13-008",
+                "programa27-b13-009"
+              ]
+            },
+            {
+              "concepto": "Relación entre replicación y reparación",
+              "tarjetas": [
+                "programa27-refuerzo-b13-002"
+              ]
+            }
+          ]
         },
         {
           "id": "B14",
@@ -2009,7 +2750,47 @@
             "B14.11": [
               "programa27-refuerzo-b14-005"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "concepto": "Ciclo celular y regulación por cinasas",
+              "tarjetas": [
+                "programa27-b14-001",
+                "programa27-b14-002"
+              ]
+            },
+            {
+              "concepto": "Puntos de control e inhibidores de CDK",
+              "tarjetas": [
+                "programa27-b14-002",
+                "programa27-b14-003",
+                "programa27-refuerzo-b14-001"
+              ]
+            },
+            {
+              "concepto": "Fase M y etapas mitóticas",
+              "tarjetas": [
+                "programa27-b14-004",
+                "programa27-refuerzo-b14-002"
+              ]
+            },
+            {
+              "concepto": "Citocinesis",
+              "tarjetas": [
+                "programa27-b14-004",
+                "programa27-refuerzo-b14-003"
+              ]
+            },
+            {
+              "concepto": "Etapas de meiosis y recombinación",
+              "tarjetas": [
+                "programa27-b14-005",
+                "programa27-b14-006",
+                "programa27-refuerzo-b14-004",
+                "programa27-refuerzo-b14-005"
+              ]
+            }
+          ]
         },
         {
           "id": "B15",
@@ -2062,7 +2843,72 @@
             "B15.15": [
               "programa27-refuerzo-b15-001"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "concepto": "Elementos de señalización, mensajeros y receptores",
+              "tarjetas": [
+                "programa27-b15-001",
+                "programa27-b15-002",
+                "programa27-b15-003"
+              ]
+            },
+            {
+              "concepto": "GPCR, segundos mensajeros y especificidad",
+              "tarjetas": [
+                "programa27-b15-002",
+                "programa27-b15-003",
+                "programa27-b15-004",
+                "programa27-b15-011"
+              ]
+            },
+            {
+              "concepto": "Control de glucosa y receptor de insulina",
+              "tarjetas": [
+                "programa27-b15-005",
+                "programa27-b15-009"
+              ]
+            },
+            {
+              "concepto": "GPCR sensoriales",
+              "tarjetas": [
+                "programa27-b15-006"
+              ]
+            },
+            {
+              "concepto": "Fosforilación de tirosinas y Ras-MAPK",
+              "tarjetas": [
+                "programa27-b15-007",
+                "programa27-b15-008"
+              ]
+            },
+            {
+              "concepto": "Señalización vegetal",
+              "tarjetas": [
+                "programa27-b15-010",
+                "programa27-refuerzo-b15-001"
+              ]
+            },
+            {
+              "concepto": "Calcio y NO intracelular",
+              "tarjetas": [
+                "programa27-b15-011",
+                "programa27-b15-013"
+              ]
+            },
+            {
+              "concepto": "Convergencia, divergencia e interacción entre vías",
+              "tarjetas": [
+                "programa27-b15-012"
+              ]
+            },
+            {
+              "concepto": "Apoptosis",
+              "tarjetas": [
+                "programa27-b15-014"
+              ]
+            }
+          ]
         }
       ]
     },
