@@ -122,9 +122,17 @@ class StudyRepositoryTest {
             context.assets.open(name).bufferedReader().use { repository.importCards(it.readText(), true) }
         }
         val bundledCards = repository.dao.allCards()
-        assertEquals(1172, bundledCards.size)
+        assertEquals(1285, bundledCards.size)
         val programCards = bundledCards.filter { it.id.startsWith("programa27-") }
-        assertEquals(939, programCards.size)
+        assertEquals(1052, programCards.size)
+        val chemistryCards = programCards.filter { it.subject == "Química" }
+        val chemistryAudit = chemistryCards.filter { it.id.startsWith("programa27-quimica-auditoria-") }
+        assertEquals(451, chemistryCards.size)
+        assertEquals(113, chemistryAudit.size)
+        assertEquals(17, chemistryAudit.map { it.unit }.toSet().size)
+        assertTrue(chemistryAudit.any { it.topic == "Gráficos de orden de reacción" })
+        assertTrue(chemistryAudit.any { it.topic == "Temperatura y Arrhenius" })
+        assertTrue(chemistryAudit.any { it.topic == "pH y pOH" })
         val languageCards = programCards.filter { it.subject == "Lenguaje" }
         assertEquals(181, languageCards.size)
         assertEquals(83, languageCards.count { it.id.startsWith("programa27-lenguaje-auditoria-") })

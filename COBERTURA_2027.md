@@ -1,5 +1,24 @@
 # Medicina UNA 2027 · Cobertura del banco
 
+## Revisión de Química en la versión 0.3.3
+
+Se cotejaron las páginas 5 a 13 de la Resolución CD 0914-00-2026. El [mapa de cobertura](cobertura_programa_2027.json) enlaza **287 apartados finales** de las 17 unidades con sus páginas e IDs. El conteo reemplaza el inventario anterior de 279 referencias detectadas por OCR. Los apartados 10.6.6 (gráficos de cinética), 10.8.1 (temperatura y rapidez) y 11.6.2 (pH y pOH) se añadieron como referencias independientes con tarjetas propias.
+
+| Unidades | Añadidas |
+|---|---:|
+| 1–5 · Materia, átomos, nomenclatura, enlaces y reacciones | 21 |
+| 6–9 · Estados, disoluciones, ácido-base y estequiometría | 23 |
+| 10–12 · Cinética, equilibrio, termodinámica y electroquímica | 18 |
+| 13–16 · Química orgánica | 41 |
+| 17 · Biomoléculas | 10 |
+| **Total** | **113** |
+
+El banco del programa contiene 451 tarjetas de Química. La app suma **1285 tarjetas** entre los tres bancos, con los campos y los IDs de las 1172 previas intactos. Los ejercicios nuevos incluyen balance redox, concentración, tampones, equilibrio, energía libre, Nernst, R/S en Fischer, mecanismos orgánicos, carbohidratos y lípidos. Las tarjetas registran la fuente con su capítulo o sección, principalmente OpenStax, IUPAC y Essentials of Glycobiology.
+
+El cotejo confirma la presencia de tarjetas para los apartados finales del programa. Los enunciados amplios pueden requerir más práctica o una comprobación individual de cada ejemplo heredado. Siguen pendientes la revisión visual de Física y Matemática y la prueba en teléfono físico.
+
+Archivos modificados: `app/src/main/assets/programa_2027.json`, `cobertura_programa_2027.json`, `COBERTURA_2027.md`, `README.md`, `app/build.gradle.kts` y `app/src/test/java/py/una/medstudy/StudyRepositoryTest.kt`.
+
 ## Revisión de Lenguaje y Comunicación en la versión 0.3.2
 
 Se compararon visualmente las páginas 2, 3 y 4 de la Resolución CD 0914-00-2026 con las tarjetas. El [mapa de cobertura](cobertura_programa_2027.json) registra los 80 apartados finales numerados, su página y los IDs de las tarjetas correspondientes. Los encabezados que agrupan apartados no se cuentan de nuevo. En V.9.6 se añadieron también tarjetas propias sobre argumentos, adjuntos y transitividad, porque esos contenidos figuran en el encabezado.
