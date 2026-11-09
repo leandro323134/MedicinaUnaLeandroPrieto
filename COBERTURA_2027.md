@@ -19,6 +19,12 @@ La app contiene **1172 tarjetas**: 939 del banco del programa y 233 anteriores. 
 
 Archivos modificados: `app/src/main/assets/programa_2027.json`, `cobertura_programa_2027.json`, `COBERTURA_2027.md`, `README.md`, `app/build.gradle.kts` y `app/src/test/java/py/una/medstudy/StudyRepositoryTest.kt`.
 
+### Verificación de la versión 0.3.2
+
+- Se validaron los 1172 IDs, el contenido de las 1089 tarjetas anteriores y los 80 apartados de Lenguaje. Todos sus enlaces apuntan a tarjetas de la unidad y del apartado correctos.
+- La [compilación en GitHub Actions](https://github.com/leandro323134/MedicinaUnaLeandroPrieto/actions/runs/42559858957) terminó con 9 pruebas aprobadas, 0 fallos y 0 omitidas.
+- Los tres bancos del APK coinciden byte por byte con los del repositorio. Se verificaron el identificador `py.una.medstudy`, la versión 0.3.2, el código 5 y la misma huella de certificado que la versión 0.3.1. La instalación en un teléfono físico sigue pendiente.
+
 ## Revisión de la versión 0.3.1
 
 Se cotejaron visualmente las páginas 13 a 16 de la resolución, que contienen las 15 unidades de Biología. Se compararon sus enunciados con las preguntas existentes y se añadieron tarjetas para conceptos ausentes o poco desarrollados. El mapa registra 119 grupos de conceptos de Biología y enlaza cada grupo a sus tarjetas concretas. Se revisaron también los huecos de Lenguaje y Química que identificaba la versión previa. Esta revisión no certifica todavía la suficiencia de todas las explicaciones ni la cobertura de todas las subdivisiones del programa.
