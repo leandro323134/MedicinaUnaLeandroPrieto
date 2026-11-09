@@ -1,5 +1,24 @@
 # Medicina UNA 2027 · Cobertura del banco
 
+## Revisión de Lenguaje y Comunicación en la versión 0.3.2
+
+Se compararon visualmente las páginas 2, 3 y 4 de la Resolución CD 0914-00-2026 con las tarjetas. El [mapa de cobertura](cobertura_programa_2027.json) registra los 80 apartados finales numerados, su página y los IDs de las tarjetas correspondientes. Los encabezados que agrupan apartados no se cuentan de nuevo. En V.9.6 se añadieron también tarjetas propias sobre argumentos, adjuntos y transitividad, porque esos contenidos figuran en el encabezado.
+
+| Bloque | Tarjetas anteriores del programa | Añadidas | Total del programa |
+|---|---:|---:|---:|
+| Lingüística de la comunicación | 15 | 5 | 20 |
+| Semántica | 14 | 7 | 21 |
+| Comprensión lectora | 10 | 9 | 19 |
+| Ortografía | 10 | 24 | 34 |
+| Morfosintaxis | 49 | 38 | 87 |
+| **Lenguaje y Comunicación** | **98** | **83** | **181** |
+
+Los refuerzos incluyen modalidades, barreras comunicativas, homonimia, conjeturas, formularios y otros textos breves, acentuación, grafías consonánticas, puntuación, concordancia, clíticos y funciones de los relativos. Las consignas de aplicación son originales. Las referencias se consignan en las tarjetas e incluyen el Diccionario panhispánico de dudas, el Glosario de términos gramaticales, el Diccionario de la lengua española, el apéndice de ortografía del Diccionario del estudiante y el Instituto Cervantes. Algunas entradas del Instituto Cervantes se consultaron por extractos indexados cuando falló el acceso directo.
+
+La app contiene **1172 tarjetas**: 939 del banco del programa y 233 anteriores. Se conservaron las 1089 tarjetas de la versión previa y su contenido. Quedan por verificar individualmente las fuentes de las tarjetas heredadas, el nivel de dominio en cada apartado con práctica de examen y el cotejo visual completo de Química, Física y Matemática.
+
+Archivos modificados: `app/src/main/assets/programa_2027.json`, `cobertura_programa_2027.json`, `COBERTURA_2027.md`, `README.md`, `app/build.gradle.kts` y `app/src/test/java/py/una/medstudy/StudyRepositoryTest.kt`.
+
 ## Revisión de la versión 0.3.1
 
 Se cotejaron visualmente las páginas 13 a 16 de la resolución, que contienen las 15 unidades de Biología. Se compararon sus enunciados con las preguntas existentes y se añadieron tarjetas para conceptos ausentes o poco desarrollados. El mapa registra 119 grupos de conceptos de Biología y enlaza cada grupo a sus tarjetas concretas. Se revisaron también los huecos de Lenguaje y Química que identificaba la versión previa. Esta revisión no certifica todavía la suficiencia de todas las explicaciones ni la cobertura de todas las subdivisiones del programa.

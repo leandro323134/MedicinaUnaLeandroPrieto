@@ -2,7 +2,7 @@ plugins { id("com.android.application"); id("org.jetbrains.kotlin.android"); id(
 android {
     namespace = "py.una.medstudy"
     compileSdk = 35
-    defaultConfig { applicationId = "py.una.medstudy"; minSdk = 26; targetSdk = 35; versionCode = 4; versionName = "0.3.1"
+    defaultConfig { applicationId = "py.una.medstudy"; minSdk = 26; targetSdk = 35; versionCode = 5; versionName = "0.3.2"
         manifestPlaceholders["appLabel"] = "Medicina UNA"
     }
     // La firma se toma de variables de entorno para no compartir la clave privada.

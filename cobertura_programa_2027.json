@@ -1,7 +1,7 @@
 {
   "programa": "FCM UNA 2027, Resolución CD 0914",
   "sha256_pdf": "2bb40c32aa7f3bc3c0d5c82378257d3e65bd6665b1b8077e6454a441ec8110bc",
-  "nota": "Las referencias registran correspondencias con tarjetas. En Biología, conceptos_cotejados separa 119 grupos de contenido del PDF. El enlace acredita que se identificó material relacionado y no certifica profundidad académica ni verificación de cada fuente previa.",
+  "nota": "Las referencias registran correspondencias con tarjetas. En Biología, conceptos_cotejados separa 119 grupos de contenido del PDF. El enlace acredita que se identificó material relacionado y no certifica profundidad académica ni verificación de cada fuente previa. En Lenguaje se cotejaron visualmente los 80 apartados finales, con páginas e IDs en conceptos_cotejados.",
   "areas": {
     "Lenguaje y Comunicación": {
       "paginas": [
@@ -12,24 +12,27 @@
         {
           "id": "L01",
           "titulo": "Lingüística de la comunicación",
-          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 15,
+          "estado": "apartados finales cotejados visualmente y vinculados a tarjetas",
+          "tarjetas_nuevas": 20,
           "referencias": {
             "I.1": [
               "programa27-l01-001"
             ],
             "I.2": [
               "programa27-l01-002",
-              "programa27-l01-003"
+              "programa27-l01-003",
+              "programa27-lenguaje-auditoria-l01-001"
             ],
             "I.3": [
               "programa27-l01-004"
             ],
             "I.3.1": [
-              "programa27-l01-005"
+              "programa27-l01-005",
+              "programa27-lenguaje-auditoria-l01-002"
             ],
             "I.3.2": [
-              "programa27-l01-006"
+              "programa27-l01-006",
+              "programa27-lenguaje-auditoria-l01-003"
             ],
             "I.4": [
               "programa27-l01-007",
@@ -40,7 +43,8 @@
             ],
             "I.6": [
               "programa27-l01-010",
-              "programa27-l01-011"
+              "programa27-l01-011",
+              "programa27-lenguaje-auditoria-l01-004"
             ],
             "I.7": [
               "programa27-l01-012",
@@ -48,15 +52,100 @@
               "programa27-refuerzo-l01-002"
             ],
             "I.8": [
-              "programa27-l01-013"
+              "programa27-l01-013",
+              "programa27-lenguaje-auditoria-l01-005"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "referencia": "I.1",
+              "concepto": "Lenguaje, lengua y habla",
+              "pagina_pdf": 2,
+              "tarjetas": [
+                "programa27-l01-001"
+              ]
+            },
+            {
+              "referencia": "I.2",
+              "concepto": "Enunciado y modalidades",
+              "pagina_pdf": 2,
+              "tarjetas": [
+                "programa27-l01-002",
+                "programa27-l01-003",
+                "programa27-lenguaje-auditoria-l01-001"
+              ]
+            },
+            {
+              "referencia": "I.3.1",
+              "concepto": "Proceso de comunicación y sus elementos",
+              "pagina_pdf": 2,
+              "tarjetas": [
+                "programa27-l01-005",
+                "programa27-lenguaje-auditoria-l01-002"
+              ]
+            },
+            {
+              "referencia": "I.3.2",
+              "concepto": "Interferencias del canal y barreras de interpretación",
+              "pagina_pdf": 2,
+              "tarjetas": [
+                "programa27-l01-006",
+                "programa27-lenguaje-auditoria-l01-003"
+              ]
+            },
+            {
+              "referencia": "I.4",
+              "concepto": "Funciones referencial, apelativa, fática, expresiva, metalingüística y poética",
+              "pagina_pdf": 2,
+              "tarjetas": [
+                "programa27-l01-007",
+                "programa27-l01-008"
+              ]
+            },
+            {
+              "referencia": "I.5",
+              "concepto": "Situación comunicativa e intención indirecta",
+              "pagina_pdf": 2,
+              "tarjetas": [
+                "programa27-l01-009"
+              ]
+            },
+            {
+              "referencia": "I.6",
+              "concepto": "Actos locutivo, ilocutivo y perlocutivo, condiciones e infortunios",
+              "pagina_pdf": 2,
+              "tarjetas": [
+                "programa27-l01-010",
+                "programa27-l01-011",
+                "programa27-lenguaje-auditoria-l01-004"
+              ]
+            },
+            {
+              "referencia": "I.7",
+              "concepto": "Niveles de lengua y registros",
+              "pagina_pdf": 2,
+              "tarjetas": [
+                "programa27-l01-012",
+                "programa27-refuerzo-l01-001",
+                "programa27-refuerzo-l01-002"
+              ]
+            },
+            {
+              "referencia": "I.8",
+              "concepto": "Dialecto, sociolecto e idiolecto",
+              "pagina_pdf": 2,
+              "tarjetas": [
+                "programa27-l01-013",
+                "programa27-lenguaje-auditoria-l01-005"
+              ]
+            }
+          ]
         },
         {
           "id": "L02",
           "titulo": "Semántica",
-          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 14,
+          "estado": "apartados finales cotejados visualmente y vinculados a tarjetas",
+          "tarjetas_nuevas": 21,
           "referencias": {
             "II.1": [
               "programa27-l02-001"
@@ -67,13 +156,16 @@
             "II.3.1": [
               "programa27-l02-003",
               "programa27-refuerzo-l02-001",
-              "programa27-refuerzo-l02-002"
+              "programa27-refuerzo-l02-002",
+              "programa27-lenguaje-auditoria-l02-001"
             ],
             "II.3.2": [
-              "programa27-l02-004"
+              "programa27-l02-004",
+              "programa27-lenguaje-auditoria-l02-002"
             ],
             "II.3.3": [
-              "programa27-l02-005"
+              "programa27-l02-005",
+              "programa27-lenguaje-auditoria-l02-003"
             ],
             "II.3.4": [
               "programa27-l02-006"
@@ -82,111 +174,413 @@
               "programa27-l02-007"
             ],
             "II.3.6": [
-              "programa27-l02-008"
+              "programa27-l02-008",
+              "programa27-lenguaje-auditoria-l02-004"
             ],
             "II.4": [
-              "programa27-l02-009"
+              "programa27-l02-009",
+              "programa27-lenguaje-auditoria-l02-005"
             ],
             "II.5.1": [
               "programa27-l02-010"
             ],
             "II.5.2": [
-              "programa27-l02-011"
+              "programa27-l02-011",
+              "programa27-lenguaje-auditoria-l02-006"
             ],
             "II.5.3": [
-              "programa27-l02-012"
+              "programa27-l02-012",
+              "programa27-lenguaje-auditoria-l02-007"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "referencia": "II.1",
+              "concepto": "Signo, significante y significado",
+              "pagina_pdf": 2,
+              "tarjetas": [
+                "programa27-l02-001"
+              ]
+            },
+            {
+              "referencia": "II.2",
+              "concepto": "Denotación y connotación",
+              "pagina_pdf": 2,
+              "tarjetas": [
+                "programa27-l02-002"
+              ]
+            },
+            {
+              "referencia": "II.3.1",
+              "concepto": "Monosemia, polisemia y homonimia",
+              "pagina_pdf": 2,
+              "tarjetas": [
+                "programa27-l02-003",
+                "programa27-refuerzo-l02-001",
+                "programa27-refuerzo-l02-002",
+                "programa27-lenguaje-auditoria-l02-001"
+              ]
+            },
+            {
+              "referencia": "II.3.2",
+              "concepto": "Sinonimia y antonimia",
+              "pagina_pdf": 2,
+              "tarjetas": [
+                "programa27-l02-004",
+                "programa27-lenguaje-auditoria-l02-002"
+              ]
+            },
+            {
+              "referencia": "II.3.3",
+              "concepto": "Paronimia léxica y acentual",
+              "pagina_pdf": 2,
+              "tarjetas": [
+                "programa27-l02-005",
+                "programa27-lenguaje-auditoria-l02-003"
+              ]
+            },
+            {
+              "referencia": "II.3.4",
+              "concepto": "Hiperonimia e hiponimia",
+              "pagina_pdf": 2,
+              "tarjetas": [
+                "programa27-l02-006"
+              ]
+            },
+            {
+              "referencia": "II.3.5",
+              "concepto": "Holonimia y meronimia",
+              "pagina_pdf": 2,
+              "tarjetas": [
+                "programa27-l02-007"
+              ]
+            },
+            {
+              "referencia": "II.3.6",
+              "concepto": "Ambigüedad léxica y sintáctica",
+              "pagina_pdf": 2,
+              "tarjetas": [
+                "programa27-l02-008",
+                "programa27-lenguaje-auditoria-l02-004"
+              ]
+            },
+            {
+              "referencia": "II.4",
+              "concepto": "Información literal, inferencia y conjeturas",
+              "pagina_pdf": 2,
+              "tarjetas": [
+                "programa27-l02-009",
+                "programa27-lenguaje-auditoria-l02-005"
+              ]
+            },
+            {
+              "referencia": "II.5.1",
+              "concepto": "Composición",
+              "pagina_pdf": 2,
+              "tarjetas": [
+                "programa27-l02-010"
+              ]
+            },
+            {
+              "referencia": "II.5.2",
+              "concepto": "Prefijación, sufijación y familia léxica",
+              "pagina_pdf": 2,
+              "tarjetas": [
+                "programa27-l02-011",
+                "programa27-lenguaje-auditoria-l02-006"
+              ]
+            },
+            {
+              "referencia": "II.5.3",
+              "concepto": "Parasíntesis",
+              "pagina_pdf": 2,
+              "tarjetas": [
+                "programa27-l02-012",
+                "programa27-lenguaje-auditoria-l02-007"
+              ]
+            }
+          ]
         },
         {
           "id": "L03",
           "titulo": "Comprensión lectora",
-          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 10,
+          "estado": "apartados finales cotejados visualmente y vinculados a tarjetas",
+          "tarjetas_nuevas": 19,
           "referencias": {
             "III.1": [
-              "programa27-l03-001"
+              "programa27-l03-001",
+              "programa27-lenguaje-auditoria-l03-001"
             ],
             "III.1.1": [
               "programa27-l03-002"
             ],
             "III.2": [
-              "programa27-l03-003"
+              "programa27-l03-003",
+              "programa27-lenguaje-auditoria-l03-002",
+              "programa27-lenguaje-auditoria-l03-003",
+              "programa27-lenguaje-auditoria-l03-004"
             ],
             "III.3.1": [
-              "programa27-l03-004"
+              "programa27-l03-004",
+              "programa27-lenguaje-auditoria-l03-005"
             ],
             "III.3.2": [
-              "programa27-l03-005"
+              "programa27-l03-005",
+              "programa27-lenguaje-auditoria-l03-009"
             ],
             "III.3.3": [
-              "programa27-l03-006"
+              "programa27-l03-006",
+              "programa27-lenguaje-auditoria-l03-006"
             ],
             "III.3.4": [
               "programa27-l03-007"
             ],
             "III.4.1": [
-              "programa27-l03-008"
+              "programa27-l03-008",
+              "programa27-lenguaje-auditoria-l03-007"
             ],
             "III.4.2": [
               "programa27-l03-009"
             ],
             "III.4.3": [
-              "programa27-l03-010"
+              "programa27-l03-010",
+              "programa27-lenguaje-auditoria-l03-008"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "referencia": "III.1.1",
+              "concepto": "Adecuación, coherencia y cohesión",
+              "pagina_pdf": 2,
+              "tarjetas": [
+                "programa27-l03-002"
+              ]
+            },
+            {
+              "referencia": "III.2",
+              "concepto": "Textos informativos, argumentativos, instruccionales e instrumentales",
+              "pagina_pdf": 2,
+              "tarjetas": [
+                "programa27-l03-003",
+                "programa27-lenguaje-auditoria-l03-002",
+                "programa27-lenguaje-auditoria-l03-003",
+                "programa27-lenguaje-auditoria-l03-004"
+              ]
+            },
+            {
+              "referencia": "III.3.1",
+              "concepto": "Conectores y marcadores discursivos",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l03-004",
+                "programa27-lenguaje-auditoria-l03-005"
+              ]
+            },
+            {
+              "referencia": "III.3.2",
+              "concepto": "Deixis personal, temporal y espacial",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l03-005",
+                "programa27-lenguaje-auditoria-l03-009"
+              ]
+            },
+            {
+              "referencia": "III.3.3",
+              "concepto": "Anáfora y catáfora",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l03-006",
+                "programa27-lenguaje-auditoria-l03-006"
+              ]
+            },
+            {
+              "referencia": "III.3.4",
+              "concepto": "Elipsis",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l03-007"
+              ]
+            },
+            {
+              "referencia": "III.4.1",
+              "concepto": "Tema, idea central e idea principal",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l03-008",
+                "programa27-lenguaje-auditoria-l03-007"
+              ]
+            },
+            {
+              "referencia": "III.4.2",
+              "concepto": "Ideas secundarias",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l03-009"
+              ]
+            },
+            {
+              "referencia": "III.4.3",
+              "concepto": "Secuencia y relación entre ideas",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l03-010",
+                "programa27-lenguaje-auditoria-l03-008"
+              ]
+            }
+          ]
         },
         {
           "id": "L04",
           "titulo": "Ortografía",
-          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 10,
+          "estado": "apartados finales cotejados visualmente y vinculados a tarjetas",
+          "tarjetas_nuevas": 34,
           "referencias": {
             "IV.1": [
-              "programa27-l04-001"
+              "programa27-l04-001",
+              "programa27-lenguaje-auditoria-l04-001"
             ],
             "IV.2": [
               "programa27-l04-002",
               "programa27-l04-003",
               "programa27-l04-004",
-              "programa27-l04-005"
+              "programa27-l04-005",
+              "programa27-lenguaje-auditoria-l04-002",
+              "programa27-lenguaje-auditoria-l04-003",
+              "programa27-lenguaje-auditoria-l04-004",
+              "programa27-lenguaje-auditoria-l04-005"
             ],
             "IV.3": [
               "programa27-l04-006",
-              "programa27-l04-007"
+              "programa27-l04-007",
+              "programa27-lenguaje-auditoria-l04-006",
+              "programa27-lenguaje-auditoria-l04-007",
+              "programa27-lenguaje-auditoria-l04-008",
+              "programa27-lenguaje-auditoria-l04-009",
+              "programa27-lenguaje-auditoria-l04-010",
+              "programa27-lenguaje-auditoria-l04-011",
+              "programa27-lenguaje-auditoria-l04-012",
+              "programa27-lenguaje-auditoria-l04-022"
             ],
             "IV.4": [
               "programa27-l04-008",
-              "programa27-l04-009"
+              "programa27-l04-009",
+              "programa27-lenguaje-auditoria-l04-013",
+              "programa27-lenguaje-auditoria-l04-014",
+              "programa27-lenguaje-auditoria-l04-015",
+              "programa27-lenguaje-auditoria-l04-016",
+              "programa27-lenguaje-auditoria-l04-017",
+              "programa27-lenguaje-auditoria-l04-018",
+              "programa27-lenguaje-auditoria-l04-023",
+              "programa27-lenguaje-auditoria-l04-024"
             ],
             "IV.5": [
-              "programa27-l04-010"
+              "programa27-l04-010",
+              "programa27-lenguaje-auditoria-l04-019",
+              "programa27-lenguaje-auditoria-l04-020",
+              "programa27-lenguaje-auditoria-l04-021"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "referencia": "IV.1",
+              "concepto": "Reglas generales de acentuación",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l04-001",
+                "programa27-lenguaje-auditoria-l04-001"
+              ]
+            },
+            {
+              "referencia": "IV.2",
+              "concepto": "Tilde diacrítica, interrogativos, diptongos, hiatos, compuestos y adverbios en -mente",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l04-002",
+                "programa27-l04-003",
+                "programa27-l04-004",
+                "programa27-l04-005",
+                "programa27-lenguaje-auditoria-l04-002",
+                "programa27-lenguaje-auditoria-l04-003",
+                "programa27-lenguaje-auditoria-l04-004",
+                "programa27-lenguaje-auditoria-l04-005"
+              ]
+            },
+            {
+              "referencia": "IV.3",
+              "concepto": "Grafías consonánticas y contrastes de uso",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l04-006",
+                "programa27-l04-007",
+                "programa27-lenguaje-auditoria-l04-006",
+                "programa27-lenguaje-auditoria-l04-007",
+                "programa27-lenguaje-auditoria-l04-008",
+                "programa27-lenguaje-auditoria-l04-009",
+                "programa27-lenguaje-auditoria-l04-010",
+                "programa27-lenguaje-auditoria-l04-011",
+                "programa27-lenguaje-auditoria-l04-012",
+                "programa27-lenguaje-auditoria-l04-022"
+              ]
+            },
+            {
+              "referencia": "IV.4",
+              "concepto": "Puntuación y signos auxiliares",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l04-008",
+                "programa27-l04-009",
+                "programa27-lenguaje-auditoria-l04-013",
+                "programa27-lenguaje-auditoria-l04-014",
+                "programa27-lenguaje-auditoria-l04-015",
+                "programa27-lenguaje-auditoria-l04-016",
+                "programa27-lenguaje-auditoria-l04-017",
+                "programa27-lenguaje-auditoria-l04-018",
+                "programa27-lenguaje-auditoria-l04-023",
+                "programa27-lenguaje-auditoria-l04-024"
+              ]
+            },
+            {
+              "referencia": "IV.5",
+              "concepto": "Abreviaturas, siglas, acrónimos y símbolos",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l04-010",
+                "programa27-lenguaje-auditoria-l04-019",
+                "programa27-lenguaje-auditoria-l04-020",
+                "programa27-lenguaje-auditoria-l04-021"
+              ]
+            }
+          ]
         },
         {
           "id": "L05",
           "titulo": "Morfosintaxis",
-          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 49,
+          "estado": "apartados finales cotejados visualmente y vinculados a tarjetas",
+          "tarjetas_nuevas": 87,
           "referencias": {
             "V.1.1": [
-              "programa27-l05-001"
+              "programa27-l05-001",
+              "programa27-lenguaje-auditoria-l05-001"
             ],
             "V.1.2": [
-              "programa27-l05-002"
+              "programa27-l05-002",
+              "programa27-lenguaje-auditoria-l05-002"
             ],
             "V.1.3": [
               "programa27-l05-003"
             ],
             "V.1.4": [
-              "programa27-l05-004"
+              "programa27-l05-004",
+              "programa27-lenguaje-auditoria-l05-003"
             ],
             "V.1.5": [
-              "programa27-l05-005"
+              "programa27-l05-005",
+              "programa27-lenguaje-auditoria-l05-036"
             ],
             "V.2.1": [
-              "programa27-l05-006"
+              "programa27-l05-006",
+              "programa27-lenguaje-auditoria-l05-004"
             ],
             "V.2.2": [
               "programa27-l05-007"
@@ -195,22 +589,28 @@
               "programa27-l05-008"
             ],
             "V.2.4": [
-              "programa27-l05-009"
+              "programa27-l05-009",
+              "programa27-lenguaje-auditoria-l05-005"
             ],
             "V.3.1": [
-              "programa27-l05-010"
+              "programa27-l05-010",
+              "programa27-lenguaje-auditoria-l05-006"
             ],
             "V.4.1": [
-              "programa27-l05-011"
+              "programa27-l05-011",
+              "programa27-lenguaje-auditoria-l05-007"
             ],
             "V.4.2": [
-              "programa27-l05-012"
+              "programa27-l05-012",
+              "programa27-lenguaje-auditoria-l05-008"
             ],
             "V.4.3": [
-              "programa27-l05-013"
+              "programa27-l05-013",
+              "programa27-lenguaje-auditoria-l05-009"
             ],
             "V.4.4": [
-              "programa27-l05-014"
+              "programa27-l05-014",
+              "programa27-lenguaje-auditoria-l05-010"
             ],
             "V.5.1": [
               "programa27-l05-015"
@@ -219,40 +619,51 @@
               "programa27-l05-016"
             ],
             "V.5.3": [
-              "programa27-l05-017"
+              "programa27-l05-017",
+              "programa27-lenguaje-auditoria-l05-011"
             ],
             "V.6.1": [
               "programa27-l05-018"
             ],
             "V.6.2": [
-              "programa27-l05-019"
+              "programa27-l05-019",
+              "programa27-lenguaje-auditoria-l05-012"
             ],
             "V.7.1": [
-              "programa27-l05-020"
+              "programa27-l05-020",
+              "programa27-lenguaje-auditoria-l05-013"
             ],
             "V.8.1": [
-              "programa27-l05-021"
+              "programa27-l05-021",
+              "programa27-lenguaje-auditoria-l05-014"
             ],
             "V.9.1": [
-              "programa27-l05-022"
+              "programa27-l05-022",
+              "programa27-lenguaje-auditoria-l05-015"
             ],
             "V.9.2": [
-              "programa27-l05-023"
+              "programa27-l05-023",
+              "programa27-lenguaje-auditoria-l05-016"
             ],
             "V.9.3": [
               "programa27-l05-024"
             ],
             "V.9.4": [
-              "programa27-l05-025"
+              "programa27-l05-025",
+              "programa27-lenguaje-auditoria-l05-017"
             ],
             "V.9.5": [
               "programa27-l05-026"
             ],
             "V.9.6.1": [
-              "programa27-l05-027"
+              "programa27-l05-027",
+              "programa27-lenguaje-auditoria-l05-020",
+              "programa27-lenguaje-auditoria-l05-021"
             ],
             "V.9.6.2": [
-              "programa27-l05-028"
+              "programa27-l05-028",
+              "programa27-lenguaje-auditoria-l05-022",
+              "programa27-lenguaje-auditoria-l05-023"
             ],
             "V.9.6.3": [
               "programa27-l05-029"
@@ -278,38 +689,458 @@
               "programa27-l05-035"
             ],
             "V.9.9.1": [
-              "programa27-l05-036"
+              "programa27-l05-036",
+              "programa27-lenguaje-auditoria-l05-024"
             ],
             "V.9.9.2": [
-              "programa27-l05-037"
+              "programa27-l05-037",
+              "programa27-lenguaje-auditoria-l05-025"
             ],
             "V.9.9.3": [
-              "programa27-l05-038"
+              "programa27-l05-038",
+              "programa27-lenguaje-auditoria-l05-026"
             ],
             "V.9.9.4": [
               "programa27-l05-039"
             ],
             "V.9.9.5": [
-              "programa27-l05-040"
+              "programa27-l05-040",
+              "programa27-lenguaje-auditoria-l05-027"
             ],
             "V.9.10.1": [
               "programa27-l05-041",
-              "programa27-l05-042"
+              "programa27-l05-042",
+              "programa27-lenguaje-auditoria-l05-028"
             ],
             "V.9.10.2": [
-              "programa27-l05-043"
+              "programa27-l05-043",
+              "programa27-lenguaje-auditoria-l05-029",
+              "programa27-lenguaje-auditoria-l05-030"
             ],
             "V.9.10.3": [
               "programa27-l05-044",
-              "programa27-l05-045"
+              "programa27-l05-045",
+              "programa27-lenguaje-auditoria-l05-031",
+              "programa27-lenguaje-auditoria-l05-032",
+              "programa27-lenguaje-auditoria-l05-037"
             ],
             "V.10": [
-              "programa27-l05-046"
+              "programa27-l05-046",
+              "programa27-lenguaje-auditoria-l05-033"
             ],
             "V.11": [
-              "programa27-l05-047"
+              "programa27-l05-047",
+              "programa27-lenguaje-auditoria-l05-034",
+              "programa27-lenguaje-auditoria-l05-035",
+              "programa27-lenguaje-auditoria-l05-038"
+            ],
+            "V.9.6": [
+              "programa27-lenguaje-auditoria-l05-018",
+              "programa27-lenguaje-auditoria-l05-019"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "referencia": "V.1.1",
+              "concepto": "Flexión de género y número",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l05-001",
+                "programa27-lenguaje-auditoria-l05-001"
+              ]
+            },
+            {
+              "referencia": "V.1.2",
+              "concepto": "Clases de sustantivos",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l05-002",
+                "programa27-lenguaje-auditoria-l05-002"
+              ]
+            },
+            {
+              "referencia": "V.1.3",
+              "concepto": "Locuciones nominales",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l05-003"
+              ]
+            },
+            {
+              "referencia": "V.1.4",
+              "concepto": "Funciones del grupo nominal",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l05-004",
+                "programa27-lenguaje-auditoria-l05-003"
+              ]
+            },
+            {
+              "referencia": "V.1.5",
+              "concepto": "Artículos y otros determinantes",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l05-005",
+                "programa27-lenguaje-auditoria-l05-036"
+              ]
+            },
+            {
+              "referencia": "V.2.1",
+              "concepto": "Grados del adjetivo y elativos léxicos y morfológicos",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l05-006",
+                "programa27-lenguaje-auditoria-l05-004"
+              ]
+            },
+            {
+              "referencia": "V.2.2",
+              "concepto": "Clases de adjetivos",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l05-007"
+              ]
+            },
+            {
+              "referencia": "V.2.3",
+              "concepto": "Locuciones adjetivas",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l05-008"
+              ]
+            },
+            {
+              "referencia": "V.2.4",
+              "concepto": "Concordancia nominal",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l05-009",
+                "programa27-lenguaje-auditoria-l05-005"
+              ]
+            },
+            {
+              "referencia": "V.3.1",
+              "concepto": "Clases de pronombres",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l05-010",
+                "programa27-lenguaje-auditoria-l05-006"
+              ]
+            },
+            {
+              "referencia": "V.4.1",
+              "concepto": "Persona, número, tiempo, modo y aspecto verbal",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l05-011",
+                "programa27-lenguaje-auditoria-l05-007"
+              ]
+            },
+            {
+              "referencia": "V.4.2",
+              "concepto": "Infinitivo, gerundio y participio",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l05-012",
+                "programa27-lenguaje-auditoria-l05-008"
+              ]
+            },
+            {
+              "referencia": "V.4.3",
+              "concepto": "Locuciones y perífrasis verbales",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l05-013",
+                "programa27-lenguaje-auditoria-l05-009"
+              ]
+            },
+            {
+              "referencia": "V.4.4",
+              "concepto": "Correlación de tiempos",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l05-014",
+                "programa27-lenguaje-auditoria-l05-010"
+              ]
+            },
+            {
+              "referencia": "V.5.1",
+              "concepto": "Clases de adverbios",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l05-015"
+              ]
+            },
+            {
+              "referencia": "V.5.2",
+              "concepto": "Locuciones adverbiales",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l05-016"
+              ]
+            },
+            {
+              "referencia": "V.5.3",
+              "concepto": "Adverbios locativos y de foco",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l05-017",
+                "programa27-lenguaje-auditoria-l05-011"
+              ]
+            },
+            {
+              "referencia": "V.6.1",
+              "concepto": "Locuciones preposicionales",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l05-018"
+              ]
+            },
+            {
+              "referencia": "V.6.2",
+              "concepto": "Usos de preposiciones y locuciones",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l05-019",
+                "programa27-lenguaje-auditoria-l05-012"
+              ]
+            },
+            {
+              "referencia": "V.7.1",
+              "concepto": "Conjunciones coordinantes y subordinantes",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l05-020",
+                "programa27-lenguaje-auditoria-l05-013"
+              ]
+            },
+            {
+              "referencia": "V.8.1",
+              "concepto": "Interjecciones propias e impropias y sus usos",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l05-021",
+                "programa27-lenguaje-auditoria-l05-014"
+              ]
+            },
+            {
+              "referencia": "V.9.1",
+              "concepto": "Sujeto y predicado",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l05-022",
+                "programa27-lenguaje-auditoria-l05-015"
+              ]
+            },
+            {
+              "referencia": "V.9.2",
+              "concepto": "Concordancia del verbo y el sujeto",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l05-023",
+                "programa27-lenguaje-auditoria-l05-016"
+              ]
+            },
+            {
+              "referencia": "V.9.3",
+              "concepto": "Oración simple, coordinación, yuxtaposición y subordinación",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l05-024"
+              ]
+            },
+            {
+              "referencia": "V.9.4",
+              "concepto": "Oraciones personales e impersonales",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l05-025",
+                "programa27-lenguaje-auditoria-l05-017"
+              ]
+            },
+            {
+              "referencia": "V.9.5",
+              "concepto": "Oraciones copulativas y predicativas",
+              "pagina_pdf": 3,
+              "tarjetas": [
+                "programa27-l05-026"
+              ]
+            },
+            {
+              "referencia": "V.9.6.1",
+              "concepto": "Complemento directo, clíticos y leísmo",
+              "pagina_pdf": 4,
+              "tarjetas": [
+                "programa27-l05-027",
+                "programa27-lenguaje-auditoria-l05-020",
+                "programa27-lenguaje-auditoria-l05-021"
+              ]
+            },
+            {
+              "referencia": "V.9.6.2",
+              "concepto": "Complemento indirecto, clíticos y alternancia le/se",
+              "pagina_pdf": 4,
+              "tarjetas": [
+                "programa27-l05-028",
+                "programa27-lenguaje-auditoria-l05-022",
+                "programa27-lenguaje-auditoria-l05-023"
+              ]
+            },
+            {
+              "referencia": "V.9.6.3",
+              "concepto": "Complemento de régimen preposicional",
+              "pagina_pdf": 4,
+              "tarjetas": [
+                "programa27-l05-029"
+              ]
+            },
+            {
+              "referencia": "V.9.6.4",
+              "concepto": "Circunstanciales y adjuntos",
+              "pagina_pdf": 4,
+              "tarjetas": [
+                "programa27-l05-030"
+              ]
+            },
+            {
+              "referencia": "V.9.6.5",
+              "concepto": "Complemento agente",
+              "pagina_pdf": 4,
+              "tarjetas": [
+                "programa27-l05-031"
+              ]
+            },
+            {
+              "referencia": "V.9.7.1",
+              "concepto": "Atributo con verbo copulativo",
+              "pagina_pdf": 4,
+              "tarjetas": [
+                "programa27-l05-032"
+              ]
+            },
+            {
+              "referencia": "V.9.7.2",
+              "concepto": "Verbos semicopulativos",
+              "pagina_pdf": 4,
+              "tarjetas": [
+                "programa27-l05-033"
+              ]
+            },
+            {
+              "referencia": "V.9.7.3",
+              "concepto": "Predicativos del sujeto, del directo, del indirecto y de régimen",
+              "pagina_pdf": 4,
+              "tarjetas": [
+                "programa27-l05-034",
+                "programa27-refuerzo-l05-001",
+                "programa27-refuerzo-l05-002"
+              ]
+            },
+            {
+              "referencia": "V.9.8",
+              "concepto": "Voz activa y pasiva",
+              "pagina_pdf": 4,
+              "tarjetas": [
+                "programa27-l05-035"
+              ]
+            },
+            {
+              "referencia": "V.9.9.1",
+              "concepto": "Construcciones reflexivas",
+              "pagina_pdf": 4,
+              "tarjetas": [
+                "programa27-l05-036",
+                "programa27-lenguaje-auditoria-l05-024"
+              ]
+            },
+            {
+              "referencia": "V.9.9.2",
+              "concepto": "Construcciones recíprocas",
+              "pagina_pdf": 4,
+              "tarjetas": [
+                "programa27-l05-037",
+                "programa27-lenguaje-auditoria-l05-025"
+              ]
+            },
+            {
+              "referencia": "V.9.9.3",
+              "concepto": "Construcciones medias",
+              "pagina_pdf": 4,
+              "tarjetas": [
+                "programa27-l05-038",
+                "programa27-lenguaje-auditoria-l05-026"
+              ]
+            },
+            {
+              "referencia": "V.9.9.4",
+              "concepto": "Pasivas reflejas",
+              "pagina_pdf": 4,
+              "tarjetas": [
+                "programa27-l05-039"
+              ]
+            },
+            {
+              "referencia": "V.9.9.5",
+              "concepto": "Impersonales con se",
+              "pagina_pdf": 4,
+              "tarjetas": [
+                "programa27-l05-040",
+                "programa27-lenguaje-auditoria-l05-027"
+              ]
+            },
+            {
+              "referencia": "V.9.10.1",
+              "concepto": "Clases de subordinadas sustantivas, queísmo y dequeísmo",
+              "pagina_pdf": 4,
+              "tarjetas": [
+                "programa27-l05-041",
+                "programa27-l05-042",
+                "programa27-lenguaje-auditoria-l05-028"
+              ]
+            },
+            {
+              "referencia": "V.9.10.2",
+              "concepto": "Clases de relativas, pronombres y adverbios relativos y función de los nexos",
+              "pagina_pdf": 4,
+              "tarjetas": [
+                "programa27-l05-043",
+                "programa27-lenguaje-auditoria-l05-029",
+                "programa27-lenguaje-auditoria-l05-030"
+              ]
+            },
+            {
+              "referencia": "V.9.10.3",
+              "concepto": "Causales, finales, concesivas, condicionales, ilativas, consecutivas y comparativas",
+              "pagina_pdf": 4,
+              "tarjetas": [
+                "programa27-l05-044",
+                "programa27-l05-045",
+                "programa27-lenguaje-auditoria-l05-031",
+                "programa27-lenguaje-auditoria-l05-032",
+                "programa27-lenguaje-auditoria-l05-037"
+              ]
+            },
+            {
+              "referencia": "V.10",
+              "concepto": "Foco y construcciones focalizadas",
+              "pagina_pdf": 4,
+              "tarjetas": [
+                "programa27-l05-046",
+                "programa27-lenguaje-auditoria-l05-033"
+              ]
+            },
+            {
+              "referencia": "V.11",
+              "concepto": "Vicios del lenguaje y precisión léxica",
+              "pagina_pdf": 4,
+              "tarjetas": [
+                "programa27-l05-047",
+                "programa27-lenguaje-auditoria-l05-034",
+                "programa27-lenguaje-auditoria-l05-035",
+                "programa27-lenguaje-auditoria-l05-038"
+              ]
+            }
+          ]
         }
       ]
     },
