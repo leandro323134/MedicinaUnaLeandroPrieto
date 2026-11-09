@@ -1,5 +1,18 @@
 # Medicina UNA 2027 · Cobertura del banco
 
+## Cobertura acumulada del programa 2027
+
+| Materia | Unidades | Apartados o grupos con mapa | Tarjetas del programa |
+|---|---:|---:|---:|
+| Lenguaje y Comunicación | 5 | 80 | 181 |
+| Química | 17 | 287 | 451 |
+| Biología | 15 | 119 | 213 |
+| Física | 10 | 66 | 185 |
+| Matemática | 10 | 69 | 186 |
+| **Total** | **57** | **621** | **1216** |
+
+El mapa distingue **502 apartados numerados** de Lenguaje, Química, Física y Matemática, y **119 grupos de conceptos** de Biología. Los 621 registros de la tabla suman esos dos criterios. A las 1216 tarjetas del programa se añaden 233 del banco anterior para un total de 1449 en la aplicación.
+
 ## Revisión de Matemática en la versión 0.3.5
 
 Se cotejaron visualmente las páginas 18 y 19 de la Resolución CD 0914-00-2026. Las 10 unidades contienen **69 apartados finales numerados**. El [mapa de cobertura](cobertura_programa_2027.json) registra el tema, página y tarjetas de cada uno. Se añadieron entradas propias a 1.6 (cuantificadores), 2.9 (aplicaciones aritméticas) y 3.5 (aplicaciones de medidas). El PDF enumera «Diferencia de cuadrados» en 5.1.3 y 5.1.4. Se mantuvieron ambas referencias con ejercicios distintos.
@@ -23,6 +36,12 @@ La app contiene **1449 tarjetas**, de las cuales 1216 pertenecen al banco del pr
 Con este cotejo se han revisado las páginas de contenido de las cinco materias y las 57 unidades tienen un mapa con tarjetas vinculadas. La presencia de tarjetas por apartado no certifica la profundidad de todos los temas compuestos. Siguen pendientes la comprobación individual de las fuentes heredadas y la instalación en un teléfono físico.
 
 Archivos modificados: `app/src/main/assets/programa_2027.json`, `cobertura_programa_2027.json`, `COBERTURA_2027.md`, `README.md`, `app/build.gradle.kts` y `app/src/test/java/py/una/medstudy/StudyRepositoryTest.kt`.
+
+### Verificación de la versión 0.3.5
+
+- Se validaron los 1449 IDs, el contenido de las 1364 tarjetas anteriores y los enlaces de los 69 apartados de Matemática. Se realizaron 82 comprobaciones numéricas, algebraicas y lógicas de las tarjetas añadidas.
+- La [compilación en GitHub Actions](https://github.com/leandro323134/MedicinaUnaLeandroPrieto/actions/runs/42563236772) terminó con 9 pruebas aprobadas, 0 fallos y 0 omitidas.
+- Los tres bancos del APK coinciden byte por byte con los del repositorio. Se verificó el identificador `py.una.medstudy`, la versión 0.3.5, el código 8 y la misma huella de certificado que en 0.3.4. La instalación en un teléfono físico sigue pendiente.
 
 ## Revisión de Física en la versión 0.3.4
 
