@@ -122,9 +122,12 @@ class StudyRepositoryTest {
             context.assets.open(name).bufferedReader().use { repository.importCards(it.readText(), true) }
         }
         val bundledCards = repository.dao.allCards()
-        assertEquals(1034, bundledCards.size)
+        assertEquals(1089, bundledCards.size)
         val programCards = bundledCards.filter { it.id.startsWith("programa27-") }
-        assertEquals(801, programCards.size)
+        assertEquals(856, programCards.size)
+        val additions = programCards.filter { it.id.startsWith("programa27-refuerzo-") }
+        assertEquals(mapOf("Biología" to 37, "Lenguaje" to 6, "Química" to 12),
+            additions.groupingBy { it.subject }.eachCount())
         assertEquals(setOf("Biología", "Física", "Lenguaje", "Matemática", "Química"),
             programCards.map { it.subject }.toSet())
         assertTrue(programCards.all { it.source.isNotBlank() && it.explanation.isNotBlank() })

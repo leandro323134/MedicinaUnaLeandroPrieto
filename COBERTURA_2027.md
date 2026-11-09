@@ -1,5 +1,30 @@
 # Medicina UNA 2027 · Cobertura del banco
 
+## Revisión de la versión 0.3.1
+
+Se cotejaron visualmente las páginas 13 a 16 de la resolución, que contienen las 15 unidades de Biología. Se compararon sus enunciados con las preguntas existentes y se añadieron tarjetas para conceptos ausentes o poco desarrollados. Se revisaron también los huecos de Lenguaje y Química que identificaba la versión previa. Esta revisión no certifica todavía la suficiencia de todas las explicaciones ni la cobertura de todas las subdivisiones del programa.
+
+| Materia | Incorporaciones en 0.3.1 | Tarjetas del banco 2027 acumuladas |
+|---|---:|---:|
+| Lenguaje y Comunicación | 6 | 98 |
+| Química | 12 | 338 |
+| Biología | 37 | 213 |
+| Física | 0 | 106 |
+| Matemática | 0 | 101 |
+| **Total** | **55** | **856** |
+
+Con las 233 tarjetas que preceden al banco 2027, la app contiene **1089 tarjetas**. Los IDs y el contenido de esas 1034 tarjetas previas se conservan. Los simulacros mantienen sus 206 preguntas y siete configuraciones.
+
+- **Lenguaje**. Se incorporaron monosemia, contraste entre sociolecto y registro, y predicativos del complemento indirecto y de régimen.
+- **Química**. Se incorporaron densidad y volumen molar, fórmulas molecular, empírica y estructural, y formulación y nomenclatura de ejemplos binarios, ternarios y cuaternarios. Queda ampliar la variedad de familias y auditar las subdivisiones de orgánica.
+- **Biología**. Los refuerzos se distribuyen por las 15 unidades, con tarjetas específicas sobre preparación de microscopía electrónica, confocal y FRAP, el potencial de reposo, F₀ y F₁, proteínas de unión a la actina, remodelación de matriz, tráfico lisosomal, organización nuclear, regulación del ARN, síntesis de translesión y etapas de división, entre otros temas.
+
+Las tarjetas nuevas citan secciones del Manual de la Nueva gramática y el DLE de RAE/ASALE, IUPAC, Royal Society of Chemistry, OpenStax y Molecular Biology of the Cell. Se encontraron pasajes académicos para los conceptos añadidos. Parte de la consulta de Alberts se hizo mediante extractos indexados, ya que algunas páginas directas devolvieron una comprobación de navegador. Queda por verificar la bibliografía previa tarjeta por tarjeta y auditar visualmente las demás materias de punta a punta.
+
+Archivos de esta revisión: banco `app/src/main/assets/programa_2027.json`, `cobertura_programa_2027.json`, `COBERTURA_2027.md`, `README.md`, `app/build.gradle.kts` y `app/src/test/java/py/una/medstudy/StudyRepositoryTest.kt`.
+
+## Punto de partida y pruebas de la versión 0.3.0
+
 La versión 0.3.0 incorpora 801 tarjetas nuevas en la aplicación existente. Conserva las 233 anteriores y su identidad. La carga inicial lee los tres archivos de tarjetas con el mismo mecanismo de importación y de actualización de contenido.
 
 | Materia | Bloques con tarjetas | Tarjetas nuevas |

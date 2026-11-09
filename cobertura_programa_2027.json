@@ -13,7 +13,7 @@
           "id": "L01",
           "titulo": "Lingüística de la comunicación",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 13,
+          "tarjetas_nuevas": 15,
           "referencias": {
             "I.1": [
               "programa27-l01-001"
@@ -43,7 +43,9 @@
               "programa27-l01-011"
             ],
             "I.7": [
-              "programa27-l01-012"
+              "programa27-l01-012",
+              "programa27-refuerzo-l01-001",
+              "programa27-refuerzo-l01-002"
             ],
             "I.8": [
               "programa27-l01-013"
@@ -54,7 +56,7 @@
           "id": "L02",
           "titulo": "Semántica",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 12,
+          "tarjetas_nuevas": 14,
           "referencias": {
             "II.1": [
               "programa27-l02-001"
@@ -63,7 +65,9 @@
               "programa27-l02-002"
             ],
             "II.3.1": [
-              "programa27-l02-003"
+              "programa27-l02-003",
+              "programa27-refuerzo-l02-001",
+              "programa27-refuerzo-l02-002"
             ],
             "II.3.2": [
               "programa27-l02-004"
@@ -164,7 +168,7 @@
           "id": "L05",
           "titulo": "Morfosintaxis",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 47,
+          "tarjetas_nuevas": 49,
           "referencias": {
             "V.1.1": [
               "programa27-l05-001"
@@ -266,7 +270,9 @@
               "programa27-l05-033"
             ],
             "V.9.7.3": [
-              "programa27-l05-034"
+              "programa27-l05-034",
+              "programa27-refuerzo-l05-001",
+              "programa27-refuerzo-l05-002"
             ],
             "V.9.8": [
               "programa27-l05-035"
@@ -359,7 +365,7 @@
           "id": "Q02",
           "titulo": "Estructura atómica y clasificación de los elementos",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 29,
+          "tarjetas_nuevas": 32,
           "referencias": {
             "2.1.2–2.1.3": [
               "programa27-quimica-atomos-lote01-001",
@@ -396,7 +402,10 @@
             "2.2.5": [
               "programa27-q02-007",
               "programa27-q02-008",
-              "programa27-q02-018"
+              "programa27-q02-018",
+              "programa27-refuerzo-q02-001",
+              "programa27-refuerzo-q02-002",
+              "programa27-refuerzo-q02-003"
             ],
             "2.1.2": [
               "programa27-q02-009"
@@ -423,10 +432,11 @@
           "id": "Q03",
           "titulo": "Notación y nomenclatura inorgánica",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 7,
+          "tarjetas_nuevas": 16,
           "referencias": {
             "3.1": [
-              "programa27-q03-001"
+              "programa27-q03-001",
+              "programa27-refuerzo-q03-001"
             ],
             "3.2": [
               "programa27-q03-002"
@@ -437,7 +447,15 @@
             "3.4": [
               "programa27-q03-004",
               "programa27-q03-005",
-              "programa27-q03-007"
+              "programa27-q03-007",
+              "programa27-refuerzo-q03-002",
+              "programa27-refuerzo-q03-003",
+              "programa27-refuerzo-q03-004",
+              "programa27-refuerzo-q03-005",
+              "programa27-refuerzo-q03-006",
+              "programa27-refuerzo-q03-007",
+              "programa27-refuerzo-q03-008",
+              "programa27-refuerzo-q03-009"
             ],
             "3.5": [
               "programa27-q03-006"
@@ -1373,7 +1391,7 @@
           "id": "B01",
           "titulo": "Célula y biología molecular",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 28,
+          "tarjetas_nuevas": 29,
           "referencias": {
             "Células y orgánulos": [
               "programa27-biologia-celula-lote02-001",
@@ -1412,6 +1430,9 @@
             ],
             "B01.4": [
               "programa27-b01-004"
+            ],
+            "B01.5": [
+              "programa27-refuerzo-b01-001"
             ]
           }
         },
@@ -1419,7 +1440,7 @@
           "id": "B02",
           "titulo": "Bases químicas de la vida",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 9,
+          "tarjetas_nuevas": 10,
           "referencias": {
             "B02.1": [
               "programa27-b02-001"
@@ -1447,6 +1468,9 @@
             ],
             "B02.9": [
               "programa27-b02-009"
+            ],
+            "B02.10": [
+              "programa27-refuerzo-b02-001"
             ]
           }
         },
@@ -1454,7 +1478,7 @@
           "id": "B03",
           "titulo": "Bioenergética, enzimas y metabolismo",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 22,
+          "tarjetas_nuevas": 24,
           "referencias": {
             "Enzimas y metabolismo": [
               "programa27-bio-enzimas-002",
@@ -1485,6 +1509,12 @@
             ],
             "B03.3": [
               "programa27-b03-003"
+            ],
+            "B03.4": [
+              "programa27-refuerzo-b03-001"
+            ],
+            "B03.5": [
+              "programa27-refuerzo-b03-002"
             ]
           }
         },
@@ -1492,7 +1522,7 @@
           "id": "B04",
           "titulo": "Técnicas de biología molecular y celular",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 20,
+          "tarjetas_nuevas": 23,
           "referencias": {
             "B04.1": [
               "programa27-b04-001"
@@ -1553,6 +1583,15 @@
             ],
             "B04.20": [
               "programa27-b04-020"
+            ],
+            "B04.21": [
+              "programa27-refuerzo-b04-001"
+            ],
+            "B04.22": [
+              "programa27-refuerzo-b04-002"
+            ],
+            "B04.23": [
+              "programa27-refuerzo-b04-003"
             ]
           }
         },
@@ -1560,7 +1599,7 @@
           "id": "B05",
           "titulo": "Membrana plasmática",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 10,
+          "tarjetas_nuevas": 12,
           "referencias": {
             "B05.1": [
               "programa27-b05-001"
@@ -1591,6 +1630,12 @@
             ],
             "B05.10": [
               "programa27-b05-010"
+            ],
+            "B05.11": [
+              "programa27-refuerzo-b05-001"
+            ],
+            "B05.12": [
+              "programa27-refuerzo-b05-002"
             ]
           }
         },
@@ -1598,7 +1643,7 @@
           "id": "B06",
           "titulo": "Mitocondrias y respiración aeróbica",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 7,
+          "tarjetas_nuevas": 10,
           "referencias": {
             "B06.1": [
               "programa27-b06-001"
@@ -1620,6 +1665,15 @@
             ],
             "B06.7": [
               "programa27-b06-007"
+            ],
+            "B06.8": [
+              "programa27-refuerzo-b06-001"
+            ],
+            "B06.9": [
+              "programa27-refuerzo-b06-002"
+            ],
+            "B06.10": [
+              "programa27-refuerzo-b06-003"
             ]
           }
         },
@@ -1627,7 +1681,7 @@
           "id": "B07",
           "titulo": "Citoesqueleto y motilidad",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 8,
+          "tarjetas_nuevas": 11,
           "referencias": {
             "B07.1": [
               "programa27-b07-001"
@@ -1652,6 +1706,15 @@
             ],
             "B07.8": [
               "programa27-b07-008"
+            ],
+            "B07.9": [
+              "programa27-refuerzo-b07-001"
+            ],
+            "B07.10": [
+              "programa27-refuerzo-b07-002"
+            ],
+            "B07.11": [
+              "programa27-refuerzo-b07-003"
             ]
           }
         },
@@ -1659,7 +1722,7 @@
           "id": "B08",
           "titulo": "Interacciones celulares y con el entorno",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 6,
+          "tarjetas_nuevas": 8,
           "referencias": {
             "B08.1": [
               "programa27-b08-001"
@@ -1678,6 +1741,12 @@
             ],
             "B08.6": [
               "programa27-b08-006"
+            ],
+            "B08.7": [
+              "programa27-refuerzo-b08-001"
+            ],
+            "B08.8": [
+              "programa27-refuerzo-b08-002"
             ]
           }
         },
@@ -1685,7 +1754,7 @@
           "id": "B09",
           "titulo": "Endomembranas y tráfico",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 11,
+          "tarjetas_nuevas": 14,
           "referencias": {
             "B09.1": [
               "programa27-b09-001"
@@ -1719,6 +1788,15 @@
             ],
             "B09.11": [
               "programa27-b09-011"
+            ],
+            "B09.12": [
+              "programa27-refuerzo-b09-001"
+            ],
+            "B09.13": [
+              "programa27-refuerzo-b09-002"
+            ],
+            "B09.14": [
+              "programa27-refuerzo-b09-003"
             ]
           }
         },
@@ -1726,7 +1804,7 @@
           "id": "B10",
           "titulo": "Gen y genoma",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 6,
+          "tarjetas_nuevas": 7,
           "referencias": {
             "B10.1": [
               "programa27-b10-001"
@@ -1745,6 +1823,9 @@
             ],
             "B10.6": [
               "programa27-b10-006"
+            ],
+            "B10.7": [
+              "programa27-refuerzo-b10-001"
             ]
           }
         },
@@ -1752,7 +1833,7 @@
           "id": "B11",
           "titulo": "Dogma central",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 10,
+          "tarjetas_nuevas": 12,
           "referencias": {
             "B11.1": [
               "programa27-b11-001"
@@ -1783,6 +1864,12 @@
             ],
             "B11.10": [
               "programa27-b11-010"
+            ],
+            "B11.11": [
+              "programa27-refuerzo-b11-001"
+            ],
+            "B11.12": [
+              "programa27-refuerzo-b11-002"
             ]
           }
         },
@@ -1790,7 +1877,7 @@
           "id": "B12",
           "titulo": "Control de la expresión genética",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 10,
+          "tarjetas_nuevas": 16,
           "referencias": {
             "B12.1": [
               "programa27-b12-001"
@@ -1821,6 +1908,24 @@
             ],
             "B12.10": [
               "programa27-b12-010"
+            ],
+            "B12.11": [
+              "programa27-refuerzo-b12-001"
+            ],
+            "B12.12": [
+              "programa27-refuerzo-b12-002"
+            ],
+            "B12.13": [
+              "programa27-refuerzo-b12-003"
+            ],
+            "B12.14": [
+              "programa27-refuerzo-b12-004"
+            ],
+            "B12.15": [
+              "programa27-refuerzo-b12-005"
+            ],
+            "B12.16": [
+              "programa27-refuerzo-b12-006"
             ]
           }
         },
@@ -1828,7 +1933,7 @@
           "id": "B13",
           "titulo": "Replicación y reparación de ADN",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 9,
+          "tarjetas_nuevas": 11,
           "referencias": {
             "B13.1": [
               "programa27-b13-001"
@@ -1856,6 +1961,12 @@
             ],
             "B13.9": [
               "programa27-b13-009"
+            ],
+            "B13.10": [
+              "programa27-refuerzo-b13-001"
+            ],
+            "B13.11": [
+              "programa27-refuerzo-b13-002"
             ]
           }
         },
@@ -1863,7 +1974,7 @@
           "id": "B14",
           "titulo": "División celular",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 6,
+          "tarjetas_nuevas": 11,
           "referencias": {
             "B14.1": [
               "programa27-b14-001"
@@ -1882,6 +1993,21 @@
             ],
             "B14.6": [
               "programa27-b14-006"
+            ],
+            "B14.7": [
+              "programa27-refuerzo-b14-001"
+            ],
+            "B14.8": [
+              "programa27-refuerzo-b14-002"
+            ],
+            "B14.9": [
+              "programa27-refuerzo-b14-003"
+            ],
+            "B14.10": [
+              "programa27-refuerzo-b14-004"
+            ],
+            "B14.11": [
+              "programa27-refuerzo-b14-005"
             ]
           }
         },
@@ -1889,7 +2015,7 @@
           "id": "B15",
           "titulo": "Señalización y transducción",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 14,
+          "tarjetas_nuevas": 15,
           "referencias": {
             "B15.1": [
               "programa27-b15-001"
@@ -1932,6 +2058,9 @@
             ],
             "B15.14": [
               "programa27-b15-014"
+            ],
+            "B15.15": [
+              "programa27-refuerzo-b15-001"
             ]
           }
         }
