@@ -1,7 +1,7 @@
 {
   "programa": "FCM UNA 2027, Resolución CD 0914",
   "sha256_pdf": "2bb40c32aa7f3bc3c0d5c82378257d3e65bd6665b1b8077e6454a441ec8110bc",
-  "nota": "Las referencias registran correspondencias con tarjetas. En Biología, conceptos_cotejados separa 119 grupos de contenido del PDF. El enlace acredita que se identificó material relacionado y no certifica profundidad académica ni verificación de cada fuente previa. En Lenguaje se cotejaron visualmente los 80 apartados finales, con páginas e IDs en conceptos_cotejados. En Química se cotejaron las páginas 5 a 13 y se registraron 287 apartados finales con páginas e IDs. En Física se cotejaron las páginas 16 y 17 y se registraron 66 apartados con sus tarjetas.",
+  "nota": "Las referencias registran correspondencias con tarjetas. En Biología, conceptos_cotejados separa 119 grupos de contenido del PDF. El enlace acredita que se identificó material relacionado y no certifica profundidad académica ni verificación de cada fuente previa. En Lenguaje se cotejaron visualmente los 80 apartados finales, con páginas e IDs en conceptos_cotejados. En Química se cotejaron las páginas 5 a 13 y se registraron 287 apartados finales con páginas e IDs. En Física se cotejaron las páginas 16 y 17 y se registraron 66 apartados con sus tarjetas. En Matemática se cotejaron las páginas 18 y 19 y se registraron 69 apartados con sus tarjetas.",
   "areas": {
     "Lenguaje y Comunicación": {
       "paginas": [
@@ -7134,8 +7134,8 @@
         {
           "id": "M01",
           "titulo": "Lógica proposicional",
-          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 24,
+          "estado": "apartados cotejados visualmente y vinculados a tarjetas",
+          "tarjetas_nuevas": 31,
           "referencias": {
             "1.1": [
               "programa27-mat-logica-001",
@@ -7143,311 +7143,1088 @@
               "programa27-mat-logica-003",
               "programa27-mat-logica-004",
               "programa27-mat-logica-005",
-              "programa27-mat-logica-006"
+              "programa27-mat-logica-006",
+              "programa27-matematica-auditoria-m01-001"
             ],
             "1.2": [
               "programa27-mat-logica-007",
               "programa27-mat-logica-008",
               "programa27-mat-logica-009",
               "programa27-mat-logica-010",
-              "programa27-mat-logica-011"
+              "programa27-mat-logica-011",
+              "programa27-matematica-auditoria-m01-002"
             ],
             "1.3": [
               "programa27-mat-logica-012",
               "programa27-mat-logica-013",
               "programa27-mat-logica-014",
               "programa27-mat-logica-015",
-              "programa27-mat-logica-016"
+              "programa27-mat-logica-016",
+              "programa27-matematica-auditoria-m01-003"
             ],
             "1.4": [
               "programa27-mat-logica-017",
               "programa27-mat-logica-018",
               "programa27-mat-logica-019",
-              "programa27-mat-logica-020"
+              "programa27-mat-logica-020",
+              "programa27-matematica-auditoria-m01-004"
             ],
             "1.5": [
               "programa27-mat-logica-021",
               "programa27-mat-logica-022",
               "programa27-mat-logica-023",
-              "programa27-mat-logica-024"
+              "programa27-mat-logica-024",
+              "programa27-matematica-auditoria-m01-005"
+            ],
+            "1.6": [
+              "programa27-matematica-auditoria-m01-006",
+              "programa27-matematica-auditoria-m01-007"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "referencia": "1.1",
+              "concepto": "Enunciados y conectivos lógicos",
+              "pagina_pdf": 18,
+              "tarjetas": [
+                "programa27-mat-logica-001",
+                "programa27-mat-logica-002",
+                "programa27-mat-logica-003",
+                "programa27-mat-logica-004",
+                "programa27-mat-logica-005",
+                "programa27-mat-logica-006",
+                "programa27-matematica-auditoria-m01-001"
+              ]
+            },
+            {
+              "referencia": "1.2",
+              "concepto": "Proposiciones, tablas de verdad y equivalencia",
+              "pagina_pdf": 18,
+              "tarjetas": [
+                "programa27-mat-logica-007",
+                "programa27-mat-logica-008",
+                "programa27-mat-logica-009",
+                "programa27-mat-logica-010",
+                "programa27-mat-logica-011",
+                "programa27-matematica-auditoria-m01-002"
+              ]
+            },
+            {
+              "referencia": "1.3",
+              "concepto": "Reglas de inferencia",
+              "pagina_pdf": 18,
+              "tarjetas": [
+                "programa27-mat-logica-012",
+                "programa27-mat-logica-013",
+                "programa27-mat-logica-014",
+                "programa27-mat-logica-015",
+                "programa27-mat-logica-016",
+                "programa27-matematica-auditoria-m01-003"
+              ]
+            },
+            {
+              "referencia": "1.4",
+              "concepto": "Álgebra de proposiciones",
+              "pagina_pdf": 18,
+              "tarjetas": [
+                "programa27-mat-logica-017",
+                "programa27-mat-logica-018",
+                "programa27-mat-logica-019",
+                "programa27-mat-logica-020",
+                "programa27-matematica-auditoria-m01-004"
+              ]
+            },
+            {
+              "referencia": "1.5",
+              "concepto": "Funciones lógicas y conjuntos de validez",
+              "pagina_pdf": 18,
+              "tarjetas": [
+                "programa27-mat-logica-021",
+                "programa27-matematica-auditoria-m01-005"
+              ]
+            },
+            {
+              "referencia": "1.6",
+              "concepto": "Cuantificadores universal y existencial y su negación",
+              "pagina_pdf": 18,
+              "tarjetas": [
+                "programa27-matematica-auditoria-m01-006",
+                "programa27-matematica-auditoria-m01-007"
+              ]
+            }
+          ]
         },
         {
           "id": "M02",
           "titulo": "Aritmética y proporcionalidad",
-          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 12,
+          "estado": "apartados cotejados visualmente y vinculados a tarjetas",
+          "tarjetas_nuevas": 23,
           "referencias": {
             "2.1": [
               "programa27-m02-001",
               "programa27-m02-002",
-              "programa27-m02-003"
+              "programa27-m02-003",
+              "programa27-matematica-auditoria-m02-001",
+              "programa27-matematica-auditoria-m02-002"
             ],
             "2.2": [
-              "programa27-m02-004"
+              "programa27-m02-004",
+              "programa27-matematica-auditoria-m02-003"
             ],
             "2.3": [
-              "programa27-m02-005"
+              "programa27-m02-005",
+              "programa27-matematica-auditoria-m02-004"
             ],
             "2.4": [
               "programa27-m02-006",
-              "programa27-m02-007"
+              "programa27-m02-007",
+              "programa27-matematica-auditoria-m02-005"
             ],
             "2.5": [
               "programa27-m02-008",
-              "programa27-m02-009"
+              "programa27-m02-009",
+              "programa27-matematica-auditoria-m02-006",
+              "programa27-matematica-auditoria-m02-011"
             ],
             "2.6": [
-              "programa27-m02-010"
+              "programa27-m02-010",
+              "programa27-matematica-auditoria-m02-007"
             ],
             "2.7": [
-              "programa27-m02-011"
+              "programa27-m02-011",
+              "programa27-matematica-auditoria-m02-008"
             ],
             "2.8": [
-              "programa27-m02-012"
+              "programa27-m02-012",
+              "programa27-matematica-auditoria-m02-009"
+            ],
+            "2.9": [
+              "programa27-matematica-auditoria-m02-010"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "referencia": "2.1",
+              "concepto": "Fracciones, decimales, MCD y MCM",
+              "pagina_pdf": 18,
+              "tarjetas": [
+                "programa27-m02-001",
+                "programa27-m02-002",
+                "programa27-m02-003",
+                "programa27-matematica-auditoria-m02-001",
+                "programa27-matematica-auditoria-m02-002"
+              ]
+            },
+            {
+              "referencia": "2.2",
+              "concepto": "Razones y proporciones",
+              "pagina_pdf": 18,
+              "tarjetas": [
+                "programa27-m02-004",
+                "programa27-matematica-auditoria-m02-003"
+              ]
+            },
+            {
+              "referencia": "2.3",
+              "concepto": "Proporcionalidad directa e inversa",
+              "pagina_pdf": 18,
+              "tarjetas": [
+                "programa27-m02-005",
+                "programa27-matematica-auditoria-m02-004"
+              ]
+            },
+            {
+              "referencia": "2.4",
+              "concepto": "Repartición proporcional",
+              "pagina_pdf": 18,
+              "tarjetas": [
+                "programa27-m02-006",
+                "programa27-m02-007",
+                "programa27-matematica-auditoria-m02-005"
+              ]
+            },
+            {
+              "referencia": "2.5",
+              "concepto": "Regla de tres simple y compuesta",
+              "pagina_pdf": 18,
+              "tarjetas": [
+                "programa27-m02-008",
+                "programa27-m02-009",
+                "programa27-matematica-auditoria-m02-006",
+                "programa27-matematica-auditoria-m02-011"
+              ]
+            },
+            {
+              "referencia": "2.6",
+              "concepto": "Porcentajes",
+              "pagina_pdf": 18,
+              "tarjetas": [
+                "programa27-m02-010",
+                "programa27-matematica-auditoria-m02-007"
+              ]
+            },
+            {
+              "referencia": "2.7",
+              "concepto": "Interés simple",
+              "pagina_pdf": 18,
+              "tarjetas": [
+                "programa27-m02-011",
+                "programa27-matematica-auditoria-m02-008"
+              ]
+            },
+            {
+              "referencia": "2.8",
+              "concepto": "Interés compuesto",
+              "pagina_pdf": 18,
+              "tarjetas": [
+                "programa27-m02-012",
+                "programa27-matematica-auditoria-m02-009"
+              ]
+            },
+            {
+              "referencia": "2.9",
+              "concepto": "Problemas de aplicación",
+              "pagina_pdf": 18,
+              "tarjetas": [
+                "programa27-matematica-auditoria-m02-010"
+              ]
+            }
+          ]
         },
         {
           "id": "M03",
           "titulo": "Sistema métrico decimal",
-          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 4,
+          "estado": "apartados cotejados visualmente y vinculados a tarjetas",
+          "tarjetas_nuevas": 9,
           "referencias": {
             "3.1": [
-              "programa27-m03-001"
+              "programa27-m03-001",
+              "programa27-matematica-auditoria-m03-001"
             ],
             "3.2": [
-              "programa27-m03-002"
+              "programa27-m03-002",
+              "programa27-matematica-auditoria-m03-002"
             ],
             "3.3": [
-              "programa27-m03-003"
+              "programa27-m03-003",
+              "programa27-matematica-auditoria-m03-003"
             ],
             "3.4": [
-              "programa27-m03-004"
+              "programa27-m03-004",
+              "programa27-matematica-auditoria-m03-004"
+            ],
+            "3.5": [
+              "programa27-matematica-auditoria-m03-005"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "referencia": "3.1",
+              "concepto": "Sistema métrico decimal",
+              "pagina_pdf": 18,
+              "tarjetas": [
+                "programa27-m03-001",
+                "programa27-matematica-auditoria-m03-001"
+              ]
+            },
+            {
+              "referencia": "3.2",
+              "concepto": "Longitud, superficie, volumen, masa y capacidad",
+              "pagina_pdf": 18,
+              "tarjetas": [
+                "programa27-m03-002",
+                "programa27-matematica-auditoria-m03-002"
+              ]
+            },
+            {
+              "referencia": "3.3",
+              "concepto": "Conversiones",
+              "pagina_pdf": 18,
+              "tarjetas": [
+                "programa27-m03-003",
+                "programa27-matematica-auditoria-m03-003"
+              ]
+            },
+            {
+              "referencia": "3.4",
+              "concepto": "Equivalencias entre volumen, masa y capacidad",
+              "pagina_pdf": 18,
+              "tarjetas": [
+                "programa27-m03-004",
+                "programa27-matematica-auditoria-m03-004"
+              ]
+            },
+            {
+              "referencia": "3.5",
+              "concepto": "Problemas de aplicación",
+              "pagina_pdf": 18,
+              "tarjetas": [
+                "programa27-matematica-auditoria-m03-005"
+              ]
+            }
+          ]
         },
         {
           "id": "M04",
           "titulo": "Expresiones algebraicas",
-          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 8,
+          "estado": "apartados cotejados visualmente y vinculados a tarjetas",
+          "tarjetas_nuevas": 17,
           "referencias": {
             "4.1": [
-              "programa27-m04-001"
+              "programa27-m04-001",
+              "programa27-matematica-auditoria-m04-001"
             ],
             "4.2": [
-              "programa27-m04-002"
+              "programa27-m04-002",
+              "programa27-matematica-auditoria-m04-002"
             ],
             "4.3": [
               "programa27-m04-003",
               "programa27-m04-004",
-              "programa27-m04-005"
+              "programa27-m04-005",
+              "programa27-matematica-auditoria-m04-003",
+              "programa27-matematica-auditoria-m04-004",
+              "programa27-matematica-auditoria-m04-005"
             ],
             "4.4": [
-              "programa27-m04-006"
+              "programa27-m04-006",
+              "programa27-matematica-auditoria-m04-006"
             ],
             "4.5": [
               "programa27-m04-007",
-              "programa27-m04-008"
+              "programa27-m04-008",
+              "programa27-matematica-auditoria-m04-007",
+              "programa27-matematica-auditoria-m04-009"
             ],
             "4.6": [
               "programa27-m04-003",
               "programa27-m04-004",
-              "programa27-m04-005"
+              "programa27-m04-005",
+              "programa27-matematica-auditoria-m04-008"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "referencia": "4.1",
+              "concepto": "Clasificación de expresiones",
+              "pagina_pdf": 18,
+              "tarjetas": [
+                "programa27-m04-001",
+                "programa27-matematica-auditoria-m04-001"
+              ]
+            },
+            {
+              "referencia": "4.2",
+              "concepto": "Reducción de términos semejantes",
+              "pagina_pdf": 18,
+              "tarjetas": [
+                "programa27-m04-002",
+                "programa27-matematica-auditoria-m04-002"
+              ]
+            },
+            {
+              "referencia": "4.3",
+              "concepto": "Operaciones con expresiones algebraicas",
+              "pagina_pdf": 18,
+              "tarjetas": [
+                "programa27-m04-003",
+                "programa27-m04-004",
+                "programa27-m04-005",
+                "programa27-matematica-auditoria-m04-003",
+                "programa27-matematica-auditoria-m04-004",
+                "programa27-matematica-auditoria-m04-005"
+              ]
+            },
+            {
+              "referencia": "4.4",
+              "concepto": "Signos de agrupación",
+              "pagina_pdf": 18,
+              "tarjetas": [
+                "programa27-m04-006",
+                "programa27-matematica-auditoria-m04-006"
+              ]
+            },
+            {
+              "referencia": "4.5",
+              "concepto": "Exponentes negativos, fraccionarios y nulos",
+              "pagina_pdf": 18,
+              "tarjetas": [
+                "programa27-m04-007",
+                "programa27-m04-008",
+                "programa27-matematica-auditoria-m04-007",
+                "programa27-matematica-auditoria-m04-009"
+              ]
+            },
+            {
+              "referencia": "4.6",
+              "concepto": "Ejercicios de aplicación",
+              "pagina_pdf": 18,
+              "tarjetas": [
+                "programa27-matematica-auditoria-m04-008"
+              ]
+            }
+          ]
         },
         {
           "id": "M05",
           "titulo": "Factorización y fracciones algebraicas",
-          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 15,
+          "estado": "apartados cotejados visualmente y vinculados a tarjetas",
+          "tarjetas_nuevas": 30,
           "referencias": {
             "5.1.1": [
-              "programa27-m05-001"
+              "programa27-m05-001",
+              "programa27-matematica-auditoria-m05-001"
             ],
             "5.1.2": [
-              "programa27-m05-002"
+              "programa27-m05-002",
+              "programa27-matematica-auditoria-m05-002"
             ],
             "5.1.3": [
-              "programa27-m05-003"
+              "programa27-m05-003",
+              "programa27-matematica-auditoria-m05-003"
             ],
             "5.1.4": [
-              "programa27-m05-004"
+              "programa27-m05-004",
+              "programa27-matematica-auditoria-m05-004"
             ],
             "5.1.5": [
-              "programa27-m05-005"
+              "programa27-m05-005",
+              "programa27-matematica-auditoria-m05-005"
             ],
             "5.1.6": [
-              "programa27-m05-006"
+              "programa27-m05-006",
+              "programa27-matematica-auditoria-m05-006"
             ],
             "5.1.7": [
-              "programa27-m05-007"
+              "programa27-m05-007",
+              "programa27-matematica-auditoria-m05-007"
             ],
             "5.1.8": [
-              "programa27-m05-008"
+              "programa27-m05-008",
+              "programa27-matematica-auditoria-m05-008"
             ],
             "5.1.9": [
-              "programa27-m05-009"
+              "programa27-m05-009",
+              "programa27-matematica-auditoria-m05-009"
             ],
             "5.1.10": [
-              "programa27-m05-010"
+              "programa27-m05-010",
+              "programa27-matematica-auditoria-m05-010"
             ],
             "5.2": [
-              "programa27-m05-011"
+              "programa27-m05-011",
+              "programa27-matematica-auditoria-m05-011"
             ],
             "5.3": [
               "programa27-m05-012",
-              "programa27-m05-013"
+              "programa27-m05-013",
+              "programa27-matematica-auditoria-m05-012",
+              "programa27-matematica-auditoria-m05-013"
             ],
             "5.4": [
-              "programa27-m05-014"
+              "programa27-m05-014",
+              "programa27-matematica-auditoria-m05-014"
             ],
             "5.5": [
-              "programa27-m05-015"
+              "programa27-m05-015",
+              "programa27-matematica-auditoria-m05-015"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "referencia": "5.1.1",
+              "concepto": "Factor común",
+              "pagina_pdf": 18,
+              "tarjetas": [
+                "programa27-m05-001",
+                "programa27-matematica-auditoria-m05-001"
+              ]
+            },
+            {
+              "referencia": "5.1.2",
+              "concepto": "Factor común por agrupación",
+              "pagina_pdf": 18,
+              "tarjetas": [
+                "programa27-m05-002",
+                "programa27-matematica-auditoria-m05-002"
+              ]
+            },
+            {
+              "referencia": "5.1.3",
+              "concepto": "Diferencia de cuadrados",
+              "pagina_pdf": 18,
+              "tarjetas": [
+                "programa27-m05-003",
+                "programa27-matematica-auditoria-m05-003"
+              ]
+            },
+            {
+              "referencia": "5.1.4",
+              "concepto": "Diferencia de cuadrados, segunda entrada del PDF",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m05-004",
+                "programa27-matematica-auditoria-m05-004"
+              ]
+            },
+            {
+              "referencia": "5.1.5",
+              "concepto": "Trinomio cuadrado perfecto",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m05-005",
+                "programa27-matematica-auditoria-m05-005"
+              ]
+            },
+            {
+              "referencia": "5.1.6",
+              "concepto": "Trinomio cuadrático mónico",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m05-006",
+                "programa27-matematica-auditoria-m05-006"
+              ]
+            },
+            {
+              "referencia": "5.1.7",
+              "concepto": "Trinomio cuadrático general",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m05-007",
+                "programa27-matematica-auditoria-m05-007"
+              ]
+            },
+            {
+              "referencia": "5.1.8",
+              "concepto": "Cuatrinomio cubo perfecto",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m05-008",
+                "programa27-matematica-auditoria-m05-008"
+              ]
+            },
+            {
+              "referencia": "5.1.9",
+              "concepto": "Método de evaluación",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m05-009",
+                "programa27-matematica-auditoria-m05-009"
+              ]
+            },
+            {
+              "referencia": "5.1.10",
+              "concepto": "Suma y diferencia de potencias impares iguales",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m05-010",
+                "programa27-matematica-auditoria-m05-010"
+              ]
+            },
+            {
+              "referencia": "5.2",
+              "concepto": "MCD y MCM de monomios y polinomios",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m05-011",
+                "programa27-matematica-auditoria-m05-011"
+              ]
+            },
+            {
+              "referencia": "5.3",
+              "concepto": "Operaciones con fracciones algebraicas",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m05-012",
+                "programa27-m05-013",
+                "programa27-matematica-auditoria-m05-012",
+                "programa27-matematica-auditoria-m05-013"
+              ]
+            },
+            {
+              "referencia": "5.4",
+              "concepto": "Fracciones complejas",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m05-014",
+                "programa27-matematica-auditoria-m05-014"
+              ]
+            },
+            {
+              "referencia": "5.5",
+              "concepto": "Ejercicios de aplicación",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m05-015",
+                "programa27-matematica-auditoria-m05-015"
+              ]
+            }
+          ]
         },
         {
           "id": "M06",
           "titulo": "Ecuaciones y sistemas lineales y con radicales",
-          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 7,
+          "estado": "apartados cotejados visualmente y vinculados a tarjetas",
+          "tarjetas_nuevas": 12,
           "referencias": {
             "6.1": [
-              "programa27-m06-001"
+              "programa27-m06-001",
+              "programa27-matematica-auditoria-m06-001"
             ],
             "6.2": [
               "programa27-m06-002",
               "programa27-m06-003",
-              "programa27-m06-004"
+              "programa27-m06-004",
+              "programa27-matematica-auditoria-m06-002",
+              "programa27-matematica-auditoria-m06-003"
             ],
             "6.3": [
               "programa27-m06-005",
-              "programa27-m06-006"
+              "programa27-m06-006",
+              "programa27-matematica-auditoria-m06-004"
             ],
             "6.4": [
-              "programa27-m06-007"
+              "programa27-m06-007",
+              "programa27-matematica-auditoria-m06-005"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "referencia": "6.1",
+              "concepto": "Ecuaciones lineales de una incógnita",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m06-001",
+                "programa27-matematica-auditoria-m06-001"
+              ]
+            },
+            {
+              "referencia": "6.2",
+              "concepto": "Sistemas lineales de dos y tres incógnitas",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m06-002",
+                "programa27-m06-003",
+                "programa27-m06-004",
+                "programa27-matematica-auditoria-m06-002",
+                "programa27-matematica-auditoria-m06-003"
+              ]
+            },
+            {
+              "referencia": "6.3",
+              "concepto": "Ecuaciones y sistemas con radicales",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m06-005",
+                "programa27-m06-006",
+                "programa27-matematica-auditoria-m06-004"
+              ]
+            },
+            {
+              "referencia": "6.4",
+              "concepto": "Problemas de aplicación",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m06-007",
+                "programa27-matematica-auditoria-m06-005"
+              ]
+            }
+          ]
         },
         {
           "id": "M07",
           "titulo": "Ecuaciones y sistemas cuadráticos",
-          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 5,
+          "estado": "apartados cotejados visualmente y vinculados a tarjetas",
+          "tarjetas_nuevas": 10,
           "referencias": {
             "7.1": [
               "programa27-m07-001",
-              "programa27-m07-002"
+              "programa27-m07-002",
+              "programa27-matematica-auditoria-m07-001"
             ],
             "7.2": [
-              "programa27-m07-003"
+              "programa27-m07-003",
+              "programa27-matematica-auditoria-m07-002",
+              "programa27-matematica-auditoria-m07-005"
             ],
             "7.3": [
-              "programa27-m07-004"
+              "programa27-m07-004",
+              "programa27-matematica-auditoria-m07-003"
             ],
             "7.4": [
-              "programa27-m07-005"
+              "programa27-m07-005",
+              "programa27-matematica-auditoria-m07-004"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "referencia": "7.1",
+              "concepto": "Ecuación de segundo grado",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m07-001",
+                "programa27-m07-002",
+                "programa27-matematica-auditoria-m07-001"
+              ]
+            },
+            {
+              "referencia": "7.2",
+              "concepto": "Sistemas cuadráticos",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m07-003",
+                "programa27-matematica-auditoria-m07-002",
+                "programa27-matematica-auditoria-m07-005"
+              ]
+            },
+            {
+              "referencia": "7.3",
+              "concepto": "Ecuaciones con radicales",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m07-004",
+                "programa27-matematica-auditoria-m07-003"
+              ]
+            },
+            {
+              "referencia": "7.4",
+              "concepto": "Problemas de aplicación",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m07-005",
+                "programa27-matematica-auditoria-m07-004"
+              ]
+            }
+          ]
         },
         {
           "id": "M08",
           "titulo": "Logaritmos y ecuaciones exponenciales",
-          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 6,
+          "estado": "apartados cotejados visualmente y vinculados a tarjetas",
+          "tarjetas_nuevas": 11,
           "referencias": {
             "8.1": [
               "programa27-m08-001",
-              "programa27-m08-002"
+              "programa27-m08-002",
+              "programa27-matematica-auditoria-m08-001"
             ],
             "8.2": [
               "programa27-m08-003",
-              "programa27-m08-004"
+              "programa27-m08-004",
+              "programa27-matematica-auditoria-m08-002"
             ],
             "8.3": [
               "programa27-m08-005",
-              "programa27-m08-006"
+              "programa27-m08-006",
+              "programa27-matematica-auditoria-m08-003",
+              "programa27-matematica-auditoria-m08-004"
             ],
             "8.4": [
               "programa27-m08-005",
-              "programa27-m08-006"
+              "programa27-m08-006",
+              "programa27-matematica-auditoria-m08-005"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "referencia": "8.1",
+              "concepto": "Definición y propiedades del logaritmo",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m08-001",
+                "programa27-m08-002",
+                "programa27-matematica-auditoria-m08-001"
+              ]
+            },
+            {
+              "referencia": "8.2",
+              "concepto": "Logaritmo decimal y otras bases",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m08-003",
+                "programa27-m08-004",
+                "programa27-matematica-auditoria-m08-002"
+              ]
+            },
+            {
+              "referencia": "8.3",
+              "concepto": "Ecuaciones exponenciales y logarítmicas",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m08-005",
+                "programa27-m08-006",
+                "programa27-matematica-auditoria-m08-003",
+                "programa27-matematica-auditoria-m08-004"
+              ]
+            },
+            {
+              "referencia": "8.4",
+              "concepto": "Ejercicios de aplicación",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-matematica-auditoria-m08-005"
+              ]
+            }
+          ]
         },
         {
           "id": "M09",
           "titulo": "Trigonometría",
-          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 10,
+          "estado": "apartados cotejados visualmente y vinculados a tarjetas",
+          "tarjetas_nuevas": 22,
           "referencias": {
             "9.1": [
-              "programa27-m09-001"
+              "programa27-m09-001",
+              "programa27-matematica-auditoria-m09-001",
+              "programa27-matematica-auditoria-m09-012"
             ],
             "9.2": [
-              "programa27-m09-002"
+              "programa27-m09-002",
+              "programa27-matematica-auditoria-m09-002"
             ],
             "9.3": [
               "programa27-m09-003",
-              "programa27-m09-004"
+              "programa27-m09-004",
+              "programa27-matematica-auditoria-m09-003",
+              "programa27-matematica-auditoria-m09-004"
             ],
             "9.4": [
-              "programa27-m09-005"
+              "programa27-m09-005",
+              "programa27-matematica-auditoria-m09-005"
             ],
             "9.5": [
-              "programa27-m09-006"
+              "programa27-m09-006",
+              "programa27-matematica-auditoria-m09-006"
             ],
             "9.6": [
-              "programa27-m09-007"
+              "programa27-m09-007",
+              "programa27-matematica-auditoria-m09-007",
+              "programa27-matematica-auditoria-m09-008"
             ],
             "9.7": [
-              "programa27-m09-008"
+              "programa27-m09-008",
+              "programa27-matematica-auditoria-m09-009"
             ],
             "9.8": [
               "programa27-m09-009",
-              "programa27-m09-010"
+              "programa27-m09-010",
+              "programa27-matematica-auditoria-m09-010",
+              "programa27-matematica-auditoria-m09-011"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "referencia": "9.1",
+              "concepto": "Definición de funciones trigonométricas",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m09-001",
+                "programa27-matematica-auditoria-m09-001",
+                "programa27-matematica-auditoria-m09-012"
+              ]
+            },
+            {
+              "referencia": "9.2",
+              "concepto": "Signos de las funciones",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m09-002",
+                "programa27-matematica-auditoria-m09-002"
+              ]
+            },
+            {
+              "referencia": "9.3",
+              "concepto": "Fórmulas fundamentales y derivadas",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m09-003",
+                "programa27-m09-004",
+                "programa27-matematica-auditoria-m09-003",
+                "programa27-matematica-auditoria-m09-004"
+              ]
+            },
+            {
+              "referencia": "9.4",
+              "concepto": "Valores exactos de 30°, 45° y 60°",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m09-005",
+                "programa27-matematica-auditoria-m09-005"
+              ]
+            },
+            {
+              "referencia": "9.5",
+              "concepto": "Reducción al primer cuadrante",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m09-006",
+                "programa27-matematica-auditoria-m09-006"
+              ]
+            },
+            {
+              "referencia": "9.6",
+              "concepto": "Transformaciones trigonométricas",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m09-007",
+                "programa27-matematica-auditoria-m09-007",
+                "programa27-matematica-auditoria-m09-008"
+              ]
+            },
+            {
+              "referencia": "9.7",
+              "concepto": "Triángulos rectángulos",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m09-008",
+                "programa27-matematica-auditoria-m09-009"
+              ]
+            },
+            {
+              "referencia": "9.8",
+              "concepto": "Triángulos oblicuángulos",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m09-009",
+                "programa27-m09-010",
+                "programa27-matematica-auditoria-m09-010",
+                "programa27-matematica-auditoria-m09-011"
+              ]
+            }
+          ]
         },
         {
           "id": "M10",
           "titulo": "Estadística, combinatoria y probabilidad",
-          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 10,
+          "estado": "apartados cotejados visualmente y vinculados a tarjetas",
+          "tarjetas_nuevas": 21,
           "referencias": {
             "10.1": [
-              "programa27-m10-001"
+              "programa27-m10-001",
+              "programa27-matematica-auditoria-m10-001"
             ],
             "10.2": [
-              "programa27-m10-002"
+              "programa27-m10-002",
+              "programa27-matematica-auditoria-m10-002"
             ],
             "10.3": [
-              "programa27-m10-003"
+              "programa27-m10-003",
+              "programa27-matematica-auditoria-m10-003"
             ],
             "10.4": [
-              "programa27-m10-004"
+              "programa27-m10-004",
+              "programa27-matematica-auditoria-m10-004"
             ],
             "10.5": [
               "programa27-m10-005",
-              "programa27-m10-006"
+              "programa27-m10-006",
+              "programa27-matematica-auditoria-m10-005"
             ],
             "10.6": [
-              "programa27-m10-007"
+              "programa27-m10-007",
+              "programa27-matematica-auditoria-m10-006",
+              "programa27-matematica-auditoria-m10-010"
             ],
             "10.7": [
-              "programa27-m10-008"
+              "programa27-m10-008",
+              "programa27-matematica-auditoria-m10-007"
             ],
             "10.8": [
-              "programa27-m10-009"
+              "programa27-m10-009",
+              "programa27-matematica-auditoria-m10-008",
+              "programa27-matematica-auditoria-m10-011"
             ],
             "10.9": [
-              "programa27-m10-010"
+              "programa27-m10-010",
+              "programa27-matematica-auditoria-m10-009"
             ]
-          }
+          },
+          "conceptos_cotejados": [
+            {
+              "referencia": "10.1",
+              "concepto": "Definición de estadística",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m10-001",
+                "programa27-matematica-auditoria-m10-001"
+              ]
+            },
+            {
+              "referencia": "10.2",
+              "concepto": "Distribución de frecuencias",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m10-002",
+                "programa27-matematica-auditoria-m10-002"
+              ]
+            },
+            {
+              "referencia": "10.3",
+              "concepto": "Representación gráfica",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m10-003",
+                "programa27-matematica-auditoria-m10-003"
+              ]
+            },
+            {
+              "referencia": "10.4",
+              "concepto": "Medidas de centralización",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m10-004",
+                "programa27-matematica-auditoria-m10-004"
+              ]
+            },
+            {
+              "referencia": "10.5",
+              "concepto": "Medidas de dispersión",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m10-005",
+                "programa27-m10-006",
+                "programa27-matematica-auditoria-m10-005"
+              ]
+            },
+            {
+              "referencia": "10.6",
+              "concepto": "Análisis combinatorio",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m10-007",
+                "programa27-matematica-auditoria-m10-006",
+                "programa27-matematica-auditoria-m10-010"
+              ]
+            },
+            {
+              "referencia": "10.7",
+              "concepto": "Probabilidades",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m10-008",
+                "programa27-matematica-auditoria-m10-007"
+              ]
+            },
+            {
+              "referencia": "10.8",
+              "concepto": "Probabilidad condicional",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m10-009",
+                "programa27-matematica-auditoria-m10-008",
+                "programa27-matematica-auditoria-m10-011"
+              ]
+            },
+            {
+              "referencia": "10.9",
+              "concepto": "Problemas de aplicación",
+              "pagina_pdf": 19,
+              "tarjetas": [
+                "programa27-m10-010",
+                "programa27-matematica-auditoria-m10-009"
+              ]
+            }
+          ]
         }
       ]
     }

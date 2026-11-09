@@ -122,9 +122,17 @@ class StudyRepositoryTest {
             context.assets.open(name).bufferedReader().use { repository.importCards(it.readText(), true) }
         }
         val bundledCards = repository.dao.allCards()
-        assertEquals(1364, bundledCards.size)
+        assertEquals(1449, bundledCards.size)
         val programCards = bundledCards.filter { it.id.startsWith("programa27-") }
-        assertEquals(1131, programCards.size)
+        assertEquals(1216, programCards.size)
+        val mathCards = programCards.filter { it.subject == "Matemática" }
+        val mathAudit = mathCards.filter { it.id.startsWith("programa27-matematica-auditoria-") }
+        assertEquals(186, mathCards.size)
+        assertEquals(85, mathAudit.size)
+        assertEquals(10, mathAudit.map { it.unit }.toSet().size)
+        assertTrue(mathAudit.any { it.topic == "Cuantificadores anidados" })
+        assertTrue(mathAudit.any { it.topic == "Porcentajes sucesivos" })
+        assertTrue(mathAudit.any { it.topic == "Capacidad de un recipiente" })
         val physicsCards = programCards.filter { it.subject == "Física" }
         val physicsAudit = physicsCards.filter { it.id.startsWith("programa27-fisica-auditoria-") }
         assertEquals(185, physicsCards.size)

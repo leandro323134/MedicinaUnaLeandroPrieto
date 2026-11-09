@@ -6,7 +6,7 @@ o posterior. Guarda el estudio localmente y funciona sin conexión.
 La versión 0.2.0 incorpora Inicio, Materias, Estudiar, Progreso y Ajustes;
 tarjetas con explicaciones y dificultad, repetición espaciada FSRS-5,
 simulacros cronometrados con corrección, estadísticas y temas de colores.
-La versión 0.3.4 incorpora 1131 tarjetas del programa de ingreso 2027 a las 233
+La versión 0.3.5 incorpora 1216 tarjetas del programa de ingreso 2027 a las 233
 anteriores. Incluye 206 preguntas de opción múltiple y 7 configuraciones de
 simulacro. Consulta el [informe de cobertura](COBERTURA_2027.md) para ver qué se
 comprobó y qué revisión académica queda pendiente.

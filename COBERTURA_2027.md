@@ -1,5 +1,29 @@
 # Medicina UNA 2027 · Cobertura del banco
 
+## Revisión de Matemática en la versión 0.3.5
+
+Se cotejaron visualmente las páginas 18 y 19 de la Resolución CD 0914-00-2026. Las 10 unidades contienen **69 apartados finales numerados**. El [mapa de cobertura](cobertura_programa_2027.json) registra el tema, página y tarjetas de cada uno. Se añadieron entradas propias a 1.6 (cuantificadores), 2.9 (aplicaciones aritméticas) y 3.5 (aplicaciones de medidas). El PDF enumera «Diferencia de cuadrados» en 5.1.3 y 5.1.4. Se mantuvieron ambas referencias con ejercicios distintos.
+
+| Unidad | Apartados | Añadidas | Total del programa |
+|---|---:|---:|---:|
+| 1. Lógica proposicional | 6 | 7 | 31 |
+| 2. Aritmética y proporcionalidad | 9 | 11 | 23 |
+| 3. Sistema métrico decimal | 5 | 5 | 9 |
+| 4. Expresiones algebraicas | 6 | 9 | 17 |
+| 5. Factorización y fracciones algebraicas | 14 | 15 | 30 |
+| 6. Ecuaciones y sistemas lineales y con radicales | 4 | 5 | 12 |
+| 7. Ecuaciones y sistemas cuadráticos | 4 | 5 | 10 |
+| 8. Logaritmos y ecuaciones exponenciales | 4 | 5 | 11 |
+| 9. Trigonometría | 8 | 12 | 22 |
+| 10. Estadística, combinatoria y probabilidad | 9 | 11 | 21 |
+| **Total** | **69** | **85** | **186** |
+
+La app contiene **1449 tarjetas**, de las cuales 1216 pertenecen al banco del programa. Las 1364 anteriores conservan sus campos e IDs. Cada apartado de Matemática tiene al menos un ejercicio o contraste nuevo. Los refuerzos incluyen restricciones de dominio, verificación de raíces extrañas, sistemas de tres incógnitas, interés, medidas, el caso ambiguo de la ley de senos y probabilidad condicional. Las tarjetas citan secciones de OpenStax o el Sistema Internacional del BIPM.
+
+Con este cotejo se han revisado las páginas de contenido de las cinco materias y las 57 unidades tienen un mapa con tarjetas vinculadas. La presencia de tarjetas por apartado no certifica la profundidad de todos los temas compuestos. Siguen pendientes la comprobación individual de las fuentes heredadas y la instalación en un teléfono físico.
+
+Archivos modificados: `app/src/main/assets/programa_2027.json`, `cobertura_programa_2027.json`, `COBERTURA_2027.md`, `README.md`, `app/build.gradle.kts` y `app/src/test/java/py/una/medstudy/StudyRepositoryTest.kt`.
+
 ## Revisión de Física en la versión 0.3.4
 
 Se cotejaron visualmente las páginas 16 y 17 de la Resolución CD 0914-00-2026. Las 10 unidades tienen **66 apartados numerados**, frente a los 57 detectados en el recuento histórico del OCR. Las 106 tarjetas previas ya representaban los 66 apartados. Se incorporó al menos una tarjeta de aplicación o contraste por apartado, y el [mapa de cobertura](cobertura_programa_2027.json) registra el tema, la página y los IDs.
