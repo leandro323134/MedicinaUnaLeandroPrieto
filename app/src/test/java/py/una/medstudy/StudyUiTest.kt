@@ -17,6 +17,7 @@ class StudyUiTest {
     @Test fun navigationThemeAndReviewEntryPointsWork() {
         val model = ViewModelProvider(compose.activity)[StudyModel::class.java]
         compose.waitUntil(20000) { !model.loading && model.cards.value.any { it.id.startsWith("programa27-") } }
+        org.junit.Assert.assertEquals(model.notice, 261, model.bank.size)
         compose.onNodeWithText("Ajustes").performClick()
         compose.onNodeWithText("Colores · Verde bosque").performClick()
         compose.onNodeWithText("Azul océano").performClick()
@@ -34,8 +35,6 @@ class StudyUiTest {
     }
 
     @Test fun homeOpensErrorPracticeAndExposesEditableGoal() {
-        val model = ViewModelProvider(compose.activity)[StudyModel::class.java]
-        compose.waitUntil(20000) { !model.loading && model.bank.isNotEmpty() }
         compose.onNode(hasScrollToIndexAction()).performScrollToNode(hasText("Ajustar meta diaria", substring = true))
         compose.onNodeWithText("Ajustar meta diaria", substring = true).assertExists()
         compose.onNode(hasScrollToIndexAction()).performScrollToNode(hasText("Repasar errores"))

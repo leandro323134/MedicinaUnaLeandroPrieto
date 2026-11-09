@@ -269,7 +269,9 @@ fun StudyApp(model: StudyModel = viewModel()) {
                         when (mode) {
                             "Simulacros" -> item { ExamScreen(model, selectedExam, { selectedExam = it }, now) { openErrors(it) } }
                             "Errores" -> item {
-                                ErrorReviewScreen(model, errorRun, errorSubject, errorTopic)
+                                key(errorRun, errorSubject, errorTopic) {
+                                    ErrorReviewScreen(model, errorRun, errorSubject, errorTopic)
+                                }
                             }
                             "Guía" -> {
                                 items(model.guide.split("\n").filter { it.isNotBlank() }) { line ->

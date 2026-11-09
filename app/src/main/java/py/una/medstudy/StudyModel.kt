@@ -45,7 +45,6 @@ class StudyModel(app: Application) : AndroidViewModel(app) {
                     }
                     val bank = loadQuestionBank(app)
                     val loadedExams = loadExams(app, bank)
-                    repository.expireExams(System.currentTimeMillis())
                     val loadedGuide = app.assets.open("guia.md").bufferedReader().use { it.readText() }
                     Triple(loadedExams, loadedGuide, bank)
                 }
