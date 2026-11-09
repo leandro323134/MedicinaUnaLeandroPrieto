@@ -6,9 +6,10 @@ o posterior. Guarda el estudio localmente y funciona sin conexión.
 La versión 0.2.0 incorpora Inicio, Materias, Estudiar, Progreso y Ajustes;
 tarjetas con explicaciones y dificultad, repetición espaciada FSRS-5,
 simulacros cronometrados con corrección, estadísticas y temas de colores.
-Incluye 233 tarjetas (27 iniciales y 206 añadidas), 206 preguntas de opción
-múltiple y 7 configuraciones de simulacro. El material no representa todavía
-la extracción exhaustiva de todos los documentos del cursillo ni un examen oficial.
+La versión 0.3.0 añade 801 tarjetas del programa de ingreso 2027 a las 233
+anteriores. Incluye 206 preguntas de opción múltiple y 7 configuraciones de
+simulacro. Consulta el [informe de cobertura](COBERTURA_2027.md) para ver qué se
+comprobó y qué revisión académica queda pendiente.
 
 Se pueden importar paquetes JSON y exportar/restaurar el progreso desde Ajustes.
 Los identificadores estables de tarjetas permiten evitar duplicados. La migración

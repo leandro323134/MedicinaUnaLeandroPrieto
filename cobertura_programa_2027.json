@@ -317,10 +317,11 @@
           "id": "Q01",
           "titulo": "Materia y energía",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 9,
+          "tarjetas_nuevas": 12,
           "referencias": {
             "1.1.1.1": [
-              "programa27-q01-001"
+              "programa27-q01-001",
+              "programa27-q01-011"
             ],
             "1.1.1.2": [
               "programa27-q01-002"
@@ -345,6 +346,12 @@
             ],
             "1.5.3": [
               "programa27-q01-009"
+            ],
+            "1.1": [
+              "programa27-q01-010"
+            ],
+            "1.1.2": [
+              "programa27-q01-012"
             ]
           }
         },
@@ -352,7 +359,7 @@
           "id": "Q02",
           "titulo": "Estructura atómica y clasificación de los elementos",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 25,
+          "tarjetas_nuevas": 29,
           "referencias": {
             "2.1.2–2.1.3": [
               "programa27-quimica-atomos-lote01-001",
@@ -368,30 +375,35 @@
               "programa27-quimica-atomos-lote01-012"
             ],
             "2.1.1": [
-              "programa27-q02-001"
+              "programa27-q02-001",
+              "programa27-q02-015"
             ],
             "2.1.4.1": [
-              "programa27-q02-002"
+              "programa27-q02-002",
+              "programa27-q02-016"
             ],
             "2.1.4.2": [
               "programa27-q02-003"
             ],
             "2.1.5": [
               "programa27-q02-004",
-              "programa27-q02-005"
+              "programa27-q02-005",
+              "programa27-q02-017"
             ],
             "2.2.1": [
               "programa27-q02-006"
             ],
             "2.2.5": [
               "programa27-q02-007",
-              "programa27-q02-008"
+              "programa27-q02-008",
+              "programa27-q02-018"
             ],
             "2.1.2": [
               "programa27-q02-009"
             ],
             "2.1.3": [
-              "programa27-q02-010"
+              "programa27-q02-010",
+              "b1-quimica-unidad-2-estructura-atomica-y-tabla-periodica-isotopos-001"
             ],
             "2.1.6": [
               "programa27-q02-011"
@@ -411,7 +423,7 @@
           "id": "Q03",
           "titulo": "Notación y nomenclatura inorgánica",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 6,
+          "tarjetas_nuevas": 7,
           "referencias": {
             "3.1": [
               "programa27-q03-001"
@@ -424,7 +436,8 @@
             ],
             "3.4": [
               "programa27-q03-004",
-              "programa27-q03-005"
+              "programa27-q03-005",
+              "programa27-q03-007"
             ],
             "3.5": [
               "programa27-q03-006"
@@ -435,7 +448,7 @@
           "id": "Q04",
           "titulo": "Enlaces e interacciones intermoleculares",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 13,
+          "tarjetas_nuevas": 15,
           "referencias": {
             "4.1": [
               "programa27-q04-001"
@@ -459,7 +472,8 @@
               "programa27-q04-007"
             ],
             "4.10": [
-              "programa27-q04-008"
+              "programa27-q04-008",
+              "programa27-q04-015"
             ],
             "4.11": [
               "programa27-q04-009"
@@ -468,7 +482,8 @@
               "programa27-q04-010"
             ],
             "4.13": [
-              "programa27-q04-011"
+              "programa27-q04-011",
+              "programa27-q04-014"
             ],
             "4.2": [
               "programa27-q04-012"
@@ -520,10 +535,11 @@
           "id": "Q06",
           "titulo": "Estados de agregación",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 18,
+          "tarjetas_nuevas": 20,
           "referencias": {
             "6.1.3": [
-              "programa27-q06-001"
+              "programa27-q06-001",
+              "programa27-q06-020"
             ],
             "6.1.4": [
               "programa27-q06-002"
@@ -575,6 +591,10 @@
             ],
             "6.3.1": [
               "programa27-q06-019"
+            ],
+            "6.4.2": [
+              "programa27-q06-021",
+              "b1-quimica-unidad-6-estados-de-agregacion-cambios-de-estado-001"
             ]
           }
         },
@@ -623,10 +643,11 @@
           "id": "Q08",
           "titulo": "Funciones de la química inorgánica",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 15,
+          "tarjetas_nuevas": 17,
           "referencias": {
             "8.2.1": [
-              "programa27-q08-001"
+              "programa27-q08-001",
+              "programa27-q08-016"
             ],
             "8.2.2": [
               "programa27-q08-002"
@@ -669,6 +690,9 @@
             ],
             "8.1": [
               "programa27-q08-015"
+            ],
+            "8.3": [
+              "programa27-q08-017"
             ]
           }
         },
@@ -888,7 +912,7 @@
           "id": "Q13",
           "titulo": "Compuestos y reacciones orgánicas",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 32,
+          "tarjetas_nuevas": 33,
           "referencias": {
             "13.1.2": [
               "programa27-q13-001"
@@ -918,7 +942,8 @@
               "programa27-q13-009"
             ],
             "13.6.2.1.2": [
-              "programa27-q13-010"
+              "programa27-q13-010",
+              "programa27-q13-033"
             ],
             "13.6.2.2.1": [
               "programa27-q13-011"
@@ -992,7 +1017,7 @@
           "id": "Q14",
           "titulo": "Hidrocarburos y heterociclos",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 21,
+          "tarjetas_nuevas": 23,
           "referencias": {
             "14.1.1": [
               "programa27-q14-001"
@@ -1016,7 +1041,8 @@
               "programa27-q14-007"
             ],
             "14.2.3": [
-              "programa27-q14-008"
+              "programa27-q14-008",
+              "programa27-q14-022"
             ],
             "14.2.4.1": [
               "programa27-q14-009"
@@ -1034,7 +1060,8 @@
               "programa27-q14-013"
             ],
             "14.3.2": [
-              "programa27-q14-014"
+              "programa27-q14-014",
+              "programa27-q14-023"
             ],
             "14.3.3": [
               "programa27-q14-015"
@@ -1063,7 +1090,7 @@
           "id": "Q15",
           "titulo": "Funciones orgánicas con enlaces simples",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 19,
+          "tarjetas_nuevas": 22,
           "referencias": {
             "15.1.1": [
               "programa27-q15-001"
@@ -1072,7 +1099,8 @@
               "programa27-q15-002"
             ],
             "15.1.3": [
-              "programa27-q15-003"
+              "programa27-q15-003",
+              "programa27-q15-020"
             ],
             "15.1.4": [
               "programa27-q15-004"
@@ -1081,7 +1109,8 @@
               "programa27-q15-005"
             ],
             "15.2.2": [
-              "programa27-q15-006"
+              "programa27-q15-006",
+              "programa27-q15-021"
             ],
             "15.2.3": [
               "programa27-q15-007"
@@ -1121,6 +1150,9 @@
             ],
             "15.6": [
               "programa27-q15-019"
+            ],
+            "15.4.2": [
+              "programa27-q15-022"
             ]
           }
         },
@@ -1128,7 +1160,7 @@
           "id": "Q16",
           "titulo": "Funciones orgánicas con enlaces múltiples",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 41,
+          "tarjetas_nuevas": 43,
           "referencias": {
             "16.1.1": [
               "programa27-q16-001"
@@ -1140,7 +1172,8 @@
               "programa27-q16-003"
             ],
             "16.1.4.3": [
-              "programa27-q16-004"
+              "programa27-q16-004",
+              "programa27-q16-042"
             ],
             "16.1.4.4": [
               "programa27-q16-005"
@@ -1203,7 +1236,8 @@
               "programa27-q16-024"
             ],
             "16.4.1.4": [
-              "programa27-q16-025"
+              "programa27-q16-025",
+              "programa27-q16-043"
             ],
             "16.4.1.5": [
               "programa27-q16-026"
@@ -1259,7 +1293,7 @@
           "id": "Q17",
           "titulo": "Biomoléculas",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 21,
+          "tarjetas_nuevas": 22,
           "referencias": {
             "17.1.1": [
               "programa27-q17-001"
@@ -1298,7 +1332,8 @@
               "programa27-q17-012"
             ],
             "17.2.2.6": [
-              "programa27-q17-013"
+              "programa27-q17-013",
+              "programa27-q17-022"
             ],
             "17.2.3": [
               "programa27-q17-014"
@@ -2238,7 +2273,7 @@
           "id": "M01",
           "titulo": "Lógica proposicional",
           "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
-          "tarjetas_nuevas": 23,
+          "tarjetas_nuevas": 24,
           "referencias": {
             "1.1": [
               "programa27-mat-logica-001",
@@ -2264,6 +2299,7 @@
             ],
             "1.4": [
               "programa27-mat-logica-017",
+              "programa27-mat-logica-018",
               "programa27-mat-logica-019",
               "programa27-mat-logica-020"
             ],
@@ -2354,6 +2390,11 @@
             "4.5": [
               "programa27-m04-007",
               "programa27-m04-008"
+            ],
+            "4.6": [
+              "programa27-m04-003",
+              "programa27-m04-004",
+              "programa27-m04-005"
             ]
           }
         },
@@ -2469,6 +2510,10 @@
             "8.3": [
               "programa27-m08-005",
               "programa27-m08-006"
+            ],
+            "8.4": [
+              "programa27-m08-005",
+              "programa27-m08-006"
             ]
           }
         },
@@ -2545,20 +2590,17 @@
       ]
     }
   },
-  "tarjetas_nuevas": 777,
+  "tarjetas_nuevas": 801,
   "tarjetas_originales": 233,
   "duplicados_excluidos": [
     {
       "excluida": "programa27-quimica-atomos-lote01-004",
-      "motivo": "Definición de isótopo ya existente"
+      "motivo": "Definición de isótopo ya existente",
+      "conservada": "b1-quimica-unidad-2-estructura-atomica-y-tabla-periodica-isotopos-001"
     },
     {
       "excluida": "programa27-bio-enzimas-001",
       "conservada": "bio-0016"
-    },
-    {
-      "excluida": "programa27-mat-logica-018",
-      "conservada": "programa27-mat-logica-017"
     },
     {
       "excluida": "programa27-q06-012",
