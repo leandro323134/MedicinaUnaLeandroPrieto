@@ -1,0 +1,2568 @@
+{
+  "programa": "FCM UNA 2027, Resolución CD 0914",
+  "sha256_pdf": "2bb40c32aa7f3bc3c0d5c82378257d3e65bd6665b1b8077e6454a441ec8110bc",
+  "nota": "El recuento prueba presencia de tarjetas por unidad, no la suficiencia de cada subtema. Las claves B son internas porque Biología enumera contenidos en párrafos.",
+  "areas": {
+    "Lenguaje y Comunicación": {
+      "paginas": [
+        2,
+        4
+      ],
+      "unidades": [
+        {
+          "id": "L01",
+          "titulo": "Lingüística de la comunicación",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 13,
+          "referencias": {
+            "I.1": [
+              "programa27-l01-001"
+            ],
+            "I.2": [
+              "programa27-l01-002",
+              "programa27-l01-003"
+            ],
+            "I.3": [
+              "programa27-l01-004"
+            ],
+            "I.3.1": [
+              "programa27-l01-005"
+            ],
+            "I.3.2": [
+              "programa27-l01-006"
+            ],
+            "I.4": [
+              "programa27-l01-007",
+              "programa27-l01-008"
+            ],
+            "I.5": [
+              "programa27-l01-009"
+            ],
+            "I.6": [
+              "programa27-l01-010",
+              "programa27-l01-011"
+            ],
+            "I.7": [
+              "programa27-l01-012"
+            ],
+            "I.8": [
+              "programa27-l01-013"
+            ]
+          }
+        },
+        {
+          "id": "L02",
+          "titulo": "Semántica",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 12,
+          "referencias": {
+            "II.1": [
+              "programa27-l02-001"
+            ],
+            "II.2": [
+              "programa27-l02-002"
+            ],
+            "II.3.1": [
+              "programa27-l02-003"
+            ],
+            "II.3.2": [
+              "programa27-l02-004"
+            ],
+            "II.3.3": [
+              "programa27-l02-005"
+            ],
+            "II.3.4": [
+              "programa27-l02-006"
+            ],
+            "II.3.5": [
+              "programa27-l02-007"
+            ],
+            "II.3.6": [
+              "programa27-l02-008"
+            ],
+            "II.4": [
+              "programa27-l02-009"
+            ],
+            "II.5.1": [
+              "programa27-l02-010"
+            ],
+            "II.5.2": [
+              "programa27-l02-011"
+            ],
+            "II.5.3": [
+              "programa27-l02-012"
+            ]
+          }
+        },
+        {
+          "id": "L03",
+          "titulo": "Comprensión lectora",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 10,
+          "referencias": {
+            "III.1": [
+              "programa27-l03-001"
+            ],
+            "III.1.1": [
+              "programa27-l03-002"
+            ],
+            "III.2": [
+              "programa27-l03-003"
+            ],
+            "III.3.1": [
+              "programa27-l03-004"
+            ],
+            "III.3.2": [
+              "programa27-l03-005"
+            ],
+            "III.3.3": [
+              "programa27-l03-006"
+            ],
+            "III.3.4": [
+              "programa27-l03-007"
+            ],
+            "III.4.1": [
+              "programa27-l03-008"
+            ],
+            "III.4.2": [
+              "programa27-l03-009"
+            ],
+            "III.4.3": [
+              "programa27-l03-010"
+            ]
+          }
+        },
+        {
+          "id": "L04",
+          "titulo": "Ortografía",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 10,
+          "referencias": {
+            "IV.1": [
+              "programa27-l04-001"
+            ],
+            "IV.2": [
+              "programa27-l04-002",
+              "programa27-l04-003",
+              "programa27-l04-004",
+              "programa27-l04-005"
+            ],
+            "IV.3": [
+              "programa27-l04-006",
+              "programa27-l04-007"
+            ],
+            "IV.4": [
+              "programa27-l04-008",
+              "programa27-l04-009"
+            ],
+            "IV.5": [
+              "programa27-l04-010"
+            ]
+          }
+        },
+        {
+          "id": "L05",
+          "titulo": "Morfosintaxis",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 47,
+          "referencias": {
+            "V.1.1": [
+              "programa27-l05-001"
+            ],
+            "V.1.2": [
+              "programa27-l05-002"
+            ],
+            "V.1.3": [
+              "programa27-l05-003"
+            ],
+            "V.1.4": [
+              "programa27-l05-004"
+            ],
+            "V.1.5": [
+              "programa27-l05-005"
+            ],
+            "V.2.1": [
+              "programa27-l05-006"
+            ],
+            "V.2.2": [
+              "programa27-l05-007"
+            ],
+            "V.2.3": [
+              "programa27-l05-008"
+            ],
+            "V.2.4": [
+              "programa27-l05-009"
+            ],
+            "V.3.1": [
+              "programa27-l05-010"
+            ],
+            "V.4.1": [
+              "programa27-l05-011"
+            ],
+            "V.4.2": [
+              "programa27-l05-012"
+            ],
+            "V.4.3": [
+              "programa27-l05-013"
+            ],
+            "V.4.4": [
+              "programa27-l05-014"
+            ],
+            "V.5.1": [
+              "programa27-l05-015"
+            ],
+            "V.5.2": [
+              "programa27-l05-016"
+            ],
+            "V.5.3": [
+              "programa27-l05-017"
+            ],
+            "V.6.1": [
+              "programa27-l05-018"
+            ],
+            "V.6.2": [
+              "programa27-l05-019"
+            ],
+            "V.7.1": [
+              "programa27-l05-020"
+            ],
+            "V.8.1": [
+              "programa27-l05-021"
+            ],
+            "V.9.1": [
+              "programa27-l05-022"
+            ],
+            "V.9.2": [
+              "programa27-l05-023"
+            ],
+            "V.9.3": [
+              "programa27-l05-024"
+            ],
+            "V.9.4": [
+              "programa27-l05-025"
+            ],
+            "V.9.5": [
+              "programa27-l05-026"
+            ],
+            "V.9.6.1": [
+              "programa27-l05-027"
+            ],
+            "V.9.6.2": [
+              "programa27-l05-028"
+            ],
+            "V.9.6.3": [
+              "programa27-l05-029"
+            ],
+            "V.9.6.4": [
+              "programa27-l05-030"
+            ],
+            "V.9.6.5": [
+              "programa27-l05-031"
+            ],
+            "V.9.7.1": [
+              "programa27-l05-032"
+            ],
+            "V.9.7.2": [
+              "programa27-l05-033"
+            ],
+            "V.9.7.3": [
+              "programa27-l05-034"
+            ],
+            "V.9.8": [
+              "programa27-l05-035"
+            ],
+            "V.9.9.1": [
+              "programa27-l05-036"
+            ],
+            "V.9.9.2": [
+              "programa27-l05-037"
+            ],
+            "V.9.9.3": [
+              "programa27-l05-038"
+            ],
+            "V.9.9.4": [
+              "programa27-l05-039"
+            ],
+            "V.9.9.5": [
+              "programa27-l05-040"
+            ],
+            "V.9.10.1": [
+              "programa27-l05-041",
+              "programa27-l05-042"
+            ],
+            "V.9.10.2": [
+              "programa27-l05-043"
+            ],
+            "V.9.10.3": [
+              "programa27-l05-044",
+              "programa27-l05-045"
+            ],
+            "V.10": [
+              "programa27-l05-046"
+            ],
+            "V.11": [
+              "programa27-l05-047"
+            ]
+          }
+        }
+      ]
+    },
+    "Química": {
+      "paginas": [
+        5,
+        13
+      ],
+      "unidades": [
+        {
+          "id": "Q01",
+          "titulo": "Materia y energía",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 9,
+          "referencias": {
+            "1.1.1.1": [
+              "programa27-q01-001"
+            ],
+            "1.1.1.2": [
+              "programa27-q01-002"
+            ],
+            "1.1.2.1": [
+              "programa27-q01-003"
+            ],
+            "1.4": [
+              "programa27-q01-004"
+            ],
+            "1.5.2": [
+              "programa27-q01-005"
+            ],
+            "1.2": [
+              "programa27-q01-006"
+            ],
+            "1.3": [
+              "programa27-q01-007"
+            ],
+            "1.5.1": [
+              "programa27-q01-008"
+            ],
+            "1.5.3": [
+              "programa27-q01-009"
+            ]
+          }
+        },
+        {
+          "id": "Q02",
+          "titulo": "Estructura atómica y clasificación de los elementos",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 25,
+          "referencias": {
+            "2.1.2–2.1.3": [
+              "programa27-quimica-atomos-lote01-001",
+              "programa27-quimica-atomos-lote01-002",
+              "programa27-quimica-atomos-lote01-003",
+              "programa27-quimica-atomos-lote01-005",
+              "programa27-quimica-atomos-lote01-006",
+              "programa27-quimica-atomos-lote01-007",
+              "programa27-quimica-atomos-lote01-008",
+              "programa27-quimica-atomos-lote01-009",
+              "programa27-quimica-atomos-lote01-010",
+              "programa27-quimica-atomos-lote01-011",
+              "programa27-quimica-atomos-lote01-012"
+            ],
+            "2.1.1": [
+              "programa27-q02-001"
+            ],
+            "2.1.4.1": [
+              "programa27-q02-002"
+            ],
+            "2.1.4.2": [
+              "programa27-q02-003"
+            ],
+            "2.1.5": [
+              "programa27-q02-004",
+              "programa27-q02-005"
+            ],
+            "2.2.1": [
+              "programa27-q02-006"
+            ],
+            "2.2.5": [
+              "programa27-q02-007",
+              "programa27-q02-008"
+            ],
+            "2.1.2": [
+              "programa27-q02-009"
+            ],
+            "2.1.3": [
+              "programa27-q02-010"
+            ],
+            "2.1.6": [
+              "programa27-q02-011"
+            ],
+            "2.2.2": [
+              "programa27-q02-012"
+            ],
+            "2.2.3": [
+              "programa27-q02-013"
+            ],
+            "2.2.4": [
+              "programa27-q02-014"
+            ]
+          }
+        },
+        {
+          "id": "Q03",
+          "titulo": "Notación y nomenclatura inorgánica",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 6,
+          "referencias": {
+            "3.1": [
+              "programa27-q03-001"
+            ],
+            "3.2": [
+              "programa27-q03-002"
+            ],
+            "3.3": [
+              "programa27-q03-003"
+            ],
+            "3.4": [
+              "programa27-q03-004",
+              "programa27-q03-005"
+            ],
+            "3.5": [
+              "programa27-q03-006"
+            ]
+          }
+        },
+        {
+          "id": "Q04",
+          "titulo": "Enlaces e interacciones intermoleculares",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 13,
+          "referencias": {
+            "4.1": [
+              "programa27-q04-001"
+            ],
+            "4.4": [
+              "programa27-q04-002"
+            ],
+            "4.5": [
+              "programa27-q04-003"
+            ],
+            "4.6": [
+              "programa27-q04-004"
+            ],
+            "4.7": [
+              "programa27-q04-005"
+            ],
+            "4.8": [
+              "programa27-q04-006"
+            ],
+            "4.9": [
+              "programa27-q04-007"
+            ],
+            "4.10": [
+              "programa27-q04-008"
+            ],
+            "4.11": [
+              "programa27-q04-009"
+            ],
+            "4.12": [
+              "programa27-q04-010"
+            ],
+            "4.13": [
+              "programa27-q04-011"
+            ],
+            "4.2": [
+              "programa27-q04-012"
+            ],
+            "4.3": [
+              "programa27-q04-013"
+            ]
+          }
+        },
+        {
+          "id": "Q05",
+          "titulo": "Reacciones inorgánicas",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 10,
+          "referencias": {
+            "5.2": [
+              "programa27-q05-001"
+            ],
+            "5.3": [
+              "programa27-q05-002"
+            ],
+            "5.4": [
+              "programa27-q05-003"
+            ],
+            "5.5.2": [
+              "programa27-q05-004"
+            ],
+            "5.6": [
+              "programa27-q05-005"
+            ],
+            "5.7.1": [
+              "programa27-q05-006"
+            ],
+            "5.7.3": [
+              "programa27-q05-007"
+            ],
+            "5.1": [
+              "programa27-q05-008"
+            ],
+            "5.5.1": [
+              "programa27-q05-009"
+            ],
+            "5.7.2": [
+              "programa27-q05-010"
+            ]
+          }
+        },
+        {
+          "id": "Q06",
+          "titulo": "Estados de agregación",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 18,
+          "referencias": {
+            "6.1.3": [
+              "programa27-q06-001"
+            ],
+            "6.1.4": [
+              "programa27-q06-002"
+            ],
+            "6.1.5": [
+              "programa27-q06-003"
+            ],
+            "6.1.6": [
+              "programa27-q06-004"
+            ],
+            "6.1.7": [
+              "programa27-q06-005"
+            ],
+            "6.1.8": [
+              "programa27-q06-006"
+            ],
+            "6.2.2": [
+              "programa27-q06-007"
+            ],
+            "6.2.3": [
+              "programa27-q06-008"
+            ],
+            "6.3.2.1": [
+              "programa27-q06-009"
+            ],
+            "6.3.2.2": [
+              "programa27-q06-010"
+            ],
+            "6.4.1": [
+              "programa27-q06-011"
+            ],
+            "6.4.3": [
+              "programa27-q06-013"
+            ],
+            "6.4.4": [
+              "programa27-q06-014"
+            ],
+            "6.4.5": [
+              "programa27-q06-015"
+            ],
+            "6.1.1": [
+              "programa27-q06-016"
+            ],
+            "6.1.2": [
+              "programa27-q06-017"
+            ],
+            "6.2.1": [
+              "programa27-q06-018"
+            ],
+            "6.3.1": [
+              "programa27-q06-019"
+            ]
+          }
+        },
+        {
+          "id": "Q07",
+          "titulo": "Disoluciones",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 13,
+          "referencias": {
+            "7.1.2": [
+              "programa27-q07-001"
+            ],
+            "7.1.4": [
+              "programa27-q07-002"
+            ],
+            "7.2.1": [
+              "programa27-q07-003",
+              "programa27-q07-004",
+              "programa27-q07-005"
+            ],
+            "7.2.2": [
+              "programa27-q07-006"
+            ],
+            "7.3": [
+              "programa27-q07-007"
+            ],
+            "7.4": [
+              "programa27-q07-008",
+              "programa27-q07-009"
+            ],
+            "7.5": [
+              "programa27-q07-010"
+            ],
+            "7.6": [
+              "programa27-q07-011"
+            ],
+            "7.1.1": [
+              "programa27-q07-012"
+            ],
+            "7.1.3": [
+              "programa27-q07-013"
+            ]
+          }
+        },
+        {
+          "id": "Q08",
+          "titulo": "Funciones de la química inorgánica",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 15,
+          "referencias": {
+            "8.2.1": [
+              "programa27-q08-001"
+            ],
+            "8.2.2": [
+              "programa27-q08-002"
+            ],
+            "8.2.3.1": [
+              "programa27-q08-003"
+            ],
+            "8.2.3.2": [
+              "programa27-q08-004"
+            ],
+            "8.2.3.3": [
+              "programa27-q08-005"
+            ],
+            "8.2.3.4": [
+              "programa27-q08-006"
+            ],
+            "8.2.4": [
+              "programa27-q08-007"
+            ],
+            "8.2.5": [
+              "programa27-q08-008"
+            ],
+            "8.2.6": [
+              "programa27-q08-009"
+            ],
+            "8.2.7": [
+              "programa27-q08-010"
+            ],
+            "8.2.8": [
+              "programa27-q08-011"
+            ],
+            "8.2.9": [
+              "programa27-q08-012"
+            ],
+            "8.3.1": [
+              "programa27-q08-013"
+            ],
+            "8.3.2": [
+              "programa27-q08-014"
+            ],
+            "8.1": [
+              "programa27-q08-015"
+            ]
+          }
+        },
+        {
+          "id": "Q09",
+          "titulo": "Estequiometría",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 8,
+          "referencias": {
+            "9.2": [
+              "programa27-q09-001"
+            ],
+            "9.3": [
+              "programa27-q09-002"
+            ],
+            "9.4": [
+              "programa27-q09-003"
+            ],
+            "9.4.1": [
+              "programa27-q09-004"
+            ],
+            "9.5": [
+              "programa27-q09-005"
+            ],
+            "9.6": [
+              "programa27-q09-006"
+            ],
+            "9.7": [
+              "programa27-q09-007"
+            ],
+            "9.1": [
+              "programa27-q09-008"
+            ]
+          }
+        },
+        {
+          "id": "Q10",
+          "titulo": "Cinética química",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 17,
+          "referencias": {
+            "10.3": [
+              "programa27-q10-001"
+            ],
+            "10.4": [
+              "programa27-q10-002"
+            ],
+            "10.5": [
+              "programa27-q10-003"
+            ],
+            "10.6.1": [
+              "programa27-q10-004"
+            ],
+            "10.6.2": [
+              "programa27-q10-005"
+            ],
+            "10.6.3": [
+              "programa27-q10-006"
+            ],
+            "10.6.4": [
+              "programa27-q10-007"
+            ],
+            "10.6.5": [
+              "programa27-q10-008"
+            ],
+            "10.7": [
+              "programa27-q10-009"
+            ],
+            "10.8": [
+              "programa27-q10-010"
+            ],
+            "10.9.1": [
+              "programa27-q10-011"
+            ],
+            "10.9.2": [
+              "programa27-q10-012"
+            ],
+            "10.10.1": [
+              "programa27-q10-013"
+            ],
+            "10.10.2": [
+              "programa27-q10-014"
+            ],
+            "10.1": [
+              "programa27-q10-015"
+            ],
+            "10.2": [
+              "programa27-q10-016"
+            ],
+            "10.8.2": [
+              "programa27-q10-017"
+            ]
+          }
+        },
+        {
+          "id": "Q11",
+          "titulo": "Equilibrio químico",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 11,
+          "referencias": {
+            "11.1": [
+              "programa27-q11-001"
+            ],
+            "11.2": [
+              "programa27-q11-002"
+            ],
+            "11.3": [
+              "programa27-q11-003"
+            ],
+            "11.4": [
+              "programa27-q11-004"
+            ],
+            "11.5.1": [
+              "programa27-q11-005"
+            ],
+            "11.5.2": [
+              "programa27-q11-006"
+            ],
+            "11.5.3": [
+              "programa27-q11-007"
+            ],
+            "11.6.1": [
+              "programa27-q11-008"
+            ],
+            "11.7.1": [
+              "programa27-q11-009"
+            ],
+            "11.7.2": [
+              "programa27-q11-010"
+            ],
+            "11.7.3": [
+              "programa27-q11-011"
+            ]
+          }
+        },
+        {
+          "id": "Q12",
+          "titulo": "Termodinámica y electroquímica",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 24,
+          "referencias": {
+            "12.1.2": [
+              "programa27-q12-001"
+            ],
+            "12.1.3": [
+              "programa27-q12-002"
+            ],
+            "12.2": [
+              "programa27-q12-003"
+            ],
+            "12.3.1": [
+              "programa27-q12-004"
+            ],
+            "12.3.4": [
+              "programa27-q12-005"
+            ],
+            "12.4.2": [
+              "programa27-q12-006"
+            ],
+            "12.6.1": [
+              "programa27-q12-007"
+            ],
+            "12.6.2": [
+              "programa27-q12-008"
+            ],
+            "12.7": [
+              "programa27-q12-009"
+            ],
+            "12.8.1": [
+              "programa27-q12-010"
+            ],
+            "12.8.3": [
+              "programa27-q12-011"
+            ],
+            "12.8.4": [
+              "programa27-q12-012"
+            ],
+            "12.9": [
+              "programa27-q12-013"
+            ],
+            "12.10.1": [
+              "programa27-q12-014"
+            ],
+            "12.10.2": [
+              "programa27-q12-015"
+            ],
+            "12.10.3": [
+              "programa27-q12-016"
+            ],
+            "12.10.4": [
+              "programa27-q12-017"
+            ],
+            "12.10.5": [
+              "programa27-q12-018"
+            ],
+            "12.1.1": [
+              "programa27-q12-019"
+            ],
+            "12.3.2": [
+              "programa27-q12-020"
+            ],
+            "12.3.3": [
+              "programa27-q12-021"
+            ],
+            "12.4.1": [
+              "programa27-q12-022"
+            ],
+            "12.5": [
+              "programa27-q12-023"
+            ],
+            "12.8.2": [
+              "programa27-q12-024"
+            ]
+          }
+        },
+        {
+          "id": "Q13",
+          "titulo": "Compuestos y reacciones orgánicas",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 32,
+          "referencias": {
+            "13.1.2": [
+              "programa27-q13-001"
+            ],
+            "13.1.3": [
+              "programa27-q13-002"
+            ],
+            "13.2": [
+              "programa27-q13-003"
+            ],
+            "13.3.2": [
+              "programa27-q13-004"
+            ],
+            "13.4": [
+              "programa27-q13-005"
+            ],
+            "13.5": [
+              "programa27-q13-006"
+            ],
+            "13.6.1.1": [
+              "programa27-q13-007"
+            ],
+            "13.6.1.2": [
+              "programa27-q13-008"
+            ],
+            "13.6.1.3": [
+              "programa27-q13-009"
+            ],
+            "13.6.2.1.2": [
+              "programa27-q13-010"
+            ],
+            "13.6.2.2.1": [
+              "programa27-q13-011"
+            ],
+            "13.6.2.2.2": [
+              "programa27-q13-012"
+            ],
+            "13.6.2.2.3": [
+              "programa27-q13-013"
+            ],
+            "13.6.2.2.4": [
+              "programa27-q13-014"
+            ],
+            "13.6.3": [
+              "programa27-q13-015"
+            ],
+            "13.8.1": [
+              "programa27-q13-016"
+            ],
+            "13.8.2": [
+              "programa27-q13-017"
+            ],
+            "13.8.3": [
+              "programa27-q13-018"
+            ],
+            "13.9": [
+              "programa27-q13-019"
+            ],
+            "13.10": [
+              "programa27-q13-020"
+            ],
+            "13.1.1": [
+              "programa27-q13-021"
+            ],
+            "13.1.4": [
+              "programa27-q13-022"
+            ],
+            "13.3.1": [
+              "programa27-q13-023"
+            ],
+            "13.3.3": [
+              "programa27-q13-024"
+            ],
+            "13.6.2.1.1": [
+              "programa27-q13-025"
+            ],
+            "13.7": [
+              "programa27-q13-026"
+            ],
+            "13.10.1": [
+              "programa27-q13-027"
+            ],
+            "13.10.2": [
+              "programa27-q13-028"
+            ],
+            "13.10.3": [
+              "programa27-q13-029"
+            ],
+            "13.10.4": [
+              "programa27-q13-030"
+            ],
+            "13.10.5": [
+              "programa27-q13-031"
+            ],
+            "13.10.6": [
+              "programa27-q13-032"
+            ]
+          }
+        },
+        {
+          "id": "Q14",
+          "titulo": "Hidrocarburos y heterociclos",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 21,
+          "referencias": {
+            "14.1.1": [
+              "programa27-q14-001"
+            ],
+            "14.1.2": [
+              "programa27-q14-002"
+            ],
+            "14.1.3": [
+              "programa27-q14-003"
+            ],
+            "14.1.4": [
+              "programa27-q14-004"
+            ],
+            "14.1.5": [
+              "programa27-q14-005"
+            ],
+            "14.2.1": [
+              "programa27-q14-006"
+            ],
+            "14.2.2": [
+              "programa27-q14-007"
+            ],
+            "14.2.3": [
+              "programa27-q14-008"
+            ],
+            "14.2.4.1": [
+              "programa27-q14-009"
+            ],
+            "14.2.4.2": [
+              "programa27-q14-010"
+            ],
+            "14.2.4.3": [
+              "programa27-q14-011"
+            ],
+            "14.2.5": [
+              "programa27-q14-012"
+            ],
+            "14.3.1": [
+              "programa27-q14-013"
+            ],
+            "14.3.2": [
+              "programa27-q14-014"
+            ],
+            "14.3.3": [
+              "programa27-q14-015"
+            ],
+            "14.3.4": [
+              "programa27-q14-016"
+            ],
+            "14.3.5": [
+              "programa27-q14-017"
+            ],
+            "14.4.1": [
+              "programa27-q14-018"
+            ],
+            "14.4.2": [
+              "programa27-q14-019"
+            ],
+            "14.4.3": [
+              "programa27-q14-020"
+            ],
+            "14.4.4": [
+              "programa27-q14-021"
+            ]
+          }
+        },
+        {
+          "id": "Q15",
+          "titulo": "Funciones orgánicas con enlaces simples",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 19,
+          "referencias": {
+            "15.1.1": [
+              "programa27-q15-001"
+            ],
+            "15.1.2": [
+              "programa27-q15-002"
+            ],
+            "15.1.3": [
+              "programa27-q15-003"
+            ],
+            "15.1.4": [
+              "programa27-q15-004"
+            ],
+            "15.2.1": [
+              "programa27-q15-005"
+            ],
+            "15.2.2": [
+              "programa27-q15-006"
+            ],
+            "15.2.3": [
+              "programa27-q15-007"
+            ],
+            "15.3.1": [
+              "programa27-q15-008"
+            ],
+            "15.3.2": [
+              "programa27-q15-009"
+            ],
+            "15.3.3": [
+              "programa27-q15-010"
+            ],
+            "15.3.4": [
+              "programa27-q15-011"
+            ],
+            "15.4.1": [
+              "programa27-q15-012"
+            ],
+            "15.4.2.1": [
+              "programa27-q15-013"
+            ],
+            "15.4.2.2": [
+              "programa27-q15-014"
+            ],
+            "15.4.3": [
+              "programa27-q15-015"
+            ],
+            "15.4.4": [
+              "programa27-q15-016"
+            ],
+            "15.5.1": [
+              "programa27-q15-017"
+            ],
+            "15.5.2": [
+              "programa27-q15-018"
+            ],
+            "15.6": [
+              "programa27-q15-019"
+            ]
+          }
+        },
+        {
+          "id": "Q16",
+          "titulo": "Funciones orgánicas con enlaces múltiples",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 41,
+          "referencias": {
+            "16.1.1": [
+              "programa27-q16-001"
+            ],
+            "16.1.2": [
+              "programa27-q16-002"
+            ],
+            "16.1.4.2": [
+              "programa27-q16-003"
+            ],
+            "16.1.4.3": [
+              "programa27-q16-004"
+            ],
+            "16.1.4.4": [
+              "programa27-q16-005"
+            ],
+            "16.2.1": [
+              "programa27-q16-006"
+            ],
+            "16.2.2": [
+              "programa27-q16-007"
+            ],
+            "16.2.3": [
+              "programa27-q16-008"
+            ],
+            "16.2.6": [
+              "programa27-q16-009"
+            ],
+            "16.2.7.1": [
+              "programa27-q16-010"
+            ],
+            "16.2.7.3": [
+              "programa27-q16-011"
+            ],
+            "16.2.7.4": [
+              "programa27-q16-012"
+            ],
+            "16.2.7.5": [
+              "programa27-q16-013"
+            ],
+            "16.2.9": [
+              "programa27-q16-014"
+            ],
+            "16.3.1.1": [
+              "programa27-q16-015"
+            ],
+            "16.3.1.4.1": [
+              "programa27-q16-016"
+            ],
+            "16.3.1.4.2": [
+              "programa27-q16-017"
+            ],
+            "16.3.1.4.3": [
+              "programa27-q16-018"
+            ],
+            "16.3.1.4.4": [
+              "programa27-q16-019"
+            ],
+            "16.3.1.4.5": [
+              "programa27-q16-020"
+            ],
+            "16.3.1.5": [
+              "programa27-q16-021"
+            ],
+            "16.4.1.1": [
+              "programa27-q16-022"
+            ],
+            "16.4.1.2": [
+              "programa27-q16-023"
+            ],
+            "16.4.1.3": [
+              "programa27-q16-024"
+            ],
+            "16.4.1.4": [
+              "programa27-q16-025"
+            ],
+            "16.4.1.5": [
+              "programa27-q16-026"
+            ],
+            "16.4.1.6": [
+              "programa27-q16-027"
+            ],
+            "16.4.1.7": [
+              "programa27-q16-028"
+            ],
+            "16.5.1.1": [
+              "programa27-q16-029"
+            ],
+            "16.5.1.2": [
+              "programa27-q16-030"
+            ],
+            "16.5.2": [
+              "programa27-q16-031"
+            ],
+            "16.1.3": [
+              "programa27-q16-032"
+            ],
+            "16.1.4.1": [
+              "programa27-q16-033"
+            ],
+            "16.1.5": [
+              "programa27-q16-034"
+            ],
+            "16.2.4": [
+              "programa27-q16-035"
+            ],
+            "16.2.5": [
+              "programa27-q16-036"
+            ],
+            "16.2.7.2": [
+              "programa27-q16-037"
+            ],
+            "16.2.8": [
+              "programa27-q16-038"
+            ],
+            "16.3.1.2": [
+              "programa27-q16-039"
+            ],
+            "16.3.1.3": [
+              "programa27-q16-040"
+            ],
+            "16.3.1.6": [
+              "programa27-q16-041"
+            ]
+          }
+        },
+        {
+          "id": "Q17",
+          "titulo": "Biomoléculas",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 21,
+          "referencias": {
+            "17.1.1": [
+              "programa27-q17-001"
+            ],
+            "17.1.2": [
+              "programa27-q17-002"
+            ],
+            "17.1.3": [
+              "programa27-q17-003"
+            ],
+            "17.1.4": [
+              "programa27-q17-004"
+            ],
+            "17.1.5": [
+              "programa27-q17-005"
+            ],
+            "17.1.6": [
+              "programa27-q17-006"
+            ],
+            "17.2.1": [
+              "programa27-q17-007"
+            ],
+            "17.2.2.1": [
+              "programa27-q17-008"
+            ],
+            "17.2.2.2": [
+              "programa27-q17-009"
+            ],
+            "17.2.2.3": [
+              "programa27-q17-010"
+            ],
+            "17.2.2.4": [
+              "programa27-q17-011"
+            ],
+            "17.2.2.5": [
+              "programa27-q17-012"
+            ],
+            "17.2.2.6": [
+              "programa27-q17-013"
+            ],
+            "17.2.3": [
+              "programa27-q17-014"
+            ],
+            "17.2.4.1": [
+              "programa27-q17-015"
+            ],
+            "17.2.4.2": [
+              "programa27-q17-016"
+            ],
+            "17.3.1": [
+              "programa27-q17-017"
+            ],
+            "17.3.2": [
+              "programa27-q17-018"
+            ],
+            "17.3.3": [
+              "programa27-q17-019"
+            ],
+            "17.3.4.1": [
+              "programa27-q17-020"
+            ],
+            "17.3.4.2": [
+              "programa27-q17-021"
+            ]
+          }
+        }
+      ]
+    },
+    "Biología": {
+      "paginas": [
+        13,
+        16
+      ],
+      "unidades": [
+        {
+          "id": "B01",
+          "titulo": "Célula y biología molecular",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 28,
+          "referencias": {
+            "Células y orgánulos": [
+              "programa27-biologia-celula-lote02-001",
+              "programa27-biologia-celula-lote02-002",
+              "programa27-biologia-celula-lote02-003",
+              "programa27-biologia-celula-lote02-004",
+              "programa27-biologia-celula-lote02-005",
+              "programa27-biologia-celula-lote02-006",
+              "programa27-biologia-celula-lote02-007",
+              "programa27-biologia-celula-lote02-008",
+              "programa27-biologia-celula-lote02-009",
+              "programa27-biologia-celula-lote02-010",
+              "programa27-biologia-celula-lote02-011",
+              "programa27-biologia-celula-lote02-012",
+              "programa27-biologia-celula-lote02-013",
+              "programa27-biologia-celula-lote02-014",
+              "programa27-biologia-celula-lote02-015",
+              "programa27-biologia-celula-lote02-016",
+              "programa27-biologia-celula-lote02-017",
+              "programa27-biologia-celula-lote02-018",
+              "programa27-biologia-celula-lote02-019",
+              "programa27-biologia-celula-lote02-020",
+              "programa27-biologia-celula-lote02-021",
+              "programa27-biologia-celula-lote02-022",
+              "programa27-biologia-celula-lote02-023",
+              "programa27-biologia-celula-lote02-024"
+            ],
+            "B01.1": [
+              "programa27-b01-001"
+            ],
+            "B01.2": [
+              "programa27-b01-002"
+            ],
+            "B01.3": [
+              "programa27-b01-003"
+            ],
+            "B01.4": [
+              "programa27-b01-004"
+            ]
+          }
+        },
+        {
+          "id": "B02",
+          "titulo": "Bases químicas de la vida",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 9,
+          "referencias": {
+            "B02.1": [
+              "programa27-b02-001"
+            ],
+            "B02.2": [
+              "programa27-b02-002"
+            ],
+            "B02.3": [
+              "programa27-b02-003"
+            ],
+            "B02.4": [
+              "programa27-b02-004"
+            ],
+            "B02.5": [
+              "programa27-b02-005"
+            ],
+            "B02.6": [
+              "programa27-b02-006"
+            ],
+            "B02.7": [
+              "programa27-b02-007"
+            ],
+            "B02.8": [
+              "programa27-b02-008"
+            ],
+            "B02.9": [
+              "programa27-b02-009"
+            ]
+          }
+        },
+        {
+          "id": "B03",
+          "titulo": "Bioenergética, enzimas y metabolismo",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 22,
+          "referencias": {
+            "Enzimas y metabolismo": [
+              "programa27-bio-enzimas-002",
+              "programa27-bio-enzimas-003",
+              "programa27-bio-enzimas-004",
+              "programa27-bio-enzimas-005",
+              "programa27-bio-enzimas-006",
+              "programa27-bio-enzimas-007",
+              "programa27-bio-enzimas-008",
+              "programa27-bio-enzimas-009",
+              "programa27-bio-enzimas-010",
+              "programa27-bio-enzimas-011",
+              "programa27-bio-enzimas-012",
+              "programa27-bio-enzimas-013",
+              "programa27-bio-enzimas-014",
+              "programa27-bio-enzimas-015",
+              "programa27-bio-enzimas-016",
+              "programa27-bio-enzimas-017",
+              "programa27-bio-enzimas-018",
+              "programa27-bio-enzimas-019",
+              "programa27-bio-enzimas-020"
+            ],
+            "B03.1": [
+              "programa27-b03-001"
+            ],
+            "B03.2": [
+              "programa27-b03-002"
+            ],
+            "B03.3": [
+              "programa27-b03-003"
+            ]
+          }
+        },
+        {
+          "id": "B04",
+          "titulo": "Técnicas de biología molecular y celular",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 20,
+          "referencias": {
+            "B04.1": [
+              "programa27-b04-001"
+            ],
+            "B04.2": [
+              "programa27-b04-002"
+            ],
+            "B04.3": [
+              "programa27-b04-003"
+            ],
+            "B04.4": [
+              "programa27-b04-004"
+            ],
+            "B04.5": [
+              "programa27-b04-005"
+            ],
+            "B04.6": [
+              "programa27-b04-006"
+            ],
+            "B04.7": [
+              "programa27-b04-007"
+            ],
+            "B04.8": [
+              "programa27-b04-008"
+            ],
+            "B04.9": [
+              "programa27-b04-009"
+            ],
+            "B04.10": [
+              "programa27-b04-010"
+            ],
+            "B04.11": [
+              "programa27-b04-011"
+            ],
+            "B04.12": [
+              "programa27-b04-012"
+            ],
+            "B04.13": [
+              "programa27-b04-013"
+            ],
+            "B04.14": [
+              "programa27-b04-014"
+            ],
+            "B04.15": [
+              "programa27-b04-015"
+            ],
+            "B04.16": [
+              "programa27-b04-016"
+            ],
+            "B04.17": [
+              "programa27-b04-017"
+            ],
+            "B04.18": [
+              "programa27-b04-018"
+            ],
+            "B04.19": [
+              "programa27-b04-019"
+            ],
+            "B04.20": [
+              "programa27-b04-020"
+            ]
+          }
+        },
+        {
+          "id": "B05",
+          "titulo": "Membrana plasmática",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 10,
+          "referencias": {
+            "B05.1": [
+              "programa27-b05-001"
+            ],
+            "B05.2": [
+              "programa27-b05-002"
+            ],
+            "B05.3": [
+              "programa27-b05-003"
+            ],
+            "B05.4": [
+              "programa27-b05-004"
+            ],
+            "B05.5": [
+              "programa27-b05-005"
+            ],
+            "B05.6": [
+              "programa27-b05-006"
+            ],
+            "B05.7": [
+              "programa27-b05-007"
+            ],
+            "B05.8": [
+              "programa27-b05-008"
+            ],
+            "B05.9": [
+              "programa27-b05-009"
+            ],
+            "B05.10": [
+              "programa27-b05-010"
+            ]
+          }
+        },
+        {
+          "id": "B06",
+          "titulo": "Mitocondrias y respiración aeróbica",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 7,
+          "referencias": {
+            "B06.1": [
+              "programa27-b06-001"
+            ],
+            "B06.2": [
+              "programa27-b06-002"
+            ],
+            "B06.3": [
+              "programa27-b06-003"
+            ],
+            "B06.4": [
+              "programa27-b06-004"
+            ],
+            "B06.5": [
+              "programa27-b06-005"
+            ],
+            "B06.6": [
+              "programa27-b06-006"
+            ],
+            "B06.7": [
+              "programa27-b06-007"
+            ]
+          }
+        },
+        {
+          "id": "B07",
+          "titulo": "Citoesqueleto y motilidad",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 8,
+          "referencias": {
+            "B07.1": [
+              "programa27-b07-001"
+            ],
+            "B07.2": [
+              "programa27-b07-002"
+            ],
+            "B07.3": [
+              "programa27-b07-003"
+            ],
+            "B07.4": [
+              "programa27-b07-004"
+            ],
+            "B07.5": [
+              "programa27-b07-005"
+            ],
+            "B07.6": [
+              "programa27-b07-006"
+            ],
+            "B07.7": [
+              "programa27-b07-007"
+            ],
+            "B07.8": [
+              "programa27-b07-008"
+            ]
+          }
+        },
+        {
+          "id": "B08",
+          "titulo": "Interacciones celulares y con el entorno",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 6,
+          "referencias": {
+            "B08.1": [
+              "programa27-b08-001"
+            ],
+            "B08.2": [
+              "programa27-b08-002"
+            ],
+            "B08.3": [
+              "programa27-b08-003"
+            ],
+            "B08.4": [
+              "programa27-b08-004"
+            ],
+            "B08.5": [
+              "programa27-b08-005"
+            ],
+            "B08.6": [
+              "programa27-b08-006"
+            ]
+          }
+        },
+        {
+          "id": "B09",
+          "titulo": "Endomembranas y tráfico",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 11,
+          "referencias": {
+            "B09.1": [
+              "programa27-b09-001"
+            ],
+            "B09.2": [
+              "programa27-b09-002"
+            ],
+            "B09.3": [
+              "programa27-b09-003"
+            ],
+            "B09.4": [
+              "programa27-b09-004"
+            ],
+            "B09.5": [
+              "programa27-b09-005"
+            ],
+            "B09.6": [
+              "programa27-b09-006"
+            ],
+            "B09.7": [
+              "programa27-b09-007"
+            ],
+            "B09.8": [
+              "programa27-b09-008"
+            ],
+            "B09.9": [
+              "programa27-b09-009"
+            ],
+            "B09.10": [
+              "programa27-b09-010"
+            ],
+            "B09.11": [
+              "programa27-b09-011"
+            ]
+          }
+        },
+        {
+          "id": "B10",
+          "titulo": "Gen y genoma",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 6,
+          "referencias": {
+            "B10.1": [
+              "programa27-b10-001"
+            ],
+            "B10.2": [
+              "programa27-b10-002"
+            ],
+            "B10.3": [
+              "programa27-b10-003"
+            ],
+            "B10.4": [
+              "programa27-b10-004"
+            ],
+            "B10.5": [
+              "programa27-b10-005"
+            ],
+            "B10.6": [
+              "programa27-b10-006"
+            ]
+          }
+        },
+        {
+          "id": "B11",
+          "titulo": "Dogma central",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 10,
+          "referencias": {
+            "B11.1": [
+              "programa27-b11-001"
+            ],
+            "B11.2": [
+              "programa27-b11-002"
+            ],
+            "B11.3": [
+              "programa27-b11-003"
+            ],
+            "B11.4": [
+              "programa27-b11-004"
+            ],
+            "B11.5": [
+              "programa27-b11-005"
+            ],
+            "B11.6": [
+              "programa27-b11-006"
+            ],
+            "B11.7": [
+              "programa27-b11-007"
+            ],
+            "B11.8": [
+              "programa27-b11-008"
+            ],
+            "B11.9": [
+              "programa27-b11-009"
+            ],
+            "B11.10": [
+              "programa27-b11-010"
+            ]
+          }
+        },
+        {
+          "id": "B12",
+          "titulo": "Control de la expresión genética",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 10,
+          "referencias": {
+            "B12.1": [
+              "programa27-b12-001"
+            ],
+            "B12.2": [
+              "programa27-b12-002"
+            ],
+            "B12.3": [
+              "programa27-b12-003"
+            ],
+            "B12.4": [
+              "programa27-b12-004"
+            ],
+            "B12.5": [
+              "programa27-b12-005"
+            ],
+            "B12.6": [
+              "programa27-b12-006"
+            ],
+            "B12.7": [
+              "programa27-b12-007"
+            ],
+            "B12.8": [
+              "programa27-b12-008"
+            ],
+            "B12.9": [
+              "programa27-b12-009"
+            ],
+            "B12.10": [
+              "programa27-b12-010"
+            ]
+          }
+        },
+        {
+          "id": "B13",
+          "titulo": "Replicación y reparación de ADN",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 9,
+          "referencias": {
+            "B13.1": [
+              "programa27-b13-001"
+            ],
+            "B13.2": [
+              "programa27-b13-002"
+            ],
+            "B13.3": [
+              "programa27-b13-003"
+            ],
+            "B13.4": [
+              "programa27-b13-004"
+            ],
+            "B13.5": [
+              "programa27-b13-005"
+            ],
+            "B13.6": [
+              "programa27-b13-006"
+            ],
+            "B13.7": [
+              "programa27-b13-007"
+            ],
+            "B13.8": [
+              "programa27-b13-008"
+            ],
+            "B13.9": [
+              "programa27-b13-009"
+            ]
+          }
+        },
+        {
+          "id": "B14",
+          "titulo": "División celular",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 6,
+          "referencias": {
+            "B14.1": [
+              "programa27-b14-001"
+            ],
+            "B14.2": [
+              "programa27-b14-002"
+            ],
+            "B14.3": [
+              "programa27-b14-003"
+            ],
+            "B14.4": [
+              "programa27-b14-004"
+            ],
+            "B14.5": [
+              "programa27-b14-005"
+            ],
+            "B14.6": [
+              "programa27-b14-006"
+            ]
+          }
+        },
+        {
+          "id": "B15",
+          "titulo": "Señalización y transducción",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 14,
+          "referencias": {
+            "B15.1": [
+              "programa27-b15-001"
+            ],
+            "B15.2": [
+              "programa27-b15-002"
+            ],
+            "B15.3": [
+              "programa27-b15-003"
+            ],
+            "B15.4": [
+              "programa27-b15-004"
+            ],
+            "B15.5": [
+              "programa27-b15-005"
+            ],
+            "B15.6": [
+              "programa27-b15-006"
+            ],
+            "B15.7": [
+              "programa27-b15-007"
+            ],
+            "B15.8": [
+              "programa27-b15-008"
+            ],
+            "B15.9": [
+              "programa27-b15-009"
+            ],
+            "B15.10": [
+              "programa27-b15-010"
+            ],
+            "B15.11": [
+              "programa27-b15-011"
+            ],
+            "B15.12": [
+              "programa27-b15-012"
+            ],
+            "B15.13": [
+              "programa27-b15-013"
+            ],
+            "B15.14": [
+              "programa27-b15-014"
+            ]
+          }
+        }
+      ]
+    },
+    "Física": {
+      "paginas": [
+        16,
+        17
+      ],
+      "unidades": [
+        {
+          "id": "F01",
+          "titulo": "Magnitudes",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 17,
+          "referencias": {
+            "1.1": [
+              "programa27-fis-magnitudes-001",
+              "programa27-fis-magnitudes-002",
+              "programa27-fis-magnitudes-003",
+              "programa27-fis-magnitudes-004",
+              "programa27-fis-magnitudes-005"
+            ],
+            "1.2": [
+              "programa27-fis-magnitudes-006",
+              "programa27-fis-magnitudes-007"
+            ],
+            "1.3": [
+              "programa27-fis-magnitudes-008",
+              "programa27-fis-magnitudes-009",
+              "programa27-fis-magnitudes-010",
+              "programa27-fis-magnitudes-011"
+            ],
+            "1.4": [
+              "programa27-fis-magnitudes-012",
+              "programa27-fis-magnitudes-013",
+              "programa27-fis-magnitudes-014",
+              "programa27-fis-magnitudes-015",
+              "programa27-fis-magnitudes-016",
+              "programa27-fis-magnitudes-017"
+            ]
+          }
+        },
+        {
+          "id": "F02",
+          "titulo": "Cinemática",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 15,
+          "referencias": {
+            "2.1": [
+              "programa27-f02-001"
+            ],
+            "2.2": [
+              "programa27-f02-002",
+              "programa27-f02-003"
+            ],
+            "2.3": [
+              "programa27-f02-004"
+            ],
+            "2.4": [
+              "programa27-f02-005",
+              "programa27-f02-006",
+              "programa27-f02-007"
+            ],
+            "2.5": [
+              "programa27-f02-008",
+              "programa27-f02-009"
+            ],
+            "2.6": [
+              "programa27-f02-010",
+              "programa27-f02-011"
+            ],
+            "2.7": [
+              "programa27-f02-012",
+              "programa27-f02-013"
+            ],
+            "2.8": [
+              "programa27-f02-014",
+              "programa27-f02-015"
+            ]
+          }
+        },
+        {
+          "id": "F03",
+          "titulo": "Dinámica",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 13,
+          "referencias": {
+            "3.1": [
+              "programa27-f03-001"
+            ],
+            "3.2": [
+              "programa27-f03-002",
+              "programa27-f03-003",
+              "programa27-f03-004"
+            ],
+            "3.3": [
+              "programa27-f03-005",
+              "programa27-f03-006"
+            ],
+            "3.4": [
+              "programa27-f03-007",
+              "programa27-f03-008"
+            ],
+            "3.5": [
+              "programa27-f03-009"
+            ],
+            "3.6": [
+              "programa27-f03-010"
+            ],
+            "3.7": [
+              "programa27-f03-011"
+            ],
+            "3.8": [
+              "programa27-f03-012"
+            ],
+            "3.9": [
+              "programa27-f03-013"
+            ]
+          }
+        },
+        {
+          "id": "F04",
+          "titulo": "Hidrostática",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 7,
+          "referencias": {
+            "4.1": [
+              "programa27-f04-001"
+            ],
+            "4.2": [
+              "programa27-f04-002"
+            ],
+            "4.3": [
+              "programa27-f04-003",
+              "programa27-f04-004"
+            ],
+            "4.4": [
+              "programa27-f04-005"
+            ],
+            "4.5": [
+              "programa27-f04-006",
+              "programa27-f04-007"
+            ]
+          }
+        },
+        {
+          "id": "F05",
+          "titulo": "Hidrodinámica",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 5,
+          "referencias": {
+            "5.1": [
+              "programa27-f05-001"
+            ],
+            "5.2": [
+              "programa27-f05-002"
+            ],
+            "5.3": [
+              "programa27-f05-003",
+              "programa27-f05-004"
+            ],
+            "5.4": [
+              "programa27-f05-005"
+            ]
+          }
+        },
+        {
+          "id": "F06",
+          "titulo": "Termometría y dilatación térmica",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 9,
+          "referencias": {
+            "6.1": [
+              "programa27-f06-001"
+            ],
+            "6.2": [
+              "programa27-f06-002"
+            ],
+            "6.3": [
+              "programa27-f06-003"
+            ],
+            "6.4": [
+              "programa27-f06-004",
+              "programa27-f06-005"
+            ],
+            "6.5": [
+              "programa27-f06-006"
+            ],
+            "6.6": [
+              "programa27-f06-007"
+            ],
+            "6.7": [
+              "programa27-f06-008"
+            ],
+            "6.8": [
+              "programa27-f06-009"
+            ]
+          }
+        },
+        {
+          "id": "F07",
+          "titulo": "Calorimetría",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 6,
+          "referencias": {
+            "7.1": [
+              "programa27-f07-001"
+            ],
+            "7.2": [
+              "programa27-f07-002"
+            ],
+            "7.3": [
+              "programa27-f07-003"
+            ],
+            "7.4": [
+              "programa27-f07-004",
+              "programa27-f07-005",
+              "programa27-f07-006"
+            ]
+          }
+        },
+        {
+          "id": "F08",
+          "titulo": "Mecánica ondulatoria",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 9,
+          "referencias": {
+            "8.1": [
+              "programa27-f08-001"
+            ],
+            "8.2": [
+              "programa27-f08-002"
+            ],
+            "8.3": [
+              "programa27-f08-003"
+            ],
+            "8.4": [
+              "programa27-f08-004"
+            ],
+            "8.5": [
+              "programa27-f08-005",
+              "programa27-f08-006"
+            ],
+            "8.6": [
+              "programa27-f08-007",
+              "programa27-f08-008"
+            ],
+            "8.7": [
+              "programa27-f08-009"
+            ]
+          }
+        },
+        {
+          "id": "F09",
+          "titulo": "Óptica",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 10,
+          "referencias": {
+            "9.1": [
+              "programa27-f09-001"
+            ],
+            "9.2": [
+              "programa27-f09-002",
+              "programa27-f09-003",
+              "programa27-f09-004"
+            ],
+            "9.3": [
+              "programa27-f09-005"
+            ],
+            "9.4": [
+              "programa27-f09-006"
+            ],
+            "9.5": [
+              "programa27-f09-007",
+              "programa27-f09-008"
+            ],
+            "9.6": [
+              "programa27-f09-009",
+              "programa27-f09-010"
+            ]
+          }
+        },
+        {
+          "id": "F10",
+          "titulo": "Electricidad",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 15,
+          "referencias": {
+            "10.1": [
+              "programa27-f10-001"
+            ],
+            "10.2": [
+              "programa27-f10-002"
+            ],
+            "10.3": [
+              "programa27-f10-003",
+              "programa27-f10-004"
+            ],
+            "10.4": [
+              "programa27-f10-005"
+            ],
+            "10.5": [
+              "programa27-f10-006"
+            ],
+            "10.6": [
+              "programa27-f10-007",
+              "programa27-f10-008"
+            ],
+            "10.7": [
+              "programa27-f10-009"
+            ],
+            "10.8": [
+              "programa27-f10-010",
+              "programa27-f10-011"
+            ],
+            "10.9": [
+              "programa27-f10-012"
+            ],
+            "10.10": [
+              "programa27-f10-013",
+              "programa27-f10-014"
+            ],
+            "10.11": [
+              "programa27-f10-015"
+            ]
+          }
+        }
+      ]
+    },
+    "Matemática": {
+      "paginas": [
+        18,
+        19
+      ],
+      "unidades": [
+        {
+          "id": "M01",
+          "titulo": "Lógica proposicional",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 23,
+          "referencias": {
+            "1.1": [
+              "programa27-mat-logica-001",
+              "programa27-mat-logica-002",
+              "programa27-mat-logica-003",
+              "programa27-mat-logica-004",
+              "programa27-mat-logica-005",
+              "programa27-mat-logica-006"
+            ],
+            "1.2": [
+              "programa27-mat-logica-007",
+              "programa27-mat-logica-008",
+              "programa27-mat-logica-009",
+              "programa27-mat-logica-010",
+              "programa27-mat-logica-011"
+            ],
+            "1.3": [
+              "programa27-mat-logica-012",
+              "programa27-mat-logica-013",
+              "programa27-mat-logica-014",
+              "programa27-mat-logica-015",
+              "programa27-mat-logica-016"
+            ],
+            "1.4": [
+              "programa27-mat-logica-017",
+              "programa27-mat-logica-019",
+              "programa27-mat-logica-020"
+            ],
+            "1.5": [
+              "programa27-mat-logica-021",
+              "programa27-mat-logica-022",
+              "programa27-mat-logica-023",
+              "programa27-mat-logica-024"
+            ]
+          }
+        },
+        {
+          "id": "M02",
+          "titulo": "Aritmética y proporcionalidad",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 12,
+          "referencias": {
+            "2.1": [
+              "programa27-m02-001",
+              "programa27-m02-002",
+              "programa27-m02-003"
+            ],
+            "2.2": [
+              "programa27-m02-004"
+            ],
+            "2.3": [
+              "programa27-m02-005"
+            ],
+            "2.4": [
+              "programa27-m02-006",
+              "programa27-m02-007"
+            ],
+            "2.5": [
+              "programa27-m02-008",
+              "programa27-m02-009"
+            ],
+            "2.6": [
+              "programa27-m02-010"
+            ],
+            "2.7": [
+              "programa27-m02-011"
+            ],
+            "2.8": [
+              "programa27-m02-012"
+            ]
+          }
+        },
+        {
+          "id": "M03",
+          "titulo": "Sistema métrico decimal",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 4,
+          "referencias": {
+            "3.1": [
+              "programa27-m03-001"
+            ],
+            "3.2": [
+              "programa27-m03-002"
+            ],
+            "3.3": [
+              "programa27-m03-003"
+            ],
+            "3.4": [
+              "programa27-m03-004"
+            ]
+          }
+        },
+        {
+          "id": "M04",
+          "titulo": "Expresiones algebraicas",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 8,
+          "referencias": {
+            "4.1": [
+              "programa27-m04-001"
+            ],
+            "4.2": [
+              "programa27-m04-002"
+            ],
+            "4.3": [
+              "programa27-m04-003",
+              "programa27-m04-004",
+              "programa27-m04-005"
+            ],
+            "4.4": [
+              "programa27-m04-006"
+            ],
+            "4.5": [
+              "programa27-m04-007",
+              "programa27-m04-008"
+            ]
+          }
+        },
+        {
+          "id": "M05",
+          "titulo": "Factorización y fracciones algebraicas",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 15,
+          "referencias": {
+            "5.1.1": [
+              "programa27-m05-001"
+            ],
+            "5.1.2": [
+              "programa27-m05-002"
+            ],
+            "5.1.3": [
+              "programa27-m05-003"
+            ],
+            "5.1.4": [
+              "programa27-m05-004"
+            ],
+            "5.1.5": [
+              "programa27-m05-005"
+            ],
+            "5.1.6": [
+              "programa27-m05-006"
+            ],
+            "5.1.7": [
+              "programa27-m05-007"
+            ],
+            "5.1.8": [
+              "programa27-m05-008"
+            ],
+            "5.1.9": [
+              "programa27-m05-009"
+            ],
+            "5.1.10": [
+              "programa27-m05-010"
+            ],
+            "5.2": [
+              "programa27-m05-011"
+            ],
+            "5.3": [
+              "programa27-m05-012",
+              "programa27-m05-013"
+            ],
+            "5.4": [
+              "programa27-m05-014"
+            ],
+            "5.5": [
+              "programa27-m05-015"
+            ]
+          }
+        },
+        {
+          "id": "M06",
+          "titulo": "Ecuaciones y sistemas lineales y con radicales",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 7,
+          "referencias": {
+            "6.1": [
+              "programa27-m06-001"
+            ],
+            "6.2": [
+              "programa27-m06-002",
+              "programa27-m06-003",
+              "programa27-m06-004"
+            ],
+            "6.3": [
+              "programa27-m06-005",
+              "programa27-m06-006"
+            ],
+            "6.4": [
+              "programa27-m06-007"
+            ]
+          }
+        },
+        {
+          "id": "M07",
+          "titulo": "Ecuaciones y sistemas cuadráticos",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 5,
+          "referencias": {
+            "7.1": [
+              "programa27-m07-001",
+              "programa27-m07-002"
+            ],
+            "7.2": [
+              "programa27-m07-003"
+            ],
+            "7.3": [
+              "programa27-m07-004"
+            ],
+            "7.4": [
+              "programa27-m07-005"
+            ]
+          }
+        },
+        {
+          "id": "M08",
+          "titulo": "Logaritmos y ecuaciones exponenciales",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 6,
+          "referencias": {
+            "8.1": [
+              "programa27-m08-001",
+              "programa27-m08-002"
+            ],
+            "8.2": [
+              "programa27-m08-003",
+              "programa27-m08-004"
+            ],
+            "8.3": [
+              "programa27-m08-005",
+              "programa27-m08-006"
+            ]
+          }
+        },
+        {
+          "id": "M09",
+          "titulo": "Trigonometría",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 10,
+          "referencias": {
+            "9.1": [
+              "programa27-m09-001"
+            ],
+            "9.2": [
+              "programa27-m09-002"
+            ],
+            "9.3": [
+              "programa27-m09-003",
+              "programa27-m09-004"
+            ],
+            "9.4": [
+              "programa27-m09-005"
+            ],
+            "9.5": [
+              "programa27-m09-006"
+            ],
+            "9.6": [
+              "programa27-m09-007"
+            ],
+            "9.7": [
+              "programa27-m09-008"
+            ],
+            "9.8": [
+              "programa27-m09-009",
+              "programa27-m09-010"
+            ]
+          }
+        },
+        {
+          "id": "M10",
+          "titulo": "Estadística, combinatoria y probabilidad",
+          "estado": "con tarjetas; revisión exhaustiva de subtemas pendiente",
+          "tarjetas_nuevas": 10,
+          "referencias": {
+            "10.1": [
+              "programa27-m10-001"
+            ],
+            "10.2": [
+              "programa27-m10-002"
+            ],
+            "10.3": [
+              "programa27-m10-003"
+            ],
+            "10.4": [
+              "programa27-m10-004"
+            ],
+            "10.5": [
+              "programa27-m10-005",
+              "programa27-m10-006"
+            ],
+            "10.6": [
+              "programa27-m10-007"
+            ],
+            "10.7": [
+              "programa27-m10-008"
+            ],
+            "10.8": [
+              "programa27-m10-009"
+            ],
+            "10.9": [
+              "programa27-m10-010"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "tarjetas_nuevas": 777,
+  "tarjetas_originales": 233,
+  "duplicados_excluidos": [
+    {
+      "excluida": "programa27-quimica-atomos-lote01-004",
+      "motivo": "Definición de isótopo ya existente"
+    },
+    {
+      "excluida": "programa27-bio-enzimas-001",
+      "conservada": "bio-0016"
+    },
+    {
+      "excluida": "programa27-mat-logica-018",
+      "conservada": "programa27-mat-logica-017"
+    },
+    {
+      "excluida": "programa27-q06-012",
+      "conservada": "b1-quimica-unidad-6-estados-de-agregacion-cambios-de-estado-001"
+    }
+  ]
+}

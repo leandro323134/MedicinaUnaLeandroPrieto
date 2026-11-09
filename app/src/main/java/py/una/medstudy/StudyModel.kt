@@ -29,7 +29,7 @@ class StudyModel(app: Application) : AndroidViewModel(app) {
         viewModelScope.launch {
             runCatching {
                 withContext(Dispatchers.IO) {
-                    for (name in listOf("starter.json", "tarjetas.json")) {
+                    for (name in listOf("starter.json", "tarjetas.json", "programa_2027.json")) {
                         app.assets.open(name).bufferedReader().use {
                             repository.importCards(it.readText(), updateBundledContent = true)
                         }

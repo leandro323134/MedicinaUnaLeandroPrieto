@@ -118,10 +118,16 @@ class StudyRepositoryTest {
     }
 
     @Test fun allBundledContentAndExamReferencesLoad() = runBlocking {
-        for (name in listOf("starter.json", "tarjetas.json")) {
+        for (name in listOf("starter.json", "tarjetas.json", "programa_2027.json")) {
             context.assets.open(name).bufferedReader().use { repository.importCards(it.readText(), true) }
         }
-        assertEquals(233, repository.dao.allCards().size)
+        val bundledCards = repository.dao.allCards()
+        assertEquals(1010, bundledCards.size)
+        val programCards = bundledCards.filter { it.id.startsWith("programa27-") }
+        assertEquals(777, programCards.size)
+        assertEquals(setOf("Biología", "Física", "Lenguaje", "Matemática", "Química"),
+            programCards.map { it.subject }.toSet())
+        assertTrue(programCards.all { it.source.isNotBlank() && it.explanation.isNotBlank() })
         assertTrue(repository.dao.allCards().any { it.explanation.isNotBlank() && it.contentDifficulty == 3 })
         val exams = loadExams(context)
         assertEquals(7, exams.size)

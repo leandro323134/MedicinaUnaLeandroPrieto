@@ -16,7 +16,7 @@ class StudyUiTest {
 
     @Test fun navigationThemeAndReviewEntryPointsWork() {
         val model = ViewModelProvider(compose.activity)[StudyModel::class.java]
-        compose.waitUntil(20000) { !model.loading && model.cards.value.size == 233 }
+        compose.waitUntil(20000) { !model.loading && model.cards.value.any { it.id.startsWith("programa27-") } }
         compose.onNodeWithText("Ajustes").performClick()
         compose.onNodeWithText("Colores · Verde bosque").performClick()
         compose.onNodeWithText("Azul océano").performClick()
