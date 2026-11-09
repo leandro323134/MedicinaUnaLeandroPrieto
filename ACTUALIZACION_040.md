@@ -23,6 +23,12 @@ La inspección estructural comprobó campos y presencia de referencias. Las 55 p
 
 Queda pendiente el cotejo académico individual en esta fase de 1439 tarjetas y 196 preguntas anteriores. Se recalcularon los 22 ejercicios numéricos o algebraicos de las preguntas nuevas. De sus 52 enlaces distintos, 41 abrieron directamente y 11 devolvieron una restricción de acceso, mantenimiento o error. Esos 11 enlaces requieren una comprobación directa adicional, aunque se dispuso de referencias académicas y extractos en el trabajo previo. De las tarjetas anteriores, 1216 enlazan una referencia web y 233 remiten a apuntes o PDFs. Las 206 preguntas previas remiten a apuntes o PDFs.
 
+## Verificación de la actualización
+
+La [compilación del APK y las pruebas](https://github.com/leandro323134/MedicinaUnaLeandroPrieto/actions/runs/42615674085) terminaron correctamente con **14 pruebas aprobadas**, 0 fallos y 0 omitidas. Incluyen base limpia, migración de Room desde versiones 1 y 2, reapertura con respuestas guardadas, expiración, selección sin duplicados, repaso en sesiones separadas, respaldo, estadísticas y navegación.
+
+El APK es `py.una.medstudy`, versión 0.4.0, código 9. Contiene los cinco archivos de estudio idénticos a los del repositorio y su certificado coincide con el APK 0.3.5, código 8. La prueba de actualización se hizo a nivel de base de datos. La instalación limpia y la actualización desde un APK anterior en un teléfono siguen pendientes.
+
 ## Cómo comprobar en un Redmi 13C
 
 1. En la versión instalada, exportá una copia desde Ajustes y comprobá que podés localizar el JSON. Anotá un dato del historial o contestá una pregunta en un intento nuevo y salí sin entregarlo.
