@@ -27,7 +27,8 @@ Archivos de esta revisión: banco `app/src/main/assets/programa_2027.json`, `cob
 
 - Se comprobaron 1089 IDs distintos y 57 unidades. Se verificó que las 1034 tarjetas anteriores conservan sus campos y que las referencias del mapa apuntan a IDs válidos. Los 119 grupos de Biología tienen al menos una tarjeta vinculada.
 - Se recalcularon los dos volúmenes molares y la velocidad enzimática del refuerzo, y se comprobaron las cargas de las fórmulas de sulfato de aluminio e hidrogenosulfato de calcio.
-- El [registro de compilación y pruebas](https://github.com/leandro323134/MedicinaUnaLeandroPrieto/actions/runs/42555685887) corresponde al commit de la versión 0.3.1. No se ha hecho una prueba de instalación en teléfono físico.
+- El [registro de compilación y pruebas](https://github.com/leandro323134/MedicinaUnaLeandroPrieto/actions/runs/42555685887) corresponde al commit de la versión 0.3.1. Terminó con 9 pruebas aprobadas, 0 fallos y 0 omitidas.
+- El APK contiene los tres bancos idénticos a los del repositorio. Se verificó `py.una.medstudy`, versión 0.3.1, código 4 y el certificado de 0.2.0 corregida. No se ha hecho una prueba de instalación en teléfono físico.
 
 ## Punto de partida y pruebas de la versión 0.3.0
 
