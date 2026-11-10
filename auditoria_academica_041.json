@@ -997,11 +997,14 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "CAPÍTULO 1.pdf",
       "fuente_actual": "Medicina_UNA_Parte_1.pdf, p. 41, organismos modelo",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "Es un hongo eucariota unicelular ampliamente usado en investigación.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": false,
+      "pasaje_consultado": "p. 41, Saccharomyces; p. 55, proximidad/orientación; p. 57, holoenzima; p. 58, Michaelis–Menten; p. 60, inhibición competitiva y no competitiva pura, según el tema de la pregunta."
     },
     {
       "id": "b1-biologia-capitulo-1-biologia-celular-tamano-001",
@@ -1093,11 +1096,14 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "CAPÍTULO 3.pdf",
       "fuente_actual": "Medicina_UNA_Parte_1.pdf, pp. 53–60, capítulo 3, Enzimas y metabolismo",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "Aumenta la probabilidad de encuentros con la geometría adecuada.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": false,
+      "pasaje_consultado": "p. 41, Saccharomyces; p. 55, proximidad/orientación; p. 57, holoenzima; p. 58, Michaelis–Menten; p. 60, inhibición competitiva y no competitiva pura, según el tema de la pregunta."
     },
     {
       "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-cofactores-001",
@@ -1105,11 +1111,14 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "CAPÍTULO 3.pdf",
       "fuente_actual": "Medicina_UNA_Parte_1.pdf, pp. 53–60, capítulo 3, Enzimas y metabolismo",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "La apoenzima es la porción proteica que necesita asociarse con el cofactor.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": false,
+      "pasaje_consultado": "p. 41, Saccharomyces; p. 55, proximidad/orientación; p. 57, holoenzima; p. 58, Michaelis–Menten; p. 60, inhibición competitiva y no competitiva pura, según el tema de la pregunta."
     },
     {
       "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-cinetica-001",
@@ -1117,11 +1126,14 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "CAPÍTULO 3.pdf",
       "fuente_actual": "Medicina_UNA_Parte_1.pdf, pp. 53–60, capítulo 3, Enzimas y metabolismo",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "Al sustituir [S] = Km, el denominador es 2Km.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": false,
+      "pasaje_consultado": "p. 41, Saccharomyces; p. 55, proximidad/orientación; p. 57, holoenzima; p. 58, Michaelis–Menten; p. 60, inhibición competitiva y no competitiva pura, según el tema de la pregunta."
     },
     {
       "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-inhibicion-001",
@@ -1129,11 +1141,14 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "CAPÍTULO 3.pdf",
       "fuente_actual": "Medicina_UNA_Parte_1.pdf, pp. 53–60, capítulo 3, Enzimas y metabolismo",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "Una concentración suficientemente alta de sustrato puede superar la competencia por el sitio activo.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": false,
+      "pasaje_consultado": "p. 41, Saccharomyces; p. 55, proximidad/orientación; p. 57, holoenzima; p. 58, Michaelis–Menten; p. 60, inhibición competitiva y no competitiva pura, según el tema de la pregunta."
     },
     {
       "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-inhibicion-002",
@@ -1141,11 +1156,14 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "CAPÍTULO 3.pdf",
       "fuente_actual": "Medicina_UNA_Parte_1.pdf, pp. 53–60, capítulo 3, Enzimas y metabolismo",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "El exceso de sustrato no recupera la capacidad catalítica perdida. En el caso puro, Km se mantiene.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": false,
+      "pasaje_consultado": "p. 41, Saccharomyces; p. 55, proximidad/orientación; p. 57, holoenzima; p. 58, Michaelis–Menten; p. 60, inhibición competitiva y no competitiva pura, según el tema de la pregunta."
     },
     {
       "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-metabolismo-001",
@@ -1213,11 +1231,14 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
       "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.2 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-2-exponents-and-scientific-notation",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": "1–3"
+      "pagina_anterior": "1–3",
+      "criterio": "Al multiplicar potencias de igual base se suman los exponentes.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": false,
+      "pasaje_consultado": "Reglas de producto, cociente y potencia en §1.2; distributividad y términos semejantes en §1.4; cancelación de factores y denominadores no nulos en §1.6."
     },
     {
       "id": "b1-matematica-algebra-1-exponentes-002",
@@ -1225,11 +1246,14 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
       "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.2 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-2-exponents-and-scientific-notation",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": "1–3"
+      "pagina_anterior": "1–3",
+      "criterio": "El exponente negativo indica el recíproco de la potencia positiva.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": false,
+      "pasaje_consultado": "Reglas de producto, cociente y potencia en §1.2; distributividad y términos semejantes en §1.4; cancelación de factores y denominadores no nulos en §1.6."
     },
     {
       "id": "b1-matematica-algebra-1-exponentes-003",
@@ -1237,11 +1261,14 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
       "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.2 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-2-exponents-and-scientific-notation",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": "1–3"
+      "pagina_anterior": "1–3",
+      "criterio": "Se eleva al cuadrado el coeficiente y se multiplican los exponentes de x.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": false,
+      "pasaje_consultado": "Reglas de producto, cociente y potencia en §1.2; distributividad y términos semejantes en §1.4; cancelación de factores y denominadores no nulos en §1.6."
     },
     {
       "id": "b1-matematica-algebra-1-grado-001",
@@ -1273,11 +1300,14 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
       "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.4 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-4-polynomials",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": "1–3"
+      "pagina_anterior": "1–3",
+      "criterio": "Se restan los coeficientes de términos con la misma parte literal.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": false,
+      "pasaje_consultado": "Reglas de producto, cociente y potencia en §1.2; distributividad y términos semejantes en §1.4; cancelación de factores y denominadores no nulos en §1.6."
     },
     {
       "id": "b1-matematica-algebra-1-multiplicacion-001",
@@ -1285,11 +1315,14 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
       "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.4 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-4-polynomials",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": "1–3"
+      "pagina_anterior": "1–3",
+      "criterio": "El factor 3x multiplica ambos términos del paréntesis.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": false,
+      "pasaje_consultado": "Reglas de producto, cociente y potencia en §1.2; distributividad y términos semejantes en §1.4; cancelación de factores y denominadores no nulos en §1.6."
     },
     {
       "id": "b1-matematica-algebra-1-division-001",
@@ -1297,11 +1330,14 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
       "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.6 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-6-rational-expressions",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": "1–3"
+      "pagina_anterior": "1–3",
+      "criterio": "El producto (x − 2)(x − 3) recupera el numerador.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": false,
+      "pasaje_consultado": "Reglas de producto, cociente y potencia en §1.2; distributividad y términos semejantes en §1.4; cancelación de factores y denominadores no nulos en §1.6."
     },
     {
       "id": "b1-fisica-magnitudes-unidades-y-vectores-magnitudes-001",
@@ -1309,11 +1345,13 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
       "fuente_actual": "OpenStax, college-physics-2e, §3.2 · https://openstax.org/books/college-physics-2e/pages/3-2-vector-addition-and-subtraction-graphical-methods",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "La masa tiene valor y unidad, sin dirección ni sentido.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": false
     },
     {
       "id": "b1-fisica-magnitudes-unidades-y-vectores-sistema-internacional-001",
@@ -1321,11 +1359,15 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
       "fuente_actual": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "La candela mide intensidad luminosa. La dirección en que se mide no convierte esa intensidad en un vector.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": false,
+      "pasaje_consultado": "SI Brochure, 9.ª edición: tabla 2 (candela), tabla 4 (newton y watt), tabla 7 (micro y kilo), tabla 8 (hora = 3600 s).",
+      "pdf_consultado": "https://www.bipm.org/documents/20126/41483022/SI-Brochure-9.pdf"
     },
     {
       "id": "b1-fisica-magnitudes-unidades-y-vectores-unidades-derivadas-001",
@@ -1333,11 +1375,15 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
       "fuente_actual": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "La segunda ley de Newton expresa fuerza como masa por aceleración.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": false,
+      "pasaje_consultado": "SI Brochure, 9.ª edición: tabla 2 (candela), tabla 4 (newton y watt), tabla 7 (micro y kilo), tabla 8 (hora = 3600 s).",
+      "pdf_consultado": "https://www.bipm.org/documents/20126/41483022/SI-Brochure-9.pdf"
     },
     {
       "id": "b1-fisica-magnitudes-unidades-y-vectores-unidades-derivadas-002",
@@ -1345,11 +1391,15 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
       "fuente_actual": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "Un watt es un joule por segundo. Un joule es un newton multiplicado por un metro, N·m.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": false,
+      "pasaje_consultado": "SI Brochure, 9.ª edición: tabla 2 (candela), tabla 4 (newton y watt), tabla 7 (micro y kilo), tabla 8 (hora = 3600 s).",
+      "pdf_consultado": "https://www.bipm.org/documents/20126/41483022/SI-Brochure-9.pdf"
     },
     {
       "id": "b1-fisica-magnitudes-unidades-y-vectores-masa-y-peso-001",
@@ -1357,11 +1407,13 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
       "fuente_actual": "OpenStax, College Physics 2e, §4.3, masa y peso · https://openstax.org/books/college-physics-2e/pages/4-3-newtons-second-law-of-motion-concept-of-a-system",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "El peso depende de la aceleración gravitatoria local.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": false
     },
     {
       "id": "b1-fisica-magnitudes-unidades-y-vectores-prefijos-001",
@@ -1369,11 +1421,15 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
       "fuente_actual": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "El prefijo indica una millonésima de la unidad.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": false,
+      "pasaje_consultado": "SI Brochure, 9.ª edición: tabla 2 (candela), tabla 4 (newton y watt), tabla 7 (micro y kilo), tabla 8 (hora = 3600 s).",
+      "pdf_consultado": "https://www.bipm.org/documents/20126/41483022/SI-Brochure-9.pdf"
     },
     {
       "id": "b1-fisica-magnitudes-unidades-y-vectores-vectores-001",
@@ -1381,11 +1437,13 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
       "fuente_actual": "OpenStax, college-physics-2e, §3.2 · https://openstax.org/books/college-physics-2e/pages/3-2-vector-addition-and-subtraction-graphical-methods",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "Conservan el módulo y la dirección de su recta, pero apuntan en sentidos contrarios.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": false
     },
     {
       "id": "b1-fisica-magnitudes-unidades-y-vectores-suma-grafica-001",
@@ -1393,11 +1451,13 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
       "fuente_actual": "OpenStax, college-physics-2e, §3.2 · https://openstax.org/books/college-physics-2e/pages/3-2-vector-addition-and-subtraction-graphical-methods",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "Se colocan los vectores punta con origen, conservando su módulo, dirección y sentido.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": false
     },
     {
       "id": "b1-fisica-magnitudes-unidades-y-vectores-resta-grafica-001",
@@ -1405,11 +1465,13 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
       "fuente_actual": "OpenStax, college-physics-2e, §3.2 · https://openstax.org/books/college-physics-2e/pages/3-2-vector-addition-and-subtraction-graphical-methods",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "Al sumar ese desplazamiento a B se llega al extremo de A.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": false
     },
     {
       "id": "b1-fisica-magnitudes-unidades-y-vectores-ley-del-coseno-001",
@@ -1417,11 +1479,13 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
       "fuente_actual": "OpenStax, college-physics-2e, §3.3 · https://openstax.org/books/college-physics-2e/pages/3-3-vector-addition-and-subtraction-analytical-methods",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "El coseno es negativo. En el cuadrado del módulo de la diferencia aparece −2AB cos θ, que es positivo. Por componentes o producto escalar, |A−B|²−|A+B|² = −4AB cos θ > 0 cuando θ es obtuso y los vectores no son nulos.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": false
     },
     {
       "id": "b1-fisica-magnitudes-unidades-y-vectores-componentes-001",
@@ -1429,11 +1493,13 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
       "fuente_actual": "OpenStax, college-physics-2e, §3.3 · https://openstax.org/books/college-physics-2e/pages/3-3-vector-addition-and-subtraction-analytical-methods",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "Su componente horizontal apunta a la izquierda y la vertical hacia arriba.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": false
     },
     {
       "id": "b1-fisica-magnitudes-unidades-y-vectores-componentes-002",
@@ -1441,11 +1507,13 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
       "fuente_actual": "OpenStax, college-physics-2e, §3.3 · https://openstax.org/books/college-physics-2e/pages/3-3-vector-addition-and-subtraction-analytical-methods",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "El ángulo de referencia es aproximadamente 70°. En el segundo cuadrante corresponde a 180° − 70°.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": true
     },
     {
       "id": "b1-lenguaje-precision-semantica-y-vocabulario-palabras-baul-001",
@@ -2233,11 +2301,13 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
       "fuente_actual": "OpenStax, college-physics-2e, §3.3 · https://openstax.org/books/college-physics-2e/pages/3-3-vector-addition-and-subtraction-analytical-methods",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "Se calcula √(3² + (-4)²). El signo afecta el sentido, pero los cuadrados son positivos.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": true
     },
     {
       "id": "b1-fisica-magnitudes-unidades-y-vectores-componentes-004",
@@ -2245,11 +2315,13 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
       "fuente_actual": "OpenStax, college-physics-2e, §3.3 · https://openstax.org/books/college-physics-2e/pages/3-3-vector-addition-and-subtraction-analytical-methods",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "Se calcula √(5² + (-12)²). El signo afecta el sentido, pero los cuadrados son positivos.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": true
     },
     {
       "id": "b1-fisica-magnitudes-unidades-y-vectores-componentes-005",
@@ -2257,11 +2329,13 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
       "fuente_actual": "OpenStax, college-physics-2e, §3.3 · https://openstax.org/books/college-physics-2e/pages/3-3-vector-addition-and-subtraction-analytical-methods",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "Se calcula √(8² + (-15)²). El signo afecta el sentido, pero los cuadrados son positivos.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": true
     },
     {
       "id": "b1-fisica-magnitudes-unidades-y-vectores-componentes-006",
@@ -2269,11 +2343,13 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
       "fuente_actual": "OpenStax, college-physics-2e, §3.3 · https://openstax.org/books/college-physics-2e/pages/3-3-vector-addition-and-subtraction-analytical-methods",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "Se calcula √(7² + (-24)²). El signo afecta el sentido, pero los cuadrados son positivos.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": true
     },
     {
       "id": "b1-fisica-magnitudes-unidades-y-vectores-conversion-001",
@@ -2281,11 +2357,15 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
       "fuente_actual": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "Se multiplica por 1000/3600: 18 ÷ 3,6 = 5.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": true,
+      "pasaje_consultado": "SI Brochure, 9.ª edición: tabla 2 (candela), tabla 4 (newton y watt), tabla 7 (micro y kilo), tabla 8 (hora = 3600 s).",
+      "pdf_consultado": "https://www.bipm.org/documents/20126/41483022/SI-Brochure-9.pdf"
     },
     {
       "id": "b1-fisica-magnitudes-unidades-y-vectores-conversion-002",
@@ -2293,11 +2373,15 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
       "fuente_actual": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "Se multiplica por 1000/3600: 36 ÷ 3,6 = 10.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": true,
+      "pasaje_consultado": "SI Brochure, 9.ª edición: tabla 2 (candela), tabla 4 (newton y watt), tabla 7 (micro y kilo), tabla 8 (hora = 3600 s).",
+      "pdf_consultado": "https://www.bipm.org/documents/20126/41483022/SI-Brochure-9.pdf"
     },
     {
       "id": "b1-fisica-magnitudes-unidades-y-vectores-conversion-003",
@@ -2305,11 +2389,15 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
       "fuente_actual": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "Se multiplica por 1000/3600: 54 ÷ 3,6 = 15.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": true,
+      "pasaje_consultado": "SI Brochure, 9.ª edición: tabla 2 (candela), tabla 4 (newton y watt), tabla 7 (micro y kilo), tabla 8 (hora = 3600 s).",
+      "pdf_consultado": "https://www.bipm.org/documents/20126/41483022/SI-Brochure-9.pdf"
     },
     {
       "id": "b1-fisica-magnitudes-unidades-y-vectores-conversion-004",
@@ -2317,11 +2405,15 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
       "fuente_actual": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "Se multiplica por 1000/3600: 72 ÷ 3,6 = 20.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": true,
+      "pasaje_consultado": "SI Brochure, 9.ª edición: tabla 2 (candela), tabla 4 (newton y watt), tabla 7 (micro y kilo), tabla 8 (hora = 3600 s).",
+      "pdf_consultado": "https://www.bipm.org/documents/20126/41483022/SI-Brochure-9.pdf"
     },
     {
       "id": "b1-fisica-magnitudes-unidades-y-vectores-conversion-005",
@@ -2329,11 +2421,15 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
       "fuente_actual": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "Se multiplica por 1000/3600: 90 ÷ 3,6 = 25.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": true,
+      "pasaje_consultado": "SI Brochure, 9.ª edición: tabla 2 (candela), tabla 4 (newton y watt), tabla 7 (micro y kilo), tabla 8 (hora = 3600 s).",
+      "pdf_consultado": "https://www.bipm.org/documents/20126/41483022/SI-Brochure-9.pdf"
     },
     {
       "id": "b1-fisica-magnitudes-unidades-y-vectores-conversion-006",
@@ -2341,11 +2437,15 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
       "fuente_actual": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "Se multiplica por 1000/3600: 108 ÷ 3,6 = 30.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": true,
+      "pasaje_consultado": "SI Brochure, 9.ª edición: tabla 2 (candela), tabla 4 (newton y watt), tabla 7 (micro y kilo), tabla 8 (hora = 3600 s).",
+      "pdf_consultado": "https://www.bipm.org/documents/20126/41483022/SI-Brochure-9.pdf"
     },
     {
       "id": "b1-fisica-magnitudes-unidades-y-vectores-conversion-007",
@@ -2353,11 +2453,15 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
       "fuente_actual": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "Se multiplica por 1000/3600: 126 ÷ 3,6 = 35.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": true,
+      "pasaje_consultado": "SI Brochure, 9.ª edición: tabla 2 (candela), tabla 4 (newton y watt), tabla 7 (micro y kilo), tabla 8 (hora = 3600 s).",
+      "pdf_consultado": "https://www.bipm.org/documents/20126/41483022/SI-Brochure-9.pdf"
     },
     {
       "id": "b1-matematica-algebra-1-exponentes-004",
@@ -2365,11 +2469,14 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
       "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.2 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-2-exponents-and-scientific-notation",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "Se restan los exponentes: 5 − 2 = 3.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": true,
+      "pasaje_consultado": "Reglas de producto, cociente y potencia en §1.2; distributividad y términos semejantes en §1.4; cancelación de factores y denominadores no nulos en §1.6."
     },
     {
       "id": "b1-matematica-algebra-1-exponentes-005",
@@ -2377,11 +2484,14 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
       "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.2 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-2-exponents-and-scientific-notation",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "Se restan los exponentes: 6 − 4 = 2.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": true,
+      "pasaje_consultado": "Reglas de producto, cociente y potencia en §1.2; distributividad y términos semejantes en §1.4; cancelación de factores y denominadores no nulos en §1.6."
     },
     {
       "id": "b1-matematica-algebra-1-exponentes-006",
@@ -2389,11 +2499,14 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
       "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.2 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-2-exponents-and-scientific-notation",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "Se restan los exponentes: 8 − 3 = 5.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": true,
+      "pasaje_consultado": "Reglas de producto, cociente y potencia en §1.2; distributividad y términos semejantes en §1.4; cancelación de factores y denominadores no nulos en §1.6."
     },
     {
       "id": "b1-matematica-algebra-1-exponentes-007",
@@ -2401,11 +2514,14 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
       "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.2 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-2-exponents-and-scientific-notation",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "Se restan los exponentes: 7 − 6 = 1.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": true,
+      "pasaje_consultado": "Reglas de producto, cociente y potencia en §1.2; distributividad y términos semejantes en §1.4; cancelación de factores y denominadores no nulos en §1.6."
     },
     {
       "id": "b1-matematica-algebra-1-exponentes-008",
@@ -2413,11 +2529,14 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
       "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.2 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-2-exponents-and-scientific-notation",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "Se restan los exponentes: 9 − 2 = 7.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": true,
+      "pasaje_consultado": "Reglas de producto, cociente y potencia en §1.2; distributividad y términos semejantes en §1.4; cancelación de factores y denominadores no nulos en §1.6."
     },
     {
       "id": "b1-matematica-algebra-1-multiplicacion-002",
@@ -2425,11 +2544,14 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
       "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.4 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-4-polynomials",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "Se distribuye 2x a x y a 7.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": true,
+      "pasaje_consultado": "Reglas de producto, cociente y potencia en §1.2; distributividad y términos semejantes en §1.4; cancelación de factores y denominadores no nulos en §1.6."
     },
     {
       "id": "b1-matematica-algebra-1-multiplicacion-003",
@@ -2437,11 +2559,14 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
       "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.4 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-4-polynomials",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "Se distribuye 3x a x y a 4.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": true,
+      "pasaje_consultado": "Reglas de producto, cociente y potencia en §1.2; distributividad y términos semejantes en §1.4; cancelación de factores y denominadores no nulos en §1.6."
     },
     {
       "id": "b1-matematica-algebra-1-multiplicacion-004",
@@ -2449,11 +2574,14 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
       "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.4 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-4-polynomials",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "Se distribuye 5x a x y a 6.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": true,
+      "pasaje_consultado": "Reglas de producto, cociente y potencia en §1.2; distributividad y términos semejantes en §1.4; cancelación de factores y denominadores no nulos en §1.6."
     },
     {
       "id": "b1-matematica-algebra-1-multiplicacion-005",
@@ -2461,11 +2589,14 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
       "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.4 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-4-polynomials",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "Se distribuye 7x a x y a 8.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": true,
+      "pasaje_consultado": "Reglas de producto, cociente y potencia en §1.2; distributividad y términos semejantes en §1.4; cancelación de factores y denominadores no nulos en §1.6."
     },
     {
       "id": "b1-matematica-algebra-1-multiplicacion-006",
@@ -2473,11 +2604,14 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
       "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.4 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-4-polynomials",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "Se distribuye 4x a x y a 9.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": true,
+      "pasaje_consultado": "Reglas de producto, cociente y potencia en §1.2; distributividad y términos semejantes en §1.4; cancelación de factores y denominadores no nulos en §1.6."
     },
     {
       "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-cinetica-002",
@@ -2485,11 +2619,14 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "CAPÍTULO 3.pdf",
       "fuente_actual": "Medicina_UNA_Parte_1.pdf, pp. 53–60, capítulo 3, Enzimas y metabolismo",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "En Michaelis–Menten, si [S] = Km, v es Vmax/2.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": false,
+      "pasaje_consultado": "p. 41, Saccharomyces; p. 55, proximidad/orientación; p. 57, holoenzima; p. 58, Michaelis–Menten; p. 60, inhibición competitiva y no competitiva pura, según el tema de la pregunta."
     },
     {
       "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-cinetica-003",
@@ -2497,11 +2634,14 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "CAPÍTULO 3.pdf",
       "fuente_actual": "Medicina_UNA_Parte_1.pdf, pp. 53–60, capítulo 3, Enzimas y metabolismo",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "En Michaelis–Menten, si [S] = Km, v es Vmax/2.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": false,
+      "pasaje_consultado": "p. 41, Saccharomyces; p. 55, proximidad/orientación; p. 57, holoenzima; p. 58, Michaelis–Menten; p. 60, inhibición competitiva y no competitiva pura, según el tema de la pregunta."
     },
     {
       "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-cinetica-004",
@@ -2509,11 +2649,14 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "CAPÍTULO 3.pdf",
       "fuente_actual": "Medicina_UNA_Parte_1.pdf, pp. 53–60, capítulo 3, Enzimas y metabolismo",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "En Michaelis–Menten, si [S] = Km, v es Vmax/2.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": false,
+      "pasaje_consultado": "p. 41, Saccharomyces; p. 55, proximidad/orientación; p. 57, holoenzima; p. 58, Michaelis–Menten; p. 60, inhibición competitiva y no competitiva pura, según el tema de la pregunta."
     },
     {
       "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-cinetica-005",
@@ -2521,11 +2664,14 @@
         "tarjetas",
         "preguntas"
       ],
-      "estado": "revision_semantica",
+      "estado": "cotejo_fuente",
       "fuente_anterior": "CAPÍTULO 3.pdf",
       "fuente_actual": "Medicina_UNA_Parte_1.pdf, pp. 53–60, capítulo 3, Enzimas y metabolismo",
-      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
-      "pagina_anterior": ""
+      "pagina_anterior": "",
+      "criterio": "En Michaelis–Menten, si [S] = Km, v es Vmax/2.",
+      "fecha_cierre_cotejo": "2026-11-10",
+      "recalculo_adicional": false,
+      "pasaje_consultado": "p. 41, Saccharomyces; p. 55, proximidad/orientación; p. 57, holoenzima; p. 58, Michaelis–Menten; p. 60, inhibición competitiva y no competitiva pura, según el tema de la pregunta."
     },
     {
       "id": "practica041-b02-001",
@@ -4345,5 +4491,33 @@
     "correspondencia_programa": "Se explicita en metadatos la unidad y referencia ya indicada en page, con comprobación contra el mapa. No agrega un cotejo académico del enunciado."
   },
   "alcance": "No se certifican como revisadas las 1449 tarjetas. Los avances históricos se conservan en COBERTURA_2027.md y ACTUALIZACION_040.md; no se suman automáticamente para evitar duplicar IDs.",
-  "ultima_actualizacion": "2026-11-10"
+  "ultima_actualizacion": "2026-11-10",
+  "cierre_adicional": {
+    "parejas_heredadas_con_cotejo_externo": 49,
+    "recalculos_adicionales": [
+      "b1-fisica-magnitudes-unidades-y-vectores-componentes-002",
+      "b1-fisica-magnitudes-unidades-y-vectores-componentes-003",
+      "b1-fisica-magnitudes-unidades-y-vectores-componentes-004",
+      "b1-fisica-magnitudes-unidades-y-vectores-componentes-005",
+      "b1-fisica-magnitudes-unidades-y-vectores-componentes-006",
+      "b1-fisica-magnitudes-unidades-y-vectores-conversion-001",
+      "b1-fisica-magnitudes-unidades-y-vectores-conversion-002",
+      "b1-fisica-magnitudes-unidades-y-vectores-conversion-003",
+      "b1-fisica-magnitudes-unidades-y-vectores-conversion-004",
+      "b1-fisica-magnitudes-unidades-y-vectores-conversion-005",
+      "b1-fisica-magnitudes-unidades-y-vectores-conversion-006",
+      "b1-fisica-magnitudes-unidades-y-vectores-conversion-007",
+      "b1-matematica-algebra-1-exponentes-004",
+      "b1-matematica-algebra-1-exponentes-005",
+      "b1-matematica-algebra-1-exponentes-006",
+      "b1-matematica-algebra-1-exponentes-007",
+      "b1-matematica-algebra-1-exponentes-008",
+      "b1-matematica-algebra-1-multiplicacion-002",
+      "b1-matematica-algebra-1-multiplicacion-003",
+      "b1-matematica-algebra-1-multiplicacion-004",
+      "b1-matematica-algebra-1-multiplicacion-005",
+      "b1-matematica-algebra-1-multiplicacion-006"
+    ],
+    "nota": "49 IDs: 23 de Física, 16 de Matemática y 10 de Biología. Es un conteo de esta revisión, no 49 elementos necesariamente nuevos respecto de muestras históricas."
+  }
 }

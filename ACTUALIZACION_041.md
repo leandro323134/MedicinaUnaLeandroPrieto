@@ -67,6 +67,15 @@ Esta revisión semántica **no se presenta como un cotejo externo completo de
 todas sus explicaciones**. El registro separa ambos estados para no duplicar
 ni exagerar avances anteriores.
 
+Durante el cierre se completó el cotejo externo de **49 parejas heredadas**:
+23 de Física, 16 de Matemática y diez de Biología. Se consultaron las tablas
+2, 4, 7 y 8 del PDF oficial del SI, las reglas y métodos de OpenStax indicados
+en cada registro, y los pasajes de enzimas y organismos modelo del primer PDF.
+Se hicieron además 22 recálculos sobre conversiones, componentes, exponentes
+y distributividad de ese banco. Los IDs y criterios están en
+`auditoria_academica_041.json`. Ese conteo corresponde a esta revisión y puede
+coincidir parcialmente con muestras históricas; no se suman como elementos nuevos.
+
 Las 50 preguntas nuevas tienen cotejo de sus conceptos con los pasajes citados.
 Se consultaron, entre otros, Biology 2e §§3.4, 4.4–4.5, 5.2–5.3, 7.4, 10.2 y
 15.2; Organic Chemistry §§9.5, 16.4, 17.7, 19.8, 21.6–21.7, 24.3, 25.8,
@@ -120,8 +129,41 @@ al esperar el resultado de la importación, ahora mediante `runOnIdle`.
 
 La compilación local sin `APP_DEBUG_KEYSTORE` genera un APK sin firma, sin crear
 una clave nueva. El workflow recupera la clave conservada, verifica su huella y
-reporta la disponibilidad del respaldo sin exponer secretos. El resultado de la
-entrega firmada se documentará después de verificar el artefacto final.
+reporta la disponibilidad del respaldo sin exponer secretos.
+
+### Entrega verificada
+
+- Código compilado: `d0df89c444d614cbad009020dec6d2155d904114`.
+- [GitHub Actions 42788409166](https://github.com/leandro323134/MedicinaUnaLeandroPrieto/actions/runs/42788409166):
+  compilación correcta, **15 pruebas, 0 fallos, 0 omitidas**. También aprobó
+  el validador de contenido. La ejecución local final terminó correctamente.
+- [APK firmado en el artefacto MedicinaUNA-debug-apk](https://github.com/leandro323134/MedicinaUnaLeandroPrieto/actions/runs/42788409166/artifacts/13751025927):
+  descomprimir `MedicinaUNA-actualizacion.apk`. El artefacto tiene vencimiento
+  informado por GitHub el 8 de febrero de 2027; requiere acceso a Actions.
+- SHA-256 del APK: `be522fd41bf0c02533e960fc0e5d217042b3c126ae5916a154ccf43c7b122d9d`.
+- `aapt`: `py.una.medstudy`, versionName 0.4.1, versionCode 10, minSdk 26, targetSdk 35.
+- `apksigner`: firma v2 válida, un firmante; certificado SHA-256
+  `d6f4196df346ad76b899acf646eb6ec7c4f5deb842b8a17529575669b9a2d791`.
+  Se descargó nuevamente el APK público 0.4.0, se comprobó su SHA-256 contra
+  el traspaso y se cotejó el certificado: coincide.
+- `starter.json`, `tarjetas.json`, `programa_2027.json`, `preguntas.json`,
+  `simulacros.json` y `guia.md` del APK coinciden byte por byte con el repositorio.
+  Las huellas se registran en `VERIFICACION_041.json`.
+- La clave se recuperó de `medicina-debug-signing-v2`. El workflow informó
+  **MEDICINA_SIGNING_KEYSTORE_BASE64 no disponible**. No se mostró ni exportó
+  la clave privada. Se necesita un respaldo persistente autorizado para no
+  depender de que la caché siga disponible.
+
+**Implementado:** contenido, referencias, versión visible y controles de firma.
+**Compilado:** APK local sin firma y artefacto CI firmado.
+**Probado automáticamente:** 15 pruebas y validador de contenido.
+**Inspeccionado manualmente:** enunciados, explicaciones y pasajes de fuentes
+con el alcance indicado arriba; revisión del paquete, certificado e igualdad
+de assets mediante herramientas. **Instalación manual y dispositivo físico:**
+no realizados. Robolectric no sustituye esas comprobaciones.
+
+La actualización posterior de este informe y del registro académico no cambia
+el código ni los assets del commit compilado.
 
 ## Pendientes reales
 
@@ -137,6 +179,8 @@ entrega firmada se documentará después de verificar el artefacto final.
   ajustes, respuestas, posición y vencimiento. Usar otro dispositivo o perfil
   para la instalación limpia.
 - La compatibilidad con 0.3.5/0.4.0 no recupera la firma de la primera versión histórica.
+- Configurar el respaldo privado de la clave: el secreto no estuvo disponible
+  en esta ejecución; la caché permitió firmar esta entrega.
 
 Archivos principales: cuatro bancos JSON, `MainActivity.kt`, `app/build.gradle.kts`,
 las dos clases de pruebas, `.github/workflows/android-apk.yml`, los dos scripts

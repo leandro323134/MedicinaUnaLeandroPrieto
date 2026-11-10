@@ -1,0 +1,41 @@
+{
+  "fecha": "2026-11-10",
+  "rama": "actualizacion-estudio",
+  "commit_compilado": "d0df89c444d614cbad009020dec6d2155d904114",
+  "workflow": "https://github.com/leandro323134/MedicinaUnaLeandroPrieto/actions/runs/42788409166",
+  "artefacto": "https://github.com/leandro323134/MedicinaUnaLeandroPrieto/actions/runs/42788409166/artifacts/13751025927",
+  "apk": "MedicinaUNA-actualizacion.apk",
+  "sha256_apk": "be522fd41bf0c02533e960fc0e5d217042b3c126ae5916a154ccf43c7b122d9d",
+  "applicationId": "py.una.medstudy",
+  "versionName": "0.4.1",
+  "versionCode": 10,
+  "minSdk": 26,
+  "targetSdk": 35,
+  "certificado_sha256": "d6f4196df346ad76b899acf646eb6ec7c4f5deb842b8a17529575669b9a2d791",
+  "firma_v2_valida": true,
+  "certificado_cotejado_con": "APK público 0.4.0, cuyo SHA-256 coincide con 631e03be03849c91fd0f9b2712cd86531d9cf9343ad177038a4863743932263c",
+  "origen_clave": "caché medicina-debug-signing-v2",
+  "secreto_respaldo_disponible_en_workflow": false,
+  "pruebas_locales": {
+    "total": 15,
+    "fallos": 0,
+    "omitidas": 0
+  },
+  "pruebas_ci": {
+    "total": 15,
+    "fallos": 0,
+    "omitidas": 0
+  },
+  "validador_contenido": "aprobado localmente y en CI; 23 recálculos/contrastes del lote nuevo",
+  "assets_identicos_sha256": {
+    "starter.json": "41c2c423d0c658f233059ebbb95f31bcf6fedb7a59d31e53dd337e5e698e887d",
+    "tarjetas.json": "89406a500a4ef9171bc92eba36abb1a8e3a6b1c8378cf9edb22c2a69583f0465",
+    "programa_2027.json": "90d683d389985622c9f0fbca3f408af92583728cfc9c2eb112671926341c4b41",
+    "preguntas.json": "23e6f3b0e58014cb1a1bd84f1679a0988317820b27dd190f3488fe9c1cd44afb",
+    "simulacros.json": "ee1416734a7e817ba383d36445e905b20857c618e84bf1f53b8b24347331e8c3",
+    "guia.md": "e115267a40883fae1c1f77a02c20f4edebd2d13d8cada6971ef7356e22dc0f4c"
+  },
+  "instalacion_limpia_en_dispositivo_fisico": false,
+  "actualizacion_sobre_dispositivo_fisico": false,
+  "alcance": "Pruebas Robolectric y comparación de APK; no prueban instalación sobre el Redmi 13C ni compatibilidad con la primera firma histórica."
+}
