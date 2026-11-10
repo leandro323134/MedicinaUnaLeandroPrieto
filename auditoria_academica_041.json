@@ -1,0 +1,4349 @@
+{
+  "fecha": "2026-11-09",
+  "base": "8074582cf857e40a42f567934ee687bfc9cdf41c",
+  "preguntas_nuevas": [
+    "practica041-b02-001",
+    "practica041-b02-002",
+    "practica041-b05-001",
+    "practica041-b05-002",
+    "practica041-b05-003",
+    "practica041-b06-001",
+    "practica041-b07-001",
+    "practica041-b09-001",
+    "practica041-b11-001",
+    "practica041-b14-001",
+    "practica041-f03-001",
+    "practica041-f03-002",
+    "practica041-f04-001",
+    "practica041-f04-002",
+    "practica041-f05-001",
+    "practica041-f06-001",
+    "practica041-f07-001",
+    "practica041-f08-001",
+    "practica041-f09-001",
+    "practica041-f10-001",
+    "practica041-m01-001",
+    "practica041-m02-001",
+    "practica041-m03-001",
+    "practica041-m04-001",
+    "practica041-m05-001",
+    "practica041-m06-001",
+    "practica041-m07-001",
+    "practica041-m08-001",
+    "practica041-m09-001",
+    "practica041-m10-001",
+    "practica041-q14-001",
+    "practica041-q14-002",
+    "practica041-q14-003",
+    "practica041-q15-001",
+    "practica041-q15-002",
+    "practica041-q16-001",
+    "practica041-q16-002",
+    "practica041-q16-003",
+    "practica041-q17-001",
+    "practica041-q17-002",
+    "practica041-l04-001",
+    "practica041-l04-002",
+    "practica041-l04-003",
+    "practica041-l04-004",
+    "practica041-l05-001",
+    "practica041-l05-002",
+    "practica041-l05-003",
+    "practica041-l05-004",
+    "practica041-l05-005",
+    "practica041-l04-005"
+  ],
+  "nota": "La validación estructural y la accesibilidad se registran separadas del cotejo académico individual.",
+  "revisiones": [
+    {
+      "id": "b1-quimica-unidad-1-materia-y-energia-sustancias-y-mezclas-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 1 Materia y Energía.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §1.2 · https://openstax.org/books/chemistry-2e/pages/1-2-phases-and-classification-of-matter",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-1-materia-y-energia-cambios-de-estado-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 1 Materia y Energía.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §1.3 · https://openstax.org/books/chemistry-2e/pages/1-3-physical-and-chemical-properties",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-1-materia-y-energia-propiedades-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 1 Materia y Energía.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §1.3 · https://openstax.org/books/chemistry-2e/pages/1-3-physical-and-chemical-properties",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-1-materia-y-energia-separacion-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 1 Materia y Energía.pdf",
+      "fuente_actual": "OpenStax, Chemistry 2e, §11.4, destilación · https://openstax.org/books/chemistry-2e/pages/11-4-colligative-properties",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-2-estructura-atomica-y-tabla-periodica-nucleo-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §2.3 · https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-2-estructura-atomica-y-tabla-periodica-isotopos-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §2.3 · https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-2-estructura-atomica-y-tabla-periodica-iones-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §2.3 · https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-2-estructura-atomica-y-tabla-periodica-configuracion-electronica-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
+      "fuente_actual": "OpenStax, Chemistry 2e, §6.4 · https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-2-estructura-atomica-y-tabla-periodica-tendencias-periodicas-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §6.5 · https://openstax.org/books/chemistry-2e/pages/6-5-periodic-variations-in-element-properties",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-2-estructura-atomica-y-tabla-periodica-tendencias-periodicas-002",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §6.5 · https://openstax.org/books/chemistry-2e/pages/6-5-periodic-variations-in-element-properties",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-3-nomenclatura-inorganica-oxidos-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 3 nomenclatura Inorgánica.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §2.7 · https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-3-nomenclatura-inorganica-hidroxidos-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 3 nomenclatura Inorgánica.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §2.7 · https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-3-nomenclatura-inorganica-oxoacidos-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 3 nomenclatura Inorgánica.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §4.2 · https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-3-nomenclatura-inorganica-sales-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 3 nomenclatura Inorgánica.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §2.6 · https://openstax.org/books/chemistry-2e/pages/2-6-molecular-and-ionic-compounds",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-4-enlace-quimico-lewis-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 4 Enlace químico.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §7.3 · https://openstax.org/books/chemistry-2e/pages/7-3-lewis-symbols-and-structures",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-4-enlace-quimico-carga-formal-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 4 Enlace químico.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §7.4 · https://openstax.org/books/chemistry-2e/pages/7-4-formal-charges-and-resonance",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-4-enlace-quimico-geometria-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 4 Enlace químico.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §7.6 · https://openstax.org/books/chemistry-2e/pages/7-6-molecular-structure-and-polarity",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-4-enlace-quimico-polaridad-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 4 Enlace químico.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §7.6 · https://openstax.org/books/chemistry-2e/pages/7-6-molecular-structure-and-polarity",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-4-enlace-quimico-fuerzas-intermoleculares-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 4 Enlace químico.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §10.1 · https://openstax.org/books/chemistry-2e/pages/10-1-intermolecular-forces",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-5-reacciones-quimicas-balanceo-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 5 Reacciones.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §4.1 · https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-5-reacciones-quimicas-balanceo-002",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 5 Reacciones.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §4.1 · https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-5-reacciones-quimicas-redox-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 5 Reacciones.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §4.2 · https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-5-reacciones-quimicas-precipitacion-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 5 Reacciones.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §4.2 · https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-6-estados-de-agregacion-gases-ideales-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 6  Estado de Agregación.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §9.2 · https://openstax.org/books/chemistry-2e/pages/9-2-relating-pressure-volume-amount-and-temperature-the-ideal-gas-law",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-6-estados-de-agregacion-temperatura-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 6  Estado de Agregación.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §9.2 · https://openstax.org/books/chemistry-2e/pages/9-2-relating-pressure-volume-amount-and-temperature-the-ideal-gas-law",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-6-estados-de-agregacion-cambios-de-estado-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 6  Estado de Agregación.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §10.3 · https://openstax.org/books/chemistry-2e/pages/10-3-phase-transitions",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-6-estados-de-agregacion-solidos-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 6  Estado de Agregación.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §10.5 · https://openstax.org/books/chemistry-2e/pages/10-5-the-solid-state-of-matter",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-7-soluciones-concentracion-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 7 Soluciones.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §3.3 · https://openstax.org/books/chemistry-2e/pages/3-3-molarity",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-7-soluciones-concentracion-002",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 7 Soluciones.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §11.4 · https://openstax.org/books/chemistry-2e/pages/11-4-colligative-properties",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-7-soluciones-dilucion-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 7 Soluciones.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §3.3 · https://openstax.org/books/chemistry-2e/pages/3-3-molarity",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-7-soluciones-coligativas-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 7 Soluciones.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §11.4 · https://openstax.org/books/chemistry-2e/pages/11-4-colligative-properties",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-8-acidos-y-bases-brnsted-lowry-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 8 Ácido - Base.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §14.1 · https://openstax.org/books/chemistry-2e/pages/14-1-bronsted-lowry-acids-and-bases",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-8-acidos-y-bases-pares-conjugados-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 8 Ácido - Base.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §14.1 · https://openstax.org/books/chemistry-2e/pages/14-1-bronsted-lowry-acids-and-bases",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-8-acidos-y-bases-fuerza-y-concentracion-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 8 Ácido - Base.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §14.3 · https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-8-acidos-y-bases-ph-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 8 Ácido - Base.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §14.2 · https://openstax.org/books/chemistry-2e/pages/14-2-ph-and-poh",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-9-estequiometria-mol-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 9 Estequiometría.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §3.1 · https://openstax.org/books/chemistry-2e/pages/3-1-formula-mass-and-the-mole-concept",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-9-estequiometria-limitante-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 9 Estequiometría.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §4.4 · https://openstax.org/books/chemistry-2e/pages/4-4-reaction-yields",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-9-estequiometria-rendimiento-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 9 Estequiometría.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §4.4 · https://openstax.org/books/chemistry-2e/pages/4-4-reaction-yields",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-9-estequiometria-formula-empirica-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 9 Estequiometría.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §3.2 · https://openstax.org/books/chemistry-2e/pages/3-2-determining-empirical-and-molecular-formulas",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-10-cinetica-quimica-ley-de-velocidad-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 10 - Cinetica Química.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §12.3 · https://openstax.org/books/chemistry-2e/pages/12-3-rate-laws",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-10-cinetica-quimica-temperatura-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 10 - Cinetica Química.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §12.5 · https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-10-cinetica-quimica-catalisis-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 10 - Cinetica Química.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §12.7 · https://openstax.org/books/chemistry-2e/pages/12-7-catalysis",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-10-cinetica-quimica-orden-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 10 - Cinetica Química.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §12.3 · https://openstax.org/books/chemistry-2e/pages/12-3-rate-laws",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-11-equilibrio-quimico-equilibrio-dinamico-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 11 - Equilibrio Químico.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §13.1 · https://openstax.org/books/chemistry-2e/pages/13-1-chemical-equilibria",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-11-equilibrio-quimico-cociente-de-reaccion-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 11 - Equilibrio Químico.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §13.2 · https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-11-equilibrio-quimico-equilibrio-heterogeneo-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 11 - Equilibrio Químico.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §13.2 · https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-11-equilibrio-quimico-le-chatelier-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 11 - Equilibrio Químico.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §13.3 · https://openstax.org/books/chemistry-2e/pages/13-3-shifting-equilibria-le-chateliers-principle",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-12-termodinamica-sistema-y-entorno-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 12 Termodinámica.pdf",
+      "fuente_actual": "OpenStax, Biology 2e, §6.3, sistemas abiertos y cerrados · https://openstax.org/books/biology-2e/pages/6-3-the-laws-of-thermodynamics",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-12-termodinamica-entalpia-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 12 Termodinámica.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §5.3 · https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-12-termodinamica-ley-de-hess-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 12 Termodinámica.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §5.3 · https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-12-termodinamica-gibbs-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 12 Termodinámica.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §16.4 · https://openstax.org/books/chemistry-2e/pages/16-4-free-energy",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-estructura-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Anot Unidad 13  - Generalidades_261102_190051.pdf",
+      "fuente_actual": "OpenStax, organic-chemistry, §1.8 · https://openstax.org/books/organic-chemistry/pages/1-8-sp2-hybrid-orbitals-and-the-structure-of-ethylene",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-isomeria-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Repaso_Interactivo_Isomeria_CACPI_EZ_Actualizado.pdf",
+      "fuente_actual": "OpenStax, organic-chemistry, §3.2 · https://openstax.org/books/organic-chemistry/pages/3-2-alkanes-and-alkane-isomers",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-isomeria-geometrica-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Repaso_Interactivo_Isomeria_CACPI_EZ_Actualizado.pdf",
+      "fuente_actual": "OpenStax, organic-chemistry, §7.5 · https://openstax.org/books/organic-chemistry/pages/7-5-alkene-stereochemistry-and-the-e-z-designation",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-funciones-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Anot Unidad 13  - Generalidades_261102_190051.pdf",
+      "fuente_actual": "OpenStax, organic-chemistry, §19.1 · https://openstax.org/books/organic-chemistry/pages/19-1-naming-aldehydes-and-ketones",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-reacciones-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 13  - Estructura del carbono - Parte IV y p_261102_164146 (2).pdf",
+      "fuente_actual": "OpenStax, organic-chemistry, §8.6 · https://openstax.org/books/organic-chemistry/pages/8-6-reduction-of-alkenes-hydrogenation",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-reacciones-002",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 13  - Estructura del carbono - Parte IV y p_261102_164146 (2).pdf",
+      "fuente_actual": "OpenStax, organic-chemistry, §17.6 · https://openstax.org/books/organic-chemistry/pages/17-6-reactions-of-alcohols",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-reacciones-003",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 13  - Estructura del carbono - Parte IV y p_261102_164146 (2).pdf",
+      "fuente_actual": "OpenStax, organic-chemistry, §17.7 · https://openstax.org/books/organic-chemistry/pages/17-7-oxidation-of-alcohols",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-reacciones-004",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 13  - Estructura del carbono - Parte IV y p_261102_164146 (2).pdf",
+      "fuente_actual": "OpenStax, organic-chemistry, §21.6 · https://openstax.org/books/organic-chemistry/pages/21-6-chemistry-of-esters",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-reacciones-005",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 13  - Estructura del carbono - Parte IV y p_261102_164146 (2).pdf",
+      "fuente_actual": "OpenStax, organic-chemistry, §7.8 · https://openstax.org/books/organic-chemistry/pages/7-8-orientation-of-electrophilic-additions-markovnikovs-rule",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-estereoquimica-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Repaso_Interactivo_Isomeria_CACPI_EZ_Actualizado.pdf",
+      "fuente_actual": "OpenStax, organic-chemistry, §5.1 · https://openstax.org/books/organic-chemistry/pages/5-1-enantiomers-and-the-tetrahedral-carbon",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-intermediarios-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Generalidades de reacciones organicas CACPI 2025.pdf",
+      "fuente_actual": "OpenStax, organic-chemistry, §6.3 · https://openstax.org/books/organic-chemistry/pages/6-3-polar-reactions",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-intermediarios-002",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Generalidades de reacciones organicas CACPI 2025.pdf",
+      "fuente_actual": "OpenStax, organic-chemistry, §6.2 · https://openstax.org/books/organic-chemistry/pages/6-2-how-organic-reactions-occur-mechanisms",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-mecanismos-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Generalidades de reacciones organicas CACPI 2025.pdf",
+      "fuente_actual": "OpenStax, organic-chemistry, §6.2 · https://openstax.org/books/organic-chemistry/pages/6-2-how-organic-reactions-occur-mechanisms",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-nucleofilos-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Generalidades de reacciones organicas CACPI 2025.pdf",
+      "fuente_actual": "OpenStax, organic-chemistry, §6.3 · https://openstax.org/books/organic-chemistry/pages/6-3-polar-reactions",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-isomeria-002",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Repaso_Interactivo_Isomeria_CACPI_EZ_Actualizado.pdf",
+      "fuente_actual": "OpenStax, organic-chemistry, §3.2 · https://openstax.org/books/organic-chemistry/pages/3-2-alkanes-and-alkane-isomers",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-isomeria-003",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Repaso_Interactivo_Isomeria_CACPI_EZ_Actualizado.pdf",
+      "fuente_actual": "OpenStax, organic-chemistry, §3.1 · https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-isomeria-004",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Repaso_Interactivo_Isomeria_CACPI_EZ_Actualizado.pdf",
+      "fuente_actual": "OpenStax, organic-chemistry, §3.1 · https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-estructuras-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Estructuras OBLIGADAS A MANEJAR para Ingreso MED UNA .pdf",
+      "fuente_actual": "OpenStax, organic-chemistry, §15.1 · https://openstax.org/books/organic-chemistry/pages/15-1-naming-aromatic-compounds",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-estructuras-002",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Repaso_activo_Unidad_13_Quimica_Organica_con_pie 2.pdf",
+      "fuente_actual": "OpenStax, Organic Chemistry, §17.1 · https://openstax.org/books/organic-chemistry/pages/17-1-naming-alcohols-and-phenols",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-estructuras-003",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Repaso_activo_Unidad_13_Quimica_Organica_con_pie 2.pdf",
+      "fuente_actual": "OpenStax, organic-chemistry, §15.1 · https://openstax.org/books/organic-chemistry/pages/15-1-naming-aromatic-compounds",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-13-quimica-organica-estructuras-004",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Repaso_activo_Unidad_13_Quimica_Organica_con_pie 2.pdf",
+      "fuente_actual": "OpenStax, organic-chemistry, §15.1 · https://openstax.org/books/organic-chemistry/pages/15-1-naming-aromatic-compounds",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-biologia-capitulo-1-biologia-celular-teoria-celular-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "CAPÍTULO 1.pdf",
+      "fuente_actual": "OpenStax, biology-2e, §4.1 · https://openstax.org/books/biology-2e/pages/4-1-studying-cells",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-biologia-capitulo-1-biologia-celular-historia-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "CAPÍTULO 1.pdf",
+      "fuente_actual": "OpenStax, biology-2e, §4.1 · https://openstax.org/books/biology-2e/pages/4-1-studying-cells",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-biologia-capitulo-1-biologia-celular-historia-002",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "CAPÍTULO 1.pdf",
+      "fuente_actual": "OpenStax, biology-2e, §4.1 · https://openstax.org/books/biology-2e/pages/4-1-studying-cells",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-biologia-capitulo-1-biologia-celular-organizacion-celular-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "CAPÍTULO 1.pdf",
+      "fuente_actual": "OpenStax, biology-2e, §4.2 · https://openstax.org/books/biology-2e/pages/4-2-prokaryotic-cells",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-biologia-capitulo-1-biologia-celular-dominios-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "CAPÍTULO 1.pdf",
+      "fuente_actual": "OpenStax, biology-2e, §22.1 · https://openstax.org/books/biology-2e/pages/22-1-prokaryotic-diversity",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-biologia-capitulo-1-biologia-celular-diversidad-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "CAPÍTULO 1.pdf",
+      "fuente_actual": "OpenStax, biology-2e, §17.4 · https://openstax.org/books/biology-2e/pages/17-4-applying-genomics",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-biologia-capitulo-1-biologia-celular-modelos-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "CAPÍTULO 1.pdf",
+      "fuente_actual": "Medicina_UNA_Parte_1.pdf, p. 41, organismos modelo",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-biologia-capitulo-1-biologia-celular-tamano-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "CAPÍTULO 1.pdf",
+      "fuente_actual": "OpenStax, biology-2e, §4.2 · https://openstax.org/books/biology-2e/pages/4-2-prokaryotic-cells",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-biologia-capitulo-1-biologia-celular-virus-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "CAPÍTULO 1.pdf",
+      "fuente_actual": "OpenStax, biology-2e, §21.1 · https://openstax.org/books/biology-2e/pages/21-1-viral-evolution-morphology-and-classification",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-biologia-capitulo-1-biologia-celular-virus-002",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "CAPÍTULO 1.pdf",
+      "fuente_actual": "OpenStax, biology-2e, §21.1 · https://openstax.org/books/biology-2e/pages/21-1-viral-evolution-morphology-and-classification",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-biologia-capitulo-1-biologia-celular-viroides-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "CAPÍTULO 1.pdf",
+      "fuente_actual": "OpenStax, biology-2e, §21.4 · https://openstax.org/books/biology-2e/pages/21-4-other-acellular-entities-prions-and-viroids",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-biologia-capitulo-1-biologia-celular-priones-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "CAPÍTULO 1.pdf",
+      "fuente_actual": "OpenStax, biology-2e, §21.4 · https://openstax.org/books/biology-2e/pages/21-4-other-acellular-entities-prions-and-viroids",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-catalisis-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "CAPÍTULO 3.pdf",
+      "fuente_actual": "OpenStax, biology-2e, §6.5 · https://openstax.org/books/biology-2e/pages/6-5-enzymes",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-sitio-activo-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "CAPÍTULO 3.pdf",
+      "fuente_actual": "OpenStax, biology-2e, §6.5 · https://openstax.org/books/biology-2e/pages/6-5-enzymes",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-mecanismos-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "CAPÍTULO 3.pdf",
+      "fuente_actual": "Medicina_UNA_Parte_1.pdf, pp. 53–60, capítulo 3, Enzimas y metabolismo",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-cofactores-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "CAPÍTULO 3.pdf",
+      "fuente_actual": "Medicina_UNA_Parte_1.pdf, pp. 53–60, capítulo 3, Enzimas y metabolismo",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-cinetica-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "CAPÍTULO 3.pdf",
+      "fuente_actual": "Medicina_UNA_Parte_1.pdf, pp. 53–60, capítulo 3, Enzimas y metabolismo",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-inhibicion-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "CAPÍTULO 3.pdf",
+      "fuente_actual": "Medicina_UNA_Parte_1.pdf, pp. 53–60, capítulo 3, Enzimas y metabolismo",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-inhibicion-002",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "CAPÍTULO 3.pdf",
+      "fuente_actual": "Medicina_UNA_Parte_1.pdf, pp. 53–60, capítulo 3, Enzimas y metabolismo",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-metabolismo-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "CAPÍTULO 3.pdf",
+      "fuente_actual": "OpenStax, biology-2e, §6.1 · https://openstax.org/books/biology-2e/pages/6-1-energy-and-metabolism",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-redox-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "CAPÍTULO 3.pdf",
+      "fuente_actual": "OpenStax, biology-2e, §7.1 · https://openstax.org/books/biology-2e/pages/7-1-energy-in-living-systems",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-atp-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "CAPÍTULO 3.pdf",
+      "fuente_actual": "OpenStax, biology-2e, §6.4 · https://openstax.org/books/biology-2e/pages/6-4-atp-adenosine-triphosphate",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-glucolisis-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "CAPÍTULO 3.pdf",
+      "fuente_actual": "OpenStax, biology-2e, §7.2 · https://openstax.org/books/biology-2e/pages/7-2-glycolysis",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-regulacion-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "CAPÍTULO 3.pdf",
+      "fuente_actual": "OpenStax, biology-2e, §6.5 · https://openstax.org/books/biology-2e/pages/6-5-enzymes",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-matematica-algebra-1-exponentes-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.2 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-2-exponents-and-scientific-notation",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "1–3"
+    },
+    {
+      "id": "b1-matematica-algebra-1-exponentes-002",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.2 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-2-exponents-and-scientific-notation",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "1–3"
+    },
+    {
+      "id": "b1-matematica-algebra-1-exponentes-003",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.2 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-2-exponents-and-scientific-notation",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "1–3"
+    },
+    {
+      "id": "b1-matematica-algebra-1-grado-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.4 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-4-polynomials",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "1–3"
+    },
+    {
+      "id": "b1-matematica-algebra-1-grado-002",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.4 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-4-polynomials",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "1–3"
+    },
+    {
+      "id": "b1-matematica-algebra-1-suma-y-resta-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.4 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-4-polynomials",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "1–3"
+    },
+    {
+      "id": "b1-matematica-algebra-1-multiplicacion-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.4 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-4-polynomials",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "1–3"
+    },
+    {
+      "id": "b1-matematica-algebra-1-division-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.6 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-6-rational-expressions",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "1–3"
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-magnitudes-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "fuente_actual": "OpenStax, college-physics-2e, §3.2 · https://openstax.org/books/college-physics-2e/pages/3-2-vector-addition-and-subtraction-graphical-methods",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-sistema-internacional-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "fuente_actual": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-unidades-derivadas-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "fuente_actual": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-unidades-derivadas-002",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "fuente_actual": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-masa-y-peso-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "fuente_actual": "OpenStax, College Physics 2e, §4.3, masa y peso · https://openstax.org/books/college-physics-2e/pages/4-3-newtons-second-law-of-motion-concept-of-a-system",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-prefijos-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "fuente_actual": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-vectores-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "fuente_actual": "OpenStax, college-physics-2e, §3.2 · https://openstax.org/books/college-physics-2e/pages/3-2-vector-addition-and-subtraction-graphical-methods",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-suma-grafica-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "fuente_actual": "OpenStax, college-physics-2e, §3.2 · https://openstax.org/books/college-physics-2e/pages/3-2-vector-addition-and-subtraction-graphical-methods",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-resta-grafica-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "fuente_actual": "OpenStax, college-physics-2e, §3.2 · https://openstax.org/books/college-physics-2e/pages/3-2-vector-addition-and-subtraction-graphical-methods",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-ley-del-coseno-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "fuente_actual": "OpenStax, college-physics-2e, §3.3 · https://openstax.org/books/college-physics-2e/pages/3-3-vector-addition-and-subtraction-analytical-methods",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-componentes-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "fuente_actual": "OpenStax, college-physics-2e, §3.3 · https://openstax.org/books/college-physics-2e/pages/3-3-vector-addition-and-subtraction-analytical-methods",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-componentes-002",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "fuente_actual": "OpenStax, college-physics-2e, §3.3 · https://openstax.org/books/college-physics-2e/pages/3-3-vector-addition-and-subtraction-analytical-methods",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-palabras-baul-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, cosa · https://dle.rae.es/cosa",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "1–7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-adjetivos-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, pírrico · https://dle.rae.es/p%C3%ADrrico",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "3–4, 7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-adjetivos-002",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, sucinto · https://dle.rae.es/sucinto",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "3–4, 7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-adjetivos-003",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, ubicuo · https://dle.rae.es/ubicuo",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "3–4, 7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-adjetivos-004",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, polifacético · https://dle.rae.es/polifac%C3%A9tico",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "3–4, 7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-adjetivos-005",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, sardónico · https://dle.rae.es/sard%C3%B3nico",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "3–4, 7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-adjetivos-006",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, inocuo · https://dle.rae.es/inocuo",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "3–4, 7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, esculpir · https://dle.rae.es/esculpir",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "1–7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-002",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, revelar · https://dle.rae.es/revelar",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "1–7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-003",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, aducir · https://dle.rae.es/aducir",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "1–7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-004",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, desempeñar · https://dle.rae.es/desempe%C3%B1ar",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "1–7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-005",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, librar · https://dle.rae.es/librar",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "1–7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-006",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, pronunciar · https://dle.rae.es/pronunciar",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "1–7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-007",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, estampar · https://dle.rae.es/estampar",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "1–7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-adjetivos-007",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, ileso · https://dle.rae.es/ileso",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "3–4, 7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-adjetivos-008",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, empedernido · https://dle.rae.es/empedernido",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "3–4, 7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-adjetivos-009",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, proceloso · https://dle.rae.es/proceloso",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "3–4, 7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-adjetivos-010",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, filantrópico · https://dle.rae.es/filantr%C3%B3pico",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "3–4, 7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-adjetivos-011",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, displicente · https://dle.rae.es/displicente",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "3–4, 7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-adjetivos-012",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, quimérico · https://dle.rae.es/quim%C3%A9rico",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "3–4, 7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-adjetivos-013",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, flemático · https://dle.rae.es/flem%C3%A1tico",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "3–4, 7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-adjetivos-014",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, comedido · https://dle.rae.es/comedido",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "3–4, 7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-008",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, fabricar · https://dle.rae.es/fabricar",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "1–7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-009",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, redactar · https://dle.rae.es/redactar",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "1–7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-010",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, recorrer · https://dle.rae.es/recorrer",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "1–7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-011",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, establecer · https://dle.rae.es/establecer",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "1–7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-012",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, destituir · https://dle.rae.es/destituir",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "1–7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-013",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, repicar · https://dle.rae.es/repicar",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "1–7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-014",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, revisar · https://dle.rae.es/revisar",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "1–7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-015",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, verter · https://dle.rae.es/verter",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "1–7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-016",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, padecer · https://dle.rae.es/padecer",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "1–7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-017",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, gozar · https://dle.rae.es/gozar",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "1–7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-018",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, esgrimir · https://dle.rae.es/esgrimir",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "1–7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-verbos-precisos-019",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, comparecer · https://dle.rae.es/comparecer",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "1–7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-palabras-baul-002",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, termómetro · https://dle.rae.es/term%C3%B3metro",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "1–7"
+    },
+    {
+      "id": "b1-lenguaje-precision-semantica-y-vocabulario-palabras-baul-003",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos · Precisión semántica y riqueza de vocabulario",
+      "fuente_actual": "RAE/ASALE, DLE, obstáculo · https://dle.rae.es/obst%C3%A1culo",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": "1–7"
+    },
+    {
+      "id": "b1-quimica-unidad-1-materia-y-energia-densidad-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 1 Materia y Energía.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §1.4 · https://openstax.org/books/chemistry-2e/pages/1-4-measurements",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-1-materia-y-energia-densidad-002",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 1 Materia y Energía.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §1.4 · https://openstax.org/books/chemistry-2e/pages/1-4-measurements",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-1-materia-y-energia-densidad-003",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 1 Materia y Energía.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §1.4 · https://openstax.org/books/chemistry-2e/pages/1-4-measurements",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-2-estructura-atomica-y-tabla-periodica-nucleo-002",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §2.3 · https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-2-estructura-atomica-y-tabla-periodica-nucleo-003",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §2.3 · https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-2-estructura-atomica-y-tabla-periodica-nucleo-004",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §2.3 · https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-2-estructura-atomica-y-tabla-periodica-nucleo-005",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §2.3 · https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-6-estados-de-agregacion-gases-ideales-002",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 6  Estado de Agregación.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §9.2 · https://openstax.org/books/chemistry-2e/pages/9-2-relating-pressure-volume-amount-and-temperature-the-ideal-gas-law",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-6-estados-de-agregacion-gases-ideales-003",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 6  Estado de Agregación.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §9.2 · https://openstax.org/books/chemistry-2e/pages/9-2-relating-pressure-volume-amount-and-temperature-the-ideal-gas-law",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-6-estados-de-agregacion-gases-ideales-004",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 6  Estado de Agregación.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §9.2 · https://openstax.org/books/chemistry-2e/pages/9-2-relating-pressure-volume-amount-and-temperature-the-ideal-gas-law",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-7-soluciones-dilucion-002",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 7 Soluciones.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §3.3 · https://openstax.org/books/chemistry-2e/pages/3-3-molarity",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-7-soluciones-dilucion-003",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 7 Soluciones.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §3.3 · https://openstax.org/books/chemistry-2e/pages/3-3-molarity",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-7-soluciones-dilucion-004",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 7 Soluciones.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §3.3 · https://openstax.org/books/chemistry-2e/pages/3-3-molarity",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-7-soluciones-dilucion-005",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 7 Soluciones.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §3.3 · https://openstax.org/books/chemistry-2e/pages/3-3-molarity",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-8-acidos-y-bases-ph-002",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 8 Ácido - Base.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §14.2 · https://openstax.org/books/chemistry-2e/pages/14-2-ph-and-poh",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-8-acidos-y-bases-ph-003",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 8 Ácido - Base.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §14.2 · https://openstax.org/books/chemistry-2e/pages/14-2-ph-and-poh",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-8-acidos-y-bases-ph-004",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 8 Ácido - Base.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §14.2 · https://openstax.org/books/chemistry-2e/pages/14-2-ph-and-poh",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-8-acidos-y-bases-ph-005",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 8 Ácido - Base.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §14.2 · https://openstax.org/books/chemistry-2e/pages/14-2-ph-and-poh",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-8-acidos-y-bases-ph-006",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 8 Ácido - Base.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §14.2 · https://openstax.org/books/chemistry-2e/pages/14-2-ph-and-poh",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-9-estequiometria-masa-molar-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 9 Estequiometría.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §3.1 · https://openstax.org/books/chemistry-2e/pages/3-1-formula-mass-and-the-mole-concept",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-9-estequiometria-masa-molar-002",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 9 Estequiometría.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §3.1 · https://openstax.org/books/chemistry-2e/pages/3-1-formula-mass-and-the-mole-concept",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-9-estequiometria-masa-molar-003",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 9 Estequiometría.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §3.1 · https://openstax.org/books/chemistry-2e/pages/3-1-formula-mass-and-the-mole-concept",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-9-estequiometria-masa-molar-004",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 9 Estequiometría.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §3.1 · https://openstax.org/books/chemistry-2e/pages/3-1-formula-mass-and-the-mole-concept",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-9-estequiometria-masa-molar-005",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 9 Estequiometría.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §3.1 · https://openstax.org/books/chemistry-2e/pages/3-1-formula-mass-and-the-mole-concept",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-9-estequiometria-masa-molar-006",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 9 Estequiometría.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §3.1 · https://openstax.org/books/chemistry-2e/pages/3-1-formula-mass-and-the-mole-concept",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-10-cinetica-quimica-ley-de-velocidad-002",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 10 - Cinetica Química.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §12.3 · https://openstax.org/books/chemistry-2e/pages/12-3-rate-laws",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-10-cinetica-quimica-ley-de-velocidad-003",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 10 - Cinetica Química.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §12.3 · https://openstax.org/books/chemistry-2e/pages/12-3-rate-laws",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-10-cinetica-quimica-ley-de-velocidad-004",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 10 - Cinetica Química.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §12.3 · https://openstax.org/books/chemistry-2e/pages/12-3-rate-laws",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-quimica-unidad-10-cinetica-quimica-ley-de-velocidad-005",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Unidad 10 - Cinetica Química.pdf",
+      "fuente_actual": "OpenStax, chemistry-2e, §12.3 · https://openstax.org/books/chemistry-2e/pages/12-3-rate-laws",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-componentes-003",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "fuente_actual": "OpenStax, college-physics-2e, §3.3 · https://openstax.org/books/college-physics-2e/pages/3-3-vector-addition-and-subtraction-analytical-methods",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-componentes-004",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "fuente_actual": "OpenStax, college-physics-2e, §3.3 · https://openstax.org/books/college-physics-2e/pages/3-3-vector-addition-and-subtraction-analytical-methods",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-componentes-005",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "fuente_actual": "OpenStax, college-physics-2e, §3.3 · https://openstax.org/books/college-physics-2e/pages/3-3-vector-addition-and-subtraction-analytical-methods",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-componentes-006",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "fuente_actual": "OpenStax, college-physics-2e, §3.3 · https://openstax.org/books/college-physics-2e/pages/3-3-vector-addition-and-subtraction-analytical-methods",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-conversion-001",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "fuente_actual": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-conversion-002",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "fuente_actual": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-conversion-003",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "fuente_actual": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-conversion-004",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "fuente_actual": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-conversion-005",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "fuente_actual": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-conversion-006",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "fuente_actual": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-fisica-magnitudes-unidades-y-vectores-conversion-007",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
+      "fuente_actual": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-matematica-algebra-1-exponentes-004",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.2 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-2-exponents-and-scientific-notation",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-matematica-algebra-1-exponentes-005",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.2 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-2-exponents-and-scientific-notation",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-matematica-algebra-1-exponentes-006",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.2 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-2-exponents-and-scientific-notation",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-matematica-algebra-1-exponentes-007",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.2 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-2-exponents-and-scientific-notation",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-matematica-algebra-1-exponentes-008",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.2 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-2-exponents-and-scientific-notation",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-matematica-algebra-1-multiplicacion-002",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.4 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-4-polynomials",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-matematica-algebra-1-multiplicacion-003",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.4 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-4-polynomials",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-matematica-algebra-1-multiplicacion-004",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.4 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-4-polynomials",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-matematica-algebra-1-multiplicacion-005",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.4 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-4-polynomials",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-matematica-algebra-1-multiplicacion-006",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.4 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-4-polynomials",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-cinetica-002",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "CAPÍTULO 3.pdf",
+      "fuente_actual": "Medicina_UNA_Parte_1.pdf, pp. 53–60, capítulo 3, Enzimas y metabolismo",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-cinetica-003",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "CAPÍTULO 3.pdf",
+      "fuente_actual": "Medicina_UNA_Parte_1.pdf, pp. 53–60, capítulo 3, Enzimas y metabolismo",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-cinetica-004",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "CAPÍTULO 3.pdf",
+      "fuente_actual": "Medicina_UNA_Parte_1.pdf, pp. 53–60, capítulo 3, Enzimas y metabolismo",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "b1-biologia-capitulo-3-enzimas-y-metabolismo-cinetica-005",
+      "bancos": [
+        "tarjetas",
+        "preguntas"
+      ],
+      "estado": "revision_semantica",
+      "fuente_anterior": "CAPÍTULO 3.pdf",
+      "fuente_actual": "Medicina_UNA_Parte_1.pdf, pp. 53–60, capítulo 3, Enzimas y metabolismo",
+      "pendiente": "Completar un registro de evidencia externa individual antes de certificar íntegramente este lote.",
+      "pagina_anterior": ""
+    },
+    {
+      "id": "practica041-b02-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "La secuencia de aminoácidos define la estructura primaria. Desnaturalizar altera el plegamiento sin requerir la hidrólisis de los enlaces peptídicos.",
+      "fuente_actual": "OpenStax, biology-2e, §3.4 · https://openstax.org/books/biology-2e/pages/3-4-proteins"
+    },
+    {
+      "id": "practica041-b02-002",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "Un nucleósido contiene una base unida a una pentosa. Al añadir fosfato se obtiene un nucleótido.",
+      "fuente_actual": "OpenStax, Organic Chemistry, §28.1, Nucleotides and Nucleic Acids · https://openstax.org/books/organic-chemistry/pages/28-1-nucleotides-and-nucleic-acids"
+    },
+    {
+      "id": "practica041-b05-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "El agua se desplaza hacia el compartimento con mayor concentración efectiva de solutos no penetrantes. La célula puede hincharse y llegar a lisarse.",
+      "fuente_actual": "OpenStax, biology-2e, §5.2 · https://openstax.org/books/biology-2e/pages/5-2-passive-transport"
+    },
+    {
+      "id": "practica041-b05-002",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "El cotransportador aprovecha un gradiente iónico previamente establecido. No necesita hidrolizar ATP directamente en cada ciclo, a diferencia del transporte activo primario.",
+      "fuente_actual": "OpenStax, biology-2e, §5.3 · https://openstax.org/books/biology-2e/pages/5-3-active-transport"
+    },
+    {
+      "id": "practica041-b05-003",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "Salen tres cargas positivas y entran dos: el balance es una carga positiva hacia fuera. Por ello la bomba es electrogénica.",
+      "fuente_actual": "OpenStax, biology-2e, §5.3 · https://openstax.org/books/biology-2e/pages/5-3-active-transport"
+    },
+    {
+      "id": "practica041-b06-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "Al final de la cadena, el oxígeno acepta electrones y protones para formar agua. El CO₂ procede de etapas de oxidación del carbono, no de esta reducción terminal.",
+      "fuente_actual": "OpenStax, biology-2e, §7.4 · https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation"
+    },
+    {
+      "id": "practica041-b07-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "Los microtúbulos están formados por tubulina y participan en el huso. La actina y la queratina son componentes de otros sistemas del citoesqueleto.",
+      "fuente_actual": "OpenStax, biology-2e, §4.5 · https://openstax.org/books/biology-2e/pages/4-5-the-cytoskeleton"
+    },
+    {
+      "id": "practica041-b09-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "Las proteínas secretoras se incorporan al retículo, se procesan y clasifican en el Golgi y llegan en vesículas a la superficie, donde ocurre la exocitosis.",
+      "fuente_actual": "OpenStax, biology-2e, §4.4 · https://openstax.org/books/biology-2e/pages/4-4-the-endomembrane-system-and-proteins"
+    },
+    {
+      "id": "practica041-b11-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "La ARN polimerasa lee el molde 3′→5′ y sintetiza ARN 5′→3′. A se aparea con U en ARN y C con G; el ARN no contiene timina.",
+      "fuente_actual": "OpenStax, biology-2e, §15.2 · https://openstax.org/books/biology-2e/pages/15-2-prokaryotic-transcription"
+    },
+    {
+      "id": "practica041-b14-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "La replicación duplica el ADN y forma dos cromátidas hermanas por cromosoma. Mientras permanecen unidas, se cuentan seis cromosomas duplicados.",
+      "fuente_actual": "OpenStax, biology-2e, §10.2 · https://openstax.org/books/biology-2e/pages/10-2-the-cell-cycle"
+    },
+    {
+      "id": "practica041-f03-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "Tomando derecha positiva: Fₙ = 18 − 6 = 12 N. Entonces a = Fₙ/m = 12 N / 4 kg = 3 m/s², hacia la derecha.",
+      "fuente_actual": "OpenStax, college-physics-2e, §4.3 · https://openstax.org/books/college-physics-2e/pages/4-3-newtons-second-law-of-motion-concept-of-a-system"
+    },
+    {
+      "id": "practica041-f03-002",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "El rozamiento estático se ajusta hasta su máximo. Para mantener aceleración nula debe equilibrar los 8 N aplicados; μₛN es un límite, no siempre la fuerza efectiva.",
+      "fuente_actual": "OpenStax, college-physics-2e, §5.1 · https://openstax.org/books/college-physics-2e/pages/5-1-friction"
+    },
+    {
+      "id": "practica041-f04-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "La presión transmitida cumple F₁/A₁ = F₂/A₂. F₂ = 25 N × (100/5) = 500 N. El cociente de áreas no necesita conversión porque ambas están en cm².",
+      "fuente_actual": "OpenStax, college-physics-2e, §11.5 · https://openstax.org/books/college-physics-2e/pages/11-5-pascals-principle"
+    },
+    {
+      "id": "practica041-f04-002",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "En equilibrio, ρagua g Vsumergido = ρbloque g Vtotal. La fracción sumergida es 750/1000 = 0,75, es decir, 75 %.",
+      "fuente_actual": "OpenStax, college-physics-2e, §11.7 · https://openstax.org/books/college-physics-2e/pages/11-7-archimedes-principle"
+    },
+    {
+      "id": "practica041-f05-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "Se conserva el caudal: A₁v₁ = A₂v₂. Por tanto v₂ = (8/2) × 1,5 m/s = 6 m/s.",
+      "fuente_actual": "OpenStax, college-physics-2e, §12.1 · https://openstax.org/books/college-physics-2e/pages/12-1-flow-rate-and-its-relation-to-velocity"
+    },
+    {
+      "id": "practica041-f06-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "Para diferencias de temperatura, ΔT en K tiene el mismo valor numérico que ΔT en °C: 35 − 20 = 15. Los 273,15 se añaden al convertir temperaturas, no diferencias.",
+      "fuente_actual": "OpenStax, college-physics-2e, §13.1 · https://openstax.org/books/college-physics-2e/pages/13-1-temperature"
+    },
+    {
+      "id": "practica041-f07-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "Q = mcΔT = 200 g × 4,18 J/(g·K) × 10 K = 8360 J = 8,36 kJ.",
+      "fuente_actual": "OpenStax, college-physics-2e, §14.2 · https://openstax.org/books/college-physics-2e/pages/14-2-temperature-change-and-heat-capacity"
+    },
+    {
+      "id": "practica041-f08-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "La frecuencia es f = 40/10 s = 4 Hz. El período es T = 1/f = 0,25 s.",
+      "fuente_actual": "OpenStax, college-physics-2e, §16.2 · https://openstax.org/books/college-physics-2e/pages/16-2-period-and-frequency-in-oscillations"
+    },
+    {
+      "id": "practica041-f09-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "La potencia es P = 1/f, con f en metros. Como f = +0,25 m, P = +4 m⁻¹ = +4 dioptrías.",
+      "fuente_actual": "OpenStax, college-physics-2e, §25.6 · https://openstax.org/books/college-physics-2e/pages/25-6-image-formation-by-lenses"
+    },
+    {
+      "id": "practica041-f10-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "P = V²/R = (12 V)² / 6 Ω = 24 W. Equivalentemente, I = V/R = 2 A y P = VI = 24 W.",
+      "fuente_actual": "OpenStax, college-physics-2e, §20.4 · https://openstax.org/books/college-physics-2e/pages/20-4-electric-power-and-energy"
+    },
+    {
+      "id": "practica041-m01-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "Por modus tollens, de p → q y ¬q se infiere ¬p. Si p fuera verdadero y q falso, el condicional sería falso, contradiciendo el dato.",
+      "fuente_actual": "OpenStax, contemporary-mathematics, §2.4 · https://openstax.org/books/contemporary-mathematics/pages/2-4-truth-tables-for-the-conditional-and-biconditional"
+    },
+    {
+      "id": "practica041-m02-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "M = C(1+i)² = 500 000 × 1,10² = 605 000 guaraníes. El segundo año también genera interés el interés acumulado durante el primero.",
+      "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §6.1 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/6-1-exponential-functions"
+    },
+    {
+      "id": "practica041-m03-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "1 m = 100 cm, por lo que 1 m² = 10 000 cm². Así, 0,035 × 10 000 = 350 cm². El factor lineal se eleva al cuadrado.",
+      "fuente_actual": "OpenStax, prealgebra-2e, §7.5 · https://openstax.org/books/prealgebra-2e/pages/7-5-systems-of-measurement"
+    },
+    {
+      "id": "practica041-m04-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "Usando (a−b)² = a²−2ab+b², se obtiene (2x)²−2(2x)(3)+3² = 4x²−12x+9.",
+      "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.4 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-4-polynomials"
+    },
+    {
+      "id": "practica041-m05-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "Se factoriza x²−9 = (x−3)(x+3). Se cancela x−3 únicamente cuando x ≠ 3. Simplificar no recupera el punto excluido del dominio original.",
+      "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §1.6 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-6-rational-expressions"
+    },
+    {
+      "id": "practica041-m06-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "El lado derecho exige x ≥ 0. Al cuadrar: x+2 = x², de donde (x−2)(x+1)=0. Se verifica x=2; x=−1 se descarta porque √1 ≠ −1.",
+      "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §2.6 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/2-6-other-types-of-equations"
+    },
+    {
+      "id": "practica041-m07-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "La factorización es (2x+1)(x−3)=0. Al anular cada factor se obtienen x=−1/2 y x=3; ambos satisfacen la ecuación original.",
+      "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §2.5 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/2-5-quadratic-equations"
+    },
+    {
+      "id": "practica041-m08-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "El dominio exige x>1. Se reúnen los logaritmos: (x−1)(x+1)=8, así x²=9. Solo x=3 pertenece al dominio; x=−3 produce argumentos negativos.",
+      "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §6.6 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/6-6-exponential-and-logarithmic-equations"
+    },
+    {
+      "id": "practica041-m09-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "c²=5²+7²−2·5·7·cos60°=25+49−35=39 cm². Entonces c=√39 cm≈6,24 cm.",
+      "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §10.2 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/10-2-non-right-triangles-law-of-cosines"
+    },
+    {
+      "id": "practica041-m10-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "El orden no distingue comisiones. Se usa C(6,3)=6!/(3!·3!)=20. Contar 6·5·4 repetiría cada grupo 3! veces.",
+      "fuente_actual": "OpenStax, algebra-and-trigonometry-2e, §13.5 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/13-5-counting-principles"
+    },
+    {
+      "id": "practica041-q14-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "Lindlar permite detener la reducción en el alqueno y favorece adición syn. En un alquino interno como but-2-ino, esto da el alqueno cis.",
+      "fuente_actual": "OpenStax, organic-chemistry, §9.5 · https://openstax.org/books/organic-chemistry/pages/9-5-reduction-of-alkynes"
+    },
+    {
+      "id": "practica041-q14-002",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "Los halógenos retiran densidad por inducción y reducen la reactividad global, pero su donación por resonancia favorece los intermediarios de ataque orto y para.",
+      "fuente_actual": "OpenStax, organic-chemistry, §16.4 · https://openstax.org/books/organic-chemistry/pages/16-4-substituent-effects-in-electrophilic-substitutions"
+    },
+    {
+      "id": "practica041-q14-003",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "La protonación que forma el carbocatión secundario es más favorable; luego Cl⁻ se une a ese carbono. El producto sigue la orientación de Markovnikov.",
+      "fuente_actual": "OpenStax, organic-chemistry, §7.8 · https://openstax.org/books/organic-chemistry/pages/7-8-orientation-of-electrophilic-additions-markovnikovs-rule"
+    },
+    {
+      "id": "practica041-q15-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "El carbono con OH del alcohol secundario se convierte en carbonilo, formando una cetona. Se conserva la cadena de cuatro carbonos.",
+      "fuente_actual": "OpenStax, organic-chemistry, §17.7 · https://openstax.org/books/organic-chemistry/pages/17-7-oxidation-of-alcohols"
+    },
+    {
+      "id": "practica041-q15-002",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "El par no enlazante puede formar un enlace con H⁺ y originar un ion amonio sustituido. La intensidad de la basicidad depende de la estructura y del medio.",
+      "fuente_actual": "OpenStax, organic-chemistry, §24.3 · https://openstax.org/books/organic-chemistry/pages/24-3-basicity-of-amines"
+    },
+    {
+      "id": "practica041-q16-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "La condensación pasa por un ion iminio. Al perder un protón del carbono α se obtiene una enamina; una amina primaria permite formar una imina.",
+      "fuente_actual": "OpenStax, organic-chemistry, §19.8 · https://openstax.org/books/organic-chemistry/pages/19-8-nucleophilic-addition-of-amines-imine-and-enamine-formation"
+    },
+    {
+      "id": "practica041-q16-002",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "La saponificación genera el carboxilato en el medio básico. Para recuperar el ácido carboxílico como tal se necesita una acidificación posterior.",
+      "fuente_actual": "OpenStax, organic-chemistry, §21.6 · https://openstax.org/books/organic-chemistry/pages/21-6-chemistry-of-esters"
+    },
+    {
+      "id": "practica041-q16-003",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "El carbono del carbonilo se conserva y pasa a CH₂. Por eso la etanamida da etilamina, sin perder un carbono de la cadena.",
+      "fuente_actual": "OpenStax, organic-chemistry, §21.7 · https://openstax.org/books/organic-chemistry/pages/21-7-chemistry-of-amides"
+    },
+    {
+      "id": "practica041-q17-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "La unión enlaza los centros anoméricos de glucosa y fructosa, impidiendo que quede un hemiacetal o hemicetal libre capaz de abrirse en las condiciones de esas pruebas.",
+      "fuente_actual": "OpenStax, organic-chemistry, §25.8 · https://openstax.org/books/organic-chemistry/pages/25-8-disaccharides"
+    },
+    {
+      "id": "practica041-q17-002",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "Un triacilglicerol contiene tres enlaces éster. La hidrólisis básica libera glicerol y tres carboxilatos; estos últimos son las sales de ácidos grasos.",
+      "fuente_actual": "OpenStax, organic-chemistry, §27.1 · https://openstax.org/books/organic-chemistry/pages/27-1-waxes-fats-and-oils; §27.2, Soap · https://openstax.org/books/organic-chemistry/pages/27-2-soap"
+    },
+    {
+      "id": "practica041-l04-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "Dé lleva tilde cuando es una forma del verbo dar. La preposición de se escribe sin tilde.",
+      "fuente_actual": "RAE/ASALE, DPD · https://www.rae.es/dpd/tilde"
+    },
+    {
+      "id": "practica041-l04-002",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "Cuándo lleva tilde en la interrogativa indirecta «No sé cuándo…» y también en la pregunta directa «¿Cuándo…?». Los relativos cuando y como de los otros dos ejemplos se escriben sin tilde.",
+      "fuente_actual": "RAE/ASALE, DPD · https://www.rae.es/dpd/tilde"
+    },
+    {
+      "id": "practica041-l04-003",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "Los símbolos de unidades no llevan punto abreviativo ni marca de plural. Se separan del número por un espacio; ms es el símbolo del milisegundo.",
+      "fuente_actual": "RAE/ASALE, DPD · https://www.rae.es/dpd/s%C3%ADmbolo"
+    },
+    {
+      "id": "practica041-l04-004",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "Las siglas permanecen gráficamente invariables en plural. El determinante expresa el número: la ONG, las ONG.",
+      "fuente_actual": "RAE/ASALE, DPD · https://www.rae.es/dpd/sigla"
+    },
+    {
+      "id": "practica041-l05-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "Agua es femenino. El artículo el ante /a/ tónica no cambia su género; los demostrativos y adjetivos conservan el femenino: esta agua fría.",
+      "fuente_actual": "RAE/ASALE, DPD · https://www.rae.es/dpd/agua"
+    },
+    {
+      "id": "practica041-l05-002",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "Haber existencial es impersonal y permanece en singular. El grupo varias personas no es su sujeto y no determina concordancia plural.",
+      "fuente_actual": "RAE/ASALE, DPD · https://www.rae.es/dpd/haber"
+    },
+    {
+      "id": "practica041-l05-003",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "En la pasiva refleja, libros usados funciona como sujeto paciente plural, por lo que el verbo concuerda en plural: venden.",
+      "fuente_actual": "RAE/ASALE, DPD · https://www.rae.es/dpd/se"
+    },
+    {
+      "id": "practica041-l05-004",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "La a personal introduce el complemento directo. En esta construcción impersonal con se, el verbo se mantiene en tercera persona singular.",
+      "fuente_actual": "RAE/ASALE, DPD · https://www.rae.es/dpd/se"
+    },
+    {
+      "id": "practica041-l05-005",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "La forma voseante de uso general en esta variedad es tenés. Tienes corresponde al tuteo y tenéis al plural vosotros.",
+      "fuente_actual": "RAE/ASALE, DPD · https://www.rae.es/dpd/voseo"
+    },
+    {
+      "id": "practica041-l04-005",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "criterio": "En baúl, la u tónica y la a se pronuncian en sílabas distintas. La vocal cerrada tónica lleva tilde aun cuando las reglas generales no la exigirían.",
+      "fuente_actual": "RAE/ASALE, DPD · https://www.rae.es/dpd/tilde"
+    },
+    {
+      "id": "quí-0004",
+      "bancos": [
+        "starter"
+      ],
+      "estado": "revision_semantica",
+      "cambios": {
+        "answer": {
+          "antes": "La masa total de un sistema material permanece constante durante cambios físicos o químicos.",
+          "despues": "En un sistema cerrado, la masa total se conserva durante una reacción química, en la aproximación química habitual."
+        }
+      },
+      "fuente_actual": "Unidad 1 Materia y Energía.pdf",
+      "pagina_anterior": "3"
+    },
+    {
+      "id": "bio-0015",
+      "bancos": [
+        "starter"
+      ],
+      "estado": "revision_semantica",
+      "cambios": {
+        "question": {
+          "antes": "¿Cuántas células hijas produce generalmente la mitosis y cuántas la meiosis?",
+          "despues": "Cuando cada división nuclear va acompañada de citocinesis, ¿cuántas células resultan generalmente de una mitosis y de una meiosis completa?"
+        },
+        "explanation": {
+          "antes": "La meiosis incluye dos divisiones tras una replicación del ADN. En la mitosis, la división nuclear conserva habitualmente la dotación cromosómica.",
+          "despues": "Una mitosis seguida de citocinesis suele originar dos células; una meiosis completa, cuatro productos haploides. La mitosis es división nuclear y no equivale por sí sola a citocinesis; en la ovogénesis los productos son desiguales."
+        }
+      },
+      "fuente_actual": "CAPÍTULO 1.pdf",
+      "pagina_anterior": "6"
+    },
+    {
+      "id": "mat-0021",
+      "bancos": [
+        "starter"
+      ],
+      "estado": "revision_semantica",
+      "cambios": {
+        "question": {
+          "antes": "¿Qué es el grado absoluto de un término algebraico?",
+          "despues": "¿Qué es el grado absoluto de un monomio no nulo con exponentes enteros no negativos?"
+        }
+      },
+      "fuente_actual": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "pagina_anterior": "1"
+    },
+    {
+      "id": "mat-0022",
+      "bancos": [
+        "starter"
+      ],
+      "estado": "revision_semantica",
+      "cambios": {
+        "question": {
+          "antes": "¿Qué es el grado relativo respecto de una variable?",
+          "despues": "¿Qué es el grado relativo de un monomio no nulo respecto de una variable?"
+        }
+      },
+      "fuente_actual": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "pagina_anterior": "1"
+    },
+    {
+      "id": "len-0027",
+      "bancos": [
+        "starter"
+      ],
+      "estado": "cotejo_fuente",
+      "cambios": {
+        "question": {
+          "antes": "¿Qué adjetivo describe a una persona que paga con prontitud lo que debe?",
+          "despues": "¿Qué adjetivo describe a una persona con capacidad para pagar sus deudas?"
+        },
+        "source": {
+          "antes": "1000123495.jpg",
+          "despues": "RAE/ASALE, DLE, solvente, acepción económica · https://dle.rae.es/solvente"
+        },
+        "page": {
+          "antes": "imagen 3",
+          "despues": "acepción económica"
+        },
+        "explanation": {
+          "antes": "Solvente indica que una persona tiene capacidad para cumplir sus obligaciones económicas. En ese contexto se vincula con el pago de deudas.",
+          "despues": "La solvencia es la capacidad de satisfacer deudas; no implica necesariamente pagarlas con puntualidad."
+        }
+      },
+      "fuente_actual": "RAE/ASALE, DLE, solvente, acepción económica · https://dle.rae.es/solvente",
+      "pagina_anterior": "imagen 3"
+    },
+    {
+      "id": "programa27-refuerzo-b04-002",
+      "bancos": [
+        "programa_2027"
+      ],
+      "estado": "cotejo_fuente",
+      "cambios": {
+        "source": {
+          "antes": "Alberts et al., Molecular Biology of the Cell, Visualizing Cells · https://www.ncbi.nlm.nih.gov/books/NBK21048/",
+          "despues": "OpenStax, microbiology, §2.3 · https://openstax.org/books/microbiology/pages/2-3-instruments-of-microscopy"
+        }
+      },
+      "fuente_actual": "OpenStax, microbiology, §2.3 · https://openstax.org/books/microbiology/pages/2-3-instruments-of-microscopy",
+      "pagina_anterior": "Programa 2027 p. 14 · B04.22"
+    },
+    {
+      "id": "programa27-refuerzo-b10-001",
+      "bancos": [
+        "programa_2027"
+      ],
+      "estado": "cotejo_fuente",
+      "cambios": {
+        "source": {
+          "antes": "Alberts et al., Molecular Biology of the Cell, DNA Replication, Repair, and Recombination · https://www.ncbi.nlm.nih.gov/books/NBK21064/",
+          "despues": "OpenStax, biology-2e, §14.6 · https://openstax.org/books/biology-2e/pages/14-6-dna-repair"
+        }
+      },
+      "fuente_actual": "OpenStax, biology-2e, §14.6 · https://openstax.org/books/biology-2e/pages/14-6-dna-repair",
+      "pagina_anterior": "Programa 2027 p. 15 · B10.7"
+    },
+    {
+      "id": "programa27-refuerzo-b11-001",
+      "bancos": [
+        "programa_2027"
+      ],
+      "estado": "cotejo_fuente",
+      "cambios": {
+        "source": {
+          "antes": "Alberts et al., Molecular Biology of the Cell, From DNA to RNA · https://www.ncbi.nlm.nih.gov/books/NBK26887/",
+          "despues": "OpenStax, biology-2e, §15.3 · https://openstax.org/books/biology-2e/pages/15-3-eukaryotic-transcription"
+        }
+      },
+      "fuente_actual": "OpenStax, biology-2e, §15.3 · https://openstax.org/books/biology-2e/pages/15-3-eukaryotic-transcription",
+      "pagina_anterior": "Programa 2027 p. 15 · B11.11"
+    },
+    {
+      "id": "programa27-refuerzo-b13-001",
+      "bancos": [
+        "programa_2027"
+      ],
+      "estado": "cotejo_fuente",
+      "cambios": {
+        "source": {
+          "antes": "Alberts et al., Molecular Biology of the Cell, DNA Replication, Repair, and Recombination · https://www.ncbi.nlm.nih.gov/books/NBK21064/",
+          "despues": "OpenStax, biology-2e, §14.4 · https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes"
+        }
+      },
+      "fuente_actual": "OpenStax, biology-2e, §14.4 · https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes",
+      "pagina_anterior": "Programa 2027 p. 15 · B13.10"
+    },
+    {
+      "id": "programa27-fisica-auditoria-f09-006",
+      "bancos": [
+        "programa_2027"
+      ],
+      "estado": "cotejo_fuente",
+      "cambios": {
+        "source": {
+          "antes": "OpenStax, College Physics 2e, 26.3 The Simple Magnifier · https://openstax.org/books/college-physics-2e/pages/26-3-the-simple-magnifier",
+          "despues": "OpenStax, University Physics Volume 3, §2.7, The Simple Magnifier · https://openstax.org/books/university-physics-volume-3/pages/2-7-the-simple-magnifier"
+        }
+      },
+      "fuente_actual": "OpenStax, University Physics Volume 3, §2.7, The Simple Magnifier · https://openstax.org/books/university-physics-volume-3/pages/2-7-the-simple-magnifier",
+      "pagina_anterior": "Programa 2027 p. 17 · 9.6"
+    },
+    {
+      "id": "programa27-matematica-auditoria-m09-003",
+      "bancos": [
+        "programa_2027"
+      ],
+      "estado": "cotejo_fuente",
+      "cambios": {
+        "source": {
+          "antes": "OpenStax, Found no tool response. This likely means the arguments you provided were not valid. · https://openstax.org/books/algebra-and-trigonometry-2e/pages/9-1-verifying-trigonometric-identities-and-using-trigonometric-identities-to-simplify-trigonometric-expressions",
+          "despues": "OpenStax, Algebra and Trigonometry 2e, §9.1, identidades trigonométricas · https://openstax.org/books/algebra-and-trigonometry-2e/pages/9-1-verifying-trigonometric-identities-and-using-trigonometric-identities-to-simplify-trigonometric-expressions"
+        }
+      },
+      "fuente_actual": "OpenStax, Algebra and Trigonometry 2e, §9.1, identidades trigonométricas · https://openstax.org/books/algebra-and-trigonometry-2e/pages/9-1-verifying-trigonometric-identities-and-using-trigonometric-identities-to-simplify-trigonometric-expressions",
+      "pagina_anterior": "Programa 2027 p. 19 · 9.3"
+    },
+    {
+      "id": "sim2027-b04-002",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "cambios": {
+        "source": {
+          "antes": "Alberts et al., Molecular Biology of the Cell, Visualizing Cells · https://www.ncbi.nlm.nih.gov/books/NBK21048/",
+          "despues": "OpenStax, microbiology, §2.3 · https://openstax.org/books/microbiology/pages/2-3-instruments-of-microscopy"
+        },
+        "programUnit": {
+          "antes": null,
+          "despues": "B04"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "B04.22"
+        }
+      },
+      "fuente_actual": "OpenStax, microbiology, §2.3 · https://openstax.org/books/microbiology/pages/2-3-instruments-of-microscopy",
+      "pagina_anterior": "Programa 2027 p. 14 · B04.22"
+    },
+    {
+      "id": "sim2027-b10-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "cambios": {
+        "source": {
+          "antes": "Alberts et al., Molecular Biology of the Cell, DNA Replication, Repair, and Recombination · https://www.ncbi.nlm.nih.gov/books/NBK21064/",
+          "despues": "OpenStax, biology-2e, §14.6 · https://openstax.org/books/biology-2e/pages/14-6-dna-repair"
+        },
+        "programUnit": {
+          "antes": null,
+          "despues": "B10"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "B10.7"
+        }
+      },
+      "fuente_actual": "OpenStax, biology-2e, §14.6 · https://openstax.org/books/biology-2e/pages/14-6-dna-repair",
+      "pagina_anterior": "Programa 2027 p. 15 · B10.7"
+    },
+    {
+      "id": "sim2027-b11-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "cambios": {
+        "source": {
+          "antes": "Alberts et al., Molecular Biology of the Cell, From DNA to RNA · https://www.ncbi.nlm.nih.gov/books/NBK26887/",
+          "despues": "OpenStax, biology-2e, §15.3 · https://openstax.org/books/biology-2e/pages/15-3-eukaryotic-transcription"
+        },
+        "programUnit": {
+          "antes": null,
+          "despues": "B11"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "B11.11"
+        }
+      },
+      "fuente_actual": "OpenStax, biology-2e, §15.3 · https://openstax.org/books/biology-2e/pages/15-3-eukaryotic-transcription",
+      "pagina_anterior": "Programa 2027 p. 15 · B11.11"
+    },
+    {
+      "id": "sim2027-b13-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "cambios": {
+        "source": {
+          "antes": "Alberts et al., Molecular Biology of the Cell, DNA Replication, Repair, and Recombination · https://www.ncbi.nlm.nih.gov/books/NBK21064/",
+          "despues": "OpenStax, biology-2e, §14.4 · https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes"
+        },
+        "programUnit": {
+          "antes": null,
+          "despues": "B13"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "B13.10"
+        }
+      },
+      "fuente_actual": "OpenStax, biology-2e, §14.4 · https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes",
+      "pagina_anterior": "Programa 2027 p. 15 · B13.10"
+    },
+    {
+      "id": "sim2027-l03-005",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "cambios": {
+        "source": {
+          "antes": "Instituto Cervantes, Diccionario de términos clave de ELE, Marcadores del discurso · https://cvc.cervantes.es/ensenanza/biblioteca_ele/diccio_ele/diccionario/marcadoresdiscurso.htm",
+          "despues": "RAE/ASALE, DLE, decir, expresión «es decir» · https://dle.rae.es/decir"
+        },
+        "programUnit": {
+          "antes": null,
+          "despues": "L03"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "III.3.1"
+        }
+      },
+      "fuente_actual": "RAE/ASALE, DLE, decir, expresión «es decir» · https://dle.rae.es/decir",
+      "pagina_anterior": "Programa 2027 p. 3 · III.3.1"
+    },
+    {
+      "id": "sim2027-l04-003",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "cambios": {
+        "explanation": {
+          "antes": "En la primera oración equivale a «todavía». En los otros casos, aun tiene valor inclusivo o concesivo.",
+          "despues": "En «Aún no llegaron todos los resultados», aún equivale a «todavía». En los otros casos, aun tiene valor inclusivo o concesivo."
+        },
+        "programUnit": {
+          "antes": null,
+          "despues": "L04"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "IV.2"
+        }
+      },
+      "fuente_actual": "RAE/ASALE, Diccionario panhispánico de dudas, tilde · https://www.rae.es/dpd/tilde",
+      "pagina_anterior": "Programa 2027 p. 3 · IV.2"
+    },
+    {
+      "id": "sim2027-m09-003",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "cotejo_fuente",
+      "cambios": {
+        "source": {
+          "antes": "OpenStax, Found no tool response. This likely means the arguments you provided were not valid. · https://openstax.org/books/algebra-and-trigonometry-2e/pages/9-1-verifying-trigonometric-identities-and-using-trigonometric-identities-to-simplify-trigonometric-expressions",
+          "despues": "OpenStax, Algebra and Trigonometry 2e, §9.1, identidades trigonométricas · https://openstax.org/books/algebra-and-trigonometry-2e/pages/9-1-verifying-trigonometric-identities-and-using-trigonometric-identities-to-simplify-trigonometric-expressions"
+        },
+        "programUnit": {
+          "antes": null,
+          "despues": "M09"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "9.3"
+        }
+      },
+      "fuente_actual": "OpenStax, Algebra and Trigonometry 2e, §9.1, identidades trigonométricas · https://openstax.org/books/algebra-and-trigonometry-2e/pages/9-1-verifying-trigonometric-identities-and-using-trigonometric-identities-to-simplify-trigonometric-expressions",
+      "pagina_anterior": "Programa 2027 p. 19 · 9.3"
+    },
+    {
+      "id": "sim2027-b04-003",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "B04"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "B04.23"
+        }
+      }
+    },
+    {
+      "id": "sim2027-b05-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "B05"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "B05.11"
+        }
+      }
+    },
+    {
+      "id": "sim2027-b06-002",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "B06"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "B06.9"
+        }
+      }
+    },
+    {
+      "id": "sim2027-b07-002",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "B07"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "B07.10"
+        }
+      }
+    },
+    {
+      "id": "sim2027-b08-002",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "B08"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "B08.8"
+        }
+      }
+    },
+    {
+      "id": "sim2027-b09-002",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "B09"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "B09.13"
+        }
+      }
+    },
+    {
+      "id": "sim2027-b12-006",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "B12"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "B12.16"
+        }
+      }
+    },
+    {
+      "id": "sim2027-b14-004",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "B14"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "B14.10"
+        }
+      }
+    },
+    {
+      "id": "sim2027-b15-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "B15"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "B15.15"
+        }
+      }
+    },
+    {
+      "id": "sim2027-l01-004",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "L01"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "I.6"
+        }
+      }
+    },
+    {
+      "id": "sim2027-l02-004",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "L02"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "II.3.6"
+        }
+      }
+    },
+    {
+      "id": "sim2027-l03-002",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "L03"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "III.2"
+        }
+      }
+    },
+    {
+      "id": "sim2027-l04-002",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "L04"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "IV.2"
+        }
+      }
+    },
+    {
+      "id": "sim2027-l04-014",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "L04"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "IV.4"
+        }
+      }
+    },
+    {
+      "id": "sim2027-l04-020",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "L04"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "IV.5"
+        }
+      }
+    },
+    {
+      "id": "sim2027-l05-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "L05"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "V.1.1"
+        }
+      }
+    },
+    {
+      "id": "sim2027-l05-022",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "L05"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "V.9.6.2"
+        }
+      }
+    },
+    {
+      "id": "sim2027-l05-027",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "page": {
+          "antes": "Programa 2027 p. 4 · V.9.9.5",
+          "despues": "Programa 2027 p. 4 · V.9.9.4"
+        },
+        "programUnit": {
+          "antes": null,
+          "despues": "L05"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "V.9.9.4"
+        }
+      }
+    },
+    {
+      "id": "sim2027-f02-003",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "F02"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "2.3"
+        }
+      }
+    },
+    {
+      "id": "sim2027-f02-005",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "F02"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "2.5"
+        }
+      }
+    },
+    {
+      "id": "sim2027-f02-008",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "F02"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "2.8"
+        }
+      }
+    },
+    {
+      "id": "sim2027-f03-006",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "F03"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "3.6"
+        }
+      }
+    },
+    {
+      "id": "sim2027-f04-003",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "F04"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "4.3"
+        }
+      }
+    },
+    {
+      "id": "sim2027-f05-002",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "F05"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "5.2"
+        }
+      }
+    },
+    {
+      "id": "sim2027-f06-005",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "F06"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "6.5"
+        }
+      }
+    },
+    {
+      "id": "sim2027-f07-003",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "F07"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "7.3"
+        }
+      }
+    },
+    {
+      "id": "sim2027-f08-002",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "F08"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "8.2"
+        }
+      }
+    },
+    {
+      "id": "sim2027-f09-005",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "F09"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "9.5"
+        }
+      }
+    },
+    {
+      "id": "sim2027-f10-012",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "F10"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "10.10"
+        }
+      }
+    },
+    {
+      "id": "sim2027-m01-006",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "M01"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "1.6"
+        }
+      }
+    },
+    {
+      "id": "sim2027-m02-007",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "M02"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "2.6"
+        }
+      }
+    },
+    {
+      "id": "sim2027-m03-005",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "M03"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "3.5"
+        }
+      }
+    },
+    {
+      "id": "sim2027-m04-004",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "M04"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "4.3"
+        }
+      }
+    },
+    {
+      "id": "sim2027-m05-007",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "M05"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "5.1.7"
+        }
+      }
+    },
+    {
+      "id": "sim2027-m06-002",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "M06"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "6.2"
+        }
+      }
+    },
+    {
+      "id": "sim2027-m07-003",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "M07"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "7.3"
+        }
+      }
+    },
+    {
+      "id": "sim2027-m08-004",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "M08"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "8.3"
+        }
+      }
+    },
+    {
+      "id": "sim2027-m10-008",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "M10"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "10.8"
+        }
+      }
+    },
+    {
+      "id": "sim2027-q12-002",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "Q12"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "12.2"
+        }
+      }
+    },
+    {
+      "id": "sim2027-q12-008",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "Q12"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "12.10.5"
+        }
+      }
+    },
+    {
+      "id": "sim2027-q13-004",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "Q13"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "13.6.2.1.2"
+        }
+      }
+    },
+    {
+      "id": "sim2027-q14-007",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "Q14"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "14.2.4.3"
+        }
+      }
+    },
+    {
+      "id": "sim2027-q14-009",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "Q14"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "14.4.3"
+        }
+      }
+    },
+    {
+      "id": "sim2027-q15-004",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "Q15"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "15.3.4"
+        }
+      }
+    },
+    {
+      "id": "sim2027-q16-001",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "Q16"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "16.1.2"
+        }
+      }
+    },
+    {
+      "id": "sim2027-q16-010",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "Q16"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "16.3.1.5"
+        }
+      }
+    },
+    {
+      "id": "sim2027-q17-006",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "Q17"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "17.2.3"
+        }
+      }
+    },
+    {
+      "id": "sim2027-q17-009",
+      "bancos": [
+        "preguntas"
+      ],
+      "estado": "correspondencia_programa",
+      "cambios": {
+        "programUnit": {
+          "antes": null,
+          "despues": "Q17"
+        },
+        "programTopic": {
+          "antes": null,
+          "despues": "17.3.4.1"
+        }
+      }
+    },
+    {
+      "id": "quí-0001",
+      "bancos": [
+        "starter"
+      ],
+      "estado": "revision_semantica",
+      "fuente_actual": "Unidad 1 Materia y Energía.pdf",
+      "pendiente": "Completar el cotejo externo individual de la explicación."
+    },
+    {
+      "id": "quí-0002",
+      "bancos": [
+        "starter"
+      ],
+      "estado": "revision_semantica",
+      "fuente_actual": "Unidad 1 Materia y Energía.pdf",
+      "pendiente": "Completar el cotejo externo individual de la explicación."
+    },
+    {
+      "id": "quí-0003",
+      "bancos": [
+        "starter"
+      ],
+      "estado": "revision_semantica",
+      "fuente_actual": "Unidad 1 Materia y Energía.pdf",
+      "pendiente": "Completar el cotejo externo individual de la explicación."
+    },
+    {
+      "id": "quí-0005",
+      "bancos": [
+        "starter"
+      ],
+      "estado": "revision_semantica",
+      "fuente_actual": "Unidad 1 Materia y Energía.pdf",
+      "pendiente": "Completar el cotejo externo individual de la explicación."
+    },
+    {
+      "id": "quí-0006",
+      "bancos": [
+        "starter"
+      ],
+      "estado": "revision_semantica",
+      "fuente_actual": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
+      "pendiente": "Completar el cotejo externo individual de la explicación."
+    },
+    {
+      "id": "quí-0007",
+      "bancos": [
+        "starter"
+      ],
+      "estado": "revision_semantica",
+      "fuente_actual": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
+      "pendiente": "Completar el cotejo externo individual de la explicación."
+    },
+    {
+      "id": "quí-0008",
+      "bancos": [
+        "starter"
+      ],
+      "estado": "revision_semantica",
+      "fuente_actual": "Unidad 5 Reacciones.pdf",
+      "pendiente": "Completar el cotejo externo individual de la explicación."
+    },
+    {
+      "id": "quí-0009",
+      "bancos": [
+        "starter"
+      ],
+      "estado": "revision_semantica",
+      "fuente_actual": "Unidad 5 Reacciones.pdf",
+      "pendiente": "Completar el cotejo externo individual de la explicación."
+    },
+    {
+      "id": "quí-0010",
+      "bancos": [
+        "starter"
+      ],
+      "estado": "revision_semantica",
+      "fuente_actual": "Unidad 5 Reacciones.pdf",
+      "pendiente": "Completar el cotejo externo individual de la explicación."
+    },
+    {
+      "id": "bio-0011",
+      "bancos": [
+        "starter"
+      ],
+      "estado": "revision_semantica",
+      "fuente_actual": "CAPÍTULO 1.pdf",
+      "pendiente": "Completar el cotejo externo individual de la explicación."
+    },
+    {
+      "id": "bio-0012",
+      "bancos": [
+        "starter"
+      ],
+      "estado": "revision_semantica",
+      "fuente_actual": "CAPÍTULO 1.pdf",
+      "pendiente": "Completar el cotejo externo individual de la explicación."
+    },
+    {
+      "id": "bio-0013",
+      "bancos": [
+        "starter"
+      ],
+      "estado": "revision_semantica",
+      "fuente_actual": "CAPÍTULO 1.pdf",
+      "pendiente": "Completar el cotejo externo individual de la explicación."
+    },
+    {
+      "id": "bio-0014",
+      "bancos": [
+        "starter"
+      ],
+      "estado": "revision_semantica",
+      "fuente_actual": "CAPÍTULO 1.pdf",
+      "pendiente": "Completar el cotejo externo individual de la explicación."
+    },
+    {
+      "id": "bio-0016",
+      "bancos": [
+        "starter"
+      ],
+      "estado": "revision_semantica",
+      "fuente_actual": "CAPÍTULO 1.pdf",
+      "pendiente": "Completar el cotejo externo individual de la explicación."
+    },
+    {
+      "id": "bio-0017",
+      "bancos": [
+        "starter"
+      ],
+      "estado": "revision_semantica",
+      "fuente_actual": "CAPÍTULO 1.pdf",
+      "pendiente": "Completar el cotejo externo individual de la explicación."
+    },
+    {
+      "id": "bio-0018",
+      "bancos": [
+        "starter"
+      ],
+      "estado": "revision_semantica",
+      "fuente_actual": "CAPÍTULO 3.pdf",
+      "pendiente": "Completar el cotejo externo individual de la explicación."
+    },
+    {
+      "id": "bio-0019",
+      "bancos": [
+        "starter"
+      ],
+      "estado": "revision_semantica",
+      "fuente_actual": "CAPÍTULO 3.pdf",
+      "pendiente": "Completar el cotejo externo individual de la explicación."
+    },
+    {
+      "id": "mat-0020",
+      "bancos": [
+        "starter"
+      ],
+      "estado": "revision_semantica",
+      "fuente_actual": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "pendiente": "Completar el cotejo externo individual de la explicación."
+    },
+    {
+      "id": "mat-0023",
+      "bancos": [
+        "starter"
+      ],
+      "estado": "revision_semantica",
+      "fuente_actual": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
+      "pendiente": "Completar el cotejo externo individual de la explicación."
+    },
+    {
+      "id": "len-0024",
+      "bancos": [
+        "starter"
+      ],
+      "estado": "revision_semantica",
+      "fuente_actual": "1000123493.jpg",
+      "pendiente": "Completar el cotejo externo individual de la explicación."
+    },
+    {
+      "id": "len-0025",
+      "bancos": [
+        "starter"
+      ],
+      "estado": "revision_semantica",
+      "fuente_actual": "1000123494.jpg",
+      "pendiente": "Completar el cotejo externo individual de la explicación."
+    },
+    {
+      "id": "len-0026",
+      "bancos": [
+        "starter"
+      ],
+      "estado": "revision_semantica",
+      "fuente_actual": "1000123494.jpg",
+      "pendiente": "Completar el cotejo externo individual de la explicación."
+    }
+  ],
+  "criterios": {
+    "revision_semantica": "Se leyeron enunciado, clave, explicación y distractores de la pregunta y su tarjeta equivalente. Se precisó la referencia; no se certifica por este estado el cotejo externo integral de cada explicación.",
+    "cotejo_fuente": "Se consultó el pasaje concreto que respalda el concepto, además de revisar enunciado, clave, explicación y distractores cuando existen.",
+    "acceso": "Un HTTP 200 por sí solo no implica contenido visible ni respaldo académico.",
+    "correspondencia_programa": "Se explicita en metadatos la unidad y referencia ya indicada en page, con comprobación contra el mapa. No agrega un cotejo académico del enunciado."
+  },
+  "alcance": "No se certifican como revisadas las 1449 tarjetas. Los avances históricos se conservan en COBERTURA_2027.md y ACTUALIZACION_040.md; no se suman automáticamente para evitar duplicar IDs.",
+  "ultima_actualizacion": "2026-11-10"
+}

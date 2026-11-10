@@ -34,6 +34,11 @@ jobs:
           SIGNING_BACKUP: ${{ secrets.MEDICINA_SIGNING_KEYSTORE_BASE64 }}
         run: |
           mkdir -p .signing
+          if [ -n "$SIGNING_BACKUP" ]; then
+            echo "Respaldo MEDICINA_SIGNING_KEYSTORE_BASE64 disponible."
+          else
+            echo "Respaldo MEDICINA_SIGNING_KEYSTORE_BASE64 no disponible; se requiere la clave conservada en caché."
+          fi
           if [ ! -f "$APP_DEBUG_KEYSTORE" ] && [ -n "$SIGNING_BACKUP" ]; then
             printf '%s' "$SIGNING_BACKUP" | base64 --decode > "$APP_DEBUG_KEYSTORE"
           fi
@@ -42,7 +47,9 @@ jobs:
             exit 1
           fi
           fingerprint=$(keytool -exportcert -keystore "$APP_DEBUG_KEYSTORE" -storepass android -alias androiddebugkey | sha256sum | cut -d ' ' -f 1)
-          test "$fingerprint" = "d6f4196df346ad76b899acf646eb6ec7c4f5deb842b8a17529575669b9a2d791" || { echo "La firma no coincide con la versión 0.2.0."; exit 1; }
+          test "$fingerprint" = "d6f4196df346ad76b899acf646eb6ec7c4f5deb842b8a17529575669b9a2d791" || { echo "La firma no coincide con las versiones 0.3.5 y 0.4.0 distribuidas."; exit 1; }
+      - name: Validar bancos y recálculos
+        run: python3 tools/check_study_content.py
       - name: Compilar y probar
         run: gradle --no-daemon :app:testDebugUnitTest :app:assembleDebug
       - name: Preparar actualización

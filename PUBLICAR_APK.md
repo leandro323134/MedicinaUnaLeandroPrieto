@@ -40,6 +40,11 @@ o artefactos. Crear una clave nueva no permite actualizar instalaciones anterior
 
 Al compilar localmente, definir `APP_DEBUG_KEYSTORE` con la ruta de la misma clave.
 Un APK generado con otra clave local no es una actualización compatible.
+Desde 0.4.1, omitir la variable genera `app-debug-unsigned.apk`, sin crear una
+clave nueva. Ese archivo sirve para inspeccionar la compilación, pero **no se
+distribuye para instalar**. Una ruta configurada que no exista detiene Gradle.
+El workflow informa si el secreto de respaldo está disponible sin mostrar su
+contenido y sigue verificando el certificado antes de compilar.
 
 ## Comprobación antes de entregar
 

@@ -71,6 +71,46 @@ class StudyRepositoryTest {
         assertEquals(1, repository.dao.allLogs().size)
     }
 
+    @Test fun bundledUpdatePreservesProgressSettingsAndInFlightExam() = runBlocking {
+        // Representa contenido anterior con un ID estable que recibe una corrección académica.
+        val original = card.copy(id = "len-0027", question = "Pregunta anterior", answer = "Respuesta anterior")
+        repository.dao.add(listOf(original))
+        repository.rate(original.id, 3, 0, 1000)
+        val prefs = context.getSharedPreferences("appearance", Context.MODE_PRIVATE)
+        prefs.edit().putString("palette", "Forest").putString("mode", "Dark")
+            .putInt("dailyGoal", 35).putInt("newLimit", 10).commit()
+        val question = ExamQuestion("Lenguaje", "Enunciado anterior", listOf("A", "B"), 1,
+            "Explicación anterior", id = "saved-question", topic = "Tema anterior")
+        val examId = repository.startExam(PracticeExam("upgrade", "En curso", 10,
+            listOf(question, question.copy(id = "saved-question-2", text = "Otra pregunta"))), 2000)
+        repository.answer(examId, 0, 1, 3000)
+        repository.position(examId, 1)
+        repository.reviewError("previous-session", question, 1, 3500)
+        val previousProgress = repository.dao.allProgress()
+        val previousLogs = repository.dao.allLogs()
+        val previousExam = repository.dao.exam(examId)
+        val previousReviews = repository.dao.allErrorReviews()
+        repeat(2) {
+            for (name in listOf("starter.json", "tarjetas.json", "programa_2027.json")) {
+                context.assets.open(name).bufferedReader().use { repository.importCards(it.readText(), true) }
+            }
+        }
+        assertEquals(1449, repository.dao.allCards().size)
+        assertTrue(repository.dao.allCards().single { it.id == original.id }.question.contains("capacidad"))
+        assertEquals(previousProgress, repository.dao.allProgress())
+        assertEquals(previousLogs, repository.dao.allLogs())
+        assertEquals(previousExam, repository.dao.exam(examId))
+        assertEquals(previousReviews, repository.dao.allErrorReviews())
+        assertEquals("Forest", prefs.getString("palette", null))
+        assertEquals("Dark", prefs.getString("mode", null))
+        assertEquals(35, prefs.getInt("dailyGoal", 0))
+        assertEquals(10, prefs.getInt("newLimit", 0))
+        repository.expireExams(previousExam!!.deadline)
+        assertEquals(previousExam.copy(finishedAt = previousExam.deadline), repository.dao.exam(examId))
+        prefs.edit().clear().commit()
+        Unit
+    }
+
     @Test fun invalidImportWritesNothing() = runBlocking {
         val json = """{"formatVersion":1,"cards":[{"id":"ok","question":"Q","answer":"A","subject":"S","unit":"U","topic":"T"},{"id":"bad","question":"","answer":"A","subject":"S","unit":"U","topic":"T"}]}"""
         assertTrue(runCatching { repository.importCards(json) }.isFailure)
@@ -183,14 +223,14 @@ class StudyRepositoryTest {
 
     @Test fun balancedSelectionAvoidsDuplicatesAndFillsFromAvailableQuestions() {
         val bank = loadQuestionBank(context)
-        assertEquals(261, bank.size)
+        assertEquals(311, bank.size)
         assertEquals(bank.size, bank.map { it.id }.toSet().size)
         val selection = selectQuestions(bank + bank.take(8), null, 25, kotlin.random.Random(1))
         assertEquals(25, selection.size)
         assertEquals(setOf(5), selection.groupingBy { it.subject }.eachCount().values.toSet())
         assertEquals(25, selection.map { it.id }.distinct().size)
         val math = selectQuestions(bank, "Matemática", 120, kotlin.random.Random(2))
-        assertEquals(28, math.size)
+        assertEquals(38, math.size)
         assertTrue(math.all { it.subject == "Matemática" })
         assertEquals(bank.size, selectQuestions(bank, null, 500).size)
     }

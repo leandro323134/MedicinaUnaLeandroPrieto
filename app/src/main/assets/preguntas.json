@@ -10,8 +10,8 @@
       "question": "¿Cómo se clasifica el aire limpio y seco?",
       "answer": "Mezcla homogénea",
       "explanation": "Sus gases están distribuidos uniformemente y la composición puede variar.",
-      "source": "Unidad 1 Materia y Energía.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §1.2 · https://openstax.org/books/chemistry-2e/pages/1-2-phases-and-classification-of-matter",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Elemento",
         "Mezcla heterogénea",
@@ -29,8 +29,8 @@
       "question": "¿Qué cambio ocurre cuando se derrite el hielo?",
       "answer": "Cambio físico",
       "explanation": "La identidad química H₂O se conserva aunque cambie el estado.",
-      "source": "Unidad 1 Materia y Energía.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §1.3 · https://openstax.org/books/chemistry-2e/pages/1-3-physical-and-chemical-properties",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Combustión",
         "Cambio físico",
@@ -48,8 +48,8 @@
       "question": "¿Cuál es una propiedad intensiva?",
       "answer": "Densidad",
       "explanation": "En un material homogéneo, duplicar la muestra duplica masa y volumen, pero mantiene su cociente.",
-      "source": "Unidad 1 Materia y Energía.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §1.3 · https://openstax.org/books/chemistry-2e/pages/1-3-physical-and-chemical-properties",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Volumen",
         "Masa",
@@ -67,8 +67,8 @@
       "question": "¿Qué método permite recuperar el agua de una disolución salina como líquido?",
       "answer": "Destilación",
       "explanation": "Se evapora el agua y luego se condensa su vapor. La sal queda en el recipiente.",
-      "source": "Unidad 1 Materia y Energía.pdf",
-      "page": "",
+      "source": "OpenStax, Chemistry 2e, §11.4, destilación · https://openstax.org/books/chemistry-2e/pages/11-4-colligative-properties",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Filtración simple",
         "Destilación",
@@ -86,8 +86,8 @@
       "question": "¿Qué determina el número atómico Z?",
       "answer": "El número de protones",
       "explanation": "Los isótopos de un elemento tienen el mismo Z.",
-      "source": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §2.3 · https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism",
+      "page": "Sección indicada en la referencia",
       "options": [
         "El número de protones",
         "El número de neutrones",
@@ -105,8 +105,8 @@
       "question": "¿Qué diferencia a dos isótopos del mismo elemento?",
       "answer": "El número de neutrones",
       "explanation": "Comparten el número de protones y difieren en el número másico.",
-      "source": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §2.3 · https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism",
+      "page": "Sección indicada en la referencia",
       "options": [
         "El número de protones",
         "El número de neutrones",
@@ -124,8 +124,8 @@
       "question": "¿Cuántos electrones tiene Cl⁻ si Z = 17?",
       "answer": "18",
       "explanation": "La carga −1 indica que el átomo neutro ganó un electrón.",
-      "source": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §2.3 · https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism",
+      "page": "Sección indicada en la referencia",
       "options": [
         "17",
         "35",
@@ -143,8 +143,8 @@
       "question": "¿Cuántos electrones admite un subnivel p completo?",
       "answer": "6",
       "explanation": "Tiene tres orbitales, cada uno con capacidad para dos electrones.",
-      "source": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
-      "page": "",
+      "source": "OpenStax, Chemistry 2e, §6.4 · https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations",
+      "page": "Sección indicada en la referencia",
       "options": [
         "10",
         "3",
@@ -162,8 +162,8 @@
       "question": "En general, ¿cómo cambia el radio atómico al bajar en un grupo?",
       "answer": "Aumenta",
       "explanation": "Se ocupan capas con números cuánticos principales mayores.",
-      "source": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §6.5 · https://openstax.org/books/chemistry-2e/pages/6-5-periodic-variations-in-element-properties",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Permanece constante",
         "Aumenta",
@@ -181,8 +181,8 @@
       "question": "Entre Na y Cl neutros, ¿cuál tiene en general mayor radio atómico?",
       "answer": "Na",
       "explanation": "En el mismo período aumenta la carga nuclear efectiva hacia la derecha y el radio tiende a disminuir.",
-      "source": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §6.5 · https://openstax.org/books/chemistry-2e/pages/6-5-periodic-variations-in-element-properties",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Son iguales",
         "Na",
@@ -200,8 +200,8 @@
       "question": "¿Cuál es el nombre de Fe₂O₃ según Stock?",
       "answer": "Óxido de hierro(III)",
       "explanation": "Tres oxígenos aportan −6 en total, por lo que los dos hierros aportan +6.",
-      "source": "Unidad 3 nomenclatura Inorgánica.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §2.7 · https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Óxido de hierro(II)",
         "Óxido de hierro(III)",
@@ -219,8 +219,8 @@
       "question": "¿Qué fórmula corresponde al hidróxido de aluminio?",
       "answer": "Al(OH)₃",
       "explanation": "Cada OH⁻ neutraliza una unidad de la carga +3 del aluminio.",
-      "source": "Unidad 3 nomenclatura Inorgánica.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §2.7 · https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature",
+      "page": "Sección indicada en la referencia",
       "options": [
         "AlOH",
         "Al(OH)₃",
@@ -238,8 +238,8 @@
       "question": "¿Cuál es el número de oxidación del azufre en H₂SO₄?",
       "answer": "+6",
       "explanation": "La suma 2(+1) + x + 4(−2) es cero.",
-      "source": "Unidad 3 nomenclatura Inorgánica.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §4.2 · https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "page": "Sección indicada en la referencia",
       "options": [
         "+2",
         "+6",
@@ -257,8 +257,8 @@
       "question": "¿Cuál es la fórmula del sulfato de calcio?",
       "answer": "CaSO₄",
       "explanation": "Ca²⁺ y SO₄²⁻ se combinan en relación 1 a 1.",
-      "source": "Unidad 3 nomenclatura Inorgánica.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §2.6 · https://openstax.org/books/chemistry-2e/pages/2-6-molecular-and-ionic-compounds",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Ca(SO₄)₂",
         "Ca₂SO₄",
@@ -276,8 +276,8 @@
       "question": "¿Qué electrones representan los puntos en un símbolo de Lewis?",
       "answer": "Los de valencia",
       "explanation": "Son los electrones que intervienen en la formación de enlaces en este modelo.",
-      "source": "Unidad 4 Enlace químico.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §7.3 · https://openstax.org/books/chemistry-2e/pages/7-3-lewis-symbols-and-structures",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Los de valencia",
         "Solo los del núcleo",
@@ -295,8 +295,8 @@
       "question": "¿Cuál es la carga formal de N en NH₄⁺ si forma cuatro enlaces simples y no tiene pares libres?",
       "answer": "+1",
       "explanation": "Se restan a sus cinco electrones de valencia los cuatro electrones que se le asignan por los enlaces.",
-      "source": "Unidad 4 Enlace químico.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §7.4 · https://openstax.org/books/chemistry-2e/pages/7-4-formal-charges-and-resonance",
+      "page": "Sección indicada en la referencia",
       "options": [
         "+4",
         "+1",
@@ -314,8 +314,8 @@
       "question": "¿Cuál es la geometría molecular de CO₂?",
       "answer": "Lineal",
       "explanation": "El carbono tiene dos dominios enlazantes y ningún par libre. Cada enlace doble cuenta como un dominio.",
-      "source": "Unidad 4 Enlace químico.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §7.6 · https://openstax.org/books/chemistry-2e/pages/7-6-molecular-structure-and-polarity",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Lineal",
         "Angular",
@@ -333,8 +333,8 @@
       "question": "¿Por qué el CO₂ lineal carece de dipolo molecular permanente?",
       "answer": "Sus dipolos de enlace se cancelan",
       "explanation": "Los dos enlaces C=O son equivalentes y apuntan en sentidos opuestos.",
-      "source": "Unidad 4 Enlace químico.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §7.6 · https://openstax.org/books/chemistry-2e/pages/7-6-molecular-structure-and-polarity",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Sus enlaces C=O son apolares",
         "El carbono tiene un par libre",
@@ -352,8 +352,8 @@
       "question": "¿Qué interacción explica el punto de ebullición relativamente alto del agua?",
       "answer": "Puentes de hidrógeno",
       "explanation": "El H enlazado a O interactúa con pares libres del O de otras moléculas.",
-      "source": "Unidad 4 Enlace químico.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §10.1 · https://openstax.org/books/chemistry-2e/pages/10-1-intermolecular-forces",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Enlaces iónicos entre las moléculas",
         "Enlaces metálicos",
@@ -371,8 +371,8 @@
       "question": "Al balancear una reacción, ¿qué números se pueden cambiar?",
       "answer": "Los coeficientes delante de las fórmulas",
       "explanation": "Cambiar un subíndice altera la identidad de la especie.",
-      "source": "Unidad 5 Reacciones.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §4.1 · https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations",
+      "page": "Sección indicada en la referencia",
       "options": [
         "La carga de un ion sin cambiar la reacción",
         "Los coeficientes delante de las fórmulas",
@@ -390,8 +390,8 @@
       "question": "¿Qué coeficientes mínimos balancean Al + O₂ → Al₂O₃?",
       "answer": "4, 3, 2",
       "explanation": "Así hay cuatro Al y seis O a cada lado.",
-      "source": "Unidad 5 Reacciones.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §4.1 · https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations",
+      "page": "Sección indicada en la referencia",
       "options": [
         "4, 3, 2",
         "2, 3, 1",
@@ -409,8 +409,8 @@
       "question": "¿Qué le ocurre a una especie que pierde electrones?",
       "answer": "Se oxida",
       "explanation": "La pérdida de electrones aumenta su número de oxidación.",
-      "source": "Unidad 5 Reacciones.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §4.2 · https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Siempre se neutraliza",
         "Se oxida",
@@ -428,8 +428,8 @@
       "question": "¿Qué sólido se forma al mezclar disoluciones de AgNO₃ y NaCl?",
       "answer": "AgCl",
       "explanation": "Ag⁺ y Cl⁻ forman cloruro de plata poco soluble.",
-      "source": "Unidad 5 Reacciones.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §4.2 · https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "page": "Sección indicada en la referencia",
       "options": [
         "NaCl",
         "AgCl",
@@ -447,8 +447,8 @@
       "question": "¿Qué pasa con la presión si se reduce a la mitad el volumen a temperatura y cantidad de gas constantes?",
       "answer": "Se duplica",
       "explanation": "La ley de Boyle establece que PV es constante en esas condiciones.",
-      "source": "Unidad 6  Estado de Agregación.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §9.2 · https://openstax.org/books/chemistry-2e/pages/9-2-relating-pressure-volume-amount-and-temperature-the-ideal-gas-law",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Se duplica",
         "Permanece igual",
@@ -466,8 +466,8 @@
       "question": "¿Qué escala requiere PV = nRT?",
       "answer": "Kelvin",
       "explanation": "La ecuación usa temperatura absoluta.",
-      "source": "Unidad 6  Estado de Agregación.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §9.2 · https://openstax.org/books/chemistry-2e/pages/9-2-relating-pressure-volume-amount-and-temperature-the-ideal-gas-law",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Kelvin",
         "Celsius",
@@ -485,8 +485,8 @@
       "question": "¿Cuándo hierve un líquido?",
       "answer": "Cuando su presión de vapor iguala la presión externa",
       "explanation": "En ese punto pueden formarse burbujas de vapor dentro del líquido.",
-      "source": "Unidad 6  Estado de Agregación.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §10.3 · https://openstax.org/books/chemistry-2e/pages/10-3-phase-transitions",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Cuando la presión de vapor se anula",
         "Solo cuando pierde toda su energía cinética",
@@ -504,8 +504,8 @@
       "question": "¿Qué distingue a un sólido cristalino de uno amorfo?",
       "answer": "El orden estructural de largo alcance",
       "explanation": "La estructura cristalina presenta un patrón regular repetido.",
-      "source": "Unidad 6  Estado de Agregación.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §10.5 · https://openstax.org/books/chemistry-2e/pages/10-5-the-solid-state-of-matter",
+      "page": "Sección indicada en la referencia",
       "options": [
         "La presencia obligatoria de enlaces metálicos",
         "Un volumen que depende por completo del recipiente",
@@ -523,8 +523,8 @@
       "question": "¿Cómo se define la molaridad?",
       "answer": "Moles de soluto por litro de solución",
       "explanation": "El volumen se refiere a la mezcla final.",
-      "source": "Unidad 7 Soluciones.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §3.3 · https://openstax.org/books/chemistry-2e/pages/3-3-molarity",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Moles de soluto por litro de solución",
         "Gramos de solvente por litro",
@@ -542,8 +542,8 @@
       "question": "¿Qué magnitud usa la molalidad en su denominador?",
       "answer": "Masa del solvente en kilogramos",
       "explanation": "Se divide la cantidad de soluto en moles por la masa del solvente.",
-      "source": "Unidad 7 Soluciones.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §11.4 · https://openstax.org/books/chemistry-2e/pages/11-4-colligative-properties",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Masa del solvente en kilogramos",
         "Volumen del solvente en mililitros",
@@ -561,8 +561,8 @@
       "question": "Al diluir una alícuota con agua, ¿qué magnitud se conserva?",
       "answer": "Moles de soluto de la alícuota",
       "explanation": "Al agregar solvente sin perder ni transformar soluto aumenta el volumen y baja la concentración.",
-      "source": "Unidad 7 Soluciones.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §3.3 · https://openstax.org/books/chemistry-2e/pages/3-3-molarity",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Volumen",
         "Molaridad",
@@ -580,8 +580,8 @@
       "question": "Para disoluciones diluidas del mismo soluto no volátil, ¿qué pasa con el punto de congelación al aumentar la molalidad?",
       "answer": "Disminuye",
       "explanation": "El descenso crioscópico crece con la concentración de partículas disueltas.",
-      "source": "Unidad 7 Soluciones.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §11.4 · https://openstax.org/books/chemistry-2e/pages/11-4-colligative-properties",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Iguala al punto de ebullición",
         "Permanece igual",
@@ -599,8 +599,8 @@
       "question": "¿Qué hace una base de Brønsted–Lowry?",
       "answer": "Acepta un protón",
       "explanation": "Al aceptar H⁺ forma su ácido conjugado.",
-      "source": "Unidad 8 Ácido - Base.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §14.1 · https://openstax.org/books/chemistry-2e/pages/14-1-bronsted-lowry-acids-and-bases",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Siempre libera H₂",
         "Acepta exclusivamente electrones",
@@ -618,8 +618,8 @@
       "question": "¿Cuál es la base conjugada de H₂CO₃?",
       "answer": "HCO₃⁻",
       "explanation": "El ácido pierde un solo protón en este paso.",
-      "source": "Unidad 8 Ácido - Base.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §14.1 · https://openstax.org/books/chemistry-2e/pages/14-1-bronsted-lowry-acids-and-bases",
+      "page": "Sección indicada en la referencia",
       "options": [
         "CO₃²⁻",
         "H₃CO₃⁺",
@@ -637,8 +637,8 @@
       "question": "¿Qué significa que un ácido sea débil en agua?",
       "answer": "Que se ioniza parcialmente",
       "explanation": "La fuerza describe el grado de ionización, mientras que la concentración indica cuánto soluto hay.",
-      "source": "Unidad 8 Ácido - Base.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §14.3 · https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Que se ioniza parcialmente",
         "Que siempre está muy diluido",
@@ -656,8 +656,8 @@
       "question": "A 25 °C, ¿qué pOH corresponde a pH 9?",
       "answer": "5",
       "explanation": "En agua a 25 °C, pH + pOH = 14.",
-      "source": "Unidad 8 Ácido - Base.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §14.2 · https://openstax.org/books/chemistry-2e/pages/14-2-ph-and-poh",
+      "page": "Sección indicada en la referencia",
       "options": [
         "5",
         "9",
@@ -675,8 +675,8 @@
       "question": "¿Cuántas partículas hay aproximadamente en un mol?",
       "answer": "6,022 × 10²³",
       "explanation": "La constante de Avogadro relaciona cantidad de sustancia y número de entidades.",
-      "source": "Unidad 9 Estequiometría.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §3.1 · https://openstax.org/books/chemistry-2e/pages/3-1-formula-mass-and-the-mole-concept",
+      "page": "Sección indicada en la referencia",
       "options": [
         "1,66 × 10⁻²⁴",
         "6,022 × 10⁻²³",
@@ -694,8 +694,8 @@
       "question": "Para 2 H₂ + O₂ → 2 H₂O, ¿qué reactivo limita con 3 mol de H₂ y 2 mol de O₂?",
       "answer": "H₂",
       "explanation": "Los 2 mol de O₂ requerirían 4 mol de H₂.",
-      "source": "Unidad 9 Estequiometría.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §4.4 · https://openstax.org/books/chemistry-2e/pages/4-4-reaction-yields",
+      "page": "Sección indicada en la referencia",
       "options": [
         "H₂O",
         "H₂",
@@ -713,8 +713,8 @@
       "question": "Si el rendimiento teórico es 20 g y se obtienen 15 g, ¿cuál es el rendimiento porcentual?",
       "answer": "75 %",
       "explanation": "Se calcula 15/20 × 100.",
-      "source": "Unidad 9 Estequiometría.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §4.4 · https://openstax.org/books/chemistry-2e/pages/4-4-reaction-yields",
+      "page": "Sección indicada en la referencia",
       "options": [
         "75 %",
         "25 %",
@@ -732,8 +732,8 @@
       "question": "¿Cuál es la fórmula empírica de C₆H₁₂O₆?",
       "answer": "CH₂O",
       "explanation": "Al dividir los subíndices entre 6 se obtiene la relación entera mínima.",
-      "source": "Unidad 9 Estequiometría.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §3.2 · https://openstax.org/books/chemistry-2e/pages/3-2-determining-empirical-and-molecular-formulas",
+      "page": "Sección indicada en la referencia",
       "options": [
         "C₂H₄O₂",
         "C₆H₁₂O₆",
@@ -751,8 +751,8 @@
       "question": "Si v = k[A]²[B], ¿qué pasa con v al duplicar [A] y mantener [B] fija?",
       "answer": "Se cuadruplica",
       "explanation": "El factor de cambio es 2² para el reactivo A.",
-      "source": "Unidad 10 - Cinetica Química.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §12.3 · https://openstax.org/books/chemistry-2e/pages/12-3-rate-laws",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Se duplica",
         "Se multiplica por ocho",
@@ -770,8 +770,8 @@
       "question": "¿Por qué suele aumentar la velocidad de reacción al subir la temperatura?",
       "answer": "Aumenta la fracción de colisiones que supera la barrera energética",
       "explanation": "Una proporción mayor de moléculas posee energía suficiente para reaccionar.",
-      "source": "Unidad 10 - Cinetica Química.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §12.5 · https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory",
+      "page": "Sección indicada en la referencia",
       "options": [
         "El equilibrio se alcanza instantáneamente",
         "La energía de activación sube siempre",
@@ -789,8 +789,8 @@
       "question": "¿Cómo acelera una reacción un catalizador?",
       "answer": "Proporciona una ruta de menor energía de activación",
       "explanation": "La ruta alternativa favorece alcanzar el estado de transición.",
-      "source": "Unidad 10 - Cinetica Química.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §12.7 · https://openstax.org/books/chemistry-2e/pages/12-7-catalysis",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Desplaza por sí mismo el equilibrio hacia los productos",
         "Aumenta ΔG de la reacción",
@@ -808,8 +808,8 @@
       "question": "¿Cuál es el orden total de v = k[A]²[B]⁰?",
       "answer": "2",
       "explanation": "Se suman los exponentes de concentración: 2 + 0.",
-      "source": "Unidad 10 - Cinetica Química.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §12.3 · https://openstax.org/books/chemistry-2e/pages/12-3-rate-laws",
+      "page": "Sección indicada en la referencia",
       "options": [
         "2",
         "3",
@@ -827,8 +827,8 @@
       "question": "¿Qué se iguala en un equilibrio químico dinámico?",
       "answer": "La velocidad directa y la inversa",
       "explanation": "Los cambios opuestos se compensan y las concentraciones se mantienen constantes.",
-      "source": "Unidad 11 - Equilibrio Químico.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §13.1 · https://openstax.org/books/chemistry-2e/pages/13-1-chemical-equilibria",
+      "page": "Sección indicada en la referencia",
       "options": [
         "La velocidad directa y la inversa",
         "Las energías de activación",
@@ -846,8 +846,8 @@
       "question": "Si Q < K, ¿hacia qué lado evoluciona el sistema a temperatura constante?",
       "answer": "Hacia los productos",
       "explanation": "La reacción neta aumenta Q hasta alcanzar K.",
-      "source": "Unidad 11 - Equilibrio Químico.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §13.2 · https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Depende solo del catalizador",
         "Hacia los productos",
@@ -865,8 +865,8 @@
       "question": "¿Cómo aparecen los sólidos puros en la expresión de K?",
       "answer": "Su actividad vale uno",
       "explanation": "Por eso el término asociado al sólido puro no se escribe de forma explícita.",
-      "source": "Unidad 11 - Equilibrio Químico.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §13.2 · https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Su actividad vale uno",
         "Como su masa en gramos",
@@ -884,8 +884,8 @@
       "question": "Para N₂(g) + 3 H₂(g) ⇌ 2 NH₃(g), ¿qué favorece una compresión a temperatura constante?",
       "answer": "Formar NH₃",
       "explanation": "El lado de productos tiene dos moles gaseosos por avance, frente a cuatro en reactivos.",
-      "source": "Unidad 11 - Equilibrio Químico.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §13.3 · https://openstax.org/books/chemistry-2e/pages/13-3-shifting-equilibria-le-chateliers-principle",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Descomponer todo el NH₃",
         "Formar N₂ y H₂",
@@ -903,8 +903,8 @@
       "question": "¿Qué intercambia con el entorno un sistema cerrado?",
       "answer": "Energía, pero no materia",
       "explanation": "Puede intercambiar calor o trabajo sin que cruce materia por la frontera.",
-      "source": "Unidad 12 Termodinámica.pdf",
-      "page": "",
+      "source": "OpenStax, Biology 2e, §6.3, sistemas abiertos y cerrados · https://openstax.org/books/biology-2e/pages/6-3-the-laws-of-thermodynamics",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Energía, pero no materia",
         "Ni materia ni energía",
@@ -922,8 +922,8 @@
       "question": "¿Qué signo tiene ΔH en una reacción exotérmica?",
       "answer": "Negativo",
       "explanation": "El sistema libera calor a presión constante.",
-      "source": "Unidad 12 Termodinámica.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §5.3 · https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Negativo",
         "Depende de la masa molar solamente",
@@ -941,8 +941,8 @@
       "question": "¿Qué le ocurre a ΔH si se invierte una ecuación termoquímica?",
       "answer": "Cambia de signo",
       "explanation": "Se intercambian estados inicial y final.",
-      "source": "Unidad 12 Termodinámica.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §5.3 · https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Se duplica",
         "Permanece igual",
@@ -960,8 +960,8 @@
       "question": "Si ΔH < 0 y ΔS > 0, ¿qué signo tiene ΔG para T > 0 con esos valores?",
       "answer": "Negativo",
       "explanation": "En ΔG = ΔH − TΔS ambos términos contribuyen negativamente.",
-      "source": "Unidad 12 Termodinámica.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §16.4 · https://openstax.org/books/chemistry-2e/pages/16-4-free-energy",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Cero",
         "Cambia necesariamente de signo",
@@ -979,8 +979,8 @@
       "question": "¿Qué hibridación tiene cada carbono del eteno?",
       "answer": "sp²",
       "explanation": "Cada carbono forma tres enlaces sigma y conserva un orbital p para el enlace pi.",
-      "source": "Anot Unidad 13  - Generalidades_261102_190051.pdf",
-      "page": "",
+      "source": "OpenStax, organic-chemistry, §1.8 · https://openstax.org/books/organic-chemistry/pages/1-8-sp2-hybrid-orbitals-and-the-structure-of-ethylene",
+      "page": "Sección indicada en la referencia",
       "options": [
         "sp²",
         "sp",
@@ -998,8 +998,8 @@
       "question": "¿Qué diferencia a dos isómeros constitucionales?",
       "answer": "La conectividad de los átomos",
       "explanation": "Comparten fórmula molecular, pero sus átomos se enlazan de forma distinta.",
-      "source": "Repaso_Interactivo_Isomeria_CACPI_EZ_Actualizado.pdf",
-      "page": "",
+      "source": "OpenStax, organic-chemistry, §3.2 · https://openstax.org/books/organic-chemistry/pages/3-2-alkanes-and-alkane-isomers",
+      "page": "Sección indicada en la referencia",
       "options": [
         "La conectividad de los átomos",
         "La fórmula molecular",
@@ -1017,8 +1017,8 @@
       "question": "¿Por qué el propeno no tiene isomería E/Z en su doble enlace?",
       "answer": "Uno de los carbonos del doble enlace tiene dos H",
       "explanation": "Para E/Z cada carbono del doble enlace debe tener dos sustituyentes diferentes.",
-      "source": "Repaso_Interactivo_Isomeria_CACPI_EZ_Actualizado.pdf",
-      "page": "",
+      "source": "OpenStax, organic-chemistry, §7.5 · https://openstax.org/books/organic-chemistry/pages/7-5-alkene-stereochemistry-and-the-e-z-designation",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Solo los alquinos tienen E/Z",
         "Tiene menos de cuatro enlaces sigma",
@@ -1036,8 +1036,8 @@
       "question": "¿Qué grupo distingue un aldehído?",
       "answer": "Un carbonilo unido a al menos un H",
       "explanation": "En R–CHO, el H está enlazado al carbono carbonílico.",
-      "source": "Anot Unidad 13  - Generalidades_261102_190051.pdf",
-      "page": "",
+      "source": "OpenStax, organic-chemistry, §19.1 · https://openstax.org/books/organic-chemistry/pages/19-1-naming-aldehydes-and-ketones",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Un OH unido a carbono saturado",
         "Un carbonilo unido a al menos un H",
@@ -1055,8 +1055,8 @@
       "question": "¿Qué producto da la hidrogenación completa del eteno?",
       "answer": "Etano",
       "explanation": "Se agrega H₂ a través del doble enlace.",
-      "source": "Unidad 13  - Estructura del carbono - Parte IV y p_261102_164146 (2).pdf",
-      "page": "",
+      "source": "OpenStax, organic-chemistry, §8.6 · https://openstax.org/books/organic-chemistry/pages/8-6-reduction-of-alkenes-hydrogenation",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Etino",
         "Ácido etanoico",
@@ -1074,8 +1074,8 @@
       "question": "¿Qué tipo de reacción es la conversión de etanol en eteno por pérdida de agua?",
       "answer": "Eliminación",
       "explanation": "La deshidratación quita H y OH de carbonos adyacentes y forma un doble enlace.",
-      "source": "Unidad 13  - Estructura del carbono - Parte IV y p_261102_164146 (2).pdf",
-      "page": "",
+      "source": "OpenStax, organic-chemistry, §17.6 · https://openstax.org/books/organic-chemistry/pages/17-6-reactions-of-alcohols",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Hidrogenación",
         "Eliminación",
@@ -1093,8 +1093,8 @@
       "question": "¿Qué producto orgánico resulta de oxidar propan-2-ol a su carbonilo?",
       "answer": "Propanona",
       "explanation": "Un alcohol secundario se oxida a cetona.",
-      "source": "Unidad 13  - Estructura del carbono - Parte IV y p_261102_164146 (2).pdf",
-      "page": "",
+      "source": "OpenStax, organic-chemistry, §17.7 · https://openstax.org/books/organic-chemistry/pages/17-7-oxidation-of-alcohols",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Propanona",
         "Propanal",
@@ -1112,8 +1112,8 @@
       "question": "¿Qué grupo se forma al esterificar ácido etanoico con etanol?",
       "answer": "Éster",
       "explanation": "Se forma etanoato de etilo y se libera agua.",
-      "source": "Unidad 13  - Estructura del carbono - Parte IV y p_261102_164146 (2).pdf",
-      "page": "",
+      "source": "OpenStax, organic-chemistry, §21.6 · https://openstax.org/books/organic-chemistry/pages/21-6-chemistry-of-esters",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Amida",
         "Éter simétrico como único producto",
@@ -1131,8 +1131,8 @@
       "question": "¿Cuál es el producto mayoritario de agregar HBr al propeno en condiciones iónicas sin peróxidos?",
       "answer": "2-bromopropano",
       "explanation": "La orientación de Markovnikov conduce al carbocatión secundario y luego a la captura por Br⁻.",
-      "source": "Unidad 13  - Estructura del carbono - Parte IV y p_261102_164146 (2).pdf",
-      "page": "",
+      "source": "OpenStax, organic-chemistry, §7.8 · https://openstax.org/books/organic-chemistry/pages/7-8-orientation-of-electrophilic-additions-markovnikovs-rule",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Propan-2-ol",
         "1-bromopropano",
@@ -1150,8 +1150,8 @@
       "question": "¿Cómo se relacionan dos enantiómeros?",
       "answer": "Son imágenes especulares no superponibles",
       "explanation": "Conservan la conectividad pero difieren en su disposición tridimensional.",
-      "source": "Repaso_Interactivo_Isomeria_CACPI_EZ_Actualizado.pdf",
-      "page": "",
+      "source": "OpenStax, organic-chemistry, §5.1 · https://openstax.org/books/organic-chemistry/pages/5-1-enantiomers-and-the-tetrahedral-carbon",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Son isótopos del mismo elemento",
         "Son siempre conformaciones idénticas",
@@ -1169,8 +1169,8 @@
       "question": "¿Cómo se reconoce un carbocatión?",
       "answer": "Tiene un carbono con carga positiva",
       "explanation": "El carbono catiónico típico tiene tres enlaces y un orbital vacío.",
-      "source": "Generalidades de reacciones organicas CACPI 2025.pdf",
-      "page": "",
+      "source": "OpenStax, organic-chemistry, §6.3 · https://openstax.org/books/organic-chemistry/pages/6-3-polar-reactions",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Tiene siempre dos radicales libres",
         "Tiene un carbono con carga positiva",
@@ -1188,8 +1188,8 @@
       "question": "¿Qué caracteriza a un radical orgánico?",
       "answer": "Tiene al menos un electrón desapareado",
       "explanation": "Puede originarse cuando una ruptura homolítica reparte los electrones del enlace.",
-      "source": "Generalidades de reacciones organicas CACPI 2025.pdf",
-      "page": "",
+      "source": "OpenStax, organic-chemistry, §6.2 · https://openstax.org/books/organic-chemistry/pages/6-2-how-organic-reactions-occur-mechanisms",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Carece de electrones de valencia",
         "Siempre es un anión",
@@ -1207,8 +1207,8 @@
       "question": "¿Qué ocurre con el par enlazante al romper un enlace por heterólisis?",
       "answer": "Los dos electrones van al mismo átomo",
       "explanation": "La distribución desigual puede generar un catión y un anión a partir de una molécula neutra.",
-      "source": "Generalidades de reacciones organicas CACPI 2025.pdf",
-      "page": "",
+      "source": "OpenStax, organic-chemistry, §6.2 · https://openstax.org/books/organic-chemistry/pages/6-2-how-organic-reactions-occur-mechanisms",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Los dos electrones desaparecen",
         "Los dos electrones van al mismo átomo",
@@ -1226,8 +1226,8 @@
       "question": "¿Qué aporta un nucleófilo al formar un enlace con un electrófilo?",
       "answer": "Un par electrónico",
       "explanation": "El nucleófilo es donador de un par electrónico en el proceso.",
-      "source": "Generalidades de reacciones organicas CACPI 2025.pdf",
-      "page": "",
+      "source": "OpenStax, organic-chemistry, §6.3 · https://openstax.org/books/organic-chemistry/pages/6-3-polar-reactions",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Un orbital vacío como única contribución",
         "Un par electrónico",
@@ -1245,8 +1245,8 @@
       "question": "¿Qué tipo de isomería presentan butano y 2-metilpropano?",
       "answer": "De cadena",
       "explanation": "Ambos tienen fórmula C₄H₁₀, con esqueletos carbonados distintos.",
-      "source": "Repaso_Interactivo_Isomeria_CACPI_EZ_Actualizado.pdf",
-      "page": "",
+      "source": "OpenStax, organic-chemistry, §3.2 · https://openstax.org/books/organic-chemistry/pages/3-2-alkanes-and-alkane-isomers",
+      "page": "Sección indicada en la referencia",
       "options": [
         "De cadena",
         "Óptica",
@@ -1264,8 +1264,8 @@
       "question": "¿Qué tipo de isomería presentan etanol y dimetil éter?",
       "answer": "De función",
       "explanation": "Ambos tienen fórmula C₂H₆O, con grupos alcohol y éter respectivamente.",
-      "source": "Repaso_Interactivo_Isomeria_CACPI_EZ_Actualizado.pdf",
-      "page": "",
+      "source": "OpenStax, organic-chemistry, §3.1 · https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups",
+      "page": "Sección indicada en la referencia",
       "options": [
         "De cadena",
         "De posición",
@@ -1283,8 +1283,8 @@
       "question": "¿Qué tipo de isomería presentan propan-1-ol y propan-2-ol?",
       "answer": "De posición",
       "explanation": "El esqueleto y el grupo funcional se mantienen, pero cambia la posición del OH.",
-      "source": "Repaso_Interactivo_Isomeria_CACPI_EZ_Actualizado.pdf",
-      "page": "",
+      "source": "OpenStax, organic-chemistry, §3.1 · https://openstax.org/books/organic-chemistry/pages/3-1-functional-groups",
+      "page": "Sección indicada en la referencia",
       "options": [
         "De cadena",
         "De función",
@@ -1302,8 +1302,8 @@
       "question": "¿Cómo se llama C₆H₅–NH₂?",
       "answer": "Anilina",
       "explanation": "Es un anillo bencénico unido directamente a un grupo amino.",
-      "source": "Estructuras OBLIGADAS A MANEJAR para Ingreso MED UNA .pdf",
-      "page": "",
+      "source": "OpenStax, organic-chemistry, §15.1 · https://openstax.org/books/organic-chemistry/pages/15-1-naming-aromatic-compounds",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Benzamida",
         "Fenol",
@@ -1321,8 +1321,8 @@
       "question": "¿Qué estructura condensada corresponde al alcohol bencílico?",
       "answer": "C₆H₅–CH₂OH",
       "explanation": "El OH está unido al carbono saturado de la cadena lateral.",
-      "source": "Repaso_activo_Unidad_13_Quimica_Organica_con_pie 2.pdf",
-      "page": "",
+      "source": "OpenStax, Organic Chemistry, §17.1 · https://openstax.org/books/organic-chemistry/pages/17-1-naming-alcohols-and-phenols",
+      "page": "Sección indicada en la referencia",
       "options": [
         "C₆H₅–CHO",
         "C₆H₅–OH",
@@ -1340,8 +1340,8 @@
       "question": "¿Qué estructura condensada corresponde al benzaldehído?",
       "answer": "C₆H₅–CHO",
       "explanation": "El anillo está unido al carbono del aldehído.",
-      "source": "Repaso_activo_Unidad_13_Quimica_Organica_con_pie 2.pdf",
-      "page": "",
+      "source": "OpenStax, organic-chemistry, §15.1 · https://openstax.org/books/organic-chemistry/pages/15-1-naming-aromatic-compounds",
+      "page": "Sección indicada en la referencia",
       "options": [
         "C₆H₅–CH₂OH",
         "C₆H₅–OH",
@@ -1359,8 +1359,8 @@
       "question": "¿Qué estructura condensada corresponde al estireno?",
       "answer": "C₆H₅–CH=CH₂",
       "explanation": "Contiene un grupo vinilo unido al anillo aromático.",
-      "source": "Repaso_activo_Unidad_13_Quimica_Organica_con_pie 2.pdf",
-      "page": "",
+      "source": "OpenStax, organic-chemistry, §15.1 · https://openstax.org/books/organic-chemistry/pages/15-1-naming-aromatic-compounds",
+      "page": "Sección indicada en la referencia",
       "options": [
         "C₆H₅–NH₂",
         "C₆H₅–CH₂CH₃",
@@ -1378,8 +1378,8 @@
       "question": "¿De dónde procede una célula nueva según la teoría celular?",
       "answer": "De una célula preexistente",
       "explanation": "La continuidad celular se mantiene mediante división.",
-      "source": "CAPÍTULO 1.pdf",
-      "page": "",
+      "source": "OpenStax, biology-2e, §4.1 · https://openstax.org/books/biology-2e/pages/4-1-studying-cells",
+      "page": "Sección indicada en la referencia",
       "options": [
         "De una proteína aislada",
         "De un virus que se divide",
@@ -1397,8 +1397,8 @@
       "question": "¿Quién describió las cavidades del corcho y las llamó células en 1665?",
       "answer": "Robert Hooke",
       "explanation": "Las cavidades visibles correspondían a compartimentos delimitados por paredes celulares.",
-      "source": "CAPÍTULO 1.pdf",
-      "page": "",
+      "source": "OpenStax, biology-2e, §4.1 · https://openstax.org/books/biology-2e/pages/4-1-studying-cells",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Virchow",
         "Robert Hooke",
@@ -1416,8 +1416,8 @@
       "question": "¿Quién observó microorganismos vivos mediante lentes simples?",
       "answer": "Antonie van Leeuwenhoek",
       "explanation": "Sus observaciones incluyeron organismos unicelulares microscópicos.",
-      "source": "CAPÍTULO 1.pdf",
-      "page": "",
+      "source": "OpenStax, biology-2e, §4.1 · https://openstax.org/books/biology-2e/pages/4-1-studying-cells",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Rudolf Virchow",
         "Robert Hooke al cortar corcho",
@@ -1435,8 +1435,8 @@
       "question": "¿Qué característica distingue a las células eucariotas de las procariotas?",
       "answer": "Núcleo delimitado por membrana",
       "explanation": "En las procariotas el ADN se localiza principalmente en el nucleoide.",
-      "source": "CAPÍTULO 1.pdf",
-      "page": "",
+      "source": "OpenStax, biology-2e, §4.2 · https://openstax.org/books/biology-2e/pages/4-2-prokaryotic-cells",
+      "page": "Sección indicada en la referencia",
       "options": [
         "ADN como material genético",
         "Ribosomas",
@@ -1454,8 +1454,8 @@
       "question": "¿Qué dos dominios reúnen a los organismos procariotas?",
       "answer": "Bacteria y Archaea",
       "explanation": "Ambos incluyen organismos cuyas células carecen de núcleo membranoso.",
-      "source": "CAPÍTULO 1.pdf",
-      "page": "",
+      "source": "OpenStax, biology-2e, §22.1 · https://openstax.org/books/biology-2e/pages/22-1-prokaryotic-diversity",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Bacteria y Eukarya",
         "Animalia y Plantae",
@@ -1473,8 +1473,8 @@
       "question": "¿Qué analiza la metagenómica microbiana?",
       "answer": "El material genético de una comunidad",
       "explanation": "Permite estudiar microorganismos de una muestra incluso si muchos no se cultivan en laboratorio.",
-      "source": "CAPÍTULO 1.pdf",
-      "page": "",
+      "source": "OpenStax, biology-2e, §17.4 · https://openstax.org/books/biology-2e/pages/17-4-applying-genomics",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Solo proteínas humanas",
         "El material genético de una comunidad",
@@ -1492,8 +1492,8 @@
       "question": "¿Qué organismo modelo es una levadura?",
       "answer": "Saccharomyces cerevisiae",
       "explanation": "Es un hongo eucariota unicelular ampliamente usado en investigación.",
-      "source": "CAPÍTULO 1.pdf",
-      "page": "",
+      "source": "Medicina_UNA_Parte_1.pdf, p. 41, organismos modelo",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Caenorhabditis elegans",
         "Saccharomyces cerevisiae",
@@ -1511,8 +1511,8 @@
       "question": "Si una célula esférica duplica su radio, ¿qué ocurre con su relación superficie/volumen?",
       "answer": "Se reduce a la mitad",
       "explanation": "La superficie crece con r² y el volumen con r³, por lo que su cociente es proporcional a 1/r.",
-      "source": "CAPÍTULO 1.pdf",
-      "page": "",
+      "source": "OpenStax, biology-2e, §4.2 · https://openstax.org/books/biology-2e/pages/4-2-prokaryotic-cells",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Permanece igual",
         "Se duplica",
@@ -1530,8 +1530,8 @@
       "question": "¿Cómo se denomina la cubierta proteica que rodea el genoma viral?",
       "answer": "Cápside",
       "explanation": "Es una estructura de proteínas. Algunos virus tienen además una envoltura lipídica.",
-      "source": "CAPÍTULO 1.pdf",
-      "page": "",
+      "source": "OpenStax, biology-2e, §21.1 · https://openstax.org/books/biology-2e/pages/21-1-viral-evolution-morphology-and-classification",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Pared celular",
         "Nucleoide",
@@ -1549,8 +1549,8 @@
       "question": "¿Qué influye en que un virus pueda entrar a un tipo particular de célula?",
       "answer": "La presencia de receptores compatibles",
       "explanation": "La unión entre componentes virales y receptores celulares ayuda a determinar el tropismo.",
-      "source": "CAPÍTULO 1.pdf",
-      "page": "",
+      "source": "OpenStax, biology-2e, §21.1 · https://openstax.org/books/biology-2e/pages/21-1-viral-evolution-morphology-and-classification",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Solo el tamaño de la cápside",
         "El color de la célula",
@@ -1568,8 +1568,8 @@
       "question": "¿Qué caracteriza a un viroide?",
       "answer": "ARN pequeño sin cápside que puede infectar plantas",
       "explanation": "A diferencia de un virión, el viroide no está encerrado en una cubierta proteica propia.",
-      "source": "CAPÍTULO 1.pdf",
-      "page": "",
+      "source": "OpenStax, biology-2e, §21.4 · https://openstax.org/books/biology-2e/pages/21-4-other-acellular-entities-prions-and-viroids",
+      "page": "Sección indicada en la referencia",
       "options": [
         "ADN rodeado de cápside",
         "Una proteína infecciosa sin ácido nucleico",
@@ -1587,8 +1587,8 @@
       "question": "¿Qué es un prion?",
       "answer": "Una proteína infecciosa capaz de inducir un plegamiento anómalo",
       "explanation": "La propagación se basa en cambios conformacionales de proteínas del huésped.",
-      "source": "CAPÍTULO 1.pdf",
-      "page": "",
+      "source": "OpenStax, biology-2e, §21.4 · https://openstax.org/books/biology-2e/pages/21-4-other-acellular-entities-prions-and-viroids",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Un virus de ADN",
         "Una proteína infecciosa capaz de inducir un plegamiento anómalo",
@@ -1606,8 +1606,8 @@
       "question": "¿Qué reduce una enzima para acelerar una reacción?",
       "answer": "Energía de activación",
       "explanation": "Facilita una ruta hacia el estado de transición sin modificar la diferencia de energía libre entre reactivos y productos.",
-      "source": "CAPÍTULO 3.pdf",
-      "page": "",
+      "source": "OpenStax, biology-2e, §6.5 · https://openstax.org/books/biology-2e/pages/6-5-enzymes",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Energía de activación",
         "ΔG de la reacción",
@@ -1625,8 +1625,8 @@
       "question": "¿Qué propone el modelo de ajuste inducido?",
       "answer": "La unión del sustrato provoca un cambio conformacional",
       "explanation": "El sitio activo y el sustrato se ajustan durante la interacción.",
-      "source": "CAPÍTULO 3.pdf",
-      "page": "",
+      "source": "OpenStax, biology-2e, §6.5 · https://openstax.org/books/biology-2e/pages/6-5-enzymes",
+      "page": "Sección indicada en la referencia",
       "options": [
         "La enzima es totalmente rígida",
         "La enzima se consume al unirse",
@@ -1644,8 +1644,8 @@
       "question": "¿Cómo ayuda la catálisis por proximidad y orientación?",
       "answer": "Acerca y alinea a los reactivos",
       "explanation": "Aumenta la probabilidad de encuentros con la geometría adecuada.",
-      "source": "CAPÍTULO 3.pdf",
-      "page": "",
+      "source": "Medicina_UNA_Parte_1.pdf, pp. 53–60, capítulo 3, Enzimas y metabolismo",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Elimina todo contacto entre reactivos",
         "Separa permanentemente a los reactivos",
@@ -1663,8 +1663,8 @@
       "question": "¿Qué nombre recibe la enzima completa con su cofactor requerido?",
       "answer": "Holoenzima",
       "explanation": "La apoenzima es la porción proteica que necesita asociarse con el cofactor.",
-      "source": "CAPÍTULO 3.pdf",
-      "page": "",
+      "source": "Medicina_UNA_Parte_1.pdf, pp. 53–60, capítulo 3, Enzimas y metabolismo",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Holoenzima",
         "Apoenzima",
@@ -1682,8 +1682,8 @@
       "question": "En el modelo de Michaelis–Menten, ¿cuál es la velocidad cuando [S] = Km?",
       "answer": "La mitad de Vmax",
       "explanation": "Al sustituir [S] = Km, el denominador es 2Km.",
-      "source": "CAPÍTULO 3.pdf",
-      "page": "",
+      "source": "Medicina_UNA_Parte_1.pdf, pp. 53–60, capítulo 3, Enzimas y metabolismo",
+      "page": "Sección indicada en la referencia",
       "options": [
         "La mitad de Vmax",
         "Cero",
@@ -1701,8 +1701,8 @@
       "question": "¿Qué cambia en la inhibición competitiva reversible ideal?",
       "answer": "Aumenta el Km aparente y Vmax se mantiene",
       "explanation": "Una concentración suficientemente alta de sustrato puede superar la competencia por el sitio activo.",
-      "source": "CAPÍTULO 3.pdf",
-      "page": "",
+      "source": "Medicina_UNA_Parte_1.pdf, pp. 53–60, capítulo 3, Enzimas y metabolismo",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Aumenta el Km aparente y Vmax se mantiene",
         "Aumentan ambos",
@@ -1720,8 +1720,8 @@
       "question": "¿Qué efecto tiene un inhibidor no competitivo puro sobre Vmax?",
       "answer": "La disminuye",
       "explanation": "El exceso de sustrato no recupera la capacidad catalítica perdida. En el caso puro, Km se mantiene.",
-      "source": "CAPÍTULO 3.pdf",
-      "page": "",
+      "source": "Medicina_UNA_Parte_1.pdf, pp. 53–60, capítulo 3, Enzimas y metabolismo",
+      "page": "Sección indicada en la referencia",
       "options": [
         "La duplica",
         "La aumenta",
@@ -1739,8 +1739,8 @@
       "question": "¿Cómo se llama el conjunto de rutas de degradación de moléculas?",
       "answer": "Catabolismo",
       "explanation": "Estas rutas descomponen moléculas y pueden conservar energía en ATP o transportadores reducidos.",
-      "source": "CAPÍTULO 3.pdf",
-      "page": "",
+      "source": "OpenStax, biology-2e, §6.1 · https://openstax.org/books/biology-2e/pages/6-1-energy-and-metabolism",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Difusión",
         "Catabolismo",
@@ -1758,8 +1758,8 @@
       "question": "¿Qué le ocurre al NAD⁺ al convertirse en NADH?",
       "answer": "Se reduce",
       "explanation": "La forma NADH recibe electrones mediante la incorporación de un hidruro.",
-      "source": "CAPÍTULO 3.pdf",
-      "page": "",
+      "source": "OpenStax, biology-2e, §7.1 · https://openstax.org/books/biology-2e/pages/7-1-energy-in-living-systems",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Se fosforila",
         "Se desnaturaliza",
@@ -1777,8 +1777,8 @@
       "question": "¿Cómo puede una reacción desfavorable avanzar al acoplarse a la hidrólisis de ATP?",
       "answer": "El ΔG total de los procesos acoplados puede ser negativo",
       "explanation": "La hidrólisis aporta un cambio de energía libre que compensa el del proceso desfavorable.",
-      "source": "CAPÍTULO 3.pdf",
-      "page": "",
+      "source": "OpenStax, biology-2e, §6.4 · https://openstax.org/books/biology-2e/pages/6-4-atp-adenosine-triphosphate",
+      "page": "Sección indicada en la referencia",
       "options": [
         "El ATP se convierte directamente en ADN",
         "El ATP elimina el equilibrio",
@@ -1796,8 +1796,8 @@
       "question": "¿Cuántos ATP netos produce la glucólisis por cada glucosa?",
       "answer": "2 ATP",
       "explanation": "Se generan cuatro ATP en la fase de obtención y se gastan dos en la fase inicial.",
-      "source": "CAPÍTULO 3.pdf",
-      "page": "",
+      "source": "OpenStax, biology-2e, §7.2 · https://openstax.org/books/biology-2e/pages/7-2-glycolysis",
+      "page": "Sección indicada en la referencia",
       "options": [
         "4 ATP",
         "0 ATP",
@@ -1815,8 +1815,8 @@
       "question": "¿Qué ocurre en la inhibición por retroalimentación?",
       "answer": "Un producto final reduce la actividad de una enzima de una etapa previa",
       "explanation": "Esto limita el gasto de recursos cuando se acumula el producto.",
-      "source": "CAPÍTULO 3.pdf",
-      "page": "",
+      "source": "OpenStax, biology-2e, §6.5 · https://openstax.org/books/biology-2e/pages/6-5-enzymes",
+      "page": "Sección indicada en la referencia",
       "options": [
         "El sustrato final duplica todos los catalizadores",
         "Un producto final siempre activa la primera enzima",
@@ -1834,8 +1834,8 @@
       "question": "¿Cómo se simplifica x³ · x⁴?",
       "answer": "x⁷",
       "explanation": "Al multiplicar potencias de igual base se suman los exponentes.",
-      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
-      "page": "1–3",
+      "source": "OpenStax, algebra-and-trigonometry-2e, §1.2 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-2-exponents-and-scientific-notation",
+      "page": "Sección indicada en la referencia",
       "options": [
         "2x⁷",
         "x¹²",
@@ -1853,8 +1853,8 @@
       "question": "Para a ≠ 0, ¿cuánto vale a⁻³?",
       "answer": "1/a³",
       "explanation": "El exponente negativo indica el recíproco de la potencia positiva.",
-      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
-      "page": "1–3",
+      "source": "OpenStax, algebra-and-trigonometry-2e, §1.2 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-2-exponents-and-scientific-notation",
+      "page": "Sección indicada en la referencia",
       "options": [
         "a³",
         "1/a³",
@@ -1872,8 +1872,8 @@
       "question": "¿Cuál es la expansión de (2x³)²?",
       "answer": "4x⁶",
       "explanation": "Se eleva al cuadrado el coeficiente y se multiplican los exponentes de x.",
-      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
-      "page": "1–3",
+      "source": "OpenStax, algebra-and-trigonometry-2e, §1.2 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-2-exponents-and-scientific-notation",
+      "page": "Sección indicada en la referencia",
       "options": [
         "4x⁵",
         "2x⁶",
@@ -1891,8 +1891,8 @@
       "question": "¿Cuál es el grado total del monomio 7x²y³?",
       "answer": "5",
       "explanation": "Se suman los exponentes de las variables. El coeficiente no se cuenta.",
-      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
-      "page": "1–3",
+      "source": "OpenStax, algebra-and-trigonometry-2e, §1.4 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-4-polynomials",
+      "page": "Sección indicada en la referencia",
       "options": [
         "5",
         "7",
@@ -1910,8 +1910,8 @@
       "question": "¿Cuál es el grado respecto de x del polinomio x²y⁵ + x⁴y?",
       "answer": "4",
       "explanation": "El mayor exponente de x en sus términos es 4.",
-      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
-      "page": "1–3",
+      "source": "OpenStax, algebra-and-trigonometry-2e, §1.4 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-4-polynomials",
+      "page": "Sección indicada en la referencia",
       "options": [
         "5",
         "7",
@@ -1929,8 +1929,8 @@
       "question": "¿Cuál es el resultado de 8x² − 3x²?",
       "answer": "5x²",
       "explanation": "Se restan los coeficientes de términos con la misma parte literal.",
-      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
-      "page": "1–3",
+      "source": "OpenStax, algebra-and-trigonometry-2e, §1.4 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-4-polynomials",
+      "page": "Sección indicada en la referencia",
       "options": [
         "5x²",
         "5x",
@@ -1948,8 +1948,8 @@
       "question": "¿Cómo se desarrolla 3x(x − 4)?",
       "answer": "3x² − 12x",
       "explanation": "El factor 3x multiplica ambos términos del paréntesis.",
-      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
-      "page": "1–3",
+      "source": "OpenStax, algebra-and-trigonometry-2e, §1.4 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-4-polynomials",
+      "page": "Sección indicada en la referencia",
       "options": [
         "3x² − 12x",
         "3x − 12x",
@@ -1967,8 +1967,8 @@
       "question": "¿Cuál es el cociente de (x² − 5x + 6) ÷ (x − 2), con x ≠ 2?",
       "answer": "x − 3",
       "explanation": "El producto (x − 2)(x − 3) recupera el numerador.",
-      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
-      "page": "1–3",
+      "source": "OpenStax, algebra-and-trigonometry-2e, §1.6 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-6-rational-expressions",
+      "page": "Sección indicada en la referencia",
       "options": [
         "x − 2",
         "x + 3",
@@ -1986,8 +1986,8 @@
       "question": "¿Cuál de estas magnitudes es escalar?",
       "answer": "Masa",
       "explanation": "La masa tiene valor y unidad, sin dirección ni sentido.",
-      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
-      "page": "",
+      "source": "OpenStax, college-physics-2e, §3.2 · https://openstax.org/books/college-physics-2e/pages/3-2-vector-addition-and-subtraction-graphical-methods",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Fuerza",
         "Desplazamiento",
@@ -2005,8 +2005,8 @@
       "question": "¿Cuál es la unidad base del SI de la intensidad luminosa?",
       "answer": "Candela (cd)",
       "explanation": "La candela mide intensidad luminosa. La dirección en que se mide no convierte esa intensidad en un vector.",
-      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
-      "page": "",
+      "source": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Candela (cd)",
         "Amperio (A)",
@@ -2024,8 +2024,8 @@
       "question": "¿A qué unidades base equivale un newton?",
       "answer": "kg·m·s⁻²",
       "explanation": "La segunda ley de Newton expresa fuerza como masa por aceleración.",
-      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
-      "page": "",
+      "source": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
+      "page": "Sección indicada en la referencia",
       "options": [
         "kg·m²·s⁻³",
         "kg·m·s⁻²",
@@ -2043,8 +2043,8 @@
       "question": "¿A qué unidades base equivale un watt?",
       "answer": "kg·m²·s⁻³",
       "explanation": "Un watt es un joule por segundo. Un joule es un newton multiplicado por un metro, N·m.",
-      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
-      "page": "",
+      "source": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
+      "page": "Sección indicada en la referencia",
       "options": [
         "kg·m²·s⁻²",
         "kg·m·s⁻²",
@@ -2062,8 +2062,8 @@
       "question": "¿Qué cambia al trasladar un objeto de la Tierra a la Luna?",
       "answer": "Cambia su peso y conserva su masa",
       "explanation": "El peso depende de la aceleración gravitatoria local.",
-      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
-      "page": "",
+      "source": "OpenStax, College Physics 2e, §4.3, masa y peso · https://openstax.org/books/college-physics-2e/pages/4-3-newtons-second-law-of-motion-concept-of-a-system",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Cambia solo su masa",
         "Cambian ambos en la misma proporción",
@@ -2081,8 +2081,8 @@
       "question": "¿Qué factor representa el prefijo micro (μ)?",
       "answer": "10⁻⁶",
       "explanation": "El prefijo indica una millonésima de la unidad.",
-      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
-      "page": "",
+      "source": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
+      "page": "Sección indicada en la referencia",
       "options": [
         "10⁻⁶",
         "10⁶",
@@ -2100,8 +2100,8 @@
       "question": "¿Qué cambia entre un vector no nulo y su opuesto?",
       "answer": "El sentido",
       "explanation": "Conservan el módulo y la dirección de su recta, pero apuntan en sentidos contrarios.",
-      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
-      "page": "",
+      "source": "OpenStax, college-physics-2e, §3.2 · https://openstax.org/books/college-physics-2e/pages/3-2-vector-addition-and-subtraction-graphical-methods",
+      "page": "Sección indicada en la referencia",
       "options": [
         "El módulo",
         "La unidad",
@@ -2119,8 +2119,8 @@
       "question": "En el método del polígono, ¿cómo se traza la resultante?",
       "answer": "Del origen del primero a la punta del último",
       "explanation": "Se colocan los vectores punta con origen, conservando su módulo, dirección y sentido.",
-      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
-      "page": "",
+      "source": "OpenStax, college-physics-2e, §3.2 · https://openstax.org/books/college-physics-2e/pages/3-2-vector-addition-and-subtraction-graphical-methods",
+      "page": "Sección indicada en la referencia",
       "options": [
         "De la punta del primero al origen del último",
         "Uniendo los orígenes de todos los vectores",
@@ -2138,8 +2138,8 @@
       "question": "Con A y B aplicados en un origen común, ¿hacia dónde apunta A − B?",
       "answer": "Desde la punta de B hasta la punta de A",
       "explanation": "Al sumar ese desplazamiento a B se llega al extremo de A.",
-      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
-      "page": "",
+      "source": "OpenStax, college-physics-2e, §3.2 · https://openstax.org/books/college-physics-2e/pages/3-2-vector-addition-and-subtraction-graphical-methods",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Del origen a la punta de A siempre",
         "Del origen a la punta de B",
@@ -2157,8 +2157,8 @@
       "question": "Si el ángulo entre A y B es obtuso, ¿qué módulo es mayor: el de A + B o el de A − B?",
       "answer": "El de A − B",
       "explanation": "El coseno es negativo. En el cuadrado del módulo de la diferencia aparece −2AB cos θ, que es positivo.",
-      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
-      "page": "",
+      "source": "OpenStax, college-physics-2e, §3.3 · https://openstax.org/books/college-physics-2e/pages/3-3-vector-addition-and-subtraction-analytical-methods",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Son iguales para todo ángulo",
         "Solo se sabe si A = B",
@@ -2176,8 +2176,8 @@
       "question": "¿En qué cuadrante está un vector con Rx < 0 y Ry > 0?",
       "answer": "Segundo",
       "explanation": "Su componente horizontal apunta a la izquierda y la vertical hacia arriba.",
-      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
-      "page": "",
+      "source": "OpenStax, college-physics-2e, §3.3 · https://openstax.org/books/college-physics-2e/pages/3-3-vector-addition-and-subtraction-analytical-methods",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Primero",
         "Tercero",
@@ -2195,8 +2195,8 @@
       "question": "Si Rx = −2,17 y Ry = 5,83, ¿qué ángulo aproximado forma la resultante desde +x en sentido antihorario?",
       "answer": "110°",
       "explanation": "El ángulo de referencia es aproximadamente 70°. En el segundo cuadrante corresponde a 180° − 70°.",
-      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
-      "page": "",
+      "source": "OpenStax, college-physics-2e, §3.3 · https://openstax.org/books/college-physics-2e/pages/3-3-vector-addition-and-subtraction-analytical-methods",
+      "page": "Sección indicada en la referencia",
       "options": [
         "110°",
         "20°",
@@ -2214,8 +2214,8 @@
       "question": "¿Qué problema causa abusar de palabras como «cosa» o «hacer»?",
       "answer": "Se pierde precisión sobre lo que se quiere comunicar",
       "explanation": "Una palabra general puede ocultar la acción o el objeto exacto.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "1–7",
+      "source": "RAE/ASALE, DLE, cosa · https://dle.rae.es/cosa",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Todas las oraciones cambian al tiempo pasado",
         "Todas las oraciones pasan a ser agramaticales",
@@ -2233,8 +2233,8 @@
       "question": "¿Qué adjetivo describe una victoria cuyo costo supera su beneficio?",
       "answer": "Pírrica",
       "explanation": "El resultado nominal es favorable, pero las pérdidas lo vuelven poco provechoso.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "3–4, 7",
+      "source": "RAE/ASALE, DLE, pírrico · https://dle.rae.es/p%C3%ADrrico",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Pírrica",
         "Expeditiva",
@@ -2252,8 +2252,8 @@
       "question": "¿Qué adjetivo describe una afirmación breve y concisa?",
       "answer": "Sucinta",
       "explanation": "Expresa lo esencial con pocas palabras.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "3–4, 7",
+      "source": "RAE/ASALE, DLE, sucinto · https://dle.rae.es/sucinto",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Procelosa",
         "Displicente",
@@ -2271,8 +2271,8 @@
       "question": "¿Qué adjetivo describe a alguien que parece estar en todas partes?",
       "answer": "Ubicuo",
       "explanation": "El término se usa en sentido literal o figurado para una presencia extendida.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "3–4, 7",
+      "source": "RAE/ASALE, DLE, ubicuo · https://dle.rae.es/ubicuo",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Ubicuo",
         "Agreste",
@@ -2290,8 +2290,8 @@
       "question": "¿Qué adjetivo corresponde a una persona con aptitudes en muchas áreas?",
       "answer": "Polifacética",
       "explanation": "El término alude a múltiples facetas o capacidades.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "3–4, 7",
+      "source": "RAE/ASALE, DLE, polifacético · https://dle.rae.es/polifac%C3%A9tico",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Parsimoniosa",
         "Sardónica",
@@ -2309,8 +2309,8 @@
       "question": "¿Cómo se califica una expresión burlona y mordaz?",
       "answer": "Sardónica",
       "explanation": "Describe una burla incisiva o desdeñosa.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "3–4, 7",
+      "source": "RAE/ASALE, DLE, sardónico · https://dle.rae.es/sard%C3%B3nico",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Ilesa",
         "Sardónica",
@@ -2328,8 +2328,8 @@
       "question": "¿Qué significa «inocuo» aplicado a un procedimiento?",
       "answer": "Que no causa daño",
       "explanation": "El término describe la ausencia de efecto perjudicial.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "3–4, 7",
+      "source": "RAE/ASALE, DLE, inocuo · https://dle.rae.es/inocuo",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Que se ejecuta rápidamente",
         "Que se realiza con desgano",
@@ -2347,8 +2347,8 @@
       "question": "¿Qué verbo precisa mejor «hacer una estatua de mármol»?",
       "answer": "Esculpir",
       "explanation": "Esculpir expresa la acción artística de labrar o modelar una figura.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "1–7",
+      "source": "RAE/ASALE, DLE, esculpir · https://dle.rae.es/esculpir",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Redactar",
         "Estampar",
@@ -2366,8 +2366,8 @@
       "question": "¿Qué verbo precisa mejor «decir un secreto» cuando se da a conocer?",
       "answer": "Revelar",
       "explanation": "Revelar implica descubrir o comunicar algo que estaba oculto.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "1–7",
+      "source": "RAE/ASALE, DLE, revelar · https://dle.rae.es/revelar",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Recitar",
         "Revelar",
@@ -2385,8 +2385,8 @@
       "question": "¿Qué verbo precisa «dar razones para justificar una decisión»?",
       "answer": "Aducir",
       "explanation": "Aducir significa presentar razones o pruebas en apoyo de algo.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "1–7",
+      "source": "RAE/ASALE, DLE, aducir · https://dle.rae.es/aducir",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Sembrar",
         "Enmarcar",
@@ -2404,8 +2404,8 @@
       "question": "¿Qué verbo precisa «tener un puesto» cuando significa ejercerlo?",
       "answer": "Desempeñar",
       "explanation": "El verbo nombra el ejercicio de una función o cargo.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "1–7",
+      "source": "RAE/ASALE, DLE, desempeñar · https://dle.rae.es/desempe%C3%B1ar",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Proferir",
         "Abarcar",
@@ -2423,8 +2423,8 @@
       "question": "¿Cómo se puede precisar «hubo una batalla en ese lugar»?",
       "answer": "Allí se libró una batalla",
       "explanation": "Librar una batalla nombra de manera directa el hecho bélico.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "1–7",
+      "source": "RAE/ASALE, DLE, librar · https://dle.rae.es/librar",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Allí se redactó una batalla",
         "Allí se profesó una batalla",
@@ -2442,8 +2442,8 @@
       "question": "¿Qué verbo precisa «echar un discurso» en una ceremonia?",
       "answer": "Pronunciar",
       "explanation": "Pronunciar un discurso es exponerlo oralmente ante otras personas.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "1–7",
+      "source": "RAE/ASALE, DLE, pronunciar · https://dle.rae.es/pronunciar",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Derramar",
         "Pronunciar",
@@ -2461,8 +2461,8 @@
       "question": "¿Cuál es la sustitución más precisa para «poner la firma en el documento»?",
       "answer": "Estampar la firma",
       "explanation": "La locución expresa dejar la firma escrita sobre el documento.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "1–7",
+      "source": "RAE/ASALE, DLE, estampar · https://dle.rae.es/estampar",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Estampar la firma",
         "Proferir la firma",
@@ -2480,8 +2480,8 @@
       "question": "¿Qué adjetivo indica que una persona salió sin lesiones de un accidente?",
       "answer": "Ilesa",
       "explanation": "Ilesa indica que salió sin daño físico.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "3–4, 7",
+      "source": "RAE/ASALE, DLE, ileso · https://dle.rae.es/ileso",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Indolente",
         "Inerme",
@@ -2499,8 +2499,8 @@
       "question": "¿Qué adjetivo caracteriza a quien se dedica habitualmente a algo y difícilmente abandona el hábito?",
       "answer": "Empedernido",
       "explanation": "Puede aplicarse, por ejemplo, a un fumador persistente.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "3–4, 7",
+      "source": "RAE/ASALE, DLE, empedernido · https://dle.rae.es/empedernido",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Sucinto",
         "Agreste",
@@ -2518,8 +2518,8 @@
       "question": "¿Qué adjetivo describe un mar agitado y tempestuoso?",
       "answer": "Proceloso",
       "explanation": "El término se aplica a condiciones tormentosas o peligrosas.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "3–4, 7",
+      "source": "RAE/ASALE, DLE, proceloso · https://dle.rae.es/proceloso",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Sucinto",
         "Proceloso",
@@ -2537,8 +2537,8 @@
       "question": "¿Qué adjetivo describe a quien suele favorecer el bienestar ajeno con acciones altruistas?",
       "answer": "Filantrópico",
       "explanation": "El término se asocia con la ayuda desinteresada a otras personas.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "3–4, 7",
+      "source": "RAE/ASALE, DLE, filantrópico · https://dle.rae.es/filantr%C3%B3pico",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Quimérico",
         "Flemático",
@@ -2556,8 +2556,8 @@
       "question": "¿Qué adjetivo indica que alguien muestra desgano o desdén en su trato?",
       "answer": "Displicente",
       "explanation": "La displicencia puede manifestarse en una actitud desdeñosa o poco interesada.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "3–4, 7",
+      "source": "RAE/ASALE, DLE, displicente · https://dle.rae.es/displicente",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Solvente",
         "Airoso",
@@ -2575,8 +2575,8 @@
       "question": "¿Qué adjetivo describe un proyecto ilusorio y sin fundamento real?",
       "answer": "Quimérico",
       "explanation": "El término alude a algo imaginario o irrealizable.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "3–4, 7",
+      "source": "RAE/ASALE, DLE, quimérico · https://dle.rae.es/quim%C3%A9rico",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Inocuo",
         "Quimérico",
@@ -2594,8 +2594,8 @@
       "question": "¿Qué adjetivo designa a quien mantiene un ánimo imperturbable y pausado?",
       "answer": "Flemático",
       "explanation": "Alude a una persona tranquila y poco dada a reaccionar con agitación.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "3–4, 7",
+      "source": "RAE/ASALE, DLE, flemático · https://dle.rae.es/flem%C3%A1tico",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Flemático",
         "Compulsivo",
@@ -2613,8 +2613,8 @@
       "question": "¿Qué adjetivo califica a alguien moderado y prudente en su forma de actuar?",
       "answer": "Comedido",
       "explanation": "El comedimiento se manifiesta en la moderación del comportamiento.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "3–4, 7",
+      "source": "RAE/ASALE, DLE, comedido · https://dle.rae.es/comedido",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Desmadejado",
         "Despótico",
@@ -2632,8 +2632,8 @@
       "question": "Completa con el verbo más preciso: «El taller ___ repuestos para bicicletas».",
       "answer": "Fabrica",
       "explanation": "Fabricar expresa que el taller produce los repuestos.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "1–7",
+      "source": "RAE/ASALE, DLE, fabricar · https://dle.rae.es/fabricar",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Vierte",
         "Profesa",
@@ -2651,8 +2651,8 @@
       "question": "¿Qué verbo precisa «hacer un informe sobre los resultados»?",
       "answer": "Redactar",
       "explanation": "Redactar indica la composición del texto de un informe.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "1–7",
+      "source": "RAE/ASALE, DLE, redactar · https://dle.rae.es/redactar",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Proferir",
         "Fundir",
@@ -2670,8 +2670,8 @@
       "question": "¿Qué verbo precisa «hacer a pie el tramo final»?",
       "answer": "Recorrer",
       "explanation": "Recorrer indica desplazarse por una distancia o trayecto.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "1–7",
+      "source": "RAE/ASALE, DLE, recorrer · https://dle.rae.es/recorrer",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Desempeñar",
         "Enmarcar",
@@ -2689,8 +2689,8 @@
       "question": "¿Qué verbo precisa «poner normas para el uso del laboratorio»?",
       "answer": "Establecer",
       "explanation": "Establecer normas significa fijarlas para que rijan una actividad.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "1–7",
+      "source": "RAE/ASALE, DLE, establecer · https://dle.rae.es/establecer",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Establecer",
         "Abarcar",
@@ -2708,8 +2708,8 @@
       "question": "¿Qué verbo precisa «echar al entrenador de su puesto»?",
       "answer": "Destituir",
       "explanation": "Destituir significa separar a una persona del cargo que ejercía.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "1–7",
+      "source": "RAE/ASALE, DLE, destituir · https://dle.rae.es/destituir",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Instalar",
         "Revelar",
@@ -2727,8 +2727,8 @@
       "question": "Completa con el verbo más preciso: «En el campanario ___ las campanas durante la ceremonia».",
       "answer": "Repicaron",
       "explanation": "Repicar nombra el sonido repetido de las campanas.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "1–7",
+      "source": "RAE/ASALE, DLE, repicar · https://dle.rae.es/repicar",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Comparecieron",
         "Brotaron",
@@ -2746,8 +2746,8 @@
       "question": "¿Qué verbo precisa «ver las cuentas para comprobar que están bien»?",
       "answer": "Revisar",
       "explanation": "Revisar expresa la comprobación deliberada de los datos.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "1–7",
+      "source": "RAE/ASALE, DLE, revisar · https://dle.rae.es/revisar",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Contemplar",
         "Revisar",
@@ -2765,8 +2765,8 @@
       "question": "¿Qué verbo precisa «echar agua de una jarra a un vaso»?",
       "answer": "Verter",
       "explanation": "Verter expresa el traslado de un líquido al inclinar su recipiente.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "1–7",
+      "source": "RAE/ASALE, DLE, verter · https://dle.rae.es/verter",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Proferir",
         "Destituir",
@@ -2784,8 +2784,8 @@
       "question": "¿Qué verbo precisa «tener bronquitis» en una descripción del estado de salud?",
       "answer": "Padecer",
       "explanation": "Padecer se usa para indicar que se sufre una enfermedad.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "1–7",
+      "source": "RAE/ASALE, DLE, padecer · https://dle.rae.es/padecer",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Padecer",
         "Abarcar",
@@ -2803,8 +2803,8 @@
       "question": "¿Qué verbo precisa «tener muy buena salud» usando una locución con la preposición de?",
       "answer": "Gozar de muy buena salud",
       "explanation": "Gozar de expresa el disfrute o la posesión favorable de una condición.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "1–7",
+      "source": "RAE/ASALE, DLE, gozar · https://dle.rae.es/gozar",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Padecer de muy buena salud",
         "Proferir de muy buena salud",
@@ -2822,8 +2822,8 @@
       "question": "¿Qué verbo precisa «poner un argumento» en el sentido de utilizarlo en un debate?",
       "answer": "Esgrimir",
       "explanation": "En sentido figurado, esgrimir es emplear una razón como recurso en una discusión.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "1–7",
+      "source": "RAE/ASALE, DLE, esgrimir · https://dle.rae.es/esgrimir",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Esgrimir",
         "Estampar",
@@ -2841,8 +2841,8 @@
       "question": "Completa con la opción más precisa: «Durante la audiencia, ___ tres testigos».",
       "answer": "Comparecieron",
       "explanation": "Comparecer es presentarse ante una autoridad o instancia formal.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "1–7",
+      "source": "RAE/ASALE, DLE, comparecer · https://dle.rae.es/comparecer",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Ondeaban",
         "Brotaron",
@@ -2860,8 +2860,8 @@
       "question": "¿Qué sustantivo precisa «una cosa para medir la temperatura»?",
       "answer": "Termómetro",
       "explanation": "Nombra el instrumento por su función específica.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "1–7",
+      "source": "RAE/ASALE, DLE, termómetro · https://dle.rae.es/term%C3%B3metro",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Barómetro",
         "Cronómetro",
@@ -2879,8 +2879,8 @@
       "question": "¿Qué sustantivo precisa «la cosa que impide el paso» cuando se trata de un objeto que bloquea el camino?",
       "answer": "Obstáculo",
       "explanation": "Obstáculo designa algo que dificulta o impide el paso.",
-      "source": "Fotos · Precisión semántica y riqueza de vocabulario",
-      "page": "1–7",
+      "source": "RAE/ASALE, DLE, obstáculo · https://dle.rae.es/obst%C3%A1culo",
+      "page": "Sección indicada en la referencia",
       "options": [
         "Obstáculo",
         "Adorno",
@@ -2898,8 +2898,8 @@
       "question": "Una muestra tiene 48 g y ocupa 12 cm³. ¿Cuál es su densidad?",
       "answer": "4 g/cm³",
       "explanation": "Se divide la masa por el volumen: 48/12 = 4.",
-      "source": "Unidad 1 Materia y Energía.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §1.4 · https://openstax.org/books/chemistry-2e/pages/1-4-measurements",
+      "page": "Sección indicada en la referencia",
       "options": [
         "12 g/cm³",
         "48 g/cm³",
@@ -2917,8 +2917,8 @@
       "question": "Una muestra tiene 35 g y ocupa 7 cm³. ¿Cuál es su densidad?",
       "answer": "5 g/cm³",
       "explanation": "Se divide la masa por el volumen: 35/7 = 5.",
-      "source": "Unidad 1 Materia y Energía.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §1.4 · https://openstax.org/books/chemistry-2e/pages/1-4-measurements",
+      "page": "Sección indicada en la referencia",
       "options": [
         "7 g/cm³",
         "245 g/cm³",
@@ -2936,8 +2936,8 @@
       "question": "Una muestra tiene 72 g y ocupa 9 cm³. ¿Cuál es su densidad?",
       "answer": "8 g/cm³",
       "explanation": "Se divide la masa por el volumen: 72/9 = 8.",
-      "source": "Unidad 1 Materia y Energía.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §1.4 · https://openstax.org/books/chemistry-2e/pages/1-4-measurements",
+      "page": "Sección indicada en la referencia",
       "options": [
         "648 g/cm³",
         "9 g/cm³",
@@ -2955,8 +2955,8 @@
       "question": "Un átomo de Na tiene Z = 11 y A = 23. ¿Cuántos neutrones posee?",
       "answer": "12",
       "explanation": "N = A − Z = 23 − 11.",
-      "source": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §2.3 · https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism",
+      "page": "Sección indicada en la referencia",
       "options": [
         "11",
         "12",
@@ -2974,8 +2974,8 @@
       "question": "Un átomo de Mg tiene Z = 12 y A = 25. ¿Cuántos neutrones posee?",
       "answer": "13",
       "explanation": "N = A − Z = 25 − 12.",
-      "source": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §2.3 · https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism",
+      "page": "Sección indicada en la referencia",
       "options": [
         "13",
         "12",
@@ -2993,8 +2993,8 @@
       "question": "Un átomo de Cl tiene Z = 17 y A = 37. ¿Cuántos neutrones posee?",
       "answer": "20",
       "explanation": "N = A − Z = 37 − 17.",
-      "source": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §2.3 · https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism",
+      "page": "Sección indicada en la referencia",
       "options": [
         "54",
         "20",
@@ -3012,8 +3012,8 @@
       "question": "Un átomo de C tiene Z = 6 y A = 14. ¿Cuántos neutrones posee?",
       "answer": "8",
       "explanation": "N = A − Z = 14 − 6.",
-      "source": "Unidad 2  - Estructura atómica y Clasificación de los elementos.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §2.3 · https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism",
+      "page": "Sección indicada en la referencia",
       "options": [
         "20",
         "8",
@@ -3031,8 +3031,8 @@
       "question": "Un gas pasa de 8 L a 2 L a temperatura constante. Parte de 3 atm. ¿Presión final?",
       "answer": "12 atm",
       "explanation": "Por Boyle, P₂ = P₁V₁/V₂ = 3 × 8/2.",
-      "source": "Unidad 6  Estado de Agregación.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §9.2 · https://openstax.org/books/chemistry-2e/pages/9-2-relating-pressure-volume-amount-and-temperature-the-ideal-gas-law",
+      "page": "Sección indicada en la referencia",
       "options": [
         "3 atm",
         "24 atm",
@@ -3050,8 +3050,8 @@
       "question": "Un gas pasa de 6 L a 2 L a temperatura constante. Parte de 5 atm. ¿Presión final?",
       "answer": "15 atm",
       "explanation": "Por Boyle, P₂ = P₁V₁/V₂ = 5 × 6/2.",
-      "source": "Unidad 6  Estado de Agregación.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §9.2 · https://openstax.org/books/chemistry-2e/pages/9-2-relating-pressure-volume-amount-and-temperature-the-ideal-gas-law",
+      "page": "Sección indicada en la referencia",
       "options": [
         "5 atm",
         "15 atm",
@@ -3069,8 +3069,8 @@
       "question": "Un gas pasa de 12 L a 6 L a temperatura constante. Parte de 4 atm. ¿Presión final?",
       "answer": "8 atm",
       "explanation": "Por Boyle, P₂ = P₁V₁/V₂ = 4 × 12/6.",
-      "source": "Unidad 6  Estado de Agregación.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §9.2 · https://openstax.org/books/chemistry-2e/pages/9-2-relating-pressure-volume-amount-and-temperature-the-ideal-gas-law",
+      "page": "Sección indicada en la referencia",
       "options": [
         "9 atm",
         "48 atm",
@@ -3088,8 +3088,8 @@
       "question": "Se diluyen 25 mL de una solución 8 mol/L hasta 100 mL. ¿Molaridad final?",
       "answer": "2 mol/L",
       "explanation": "M₂ = M₁V₁/V₂ = 8 × 25/100.",
-      "source": "Unidad 7 Soluciones.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §3.3 · https://openstax.org/books/chemistry-2e/pages/3-3-molarity",
+      "page": "Sección indicada en la referencia",
       "options": [
         "8 mol/L",
         "32 mol/L",
@@ -3107,8 +3107,8 @@
       "question": "Se diluyen 30 mL de una solución 10 mol/L hasta 150 mL. ¿Molaridad final?",
       "answer": "2 mol/L",
       "explanation": "M₂ = M₁V₁/V₂ = 10 × 30/150.",
-      "source": "Unidad 7 Soluciones.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §3.3 · https://openstax.org/books/chemistry-2e/pages/3-3-molarity",
+      "page": "Sección indicada en la referencia",
       "options": [
         "10 mol/L",
         "2 mol/L",
@@ -3126,8 +3126,8 @@
       "question": "Se diluyen 40 mL de una solución 12 mol/L hasta 160 mL. ¿Molaridad final?",
       "answer": "3 mol/L",
       "explanation": "M₂ = M₁V₁/V₂ = 12 × 40/160.",
-      "source": "Unidad 7 Soluciones.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §3.3 · https://openstax.org/books/chemistry-2e/pages/3-3-molarity",
+      "page": "Sección indicada en la referencia",
       "options": [
         "3 mol/L",
         "48 mol/L",
@@ -3145,8 +3145,8 @@
       "question": "Se diluyen 75 mL de una solución 8 mol/L hasta 150 mL. ¿Molaridad final?",
       "answer": "4 mol/L",
       "explanation": "M₂ = M₁V₁/V₂ = 8 × 75/150.",
-      "source": "Unidad 7 Soluciones.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §3.3 · https://openstax.org/books/chemistry-2e/pages/3-3-molarity",
+      "page": "Sección indicada en la referencia",
       "options": [
         "5 mol/L",
         "4 mol/L",
@@ -3164,8 +3164,8 @@
       "question": "¿Cuál es el pH si [H₃O⁺] = 10⁻² mol/L y se aproxima actividad por concentración?",
       "answer": "2",
       "explanation": "pH = −log₁₀[H₃O⁺] = −(−2).",
-      "source": "Unidad 8 Ácido - Base.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §14.2 · https://openstax.org/books/chemistry-2e/pages/14-2-ph-and-poh",
+      "page": "Sección indicada en la referencia",
       "options": [
         "2",
         "-2",
@@ -3183,8 +3183,8 @@
       "question": "¿Cuál es el pH si [H₃O⁺] = 10⁻³ mol/L y se aproxima actividad por concentración?",
       "answer": "3",
       "explanation": "pH = −log₁₀[H₃O⁺] = −(−3).",
-      "source": "Unidad 8 Ácido - Base.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §14.2 · https://openstax.org/books/chemistry-2e/pages/14-2-ph-and-poh",
+      "page": "Sección indicada en la referencia",
       "options": [
         "4",
         "3",
@@ -3202,8 +3202,8 @@
       "question": "¿Cuál es el pH si [H₃O⁺] = 10⁻⁴ mol/L y se aproxima actividad por concentración?",
       "answer": "4",
       "explanation": "pH = −log₁₀[H₃O⁺] = −(−4).",
-      "source": "Unidad 8 Ácido - Base.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §14.2 · https://openstax.org/books/chemistry-2e/pages/14-2-ph-and-poh",
+      "page": "Sección indicada en la referencia",
       "options": [
         "4",
         "10",
@@ -3221,8 +3221,8 @@
       "question": "¿Cuál es el pH si [H₃O⁺] = 10⁻⁵ mol/L y se aproxima actividad por concentración?",
       "answer": "5",
       "explanation": "pH = −log₁₀[H₃O⁺] = −(−5).",
-      "source": "Unidad 8 Ácido - Base.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §14.2 · https://openstax.org/books/chemistry-2e/pages/14-2-ph-and-poh",
+      "page": "Sección indicada en la referencia",
       "options": [
         "-5",
         "9",
@@ -3240,8 +3240,8 @@
       "question": "¿Cuál es el pH si [H₃O⁺] = 10⁻⁶ mol/L y se aproxima actividad por concentración?",
       "answer": "6",
       "explanation": "pH = −log₁₀[H₃O⁺] = −(−6).",
-      "source": "Unidad 8 Ácido - Base.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §14.2 · https://openstax.org/books/chemistry-2e/pages/14-2-ph-and-poh",
+      "page": "Sección indicada en la referencia",
       "options": [
         "8",
         "7",
@@ -3259,8 +3259,8 @@
       "question": "¿Qué masa tienen 2 mol de agua (H₂O) si M = 18 g/mol?",
       "answer": "36 g",
       "explanation": "m = nM = 2 × 18.",
-      "source": "Unidad 9 Estequiometría.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §3.1 · https://openstax.org/books/chemistry-2e/pages/3-1-formula-mass-and-the-mole-concept",
+      "page": "Sección indicada en la referencia",
       "options": [
         "36 g",
         "18 g",
@@ -3278,8 +3278,8 @@
       "question": "¿Qué masa tienen 3 mol de agua (H₂O) si M = 18 g/mol?",
       "answer": "54 g",
       "explanation": "m = nM = 3 × 18.",
-      "source": "Unidad 9 Estequiometría.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §3.1 · https://openstax.org/books/chemistry-2e/pages/3-1-formula-mass-and-the-mole-concept",
+      "page": "Sección indicada en la referencia",
       "options": [
         "72 g",
         "54 g",
@@ -3297,8 +3297,8 @@
       "question": "¿Qué masa tienen 2 mol de dióxido de carbono (CO₂) si M = 44 g/mol?",
       "answer": "88 g",
       "explanation": "m = nM = 2 × 44.",
-      "source": "Unidad 9 Estequiometría.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §3.1 · https://openstax.org/books/chemistry-2e/pages/3-1-formula-mass-and-the-mole-concept",
+      "page": "Sección indicada en la referencia",
       "options": [
         "44 g",
         "22 g",
@@ -3316,8 +3316,8 @@
       "question": "¿Qué masa tienen 3 mol de dióxido de carbono (CO₂) si M = 44 g/mol?",
       "answer": "132 g",
       "explanation": "m = nM = 3 × 44.",
-      "source": "Unidad 9 Estequiometría.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §3.1 · https://openstax.org/books/chemistry-2e/pages/3-1-formula-mass-and-the-mole-concept",
+      "page": "Sección indicada en la referencia",
       "options": [
         "132 g",
         "14.6667 g",
@@ -3335,8 +3335,8 @@
       "question": "¿Qué masa tienen 2 mol de cloruro de sodio (NaCl) si M = 58.5 g/mol?",
       "answer": "117 g",
       "explanation": "m = nM = 2 × 58.5.",
-      "source": "Unidad 9 Estequiometría.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §3.1 · https://openstax.org/books/chemistry-2e/pages/3-1-formula-mass-and-the-mole-concept",
+      "page": "Sección indicada en la referencia",
       "options": [
         "117 g",
         "29.25 g",
@@ -3354,8 +3354,8 @@
       "question": "¿Qué masa tienen 3 mol de cloruro de sodio (NaCl) si M = 58.5 g/mol?",
       "answer": "175.5 g",
       "explanation": "m = nM = 3 × 58.5.",
-      "source": "Unidad 9 Estequiometría.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §3.1 · https://openstax.org/books/chemistry-2e/pages/3-1-formula-mass-and-the-mole-concept",
+      "page": "Sección indicada en la referencia",
       "options": [
         "234 g",
         "19.5 g",
@@ -3373,8 +3373,8 @@
       "question": "Para v = k[A]^1, ¿por cuánto se multiplica v si [A] se multiplica por 3?",
       "answer": "3",
       "explanation": "El factor se eleva al orden: 3^1 = 3.",
-      "source": "Unidad 10 - Cinetica Química.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §12.3 · https://openstax.org/books/chemistry-2e/pages/12-3-rate-laws",
+      "page": "Sección indicada en la referencia",
       "options": [
         "3",
         "4",
@@ -3392,8 +3392,8 @@
       "question": "Para v = k[A]^2, ¿por cuánto se multiplica v si [A] se multiplica por 2?",
       "answer": "4",
       "explanation": "El factor se eleva al orden: 2^2 = 4.",
-      "source": "Unidad 10 - Cinetica Química.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §12.3 · https://openstax.org/books/chemistry-2e/pages/12-3-rate-laws",
+      "page": "Sección indicada en la referencia",
       "options": [
         "1",
         "6",
@@ -3411,8 +3411,8 @@
       "question": "Para v = k[A]^2, ¿por cuánto se multiplica v si [A] se multiplica por 3?",
       "answer": "9",
       "explanation": "El factor se eleva al orden: 3^2 = 9.",
-      "source": "Unidad 10 - Cinetica Química.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §12.3 · https://openstax.org/books/chemistry-2e/pages/12-3-rate-laws",
+      "page": "Sección indicada en la referencia",
       "options": [
         "1",
         "12",
@@ -3430,8 +3430,8 @@
       "question": "Para v = k[A]^3, ¿por cuánto se multiplica v si [A] se multiplica por 2?",
       "answer": "8",
       "explanation": "El factor se eleva al orden: 2^3 = 8.",
-      "source": "Unidad 10 - Cinetica Química.pdf",
-      "page": "",
+      "source": "OpenStax, chemistry-2e, §12.3 · https://openstax.org/books/chemistry-2e/pages/12-3-rate-laws",
+      "page": "Sección indicada en la referencia",
       "options": [
         "9",
         "10",
@@ -3449,8 +3449,8 @@
       "question": "¿Cuál es el módulo de un vector de componentes (3, −4) m?",
       "answer": "5 m",
       "explanation": "Se calcula √(3² + (-4)²). El signo afecta el sentido, pero los cuadrados son positivos.",
-      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
-      "page": "",
+      "source": "OpenStax, college-physics-2e, §3.3 · https://openstax.org/books/college-physics-2e/pages/3-3-vector-addition-and-subtraction-analytical-methods",
+      "page": "Sección indicada en la referencia",
       "options": [
         "7 m",
         "5 m",
@@ -3468,8 +3468,8 @@
       "question": "¿Cuál es el módulo de un vector de componentes (5, −12) m?",
       "answer": "13 m",
       "explanation": "Se calcula √(5² + (-12)²). El signo afecta el sentido, pero los cuadrados son positivos.",
-      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
-      "page": "",
+      "source": "OpenStax, college-physics-2e, §3.3 · https://openstax.org/books/college-physics-2e/pages/3-3-vector-addition-and-subtraction-analytical-methods",
+      "page": "Sección indicada en la referencia",
       "options": [
         "7 m",
         "13 m",
@@ -3487,8 +3487,8 @@
       "question": "¿Cuál es el módulo de un vector de componentes (8, −15) m?",
       "answer": "17 m",
       "explanation": "Se calcula √(8² + (-15)²). El signo afecta el sentido, pero los cuadrados son positivos.",
-      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
-      "page": "",
+      "source": "OpenStax, college-physics-2e, §3.3 · https://openstax.org/books/college-physics-2e/pages/3-3-vector-addition-and-subtraction-analytical-methods",
+      "page": "Sección indicada en la referencia",
       "options": [
         "23 m",
         "17 m",
@@ -3506,8 +3506,8 @@
       "question": "¿Cuál es el módulo de un vector de componentes (7, −24) m?",
       "answer": "25 m",
       "explanation": "Se calcula √(7² + (-24)²). El signo afecta el sentido, pero los cuadrados son positivos.",
-      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
-      "page": "",
+      "source": "OpenStax, college-physics-2e, §3.3 · https://openstax.org/books/college-physics-2e/pages/3-3-vector-addition-and-subtraction-analytical-methods",
+      "page": "Sección indicada en la referencia",
       "options": [
         "17 m",
         "625 m",
@@ -3525,8 +3525,8 @@
       "question": "Convierte 18 km/h a m/s.",
       "answer": "5 m/s",
       "explanation": "Se multiplica por 1000/3600: 18 ÷ 3,6 = 5.",
-      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
-      "page": "",
+      "source": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
+      "page": "Sección indicada en la referencia",
       "options": [
         "5 m/s",
         "50 m/s",
@@ -3544,8 +3544,8 @@
       "question": "Convierte 36 km/h a m/s.",
       "answer": "10 m/s",
       "explanation": "Se multiplica por 1000/3600: 36 ÷ 3,6 = 10.",
-      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
-      "page": "",
+      "source": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
+      "page": "Sección indicada en la referencia",
       "options": [
         "36 m/s",
         "17 m/s",
@@ -3563,8 +3563,8 @@
       "question": "Convierte 54 km/h a m/s.",
       "answer": "15 m/s",
       "explanation": "Se multiplica por 1000/3600: 54 ÷ 3,6 = 15.",
-      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
-      "page": "",
+      "source": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
+      "page": "Sección indicada en la referencia",
       "options": [
         "150 m/s",
         "22 m/s",
@@ -3582,8 +3582,8 @@
       "question": "Convierte 72 km/h a m/s.",
       "answer": "20 m/s",
       "explanation": "Se multiplica por 1000/3600: 72 ÷ 3,6 = 20.",
-      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
-      "page": "",
+      "source": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
+      "page": "Sección indicada en la referencia",
       "options": [
         "200 m/s",
         "27 m/s",
@@ -3601,8 +3601,8 @@
       "question": "Convierte 90 km/h a m/s.",
       "answer": "25 m/s",
       "explanation": "Se multiplica por 1000/3600: 90 ÷ 3,6 = 25.",
-      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
-      "page": "",
+      "source": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
+      "page": "Sección indicada en la referencia",
       "options": [
         "250 m/s",
         "32 m/s",
@@ -3620,8 +3620,8 @@
       "question": "Convierte 108 km/h a m/s.",
       "answer": "30 m/s",
       "explanation": "Se multiplica por 1000/3600: 108 ÷ 3,6 = 30.",
-      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
-      "page": "",
+      "source": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
+      "page": "Sección indicada en la referencia",
       "options": [
         "300 m/s",
         "108 m/s",
@@ -3639,8 +3639,8 @@
       "question": "Convierte 126 km/h a m/s.",
       "answer": "35 m/s",
       "explanation": "Se multiplica por 1000/3600: 126 ÷ 3,6 = 35.",
-      "source": "Fotos de apuntes · Magnitudes, SI, prefijos y vectores",
-      "page": "",
+      "source": "BIPM, SI Brochure, 9.ª edición, tablas 2, 4, 7 y §5.4 · https://www.bipm.org/en/publications/si-brochure",
+      "page": "Sección indicada en la referencia",
       "options": [
         "35 m/s",
         "126 m/s",
@@ -3658,8 +3658,8 @@
       "question": "Para x ≠ 0, ¿qué resulta de x^5 ÷ x^2?",
       "answer": "x^3",
       "explanation": "Se restan los exponentes: 5 − 2 = 3.",
-      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
-      "page": "",
+      "source": "OpenStax, algebra-and-trigonometry-2e, §1.2 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-2-exponents-and-scientific-notation",
+      "page": "Sección indicada en la referencia",
       "options": [
         "x^3",
         "x^10",
@@ -3677,8 +3677,8 @@
       "question": "Para x ≠ 0, ¿qué resulta de x^6 ÷ x^4?",
       "answer": "x^2",
       "explanation": "Se restan los exponentes: 6 − 4 = 2.",
-      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
-      "page": "",
+      "source": "OpenStax, algebra-and-trigonometry-2e, §1.2 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-2-exponents-and-scientific-notation",
+      "page": "Sección indicada en la referencia",
       "options": [
         "x^10",
         "x^2",
@@ -3696,8 +3696,8 @@
       "question": "Para x ≠ 0, ¿qué resulta de x^8 ÷ x^3?",
       "answer": "x^5",
       "explanation": "Se restan los exponentes: 8 − 3 = 5.",
-      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
-      "page": "",
+      "source": "OpenStax, algebra-and-trigonometry-2e, §1.2 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-2-exponents-and-scientific-notation",
+      "page": "Sección indicada en la referencia",
       "options": [
         "x^11",
         "x^5",
@@ -3715,8 +3715,8 @@
       "question": "Para x ≠ 0, ¿qué resulta de x^7 ÷ x^6?",
       "answer": "x^1",
       "explanation": "Se restan los exponentes: 7 − 6 = 1.",
-      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
-      "page": "",
+      "source": "OpenStax, algebra-and-trigonometry-2e, §1.2 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-2-exponents-and-scientific-notation",
+      "page": "Sección indicada en la referencia",
       "options": [
         "x^42",
         "x^1",
@@ -3734,8 +3734,8 @@
       "question": "Para x ≠ 0, ¿qué resulta de x^9 ÷ x^2?",
       "answer": "x^7",
       "explanation": "Se restan los exponentes: 9 − 2 = 7.",
-      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
-      "page": "",
+      "source": "OpenStax, algebra-and-trigonometry-2e, §1.2 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-2-exponents-and-scientific-notation",
+      "page": "Sección indicada en la referencia",
       "options": [
         "x^11",
         "x^7",
@@ -3753,8 +3753,8 @@
       "question": "¿Cómo se desarrolla 2x(x + 7)?",
       "answer": "2x² + 14x",
       "explanation": "Se distribuye 2x a x y a 7.",
-      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
-      "page": "",
+      "source": "OpenStax, algebra-and-trigonometry-2e, §1.4 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-4-polynomials",
+      "page": "Sección indicada en la referencia",
       "options": [
         "2x² + 7x",
         "2x² + 14",
@@ -3772,8 +3772,8 @@
       "question": "¿Cómo se desarrolla 3x(x + 4)?",
       "answer": "3x² + 12x",
       "explanation": "Se distribuye 3x a x y a 4.",
-      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
-      "page": "",
+      "source": "OpenStax, algebra-and-trigonometry-2e, §1.4 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-4-polynomials",
+      "page": "Sección indicada en la referencia",
       "options": [
         "3x² + 4x",
         "12x² + 3x",
@@ -3791,8 +3791,8 @@
       "question": "¿Cómo se desarrolla 5x(x + 6)?",
       "answer": "5x² + 30x",
       "explanation": "Se distribuye 5x a x y a 6.",
-      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
-      "page": "",
+      "source": "OpenStax, algebra-and-trigonometry-2e, §1.4 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-4-polynomials",
+      "page": "Sección indicada en la referencia",
       "options": [
         "5x² + 30x",
         "5x² + 30",
@@ -3810,8 +3810,8 @@
       "question": "¿Cómo se desarrolla 7x(x + 8)?",
       "answer": "7x² + 56x",
       "explanation": "Se distribuye 7x a x y a 8.",
-      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
-      "page": "",
+      "source": "OpenStax, algebra-and-trigonometry-2e, §1.4 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-4-polynomials",
+      "page": "Sección indicada en la referencia",
       "options": [
         "56x² + 7x",
         "7x² + 56x",
@@ -3829,8 +3829,8 @@
       "question": "¿Cómo se desarrolla 4x(x + 9)?",
       "answer": "4x² + 36x",
       "explanation": "Se distribuye 4x a x y a 9.",
-      "source": "1.Guia de lecciones_Matematica_Álgebra1.pdf",
-      "page": "",
+      "source": "OpenStax, algebra-and-trigonometry-2e, §1.4 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-4-polynomials",
+      "page": "Sección indicada en la referencia",
       "options": [
         "4x² + 36x",
         "4x² + 36",
@@ -3848,8 +3848,8 @@
       "question": "Para una enzima de Vmax = 10 μmol/min, ¿cuál es v inicial cuando [S] = Km?",
       "answer": "5 μmol/min",
       "explanation": "En Michaelis–Menten, si [S] = Km, v es Vmax/2.",
-      "source": "CAPÍTULO 3.pdf",
-      "page": "",
+      "source": "Medicina_UNA_Parte_1.pdf, pp. 53–60, capítulo 3, Enzimas y metabolismo",
+      "page": "Sección indicada en la referencia",
       "options": [
         "5 μmol/min",
         "20 μmol/min",
@@ -3867,8 +3867,8 @@
       "question": "Para una enzima de Vmax = 16 μmol/min, ¿cuál es v inicial cuando [S] = Km?",
       "answer": "8 μmol/min",
       "explanation": "En Michaelis–Menten, si [S] = Km, v es Vmax/2.",
-      "source": "CAPÍTULO 3.pdf",
-      "page": "",
+      "source": "Medicina_UNA_Parte_1.pdf, pp. 53–60, capítulo 3, Enzimas y metabolismo",
+      "page": "Sección indicada en la referencia",
       "options": [
         "32 μmol/min",
         "8 μmol/min",
@@ -3886,8 +3886,8 @@
       "question": "Para una enzima de Vmax = 24 μmol/min, ¿cuál es v inicial cuando [S] = Km?",
       "answer": "12 μmol/min",
       "explanation": "En Michaelis–Menten, si [S] = Km, v es Vmax/2.",
-      "source": "CAPÍTULO 3.pdf",
-      "page": "",
+      "source": "Medicina_UNA_Parte_1.pdf, pp. 53–60, capítulo 3, Enzimas y metabolismo",
+      "page": "Sección indicada en la referencia",
       "options": [
         "12 μmol/min",
         "24 μmol/min",
@@ -3905,8 +3905,8 @@
       "question": "Para una enzima de Vmax = 30 μmol/min, ¿cuál es v inicial cuando [S] = Km?",
       "answer": "15 μmol/min",
       "explanation": "En Michaelis–Menten, si [S] = Km, v es Vmax/2.",
-      "source": "CAPÍTULO 3.pdf",
-      "page": "",
+      "source": "Medicina_UNA_Parte_1.pdf, pp. 53–60, capítulo 3, Enzimas y metabolismo",
+      "page": "Sección indicada en la referencia",
       "options": [
         "60 μmol/min",
         "30 μmol/min",
@@ -3924,7 +3924,7 @@
       "question": "En una muestra gruesa marcada con fluoróforos, ¿qué propiedad de la microscopía confocal permite reconstruir distintas profundidades?",
       "answer": "Rechaza señal fuera de foco y obtiene secciones ópticas",
       "explanation": "La apertura confocal reduce la señal de planos fuera de foco. Al adquirir imágenes a distintas profundidades se obtienen secciones ópticas.",
-      "source": "Alberts et al., Molecular Biology of the Cell, Visualizing Cells · https://www.ncbi.nlm.nih.gov/books/NBK21048/",
+      "source": "OpenStax, microbiology, §2.3 · https://openstax.org/books/microbiology/pages/2-3-instruments-of-microscopy",
       "page": "Programa 2027 p. 14 · B04.22",
       "options": [
         "Separa células por velocidad de sedimentación",
@@ -3932,7 +3932,9 @@
         "Aumenta el tamaño físico de los fluoróforos",
         "Rechaza señal fuera de foco y obtiene secciones ópticas"
       ],
-      "correctIndex": 3
+      "correctIndex": 3,
+      "programUnit": "B04",
+      "programTopic": "B04.22"
     },
     {
       "id": "sim2027-b04-003",
@@ -3951,7 +3953,9 @@
         "Que el fotoblanqueo aumentó la concentración de lípidos",
         "Que moléculas fluorescentes no blanqueadas se movieron hacia la región"
       ],
-      "correctIndex": 3
+      "correctIndex": 3,
+      "programUnit": "B04",
+      "programTopic": "B04.23"
     },
     {
       "id": "sim2027-b05-001",
@@ -3970,7 +3974,9 @@
         "Sustituye todas las regiones de la proteína por fosfolípidos",
         "Hace que desaparezcan las interacciones con el agua"
       ],
-      "correctIndex": 1
+      "correctIndex": 1,
+      "programUnit": "B05",
+      "programTopic": "B05.11"
     },
     {
       "id": "sim2027-b06-002",
@@ -3989,7 +3995,9 @@
         "El giro que acopla el gradiente de protones a F₁",
         "La hidrólisis de proteínas en lisosomas"
       ],
-      "correctIndex": 2
+      "correctIndex": 2,
+      "programUnit": "B06",
+      "programTopic": "B06.9"
     },
     {
       "id": "sim2027-b07-002",
@@ -4008,7 +4016,9 @@
         "Las uniones de ADN con histonas",
         "Los poros de la envoltura nuclear"
       ],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "programUnit": "B07",
+      "programTopic": "B07.10"
     },
     {
       "id": "sim2027-b08-002",
@@ -4027,7 +4037,9 @@
         "Unión comunicante",
         "Hemidesmosoma"
       ],
-      "correctIndex": 3
+      "correctIndex": 3,
+      "programUnit": "B08",
+      "programTopic": "B08.8"
     },
     {
       "id": "sim2027-b09-002",
@@ -4046,7 +4058,9 @@
         "Su reconocimiento por el receptor que la clasifica en el Golgi",
         "La condensación de los cromosomas"
       ],
-      "correctIndex": 2
+      "correctIndex": 2,
+      "programUnit": "B09",
+      "programTopic": "B09.13"
     },
     {
       "id": "sim2027-b10-001",
@@ -4057,7 +4071,7 @@
       "question": "¿Qué efecto tiene sobre la estabilidad del genoma un defecto que aumenta los errores de copia del ADN sin repararlos?",
       "answer": "Aumenta la probabilidad de transmitir cambios de secuencia a las células hijas",
       "explanation": "Si no se corrigen, algunos errores de copia quedan fijados como mutaciones que pueden transmitirse en divisiones posteriores.",
-      "source": "Alberts et al., Molecular Biology of the Cell, DNA Replication, Repair, and Recombination · https://www.ncbi.nlm.nih.gov/books/NBK21064/",
+      "source": "OpenStax, biology-2e, §14.6 · https://openstax.org/books/biology-2e/pages/14-6-dna-repair",
       "page": "Programa 2027 p. 15 · B10.7",
       "options": [
         "Asegura que todos los cambios sean beneficiosos",
@@ -4065,7 +4079,9 @@
         "Convierte la duplicación semiconservativa en transcripción",
         "Impide que se herede cualquier molécula de ADN"
       ],
-      "correctIndex": 1
+      "correctIndex": 1,
+      "programUnit": "B10",
+      "programTopic": "B10.7"
     },
     {
       "id": "sim2027-b11-001",
@@ -4076,7 +4092,7 @@
       "question": "En una célula eucariota, ¿qué enzima transcribe normalmente el gen nuclear de una proteína citosólica?",
       "answer": "ARN polimerasa II",
       "explanation": "La ARN polimerasa II produce los precursores de la mayoría de los ARNm nucleares. La polimerasa I transcribe la mayor parte del ARNr.",
-      "source": "Alberts et al., Molecular Biology of the Cell, From DNA to RNA · https://www.ncbi.nlm.nih.gov/books/NBK26887/",
+      "source": "OpenStax, biology-2e, §15.3 · https://openstax.org/books/biology-2e/pages/15-3-eukaryotic-transcription",
       "page": "Programa 2027 p. 15 · B11.11",
       "options": [
         "ARN polimerasa II",
@@ -4084,7 +4100,9 @@
         "ARN polimerasa I",
         "ADN polimerasa α"
       ],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "programUnit": "B11",
+      "programTopic": "B11.11"
     },
     {
       "id": "sim2027-b12-006",
@@ -4103,7 +4121,9 @@
         "Empalme alternativo",
         "Segregación de cromosomas homólogos"
       ],
-      "correctIndex": 2
+      "correctIndex": 2,
+      "programUnit": "B12",
+      "programTopic": "B12.16"
     },
     {
       "id": "sim2027-b13-001",
@@ -4114,7 +4134,7 @@
       "question": "¿Qué extremo debe ofrecer un cebador para que lo extienda una ADN polimerasa replicativa?",
       "answer": "Un extremo 3′-OH libre",
       "explanation": "La polimerasa incorpora nucleótidos al 3′-OH del cebador. Por eso la nueva hebra se sintetiza en sentido 5′→3′.",
-      "source": "Alberts et al., Molecular Biology of the Cell, DNA Replication, Repair, and Recombination · https://www.ncbi.nlm.nih.gov/books/NBK21064/",
+      "source": "OpenStax, biology-2e, §14.4 · https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes",
       "page": "Programa 2027 p. 15 · B13.10",
       "options": [
         "Un extremo 3′ sin grupo hidroxilo",
@@ -4122,7 +4142,9 @@
         "Un extremo 5′ sin fosfato",
         "Dos extremos unidos por un enlace peptídico"
       ],
-      "correctIndex": 1
+      "correctIndex": 1,
+      "programUnit": "B13",
+      "programTopic": "B13.10"
     },
     {
       "id": "sim2027-b14-004",
@@ -4141,7 +4163,9 @@
         "Las cromátidas hermanas de cada cromosoma",
         "Los centrómeros de todos los cromosomas"
       ],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "programUnit": "B14",
+      "programTopic": "B14.10"
     },
     {
       "id": "sim2027-b15-001",
@@ -4160,7 +4184,9 @@
         "La interrupción permanente de la expresión génica",
         "La maduración"
       ],
-      "correctIndex": 3
+      "correctIndex": 3,
+      "programUnit": "B15",
+      "programTopic": "B15.15"
     },
     {
       "id": "sim2027-l01-004",
@@ -4179,7 +4205,9 @@
         "La existencia de un canal acústico",
         "El uso de una oración interrogativa"
       ],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "programUnit": "L01",
+      "programTopic": "I.6"
     },
     {
       "id": "sim2027-l02-004",
@@ -4198,7 +4226,9 @@
         "La forma plural del sustantivo",
         "El cotexto «levantó el auto»"
       ],
-      "correctIndex": 3
+      "correctIndex": 3,
+      "programUnit": "L02",
+      "programTopic": "II.3.6"
     },
     {
       "id": "sim2027-l03-002",
@@ -4217,7 +4247,9 @@
         "Un texto narrativo",
         "Un texto poético"
       ],
-      "correctIndex": 1
+      "correctIndex": 1,
+      "programUnit": "L03",
+      "programTopic": "III.2"
     },
     {
       "id": "sim2027-l03-005",
@@ -4228,7 +4260,7 @@
       "question": "¿Qué función cumple «es decir» en «Es un plazo improrrogable, es decir, no se puede extender»?",
       "answer": "Reformula la idea anterior",
       "explanation": "El marcador introduce una expresión equivalente que aclara el significado de «improrrogable».",
-      "source": "Instituto Cervantes, Diccionario de términos clave de ELE, Marcadores del discurso · https://cvc.cervantes.es/ensenanza/biblioteca_ele/diccio_ele/diccionario/marcadoresdiscurso.htm",
+      "source": "RAE/ASALE, DLE, decir, expresión «es decir» · https://dle.rae.es/decir",
       "page": "Programa 2027 p. 3 · III.3.1",
       "options": [
         "Opone dos afirmaciones",
@@ -4236,7 +4268,9 @@
         "Indica el orden temporal de los hechos",
         "Introduce una causa nueva"
       ],
-      "correctIndex": 1
+      "correctIndex": 1,
+      "programUnit": "L03",
+      "programTopic": "III.3.1"
     },
     {
       "id": "sim2027-l04-002",
@@ -4255,7 +4289,9 @@
         "Árbol",
         "País"
       ],
-      "correctIndex": 3
+      "correctIndex": 3,
+      "programUnit": "L04",
+      "programTopic": "IV.2"
     },
     {
       "id": "sim2027-l04-003",
@@ -4265,7 +4301,7 @@
       "difficulty": 2,
       "question": "¿En cuál oración corresponde escribir «aún» con tilde?",
       "answer": "Aún no llegaron todos los resultados.",
-      "explanation": "En la primera oración equivale a «todavía». En los otros casos, aun tiene valor inclusivo o concesivo.",
+      "explanation": "En «Aún no llegaron todos los resultados», aún equivale a «todavía». En los otros casos, aun tiene valor inclusivo o concesivo.",
       "source": "RAE/ASALE, Diccionario panhispánico de dudas, tilde · https://www.rae.es/dpd/tilde",
       "page": "Programa 2027 p. 3 · IV.2",
       "options": [
@@ -4274,7 +4310,9 @@
         "Aun los más rápidos tuvieron dudas.",
         "Aún no llegaron todos los resultados."
       ],
-      "correctIndex": 3
+      "correctIndex": 3,
+      "programUnit": "L04",
+      "programTopic": "IV.2"
     },
     {
       "id": "sim2027-l04-014",
@@ -4293,7 +4331,9 @@
         "Punto y coma",
         "Guion"
       ],
-      "correctIndex": 2
+      "correctIndex": 2,
+      "programUnit": "L04",
+      "programTopic": "IV.4"
     },
     {
       "id": "sim2027-l04-020",
@@ -4312,7 +4352,9 @@
         "5km",
         "5 Km"
       ],
-      "correctIndex": 1
+      "correctIndex": 1,
+      "programUnit": "L04",
+      "programTopic": "IV.5"
     },
     {
       "id": "sim2027-l05-001",
@@ -4331,7 +4373,9 @@
         "El agua frío",
         "El agua fría"
       ],
-      "correctIndex": 3
+      "correctIndex": 3,
+      "programUnit": "L05",
+      "programTopic": "V.1.1"
     },
     {
       "id": "sim2027-l05-022",
@@ -4350,7 +4394,9 @@
         "Los le entregué.",
         "Le los entregué."
       ],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "programUnit": "L05",
+      "programTopic": "V.9.6.2"
     },
     {
       "id": "sim2027-l05-027",
@@ -4362,14 +4408,16 @@
       "answer": "Se imprimieron los informes.",
       "explanation": "En «Se imprimieron los informes», el sujeto paciente los informes concuerda en plural con imprimieron. Las otras oraciones son impersonales o recíprocas.",
       "source": "RAE/ASALE, Diccionario panhispánico de dudas, se · https://www.rae.es/dpd/se",
-      "page": "Programa 2027 p. 4 · V.9.9.5",
+      "page": "Programa 2027 p. 4 · V.9.9.4",
       "options": [
         "Se entrevistó a los candidatos.",
         "Se vive bien aquí.",
         "Los colegas se saludaron.",
         "Se imprimieron los informes."
       ],
-      "correctIndex": 3
+      "correctIndex": 3,
+      "programUnit": "L05",
+      "programTopic": "V.9.9.4"
     },
     {
       "id": "sim2027-f02-003",
@@ -4388,7 +4436,9 @@
         "28 s",
         "12 s"
       ],
-      "correctIndex": 3
+      "correctIndex": 3,
+      "programUnit": "F02",
+      "programTopic": "2.3"
     },
     {
       "id": "sim2027-f02-005",
@@ -4407,7 +4457,9 @@
         "2 s",
         "16 s"
       ],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "programUnit": "F02",
+      "programTopic": "2.5"
     },
     {
       "id": "sim2027-f02-008",
@@ -4426,7 +4478,9 @@
         "3 m",
         "5 m"
       ],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "programUnit": "F02",
+      "programTopic": "2.8"
     },
     {
       "id": "sim2027-f03-006",
@@ -4445,7 +4499,9 @@
         "128 J",
         "32 J"
       ],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "programUnit": "F03",
+      "programTopic": "3.6"
     },
     {
       "id": "sim2027-f04-003",
@@ -4464,7 +4520,9 @@
         "120 kPa",
         "2 kPa"
       ],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "programUnit": "F04",
+      "programTopic": "4.3"
     },
     {
       "id": "sim2027-f05-002",
@@ -4483,7 +4541,9 @@
         "0,06 L/s",
         "6,0 L/s"
       ],
-      "correctIndex": 1
+      "correctIndex": 1,
+      "programUnit": "F05",
+      "programTopic": "5.2"
     },
     {
       "id": "sim2027-f06-005",
@@ -4502,7 +4562,9 @@
         "0,45 mm",
         "90 mm"
       ],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "programUnit": "F06",
+      "programTopic": "6.5"
     },
     {
       "id": "sim2027-f07-003",
@@ -4521,7 +4583,9 @@
         "100 J/K",
         "625 J/K"
       ],
-      "correctIndex": 2
+      "correctIndex": 2,
+      "programUnit": "F07",
+      "programTopic": "7.3"
     },
     {
       "id": "sim2027-f08-002",
@@ -4540,7 +4604,9 @@
         "20 m/s",
         "31,25 m/s"
       ],
-      "correctIndex": 2
+      "correctIndex": 2,
+      "programUnit": "F08",
+      "programTopic": "8.2"
     },
     {
       "id": "sim2027-f09-005",
@@ -4559,7 +4625,9 @@
         "+24 cm",
         "−4 cm"
       ],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "programUnit": "F09",
+      "programTopic": "9.5"
     },
     {
       "id": "sim2027-f10-012",
@@ -4578,7 +4646,9 @@
         "2,25 A",
         "0,75 A"
       ],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "programUnit": "F10",
+      "programTopic": "10.10"
     },
     {
       "id": "sim2027-m01-006",
@@ -4597,7 +4667,9 @@
         "No existe ningún entero positivo.",
         "Existe al menos un entero positivo."
       ],
-      "correctIndex": 1
+      "correctIndex": 1,
+      "programUnit": "M01",
+      "programTopic": "1.6"
     },
     {
       "id": "sim2027-m02-007",
@@ -4616,7 +4688,9 @@
         "G. 164.000",
         "G. 115.200"
       ],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "programUnit": "M02",
+      "programTopic": "2.6"
     },
     {
       "id": "sim2027-m03-005",
@@ -4635,7 +4709,9 @@
         "60 L",
         "3 L"
       ],
-      "correctIndex": 1
+      "correctIndex": 1,
+      "programUnit": "M03",
+      "programTopic": "3.5"
     },
     {
       "id": "sim2027-m04-004",
@@ -4654,7 +4730,9 @@
         "4x² − 10x + 25",
         "4x² − 20x − 25"
       ],
-      "correctIndex": 1
+      "correctIndex": 1,
+      "programUnit": "M04",
+      "programTopic": "4.3"
     },
     {
       "id": "sim2027-m05-007",
@@ -4673,7 +4751,9 @@
         "(3x − 1)(2x + 2)",
         "(3x + 2)(2x − 1)"
       ],
-      "correctIndex": 1
+      "correctIndex": 1,
+      "programUnit": "M05",
+      "programTopic": "5.1.7"
     },
     {
       "id": "sim2027-m06-002",
@@ -4692,7 +4772,9 @@
         "(4, 3)",
         "(5, 1)"
       ],
-      "correctIndex": 2
+      "correctIndex": 2,
+      "programUnit": "M06",
+      "programTopic": "6.2"
     },
     {
       "id": "sim2027-m07-003",
@@ -4711,7 +4793,9 @@
         "x = −1 y x = 4",
         "No tiene solución"
       ],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "programUnit": "M07",
+      "programTopic": "7.3"
     },
     {
       "id": "sim2027-m08-004",
@@ -4730,7 +4814,9 @@
         "x = 8",
         "x = −2"
       ],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "programUnit": "M08",
+      "programTopic": "8.3"
     },
     {
       "id": "sim2027-m09-003",
@@ -4741,7 +4827,7 @@
       "question": "Si cos θ = −5/13 y θ está en el segundo cuadrante, ¿cuánto vale sen θ?",
       "answer": "12/13",
       "explanation": "sen²θ = 1 − 25/169 = 144/169. En el segundo cuadrante el seno es positivo, por lo que vale 12/13.",
-      "source": "OpenStax, Found no tool response. This likely means the arguments you provided were not valid. · https://openstax.org/books/algebra-and-trigonometry-2e/pages/9-1-verifying-trigonometric-identities-and-using-trigonometric-identities-to-simplify-trigonometric-expressions",
+      "source": "OpenStax, Algebra and Trigonometry 2e, §9.1, identidades trigonométricas · https://openstax.org/books/algebra-and-trigonometry-2e/pages/9-1-verifying-trigonometric-identities-and-using-trigonometric-identities-to-simplify-trigonometric-expressions",
       "page": "Programa 2027 p. 19 · 9.3",
       "options": [
         "12/13",
@@ -4749,7 +4835,9 @@
         "5/13",
         "−12/13"
       ],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "programUnit": "M09",
+      "programTopic": "9.3"
     },
     {
       "id": "sim2027-m10-008",
@@ -4768,7 +4856,9 @@
         "5/8",
         "4/7"
       ],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "programUnit": "M10",
+      "programTopic": "10.8"
     },
     {
       "id": "sim2027-q12-002",
@@ -4787,7 +4877,9 @@
         "+75 J",
         "−75 J"
       ],
-      "correctIndex": 2
+      "correctIndex": 2,
+      "programUnit": "Q12",
+      "programTopic": "12.2"
     },
     {
       "id": "sim2027-q12-008",
@@ -4806,7 +4898,9 @@
         "0,80 V",
         "0,74 V"
       ],
-      "correctIndex": 3
+      "correctIndex": 3,
+      "programUnit": "Q12",
+      "programTopic": "12.10.5"
     },
     {
       "id": "sim2027-q13-004",
@@ -4825,7 +4919,9 @@
         "E",
         "S"
       ],
-      "correctIndex": 2
+      "correctIndex": 2,
+      "programUnit": "Q13",
+      "programTopic": "13.6.2.1.2"
     },
     {
       "id": "sim2027-q14-007",
@@ -4844,7 +4940,9 @@
         "Seis átomos",
         "Ocho átomos"
       ],
-      "correctIndex": 2
+      "correctIndex": 2,
+      "programUnit": "Q14",
+      "programTopic": "14.2.4.3"
     },
     {
       "id": "sim2027-q14-009",
@@ -4863,7 +4961,9 @@
         "Retención obligatoria de la geometría",
         "Inversión de la geometría"
       ],
-      "correctIndex": 3
+      "correctIndex": 3,
+      "programUnit": "Q14",
+      "programTopic": "14.4.3"
     },
     {
       "id": "sim2027-q15-004",
@@ -4882,7 +4982,9 @@
         "Un alquino por eliminación",
         "Un alcohol por sustitución"
       ],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "programUnit": "Q15",
+      "programTopic": "15.3.4"
     },
     {
       "id": "sim2027-q16-001",
@@ -4901,7 +5003,9 @@
         "Propanal",
         "Ácido propanoico"
       ],
-      "correctIndex": 2
+      "correctIndex": 2,
+      "programUnit": "Q16",
+      "programTopic": "16.1.2"
     },
     {
       "id": "sim2027-q16-010",
@@ -4920,7 +5024,9 @@
         "Una lactama",
         "Un anhídrido mixto"
       ],
-      "correctIndex": 1
+      "correctIndex": 1,
+      "programUnit": "Q16",
+      "programTopic": "16.3.1.5"
     },
     {
       "id": "sim2027-q17-006",
@@ -4939,7 +5045,9 @@
         "No contiene enlaces glucosídicos",
         "Tiene los dos carbonos anoméricos bloqueados"
       ],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "programUnit": "Q17",
+      "programTopic": "17.2.3"
     },
     {
       "id": "sim2027-q17-009",
@@ -4957,6 +5065,1058 @@
         "Una cadena principal de aminoácidos",
         "Una cabeza polar con fosfato unido a colina",
         "Tres cadenas acilo esterificadas al glicerol"
+      ],
+      "correctIndex": 2,
+      "programUnit": "Q17",
+      "programTopic": "17.3.4.1"
+    },
+    {
+      "id": "practica041-b02-001",
+      "subject": "Biología",
+      "unit": "Unidad 2 · Bases químicas de la vida",
+      "topic": "Estructura de proteínas",
+      "difficulty": 2,
+      "question": "Una proteína pierde su estructura terciaria al calentarse, pero sus enlaces peptídicos permanecen intactos. ¿Qué nivel se conserva?",
+      "answer": "La estructura primaria",
+      "explanation": "La secuencia de aminoácidos define la estructura primaria. Desnaturalizar altera el plegamiento sin requerir la hidrólisis de los enlaces peptídicos.",
+      "source": "OpenStax, biology-2e, §3.4 · https://openstax.org/books/biology-2e/pages/3-4-proteins",
+      "page": "Programa 2027 · B02 · B02.5",
+      "programUnit": "B02",
+      "programTopic": "B02.5",
+      "options": [
+        "La estructura cuaternaria necesariamente",
+        "La estructura primaria",
+        "La estructura secundaria necesariamente",
+        "La estructura terciaria"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "practica041-b02-002",
+      "subject": "Biología",
+      "unit": "Unidad 2 · Bases químicas de la vida",
+      "topic": "Nucleótidos",
+      "difficulty": 2,
+      "question": "¿Qué componente distingue un nucleósido de su nucleótido correspondiente?",
+      "answer": "El nucleótido incorpora uno o más grupos fosfato",
+      "explanation": "Un nucleósido contiene una base unida a una pentosa. Al añadir fosfato se obtiene un nucleótido.",
+      "source": "OpenStax, Organic Chemistry, §28.1, Nucleotides and Nucleic Acids · https://openstax.org/books/organic-chemistry/pages/28-1-nucleotides-and-nucleic-acids",
+      "page": "Programa 2027 · B02 · B02.9",
+      "programUnit": "B02",
+      "programTopic": "B02.9",
+      "options": [
+        "El nucleótido carece de base nitrogenada",
+        "El nucleósido contiene siempre desoxirribosa",
+        "El nucleósido carece de pentosa",
+        "El nucleótido incorpora uno o más grupos fosfato"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "practica041-b05-001",
+      "subject": "Biología",
+      "unit": "Unidad 5 · Membrana plasmática",
+      "topic": "Ósmosis",
+      "difficulty": 2,
+      "question": "Un eritrocito se coloca en una solución hipotónica cuyos solutos no atraviesan su membrana. ¿Qué cambio inicial se espera?",
+      "answer": "Entra agua y aumenta su volumen",
+      "explanation": "El agua se desplaza hacia el compartimento con mayor concentración efectiva de solutos no penetrantes. La célula puede hincharse y llegar a lisarse.",
+      "source": "OpenStax, biology-2e, §5.2 · https://openstax.org/books/biology-2e/pages/5-2-passive-transport",
+      "page": "Programa 2027 · B05 · B05.6",
+      "programUnit": "B05",
+      "programTopic": "B05.6",
+      "options": [
+        "Entra agua y aumenta su volumen",
+        "Sale agua y disminuye su volumen",
+        "Entran proteínas por difusión simple",
+        "No hay movimiento neto de agua"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "practica041-b05-002",
+      "subject": "Biología",
+      "unit": "Unidad 5 · Membrana plasmática",
+      "topic": "Transporte activo secundario",
+      "difficulty": 2,
+      "question": "El cotransporte de Na⁺ y glucosa usa la entrada de Na⁺ a favor de su gradiente para introducir glucosa contra el suyo. ¿Cómo se clasifica?",
+      "answer": "Transporte activo secundario",
+      "explanation": "El cotransportador aprovecha un gradiente iónico previamente establecido. No necesita hidrolizar ATP directamente en cada ciclo, a diferencia del transporte activo primario.",
+      "source": "OpenStax, biology-2e, §5.3 · https://openstax.org/books/biology-2e/pages/5-3-active-transport",
+      "page": "Programa 2027 · B05 · B05.8",
+      "programUnit": "B05",
+      "programTopic": "B05.8",
+      "options": [
+        "Difusión simple de glucosa",
+        "Ósmosis",
+        "Transporte activo secundario",
+        "Transporte activo primario de glucosa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "practica041-b05-003",
+      "subject": "Biología",
+      "unit": "Unidad 5 · Membrana plasmática",
+      "topic": "Bomba de sodio y potasio",
+      "difficulty": 2,
+      "question": "Por cada ATP hidrolizado, la Na⁺/K⁺-ATPasa expulsa 3 Na⁺ e introduce 2 K⁺. ¿Cuál es el movimiento neto de carga positiva?",
+      "answer": "Una carga positiva hacia el exterior",
+      "explanation": "Salen tres cargas positivas y entran dos: el balance es una carga positiva hacia fuera. Por ello la bomba es electrogénica.",
+      "source": "OpenStax, biology-2e, §5.3 · https://openstax.org/books/biology-2e/pages/5-3-active-transport",
+      "page": "Programa 2027 · B05 · B05.9",
+      "programUnit": "B05",
+      "programTopic": "B05.9",
+      "options": [
+        "Una carga positiva hacia el interior",
+        "Ninguna carga neta",
+        "Una carga positiva hacia el exterior",
+        "Cinco cargas positivas hacia el exterior"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "practica041-b06-001",
+      "subject": "Biología",
+      "unit": "Unidad 6 · Mitocondrias y respiración aeróbica",
+      "topic": "Cadena respiratoria",
+      "difficulty": 2,
+      "question": "En la respiración aeróbica mitocondrial, ¿cuál es el aceptor final de electrones de la cadena respiratoria?",
+      "answer": "El O₂, que se reduce a agua",
+      "explanation": "Al final de la cadena, el oxígeno acepta electrones y protones para formar agua. El CO₂ procede de etapas de oxidación del carbono, no de esta reducción terminal.",
+      "source": "OpenStax, biology-2e, §7.4 · https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+      "page": "Programa 2027 · B06 · B06.2",
+      "programUnit": "B06",
+      "programTopic": "B06.2",
+      "options": [
+        "El O₂, que se reduce a agua",
+        "El piruvato, que se convierte en lactato",
+        "El ATP, que se oxida a ADP",
+        "El CO₂, que se reduce a glucosa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "practica041-b07-001",
+      "subject": "Biología",
+      "unit": "Unidad 7 · Citoesqueleto y motilidad",
+      "topic": "Citoesqueleto",
+      "difficulty": 2,
+      "question": "Un fármaco impide la polimerización de tubulina. ¿Qué estructura celular resulta afectada directamente?",
+      "answer": "Los microtúbulos del huso mitótico",
+      "explanation": "Los microtúbulos están formados por tubulina y participan en el huso. La actina y la queratina son componentes de otros sistemas del citoesqueleto.",
+      "source": "OpenStax, biology-2e, §4.5 · https://openstax.org/books/biology-2e/pages/4-5-the-cytoskeleton",
+      "page": "Programa 2027 · B07 · B07.2",
+      "programUnit": "B07",
+      "programTopic": "B07.2",
+      "options": [
+        "La bicapa lipídica",
+        "Los filamentos de actina del anillo contráctil",
+        "Los filamentos intermedios de queratina",
+        "Los microtúbulos del huso mitótico"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "practica041-b09-001",
+      "subject": "Biología",
+      "unit": "Unidad 9 · Endomembranas y tráfico",
+      "topic": "Sistema endomembranoso",
+      "difficulty": 2,
+      "question": "Una proteína destinada a secreción comienza a sintetizarse y su señal dirige el ribosoma al retículo endoplasmático rugoso. ¿Cuál es una ruta secretora típica posterior?",
+      "answer": "Retículo endoplasmático → Golgi → vesícula secretora → membrana plasmática",
+      "explanation": "Las proteínas secretoras se incorporan al retículo, se procesan y clasifican en el Golgi y llegan en vesículas a la superficie, donde ocurre la exocitosis.",
+      "source": "OpenStax, biology-2e, §4.4 · https://openstax.org/books/biology-2e/pages/4-4-the-endomembrane-system-and-proteins",
+      "page": "Programa 2027 · B09 · B09.1",
+      "programUnit": "B09",
+      "programTopic": "B09.1",
+      "options": [
+        "Retículo endoplasmático → Golgi → vesícula secretora → membrana plasmática",
+        "Retículo endoplasmático → peroxisoma → núcleo",
+        "Golgi → núcleo → mitocondria → membrana plasmática",
+        "Citosol → cloroplasto → lisosoma"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "practica041-b11-001",
+      "subject": "Biología",
+      "unit": "Unidad 11 · Dogma central",
+      "topic": "Transcripción",
+      "difficulty": 2,
+      "question": "Si la hebra molde de ADN es 3′-TACG-5′, ¿qué ARN complementario se sintetiza?",
+      "answer": "5′-AUGC-3′",
+      "explanation": "La ARN polimerasa lee el molde 3′→5′ y sintetiza ARN 5′→3′. A se aparea con U en ARN y C con G; el ARN no contiene timina.",
+      "source": "OpenStax, biology-2e, §15.2 · https://openstax.org/books/biology-2e/pages/15-2-prokaryotic-transcription",
+      "page": "Programa 2027 · B11 · B11.1",
+      "programUnit": "B11",
+      "programTopic": "B11.1",
+      "options": [
+        "5′-TACG-3′",
+        "5′-AUGC-3′",
+        "3′-AUGC-5′",
+        "5′-UACG-3′"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "practica041-b14-001",
+      "subject": "Biología",
+      "unit": "Unidad 14 · División celular",
+      "topic": "Contenido de ADN",
+      "difficulty": 2,
+      "question": "Una célula diploide tiene 2n = 6. Después de replicar su ADN y antes de separar las cromátidas, ¿cuántos cromosomas y cromátidas tiene?",
+      "answer": "6 cromosomas y 12 cromátidas",
+      "explanation": "La replicación duplica el ADN y forma dos cromátidas hermanas por cromosoma. Mientras permanecen unidas, se cuentan seis cromosomas duplicados.",
+      "source": "OpenStax, biology-2e, §10.2 · https://openstax.org/books/biology-2e/pages/10-2-the-cell-cycle",
+      "page": "Programa 2027 · B14 · B14.1",
+      "programUnit": "B14",
+      "programTopic": "B14.1",
+      "options": [
+        "6 cromosomas y 6 cromátidas",
+        "3 cromosomas y 6 cromátidas",
+        "12 cromosomas y 12 cromátidas",
+        "6 cromosomas y 12 cromátidas"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "practica041-f03-001",
+      "subject": "Física",
+      "unit": "Unidad 3 · Dinámica",
+      "topic": "Segunda ley de Newton",
+      "difficulty": 2,
+      "question": "Un bloque de 4 kg recibe dos fuerzas horizontales opuestas: 18 N a la derecha y 6 N a la izquierda. Sin otras fuerzas horizontales, ¿cuál es su aceleración?",
+      "answer": "3 m/s² a la derecha",
+      "explanation": "Tomando derecha positiva: Fₙ = 18 − 6 = 12 N. Entonces a = Fₙ/m = 12 N / 4 kg = 3 m/s², hacia la derecha.",
+      "source": "OpenStax, college-physics-2e, §4.3 · https://openstax.org/books/college-physics-2e/pages/4-3-newtons-second-law-of-motion-concept-of-a-system",
+      "page": "Programa 2027 · F03 · 3.2",
+      "programUnit": "F03",
+      "programTopic": "3.2",
+      "options": [
+        "12 m/s² a la derecha",
+        "6 m/s² a la derecha",
+        "3 m/s² a la derecha",
+        "3 m/s² a la izquierda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "practica041-f03-002",
+      "subject": "Física",
+      "unit": "Unidad 3 · Dinámica",
+      "topic": "Rozamiento estático",
+      "difficulty": 2,
+      "question": "Una caja está en reposo. Se la empuja horizontalmente con 8 N y el rozamiento estático máximo es 20 N. ¿Qué fuerza de rozamiento actúa mientras sigue en reposo?",
+      "answer": "8 N, opuesta al empuje",
+      "explanation": "El rozamiento estático se ajusta hasta su máximo. Para mantener aceleración nula debe equilibrar los 8 N aplicados; μₛN es un límite, no siempre la fuerza efectiva.",
+      "source": "OpenStax, college-physics-2e, §5.1 · https://openstax.org/books/college-physics-2e/pages/5-1-friction",
+      "page": "Programa 2027 · F03 · 3.3",
+      "programUnit": "F03",
+      "programTopic": "3.3",
+      "options": [
+        "20 N, opuesta al empuje",
+        "8 N, opuesta al empuje",
+        "0 N",
+        "28 N, a favor del empuje"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "practica041-f04-001",
+      "subject": "Física",
+      "unit": "Unidad 4 · Hidrostática",
+      "topic": "Principio de Pascal",
+      "difficulty": 2,
+      "question": "Una prensa hidráulica ideal tiene émbolos de 5 cm² y 100 cm² a igual altura. Si se aplican 25 N al menor, ¿qué fuerza ejerce el mayor?",
+      "answer": "500 N",
+      "explanation": "La presión transmitida cumple F₁/A₁ = F₂/A₂. F₂ = 25 N × (100/5) = 500 N. El cociente de áreas no necesita conversión porque ambas están en cm².",
+      "source": "OpenStax, college-physics-2e, §11.5 · https://openstax.org/books/college-physics-2e/pages/11-5-pascals-principle",
+      "page": "Programa 2027 · F04 · 4.4",
+      "programUnit": "F04",
+      "programTopic": "4.4",
+      "options": [
+        "1,25 N",
+        "125 N",
+        "500 N",
+        "2500 N"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "practica041-f04-002",
+      "subject": "Física",
+      "unit": "Unidad 4 · Hidrostática",
+      "topic": "Empuje y flotación",
+      "difficulty": 2,
+      "question": "Un bloque homogéneo de densidad 750 kg/m³ flota en agua de 1000 kg/m³. ¿Qué porcentaje de su volumen está sumergido?",
+      "answer": "75 %",
+      "explanation": "En equilibrio, ρagua g Vsumergido = ρbloque g Vtotal. La fracción sumergida es 750/1000 = 0,75, es decir, 75 %.",
+      "source": "OpenStax, college-physics-2e, §11.7 · https://openstax.org/books/college-physics-2e/pages/11-7-archimedes-principle",
+      "page": "Programa 2027 · F04 · 4.5",
+      "programUnit": "F04",
+      "programTopic": "4.5",
+      "options": [
+        "133 %",
+        "75 %",
+        "100 %",
+        "25 %"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "practica041-f05-001",
+      "subject": "Física",
+      "unit": "Unidad 5 · Hidrodinámica",
+      "topic": "Ecuación de continuidad",
+      "difficulty": 2,
+      "question": "En una tubería con flujo estacionario de agua incompresible, el área disminuye de 8 cm² a 2 cm². Si la rapidez inicial es 1,5 m/s, ¿cuál es la final?",
+      "answer": "6 m/s",
+      "explanation": "Se conserva el caudal: A₁v₁ = A₂v₂. Por tanto v₂ = (8/2) × 1,5 m/s = 6 m/s.",
+      "source": "OpenStax, college-physics-2e, §12.1 · https://openstax.org/books/college-physics-2e/pages/12-1-flow-rate-and-its-relation-to-velocity",
+      "page": "Programa 2027 · F05 · 5.1",
+      "programUnit": "F05",
+      "programTopic": "5.1",
+      "options": [
+        "0,375 m/s",
+        "3 m/s",
+        "6 m/s",
+        "12 m/s"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "practica041-f06-001",
+      "subject": "Física",
+      "unit": "Unidad 6 · Termometría y dilatación térmica",
+      "topic": "Escalas termométricas",
+      "difficulty": 2,
+      "question": "Una muestra pasa de 20 °C a 35 °C. ¿Cuál es el cambio de temperatura expresado en kelvin?",
+      "answer": "15 K",
+      "explanation": "Para diferencias de temperatura, ΔT en K tiene el mismo valor numérico que ΔT en °C: 35 − 20 = 15. Los 273,15 se añaden al convertir temperaturas, no diferencias.",
+      "source": "OpenStax, college-physics-2e, §13.1 · https://openstax.org/books/college-physics-2e/pages/13-1-temperature",
+      "page": "Programa 2027 · F06 · 6.2",
+      "programUnit": "F06",
+      "programTopic": "6.2",
+      "options": [
+        "55 K",
+        "288,15 K",
+        "15 K",
+        "308,15 K"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "practica041-f07-001",
+      "subject": "Física",
+      "unit": "Unidad 7 · Calorimetría",
+      "topic": "Calor sensible",
+      "difficulty": 2,
+      "question": "Se calientan 200 g de agua desde 20 °C hasta 30 °C, sin pérdidas ni cambio de fase. Con c = 4,18 J/(g·K), ¿qué calor absorbe?",
+      "answer": "8,36 kJ",
+      "explanation": "Q = mcΔT = 200 g × 4,18 J/(g·K) × 10 K = 8360 J = 8,36 kJ.",
+      "source": "OpenStax, college-physics-2e, §14.2 · https://openstax.org/books/college-physics-2e/pages/14-2-temperature-change-and-heat-capacity",
+      "page": "Programa 2027 · F07 · 7.4",
+      "programUnit": "F07",
+      "programTopic": "7.4",
+      "options": [
+        "2,51 kJ",
+        "8,36 kJ",
+        "0,836 kJ",
+        "83,6 kJ"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "practica041-f08-001",
+      "subject": "Física",
+      "unit": "Unidad 8 · Mecánica ondulatoria",
+      "topic": "Frecuencia y período",
+      "difficulty": 2,
+      "question": "Una fuente completa 40 oscilaciones en 10 s. ¿Cuál es su período?",
+      "answer": "0,25 s",
+      "explanation": "La frecuencia es f = 40/10 s = 4 Hz. El período es T = 1/f = 0,25 s.",
+      "source": "OpenStax, college-physics-2e, §16.2 · https://openstax.org/books/college-physics-2e/pages/16-2-period-and-frequency-in-oscillations",
+      "page": "Programa 2027 · F08 · 8.2",
+      "programUnit": "F08",
+      "programTopic": "8.2",
+      "options": [
+        "0,4 s",
+        "40 s",
+        "0,25 s",
+        "4 s"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "practica041-f09-001",
+      "subject": "Física",
+      "unit": "Unidad 9 · Óptica",
+      "topic": "Potencia de una lente",
+      "difficulty": 2,
+      "question": "Una lente convergente tiene distancia focal de +25 cm. ¿Cuál es su potencia óptica?",
+      "answer": "+4 D",
+      "explanation": "La potencia es P = 1/f, con f en metros. Como f = +0,25 m, P = +4 m⁻¹ = +4 dioptrías.",
+      "source": "OpenStax, college-physics-2e, §25.6 · https://openstax.org/books/college-physics-2e/pages/25-6-image-formation-by-lenses",
+      "page": "Programa 2027 · F09 · 9.5",
+      "programUnit": "F09",
+      "programTopic": "9.5",
+      "options": [
+        "+4 D",
+        "+0,04 D",
+        "+25 D",
+        "−4 D"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "practica041-f10-001",
+      "subject": "Física",
+      "unit": "Unidad 10 · Electricidad",
+      "topic": "Potencia eléctrica",
+      "difficulty": 2,
+      "question": "Una resistencia óhmica de 6 Ω tiene una diferencia de potencial de 12 V. ¿Qué potencia disipa?",
+      "answer": "24 W",
+      "explanation": "P = V²/R = (12 V)² / 6 Ω = 24 W. Equivalentemente, I = V/R = 2 A y P = VI = 24 W.",
+      "source": "OpenStax, college-physics-2e, §20.4 · https://openstax.org/books/college-physics-2e/pages/20-4-electric-power-and-energy",
+      "page": "Programa 2027 · F10 · 10.9",
+      "programUnit": "F10",
+      "programTopic": "10.9",
+      "options": [
+        "72 W",
+        "2 W",
+        "144 W",
+        "24 W"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "practica041-m01-001",
+      "subject": "Matemática",
+      "unit": "Unidad 1 · Lógica proposicional",
+      "topic": "Inferencias válidas",
+      "difficulty": 2,
+      "question": "Se sabe que p → q es verdadero y que q es falso. ¿Qué se deduce necesariamente?",
+      "answer": "p es falso",
+      "explanation": "Por modus tollens, de p → q y ¬q se infiere ¬p. Si p fuera verdadero y q falso, el condicional sería falso, contradiciendo el dato.",
+      "source": "OpenStax, contemporary-mathematics, §2.4 · https://openstax.org/books/contemporary-mathematics/pages/2-4-truth-tables-for-the-conditional-and-biconditional",
+      "page": "Programa 2027 · M01 · 1.3",
+      "programUnit": "M01",
+      "programTopic": "1.3",
+      "options": [
+        "q es verdadero",
+        "p es verdadero",
+        "No puede deducirse nada sobre p",
+        "p es falso"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "practica041-m02-001",
+      "subject": "Matemática",
+      "unit": "Unidad 2 · Aritmética y proporcionalidad",
+      "topic": "Interés compuesto",
+      "difficulty": 2,
+      "question": "Un capital de G. 500 000 se invierte al 10 % anual compuesto durante dos años. Sin aportes ni retiros, ¿cuál es el monto final?",
+      "answer": "G. 605 000",
+      "explanation": "M = C(1+i)² = 500 000 × 1,10² = 605 000 guaraníes. El segundo año también genera interés el interés acumulado durante el primero.",
+      "source": "OpenStax, algebra-and-trigonometry-2e, §6.1 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/6-1-exponential-functions",
+      "page": "Programa 2027 · M02 · 2.8",
+      "programUnit": "M02",
+      "programTopic": "2.8",
+      "options": [
+        "G. 610 000",
+        "G. 550 000",
+        "G. 600 000",
+        "G. 605 000"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "practica041-m03-001",
+      "subject": "Matemática",
+      "unit": "Unidad 3 · Sistema métrico decimal",
+      "topic": "Conversión de superficies",
+      "difficulty": 2,
+      "question": "¿A cuántos centímetros cuadrados equivalen 0,035 m²?",
+      "answer": "350 cm²",
+      "explanation": "1 m = 100 cm, por lo que 1 m² = 10 000 cm². Así, 0,035 × 10 000 = 350 cm². El factor lineal se eleva al cuadrado.",
+      "source": "OpenStax, prealgebra-2e, §7.5 · https://openstax.org/books/prealgebra-2e/pages/7-5-systems-of-measurement",
+      "page": "Programa 2027 · M03 · 3.3",
+      "programUnit": "M03",
+      "programTopic": "3.3",
+      "options": [
+        "3,5 cm²",
+        "350 cm²",
+        "3500 cm²",
+        "35 cm²"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "practica041-m04-001",
+      "subject": "Matemática",
+      "unit": "Unidad 4 · Expresiones algebraicas",
+      "topic": "Productos notables",
+      "difficulty": 2,
+      "question": "¿Cuál es el desarrollo de (2x − 3)²?",
+      "answer": "4x² − 12x + 9",
+      "explanation": "Usando (a−b)² = a²−2ab+b², se obtiene (2x)²−2(2x)(3)+3² = 4x²−12x+9.",
+      "source": "OpenStax, algebra-and-trigonometry-2e, §1.4 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-4-polynomials",
+      "page": "Programa 2027 · M04 · 4.3",
+      "programUnit": "M04",
+      "programTopic": "4.3",
+      "options": [
+        "4x² + 9",
+        "4x² − 12x + 9",
+        "4x² − 9",
+        "2x² − 12x + 9"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "practica041-m05-001",
+      "subject": "Matemática",
+      "unit": "Unidad 5 · Factorización y fracciones algebraicas",
+      "topic": "Restricciones de dominio",
+      "difficulty": 2,
+      "question": "Para f(x) = (x² − 9)/(x − 3), ¿qué expresión y dominio son equivalentes a los originales?",
+      "answer": "f(x) = x + 3, con x ≠ 3",
+      "explanation": "Se factoriza x²−9 = (x−3)(x+3). Se cancela x−3 únicamente cuando x ≠ 3. Simplificar no recupera el punto excluido del dominio original.",
+      "source": "OpenStax, algebra-and-trigonometry-2e, §1.6 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-6-rational-expressions",
+      "page": "Programa 2027 · M05 · 5.3",
+      "programUnit": "M05",
+      "programTopic": "5.3",
+      "options": [
+        "f(x) = x + 3, con x ≠ 3",
+        "f(x) = x − 3, con x ≠ 3",
+        "f(x) = x + 3, con x ≠ −3",
+        "f(x) = x + 3, para todo número real"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "practica041-m06-001",
+      "subject": "Matemática",
+      "unit": "Unidad 6 · Ecuaciones y sistemas lineales y con radicales",
+      "topic": "Raíces extrañas",
+      "difficulty": 2,
+      "question": "¿Cuál es el conjunto de soluciones reales de √(x + 2) = x?",
+      "answer": "{2}",
+      "explanation": "El lado derecho exige x ≥ 0. Al cuadrar: x+2 = x², de donde (x−2)(x+1)=0. Se verifica x=2; x=−1 se descarta porque √1 ≠ −1.",
+      "source": "OpenStax, algebra-and-trigonometry-2e, §2.6 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/2-6-other-types-of-equations",
+      "page": "Programa 2027 · M06 · 6.3",
+      "programUnit": "M06",
+      "programTopic": "6.3",
+      "options": [
+        "{−1, 2}",
+        "{−1}",
+        "{2}",
+        "No tiene soluciones"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "practica041-m07-001",
+      "subject": "Matemática",
+      "unit": "Unidad 7 · Ecuaciones y sistemas cuadráticos",
+      "topic": "Ecuaciones cuadráticas",
+      "difficulty": 2,
+      "question": "¿Cuáles son las raíces de 2x² − 5x − 3 = 0?",
+      "answer": "3 y −1/2",
+      "explanation": "La factorización es (2x+1)(x−3)=0. Al anular cada factor se obtienen x=−1/2 y x=3; ambos satisfacen la ecuación original.",
+      "source": "OpenStax, algebra-and-trigonometry-2e, §2.5 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/2-5-quadratic-equations",
+      "page": "Programa 2027 · M07 · 7.1",
+      "programUnit": "M07",
+      "programTopic": "7.1",
+      "options": [
+        "3 y 1/2",
+        "3 y −1/2",
+        "−3 y 1/2",
+        "−3 y −1/2"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "practica041-m08-001",
+      "subject": "Matemática",
+      "unit": "Unidad 8 · Logaritmos y ecuaciones exponenciales",
+      "topic": "Dominio de logaritmos",
+      "difficulty": 2,
+      "question": "¿Qué solución real tiene log₁₀(x − 1) + log₁₀(x + 1) = log₁₀(8)?",
+      "answer": "x = 3",
+      "explanation": "El dominio exige x>1. Se reúnen los logaritmos: (x−1)(x+1)=8, así x²=9. Solo x=3 pertenece al dominio; x=−3 produce argumentos negativos.",
+      "source": "OpenStax, algebra-and-trigonometry-2e, §6.6 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/6-6-exponential-and-logarithmic-equations",
+      "page": "Programa 2027 · M08 · 8.3",
+      "programUnit": "M08",
+      "programTopic": "8.3",
+      "options": [
+        "x = 3",
+        "x = √8",
+        "x = 3 o x = −3",
+        "x = −3"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "practica041-m09-001",
+      "subject": "Matemática",
+      "unit": "Unidad 9 · Trigonometría",
+      "topic": "Ley de cosenos",
+      "difficulty": 2,
+      "question": "Dos lados de un triángulo miden 5 cm y 7 cm; el ángulo comprendido es 60°. ¿Cuánto mide el tercer lado, redondeado a dos decimales?",
+      "answer": "6,24 cm",
+      "explanation": "c²=5²+7²−2·5·7·cos60°=25+49−35=39 cm². Entonces c=√39 cm≈6,24 cm.",
+      "source": "OpenStax, algebra-and-trigonometry-2e, §10.2 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/10-2-non-right-triangles-law-of-cosines",
+      "page": "Programa 2027 · M09 · 9.8",
+      "programUnit": "M09",
+      "programTopic": "9.8",
+      "options": [
+        "8,60 cm",
+        "10,44 cm",
+        "6,24 cm",
+        "2,00 cm"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "practica041-m10-001",
+      "subject": "Matemática",
+      "unit": "Unidad 10 · Estadística, combinatoria y probabilidad",
+      "topic": "Combinaciones",
+      "difficulty": 2,
+      "question": "Se eligen tres estudiantes de un grupo de seis para formar una comisión sin cargos diferenciados. ¿Cuántas comisiones diferentes pueden formarse?",
+      "answer": "20",
+      "explanation": "El orden no distingue comisiones. Se usa C(6,3)=6!/(3!·3!)=20. Contar 6·5·4 repetiría cada grupo 3! veces.",
+      "source": "OpenStax, algebra-and-trigonometry-2e, §13.5 · https://openstax.org/books/algebra-and-trigonometry-2e/pages/13-5-counting-principles",
+      "page": "Programa 2027 · M10 · 10.6",
+      "programUnit": "M10",
+      "programTopic": "10.6",
+      "options": [
+        "20",
+        "216",
+        "18",
+        "120"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "practica041-q14-001",
+      "subject": "Química",
+      "unit": "Unidad 14 · Hidrocarburos y heterociclos",
+      "topic": "Hidrogenación selectiva",
+      "difficulty": 2,
+      "question": "¿Qué producto principal se obtiene al hidrogenar but-2-ino con H₂ y catalizador de Lindlar?",
+      "answer": "cis-but-2-eno",
+      "explanation": "Lindlar permite detener la reducción en el alqueno y favorece adición syn. En un alquino interno como but-2-ino, esto da el alqueno cis.",
+      "source": "OpenStax, organic-chemistry, §9.5 · https://openstax.org/books/organic-chemistry/pages/9-5-reduction-of-alkynes",
+      "page": "Programa 2027 · Q14 · 14.2.3",
+      "programUnit": "Q14",
+      "programTopic": "14.2.3",
+      "options": [
+        "But-1-eno",
+        "cis-but-2-eno",
+        "Butano por hidrogenación completa",
+        "trans-but-2-eno"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "practica041-q14-002",
+      "subject": "Química",
+      "unit": "Unidad 14 · Hidrocarburos y heterociclos",
+      "topic": "Orientación aromática",
+      "difficulty": 2,
+      "question": "En una sustitución electrofílica aromática del clorobenceno, ¿cómo actúa el Cl respecto del benceno sin sustituir?",
+      "answer": "Desactiva el anillo y orienta a orto y para",
+      "explanation": "Los halógenos retiran densidad por inducción y reducen la reactividad global, pero su donación por resonancia favorece los intermediarios de ataque orto y para.",
+      "source": "OpenStax, organic-chemistry, §16.4 · https://openstax.org/books/organic-chemistry/pages/16-4-substituent-effects-in-electrophilic-substitutions",
+      "page": "Programa 2027 · Q14 · 14.3.2",
+      "programUnit": "Q14",
+      "programTopic": "14.3.2",
+      "options": [
+        "Desactiva el anillo y orienta solo a meta",
+        "Desactiva el anillo y orienta a orto y para",
+        "Activa el anillo y orienta a orto y para",
+        "Activa el anillo y orienta a meta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "practica041-q14-003",
+      "subject": "Química",
+      "unit": "Unidad 14 · Hidrocarburos y heterociclos",
+      "topic": "Adición a alquenos",
+      "difficulty": 2,
+      "question": "En condiciones iónicas y sin peróxidos, ¿cuál es el producto mayoritario de añadir HCl al prop-1-eno?",
+      "answer": "2-cloropropano",
+      "explanation": "La protonación que forma el carbocatión secundario es más favorable; luego Cl⁻ se une a ese carbono. El producto sigue la orientación de Markovnikov.",
+      "source": "OpenStax, organic-chemistry, §7.8 · https://openstax.org/books/organic-chemistry/pages/7-8-orientation-of-electrophilic-additions-markovnikovs-rule",
+      "page": "Programa 2027 · Q14 · 14.2.3",
+      "programUnit": "Q14",
+      "programTopic": "14.2.3",
+      "options": [
+        "2-cloropropano",
+        "1-cloropropano",
+        "1,2-dicloropropano",
+        "Propan-1-ol"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "practica041-q15-001",
+      "subject": "Química",
+      "unit": "Unidad 15 · Funciones orgánicas con enlaces simples",
+      "topic": "Oxidación de alcoholes",
+      "difficulty": 2,
+      "question": "¿Qué producto carbonílico resulta de oxidar butan-2-ol sin romper su cadena carbonada?",
+      "answer": "Butan-2-ona",
+      "explanation": "El carbono con OH del alcohol secundario se convierte en carbonilo, formando una cetona. Se conserva la cadena de cuatro carbonos.",
+      "source": "OpenStax, organic-chemistry, §17.7 · https://openstax.org/books/organic-chemistry/pages/17-7-oxidation-of-alcohols",
+      "page": "Programa 2027 · Q15 · 15.1.3",
+      "programUnit": "Q15",
+      "programTopic": "15.1.3",
+      "options": [
+        "Ácido butanoico",
+        "Butan-1-ol",
+        "Butanal",
+        "Butan-2-ona"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "practica041-q15-002",
+      "subject": "Química",
+      "unit": "Unidad 15 · Funciones orgánicas con enlaces simples",
+      "topic": "Basicidad de aminas",
+      "difficulty": 2,
+      "question": "¿Por qué una amina puede actuar como base de Brønsted?",
+      "answer": "El par libre del nitrógeno puede aceptar un protón",
+      "explanation": "El par no enlazante puede formar un enlace con H⁺ y originar un ion amonio sustituido. La intensidad de la basicidad depende de la estructura y del medio.",
+      "source": "OpenStax, organic-chemistry, §24.3 · https://openstax.org/books/organic-chemistry/pages/24-3-basicity-of-amines",
+      "page": "Programa 2027 · Q15 · 15.4.2.1",
+      "programUnit": "Q15",
+      "programTopic": "15.4.2.1",
+      "options": [
+        "El nitrógeno carece de electrones de valencia",
+        "El nitrógeno siempre tiene carga positiva",
+        "El par libre del nitrógeno puede aceptar un protón",
+        "Toda amina libera OH⁻ por disociación completa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "practica041-q16-001",
+      "subject": "Química",
+      "unit": "Unidad 16 · Funciones orgánicas con enlaces múltiples",
+      "topic": "Iminas y enaminas",
+      "difficulty": 2,
+      "question": "Una cetona con hidrógenos α reacciona con una amina secundaria en condiciones adecuadas de condensación. ¿Qué producto se espera?",
+      "answer": "Una enamina",
+      "explanation": "La condensación pasa por un ion iminio. Al perder un protón del carbono α se obtiene una enamina; una amina primaria permite formar una imina.",
+      "source": "OpenStax, organic-chemistry, §19.8 · https://openstax.org/books/organic-chemistry/pages/19-8-nucleophilic-addition-of-amines-imine-and-enamine-formation",
+      "page": "Programa 2027 · Q16 · 16.1.4.3",
+      "programUnit": "Q16",
+      "programTopic": "16.1.4.3",
+      "options": [
+        "Un alcohol primario",
+        "Una amida por oxidación directa",
+        "Una imina neutra con N–H",
+        "Una enamina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "practica041-q16-002",
+      "subject": "Química",
+      "unit": "Unidad 16 · Funciones orgánicas con enlaces múltiples",
+      "topic": "Saponificación",
+      "difficulty": 2,
+      "question": "La hidrólisis básica de etanoato de etilo con NaOH acuoso produce etanol y, antes de acidificar, ¿qué otra especie?",
+      "answer": "Etanoato de sodio",
+      "explanation": "La saponificación genera el carboxilato en el medio básico. Para recuperar el ácido carboxílico como tal se necesita una acidificación posterior.",
+      "source": "OpenStax, organic-chemistry, §21.6 · https://openstax.org/books/organic-chemistry/pages/21-6-chemistry-of-esters",
+      "page": "Programa 2027 · Q16 · 16.3.1.4.2",
+      "programUnit": "Q16",
+      "programTopic": "16.3.1.4.2",
+      "options": [
+        "Ácido etanoico como especie predominante",
+        "Etanal",
+        "Etano",
+        "Etanoato de sodio"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "practica041-q16-003",
+      "subject": "Química",
+      "unit": "Unidad 16 · Funciones orgánicas con enlaces múltiples",
+      "topic": "Reducción de amidas",
+      "difficulty": 2,
+      "question": "La reducción de CH₃CONH₂ con LiAlH₄, seguida del tratamiento final apropiado, produce ¿qué amina?",
+      "answer": "CH₃CH₂NH₂",
+      "explanation": "El carbono del carbonilo se conserva y pasa a CH₂. Por eso la etanamida da etilamina, sin perder un carbono de la cadena.",
+      "source": "OpenStax, organic-chemistry, §21.7 · https://openstax.org/books/organic-chemistry/pages/21-7-chemistry-of-amides",
+      "page": "Programa 2027 · Q16 · 16.4.1.4",
+      "programUnit": "Q16",
+      "programTopic": "16.4.1.4",
+      "options": [
+        "CH₃NH₂",
+        "CH₃CH₂NH₂",
+        "CH₃CONHCH₃",
+        "(CH₃)₃N"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "practica041-q17-001",
+      "subject": "Química",
+      "unit": "Unidad 17 · Biomoléculas",
+      "topic": "Azúcares reductores",
+      "difficulty": 2,
+      "question": "¿Qué explica que la sacarosa no sea un azúcar reductor en las pruebas habituales?",
+      "answer": "Ambos carbonos anoméricos participan en el enlace glicosídico",
+      "explanation": "La unión enlaza los centros anoméricos de glucosa y fructosa, impidiendo que quede un hemiacetal o hemicetal libre capaz de abrirse en las condiciones de esas pruebas.",
+      "source": "OpenStax, organic-chemistry, §25.8 · https://openstax.org/books/organic-chemistry/pages/25-8-disaccharides",
+      "page": "Programa 2027 · Q17 · 17.2.3",
+      "programUnit": "Q17",
+      "programTopic": "17.2.3",
+      "options": [
+        "Ambos carbonos anoméricos participan en el enlace glicosídico",
+        "Tiene un carbono anomérico libre",
+        "Contiene únicamente enlaces peptídicos",
+        "Carece de átomos de oxígeno"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "practica041-q17-002",
+      "subject": "Química",
+      "unit": "Unidad 17 · Biomoléculas",
+      "topic": "Lípidos saponificables",
+      "difficulty": 2,
+      "question": "Al hidrolizar completamente un triacilglicerol con base, ¿qué productos se obtienen?",
+      "answer": "Glicerol y tres sales de ácidos grasos",
+      "explanation": "Un triacilglicerol contiene tres enlaces éster. La hidrólisis básica libera glicerol y tres carboxilatos; estos últimos son las sales de ácidos grasos.",
+      "source": "OpenStax, organic-chemistry, §27.1 · https://openstax.org/books/organic-chemistry/pages/27-1-waxes-fats-and-oils; §27.2, Soap · https://openstax.org/books/organic-chemistry/pages/27-2-soap",
+      "page": "Programa 2027 · Q17 · 17.3.3",
+      "programUnit": "Q17",
+      "programTopic": "17.3.3",
+      "options": [
+        "Glucosa y tres fosfatos",
+        "Glicerol y tres aminoácidos",
+        "Glicerol y tres sales de ácidos grasos",
+        "Esfingosina y un ácido graso"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "practica041-l04-001",
+      "subject": "Lenguaje",
+      "unit": "Unidad 4 · Ortografía",
+      "topic": "Tilde diacrítica",
+      "difficulty": 2,
+      "question": "¿En qué oración corresponde la tilde de «dé»?",
+      "answer": "Espero que la profesora me dé el resultado.",
+      "explanation": "Dé lleva tilde cuando es una forma del verbo dar. La preposición de se escribe sin tilde.",
+      "source": "RAE/ASALE, DPD · https://www.rae.es/dpd/tilde",
+      "page": "Programa 2027 · L04 · IV.2",
+      "programUnit": "L04",
+      "programTopic": "IV.2",
+      "options": [
+        "Espero que la profesora me dé el resultado.",
+        "Llegó dé Asunción ayer.",
+        "La guía dé química está aquí.",
+        "El libro dé Ana está abierto."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "practica041-l04-002",
+      "subject": "Lenguaje",
+      "unit": "Unidad 4 · Ortografía",
+      "topic": "Interrogativos indirectos",
+      "difficulty": 2,
+      "question": "¿Qué oración está correctamente acentuada?",
+      "answer": "No sé cuándo comienza la clase.",
+      "explanation": "Cuándo lleva tilde en la interrogativa indirecta «No sé cuándo…» y también en la pregunta directa «¿Cuándo…?». Los relativos cuando y como de los otros dos ejemplos se escriben sin tilde.",
+      "source": "RAE/ASALE, DPD · https://www.rae.es/dpd/tilde",
+      "page": "Programa 2027 · L04 · IV.2",
+      "programUnit": "L04",
+      "programTopic": "IV.2",
+      "options": [
+        "Llegaré cuándo termine el ensayo.",
+        "Lo haré cómo me explicaste.",
+        "No sé cuándo comienza la clase.",
+        "¿Cuando comienza la clase?"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "practica041-l04-003",
+      "subject": "Lenguaje",
+      "unit": "Unidad 4 · Ortografía",
+      "topic": "Símbolos de unidades",
+      "difficulty": 2,
+      "question": "¿Cuál es la escritura adecuada de una longitud expresada mediante el símbolo del metro?",
+      "answer": "12 m",
+      "explanation": "Los símbolos de unidades no llevan punto abreviativo ni marca de plural. Se separan del número por un espacio; ms es el símbolo del milisegundo.",
+      "source": "RAE/ASALE, DPD · https://www.rae.es/dpd/s%C3%ADmbolo",
+      "page": "Programa 2027 · L04 · IV.5",
+      "programUnit": "L04",
+      "programTopic": "IV.5",
+      "options": [
+        "12 mts.",
+        "12 ms",
+        "12 m.",
+        "12 m"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "practica041-l04-004",
+      "subject": "Lenguaje",
+      "unit": "Unidad 4 · Ortografía",
+      "topic": "Siglas en plural",
+      "difficulty": 2,
+      "question": "¿Cómo se escribe el plural de la sigla ONG en un texto formal?",
+      "answer": "Las ONG",
+      "explanation": "Las siglas permanecen gráficamente invariables en plural. El determinante expresa el número: la ONG, las ONG.",
+      "source": "RAE/ASALE, DPD · https://www.rae.es/dpd/sigla",
+      "page": "Programa 2027 · L04 · IV.5",
+      "programUnit": "L04",
+      "programTopic": "IV.5",
+      "options": [
+        "Las ONG",
+        "Las ONGs",
+        "Las ONG’s",
+        "Las O.N.G.s"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "practica041-l05-001",
+      "subject": "Lenguaje",
+      "unit": "Unidad 5 · Morfosintaxis",
+      "topic": "Género y artículo",
+      "difficulty": 2,
+      "question": "¿Cuál es la construcción correcta para referirse al agua?",
+      "answer": "Esta agua está fría.",
+      "explanation": "Agua es femenino. El artículo el ante /a/ tónica no cambia su género; los demostrativos y adjetivos conservan el femenino: esta agua fría.",
+      "source": "RAE/ASALE, DPD · https://www.rae.es/dpd/agua",
+      "page": "Programa 2027 · L05 · V.1.5",
+      "programUnit": "L05",
+      "programTopic": "V.1.5",
+      "options": [
+        "Este agua está fría.",
+        "Esta agua está frío.",
+        "Este agua está frío.",
+        "Esta agua está fría."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "practica041-l05-002",
+      "subject": "Lenguaje",
+      "unit": "Unidad 5 · Morfosintaxis",
+      "topic": "Haber impersonal",
+      "difficulty": 2,
+      "question": "¿Qué oración usa correctamente haber con sentido de existencia en la lengua formal?",
+      "answer": "Había varias personas esperando.",
+      "explanation": "Haber existencial es impersonal y permanece en singular. El grupo varias personas no es su sujeto y no determina concordancia plural.",
+      "source": "RAE/ASALE, DPD · https://www.rae.es/dpd/haber",
+      "page": "Programa 2027 · L05 · V.9.4",
+      "programUnit": "L05",
+      "programTopic": "V.9.4",
+      "options": [
+        "Había varias personas esperando.",
+        "Habían varias personas esperando.",
+        "Hubieron varias personas esperando.",
+        "Habrán varias personas esperando."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "practica041-l05-003",
+      "subject": "Lenguaje",
+      "unit": "Unidad 5 · Morfosintaxis",
+      "topic": "Pasiva refleja",
+      "difficulty": 2,
+      "question": "¿Cuál oración presenta concordancia correcta en una pasiva refleja?",
+      "answer": "Se venden libros usados.",
+      "explanation": "En la pasiva refleja, libros usados funciona como sujeto paciente plural, por lo que el verbo concuerda en plural: venden.",
+      "source": "RAE/ASALE, DPD · https://www.rae.es/dpd/se",
+      "page": "Programa 2027 · L05 · V.9.9.4",
+      "programUnit": "L05",
+      "programTopic": "V.9.9.4",
+      "options": [
+        "Se venden libros usados.",
+        "Se vendes libros usados.",
+        "Se venden libro usado.",
+        "Se vende libros usados."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "practica041-l05-004",
+      "subject": "Lenguaje",
+      "unit": "Unidad 5 · Morfosintaxis",
+      "topic": "Impersonal con se",
+      "difficulty": 2,
+      "question": "¿Qué construcción es correcta al expresar una acción sin identificar al agente?",
+      "answer": "Se entrevistó a las candidatas.",
+      "explanation": "La a personal introduce el complemento directo. En esta construcción impersonal con se, el verbo se mantiene en tercera persona singular.",
+      "source": "RAE/ASALE, DPD · https://www.rae.es/dpd/se",
+      "page": "Programa 2027 · L05 · V.9.9.5",
+      "programUnit": "L05",
+      "programTopic": "V.9.9.5",
+      "options": [
+        "Se entrevistaron a las candidatas.",
+        "Se entrevistamos a las candidatas.",
+        "Se entrevistó a las candidatas.",
+        "Se entrevistaste a las candidatas."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "practica041-l05-005",
+      "subject": "Lenguaje",
+      "unit": "Unidad 5 · Morfosintaxis",
+      "topic": "Voseo",
+      "difficulty": 2,
+      "question": "En el voseo rioplatense y paraguayo, ¿qué forma corresponde al presente de indicativo de tener con vos?",
+      "answer": "Vos tenés",
+      "explanation": "La forma voseante de uso general en esta variedad es tenés. Tienes corresponde al tuteo y tenéis al plural vosotros.",
+      "source": "RAE/ASALE, DPD · https://www.rae.es/dpd/voseo",
+      "page": "Programa 2027 · L05 · V.4.1",
+      "programUnit": "L05",
+      "programTopic": "V.4.1",
+      "options": [
+        "Vos tengo",
+        "Vos tienes",
+        "Vos tenés",
+        "Vos tenéis"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "practica041-l04-005",
+      "subject": "Lenguaje",
+      "unit": "Unidad 4 · Ortografía",
+      "topic": "Hiato con vocal cerrada tónica",
+      "difficulty": 2,
+      "question": "¿Qué palabra requiere tilde por un hiato con vocal cerrada tónica?",
+      "answer": "Baúl",
+      "explanation": "En baúl, la u tónica y la a se pronuncian en sílabas distintas. La vocal cerrada tónica lleva tilde aun cuando las reglas generales no la exigirían.",
+      "source": "RAE/ASALE, DPD · https://www.rae.es/dpd/tilde",
+      "page": "Programa 2027 · L04 · IV.2",
+      "programUnit": "L04",
+      "programTopic": "IV.2",
+      "options": [
+        "Causa",
+        "Ciudad",
+        "Baúl",
+        "Fuerte"
       ],
       "correctIndex": 2
     }

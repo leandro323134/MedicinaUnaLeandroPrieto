@@ -354,7 +354,7 @@ fun StudyApp(model: StudyModel = viewModel()) {
                                 style = MaterialTheme.typography.bodySmall)
                             OutlinedButton(onClick = { export.launch("MedicinaUNA-copia.json") }, enabled = !model.busy && !model.loading) { Text("Guardar copia del progreso") }
                             OutlinedButton(onClick = { restore.launch(arrayOf("application/json", "text/plain", "*/*")) }, enabled = !model.busy && !model.loading) { Text("Recuperar una copia") }
-                            Text("Versión 0.2.0 · Estudio sin conexión", style = MaterialTheme.typography.bodySmall)
+                            Text("Versión ${BuildConfig.VERSION_NAME} · Estudio sin conexión", style = MaterialTheme.typography.bodySmall)
                         }
                     }
                 }

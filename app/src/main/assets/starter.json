@@ -40,7 +40,7 @@
     {
       "id": "quí-0004",
       "question": "¿Qué establece la ley de conservación de la materia?",
-      "answer": "La masa total de un sistema material permanece constante durante cambios físicos o químicos.",
+      "answer": "En un sistema cerrado, la masa total se conserva durante una reacción química, en la aproximación química habitual.",
       "subject": "Química",
       "unit": "Unidad 1: Materia y energía",
       "topic": "Conservación de la materia",
@@ -171,14 +171,14 @@
     },
     {
       "id": "bio-0015",
-      "question": "¿Cuántas células hijas produce generalmente la mitosis y cuántas la meiosis?",
+      "question": "Cuando cada división nuclear va acompañada de citocinesis, ¿cuántas células resultan generalmente de una mitosis y de una meiosis completa?",
       "answer": "La mitosis produce dos y la meiosis cuatro.",
       "subject": "Biología",
       "unit": "Capítulo 1: Célula y biología molecular",
       "topic": "División celular",
       "source": "CAPÍTULO 1.pdf",
       "page": "6",
-      "explanation": "La meiosis incluye dos divisiones tras una replicación del ADN. En la mitosis, la división nuclear conserva habitualmente la dotación cromosómica.",
+      "explanation": "Una mitosis seguida de citocinesis suele originar dos células; una meiosis completa, cuatro productos haploides. La mitosis es división nuclear y no equivale por sí sola a citocinesis; en la ovogénesis los productos son desiguales.",
       "difficulty": 1
     },
     {
@@ -243,7 +243,7 @@
     },
     {
       "id": "mat-0021",
-      "question": "¿Qué es el grado absoluto de un término algebraico?",
+      "question": "¿Qué es el grado absoluto de un monomio no nulo con exponentes enteros no negativos?",
       "answer": "La suma de los exponentes de sus variables.",
       "subject": "Matemática",
       "unit": "Guía 1: Álgebra",
@@ -255,7 +255,7 @@
     },
     {
       "id": "mat-0022",
-      "question": "¿Qué es el grado relativo respecto de una variable?",
+      "question": "¿Qué es el grado relativo de un monomio no nulo respecto de una variable?",
       "answer": "El exponente de esa variable en el término.",
       "subject": "Matemática",
       "unit": "Guía 1: Álgebra",
@@ -315,14 +315,14 @@
     },
     {
       "id": "len-0027",
-      "question": "¿Qué adjetivo describe a una persona que paga con prontitud lo que debe?",
+      "question": "¿Qué adjetivo describe a una persona con capacidad para pagar sus deudas?",
       "answer": "Solvente.",
       "subject": "Lenguaje y Comunicación",
       "unit": "Precisión semántica",
       "topic": "Adjetivos",
-      "source": "1000123495.jpg",
-      "page": "imagen 3",
-      "explanation": "Solvente indica que una persona tiene capacidad para cumplir sus obligaciones económicas. En ese contexto se vincula con el pago de deudas.",
+      "source": "RAE/ASALE, DLE, solvente, acepción económica · https://dle.rae.es/solvente",
+      "page": "acepción económica",
+      "explanation": "La solvencia es la capacidad de satisfacer deudas; no implica necesariamente pagarlas con puntualidad.",
       "difficulty": 1
     }
   ]

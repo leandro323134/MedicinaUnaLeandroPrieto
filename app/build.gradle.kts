@@ -2,13 +2,16 @@ plugins { id("com.android.application"); id("org.jetbrains.kotlin.android"); id(
 android {
     namespace = "py.una.medstudy"
     compileSdk = 35
-    defaultConfig { applicationId = "py.una.medstudy"; minSdk = 26; targetSdk = 35; versionCode = 9; versionName = "0.4.0"
+    defaultConfig { applicationId = "py.una.medstudy"; minSdk = 26; targetSdk = 35; versionCode = 10; versionName = "0.4.1"
         manifestPlaceholders["appLabel"] = "Medicina UNA"
     }
     // La firma se toma de variables de entorno para no compartir la clave privada.
     signingConfigs {
         getByName("debug") {
-            System.getenv("APP_DEBUG_KEYSTORE")?.let { storeFile = file(it) }
+            System.getenv("APP_DEBUG_KEYSTORE")?.takeIf { it.isNotBlank() }?.let {
+                require(file(it).isFile) { "Falta APP_DEBUG_KEYSTORE: no se generará otra clave de firma." }
+                storeFile = file(it)
+            }
         }
         create("releasePublica") {
             val ruta = System.getenv("APP_SIGNING_KEYSTORE")
@@ -21,13 +24,18 @@ android {
         }
     }
     buildTypes {
+        getByName("debug") {
+            // Sin la clave conservada, solo se permite generar un APK sin firma.
+            signingConfig = if (System.getenv("APP_DEBUG_KEYSTORE").isNullOrBlank()) null
+                else signingConfigs.getByName("debug")
+        }
         getByName("release") {
             isMinifyEnabled = false
             signingConfig = signingConfigs.getByName("releasePublica")
         }
     }
     testOptions { unitTests.isIncludeAndroidResources = true }
-    buildFeatures { compose = true }
+    buildFeatures { compose = true; buildConfig = true }
     composeOptions { kotlinCompilerExtensionVersion = "1.5.15" }
     kotlinOptions { jvmTarget = "17" }
     compileOptions { sourceCompatibility = JavaVersion.VERSION_17; targetCompatibility = JavaVersion.VERSION_17 }

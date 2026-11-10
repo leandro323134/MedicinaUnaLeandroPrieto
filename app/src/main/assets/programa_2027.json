@@ -11587,7 +11587,7 @@
       "question": "¿Qué ventaja tiene la microscopía confocal frente a la fluorescencia de campo amplio al examinar una muestra gruesa?",
       "answer": "Reduce la señal fuera de foco y permite obtener secciones ópticas.",
       "explanation": "Un diafragma limita la luz que llega de otros planos. Una serie de secciones a distintas alturas permite reconstruir el volumen.",
-      "source": "Alberts et al., Molecular Biology of the Cell, Visualizing Cells · https://www.ncbi.nlm.nih.gov/books/NBK21048/",
+      "source": "OpenStax, microbiology, §2.3 · https://openstax.org/books/microbiology/pages/2-3-instruments-of-microscopy",
       "page": "Programa 2027 p. 14 · B04.22",
       "programUnit": "B04",
       "programTopic": "B04.22"
@@ -11797,7 +11797,7 @@
       "question": "¿Por qué la duplicación fiel del ADN contribuye a la estabilidad del genoma de una línea celular?",
       "answer": "Permite transmitir copias de la secuencia a las células hijas.",
       "explanation": "El apareamiento de bases guía la copia y la corrección de pruebas y la reparación reducen los errores. Esto se distingue de duplicar accidentalmente un fragmento génico.",
-      "source": "Alberts et al., Molecular Biology of the Cell, DNA Replication, Repair, and Recombination · https://www.ncbi.nlm.nih.gov/books/NBK21064/",
+      "source": "OpenStax, biology-2e, §14.6 · https://openstax.org/books/biology-2e/pages/14-6-dna-repair",
       "page": "Programa 2027 p. 15 · B10.7",
       "programUnit": "B10",
       "programTopic": "B10.7"
@@ -11811,7 +11811,7 @@
       "question": "¿Qué polimerasa nuclear transcribe la mayoría de los genes que codifican proteínas en eucariotas y cómo se inicia su acción?",
       "answer": "La ARN polimerasa II. Factores generales de transcripción ayudan a reclutarla al promotor.",
       "explanation": "En muchas bacterias, el factor sigma ayuda a una sola ARN polimerasa principal a reconocer promotores. En eucariotas hay varias polimerasas nucleares con funciones distintas.",
-      "source": "Alberts et al., Molecular Biology of the Cell, From DNA to RNA · https://www.ncbi.nlm.nih.gov/books/NBK26887/",
+      "source": "OpenStax, biology-2e, §15.3 · https://openstax.org/books/biology-2e/pages/15-3-eukaryotic-transcription",
       "page": "Programa 2027 p. 15 · B11.11",
       "programUnit": "B11",
       "programTopic": "B11.11"
@@ -11923,7 +11923,7 @@
       "question": "¿Por qué una ADN polimerasa replicativa necesita un cebador?",
       "answer": "Agrega nucleótidos al grupo 3′-OH de una cadena que ya empezó.",
       "explanation": "La primasa aporta el inicio. La polimerasa sintetiza 5′ → 3′ y muchas polimerasas replicativas corrigen errores mediante una actividad 3′ → 5′ separada de la síntesis.",
-      "source": "Alberts et al., Molecular Biology of the Cell, DNA Replication, Repair, and Recombination · https://www.ncbi.nlm.nih.gov/books/NBK21064/",
+      "source": "OpenStax, biology-2e, §14.4 · https://openstax.org/books/biology-2e/pages/14-4-dna-replication-in-prokaryotes",
       "page": "Programa 2027 p. 15 · B13.10",
       "programUnit": "B13",
       "programTopic": "B13.10"
@@ -15577,7 +15577,7 @@
       "question": "Para observación relajada, ¿qué aumento angular aproxima una lupa de f = 5 cm si la distancia de visión próxima de referencia es 25 cm?",
       "answer": "5×.",
       "explanation": "Con la imagen final en el infinito, se usa M ≈ 25 cm/f. Otra posición de la imagen final da un aumento distinto.",
-      "source": "OpenStax, College Physics 2e, 26.3 The Simple Magnifier · https://openstax.org/books/college-physics-2e/pages/26-3-the-simple-magnifier",
+      "source": "OpenStax, University Physics Volume 3, §2.7, The Simple Magnifier · https://openstax.org/books/university-physics-volume-3/pages/2-7-the-simple-magnifier",
       "page": "Programa 2027 p. 17 · 9.6",
       "programUnit": "F09",
       "programTopic": "9.6"
@@ -16739,7 +16739,7 @@
       "question": "Si cos θ = −3/5 y θ está en el segundo cuadrante, ¿cuánto valen sen θ y tan θ?",
       "answer": "sen θ = 4/5 y tan θ = −4/3.",
       "explanation": "La identidad pitagórica da sen²θ = 16/25. En el segundo cuadrante el seno es positivo; dividilo por el coseno para hallar la tangente.",
-      "source": "OpenStax, Found no tool response. This likely means the arguments you provided were not valid. · https://openstax.org/books/algebra-and-trigonometry-2e/pages/9-1-verifying-trigonometric-identities-and-using-trigonometric-identities-to-simplify-trigonometric-expressions",
+      "source": "OpenStax, Algebra and Trigonometry 2e, §9.1, identidades trigonométricas · https://openstax.org/books/algebra-and-trigonometry-2e/pages/9-1-verifying-trigonometric-identities-and-using-trigonometric-identities-to-simplify-trigonometric-expressions",
       "page": "Programa 2027 p. 19 · 9.3",
       "programUnit": "M09",
       "programTopic": "9.3"

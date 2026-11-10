@@ -1,5 +1,28 @@
 # Medicina UNA 2027 · Cobertura del banco
 
+## Actualización 0.4.1: profundidad y práctica
+
+Se conservan las 1449 tarjetas, las 57 unidades y las 621 entradas del mapa.
+El banco de simulacros pasa de 261 a **311 preguntas**, con diez adicionales por
+materia. Los conteos acumulados y los límites de la revisión están en
+[ACTUALIZACION_041.md](ACTUALIZACION_041.md).
+
+[profundidad_041.json](profundidad_041.json) inventaría cada entrada del mapa y
+sus preguntas relacionadas. Las 105 preguntas de los lotes 2027 tienen unidad
+y apartado explícitos; 94 grupos del mapa tienen alguna correspondencia y 527
+no tienen una correspondencia directa en esos metadatos. **Esto no significa que
+527 temas carezcan de práctica**: las 206 preguntas anteriores aún no tienen
+esa clasificación, y una pregunta de un apartado compuesto no se asigna a todos
+sus subapartados automáticamente. La existencia de un vínculo tampoco acredita
+la profundidad de un tema compuesto.
+
+Se leyó el contenido de las 233 tarjetas del banco anterior y de las 206 preguntas
+equivalentes, se corrigieron cinco tarjetas iniciales y se precisaron las fuentes
+de las 206 parejas tarjeta/pregunta. El registro distingue esa revisión semántica
+del cotejo externo individual: **no se certifica la exactitud de las 1449 tarjetas**.
+Las revisiones históricas siguientes siguen vigentes; no se suman sus muestras
+sin identificar coincidencias de IDs.
+
 ## Cobertura acumulada del programa 2027
 
 | Materia | Unidades | Apartados o grupos con mapa | Tarjetas del programa |

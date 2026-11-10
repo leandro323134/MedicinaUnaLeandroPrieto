@@ -15,9 +15,15 @@ class StudyUiTest {
     @get:Rule val compose = createAndroidComposeRule<MainActivity>()
 
     @Test fun navigationThemeAndReviewEntryPointsWork() {
-        val model = ViewModelProvider(compose.activity)[StudyModel::class.java]
-        compose.waitUntil(20000) { !model.loading && model.cards.value.any { it.id.startsWith("programa27-") } }
-        org.junit.Assert.assertEquals(model.notice, 261, model.bank.size)
+        val model = compose.runOnIdle { ViewModelProvider(compose.activity)[StudyModel::class.java] }
+        // La importación termina en IO y publica su resultado en el looper principal.
+        // runOnIdle permite procesar esa publicación antes de leer el estado.
+        compose.waitUntil(20000) { compose.runOnIdle { !model.loading } }
+        org.junit.Assert.assertEquals("", model.notice)
+        compose.waitUntil(20000) {
+            compose.runOnIdle { model.cards.value.any { it.id.startsWith("programa27-") } }
+        }
+        org.junit.Assert.assertEquals(model.notice, 311, model.bank.size)
         compose.onNodeWithText("Ajustes").performClick()
         compose.onNodeWithText("Colores · Verde bosque").performClick()
         compose.onNodeWithText("Azul océano").performClick()

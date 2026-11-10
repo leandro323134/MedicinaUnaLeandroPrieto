@@ -7,7 +7,9 @@ La versión 0.2.0 incorpora Inicio, Materias, Estudiar, Progreso y Ajustes;
 tarjetas con explicaciones y dificultad, repetición espaciada FSRS-5,
 simulacros cronometrados con corrección, estadísticas y temas de colores.
 La versión 0.3.5 incorpora 1216 tarjetas del programa de ingreso 2027 a las 233
-anteriores. La versión 0.4.0 incluye 261 preguntas de opción múltiple, práctica equilibrada y repaso de errores. Consultá [los cambios y la verificación](ACTUALIZACION_040.md). Consulta el [informe de cobertura](COBERTURA_2027.md) para ver qué se
+anteriores. La versión 0.4.1 amplía el banco a 311 preguntas, corrige contenido y
+precisa referencias conservando los IDs. Consultá [los cambios y la verificación actual](ACTUALIZACION_041.md)
+y el [informe histórico de 0.4.0](ACTUALIZACION_040.md). Consulta el [informe de cobertura](COBERTURA_2027.md) para ver qué se
 comprobó y qué revisión académica queda pendiente.
 
 Se pueden importar paquetes JSON y exportar/restaurar el progreso desde Ajustes.
@@ -23,9 +25,12 @@ La clave de firma de la primera compilación no está disponible: consultar
 Para compilar se usan JDK 17, Android SDK 35 y Gradle 8.7:
 
 ```bash
+python3 tools/check_study_content.py
 gradle --no-daemon :app:testDebugUnitTest :app:assembleDebug
 ```
 
 La firma se configura con `APP_DEBUG_KEYSTORE`. El workflow de GitHub verifica
-la huella de la clave y publica `MedicinaUNA-actualizacion.apk`. Las pruebas
+la huella de la clave y publica `MedicinaUNA-actualizacion.apk`. Sin esa variable,
+la compilación local produce un APK **sin firma**, no instalable; no crea otra clave.
+Si se define una ruta inexistente, la configuración falla. Las pruebas
 cubren migración, importación, repasos, simulacros, respaldo, rachas y navegación.
